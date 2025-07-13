@@ -1,15 +1,17 @@
 """
 Configuration file for Forks & Fortunes analysis
+boring constants
 """
 
 import os
 
 class Config:
-    """Configuration class containing all settings and constants"""
+    """Configuration class containing all settings and constants
+    Because hardcoding values throughout the codebase is for amateurs
+    """
     
-    # API Keys - UPDATE THESE WITH YOUR ACTUAL KEYS
-    CENSUS_API_KEY = '5f0c3b943ebcb5cafdd415749ed46d0556c637e7'
-    GOOGLE_API_KEY = "AIzaSyCc16HaIw9lDe_sm8Fcr0TjSEnQzaEeiP4"
+    CENSUS_API_KEY = 'nice_try_but_you_need_your_own_key'
+    GOOGLE_API_KEY = "nice_try_but_youre_a_loser"
     
     # File paths
     DATA_DIR = "./data"
@@ -20,7 +22,7 @@ class Config:
     # Analysis parameters
     RESTAURANT_SEARCH_RADIUS_KM = 10
     SEARCH_STEP_KM = 0.75
-    # GOOGLE_API_DELAY = 1.2  # seconds between API calls
+    # GOOGLE_API_DELAY = 1.2  # seconds between API calls sike
     MAX_API_PAGES = 10
     
     # Bay Area ZIP codes

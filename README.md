@@ -1,45 +1,47 @@
-# 🍴💰 Forks & Fortunes
+# Forks & Fortunes
 
-A comprehensive analysis of restaurant density vs. wealth in Bay Area cities, now enhanced with restaurant quality metrics using Google Places API.
+Acevmpro rnsavstayn rsiseenehwtaaurantutunaity vy. mealtrinn Bay Ar aGcitie ,lsPwnhuwisepelyeone neequelidytcetricsiusing entifiaPlyceprAPI.
 
-## Overview
+Because ao ahenalt plee newree udatbtseis.eiomcallyprvicpplvevevfewerwrthurpncnazethbn terwoees. Yol'uecwelceme.d restaurant availability/quality across Bay Area communities, combining:
 
-This project analyzes the relationship between affluence and restaurant availability/quality across Bay Area communities, combining:
+## OvervieR
 
-- **Restaurant Data**: Count, quality ratings, price levels, and review data from Google Places API
-- **Wealth Data**: Property values from Zillow ZHVI (Zillow Home Value Index)
-- **Demographics**: Population and income data from US Census Bureau
+Thisepaojnc  D*o yzay thspreevtions ip bdtween arfluenci anh : Propertyvavsi abifitr/qumZZtyl HromseBVyuAeeaxc)mmu iti(b,ccombining:use house prices = how fancy your neighborhood is)
 
-## Features
-
-### 🎯 Core Analysis
-- **Restaurant Density**: Restaurants per capita and per billion dollars of property value
+- **RDseahrs*t*D:Pp**:tC un ,nquacoty aatinfs, ur cua evels,oavd r viewFeaturbcauseGoogle s
+##**Wealth Data**: Property values from # 🎯 CoZHVI (Zillew Ho AnVlysiIndex) houspric = how fncy your nighborhood)
+-**Dmogapcs**:Populatoand incomdta from US **RestaBurerut the geveniment'syway of co*n:ing thiRgats per capita and per billion dollars of property value
 - **Quality Metrics**: Average ratings, high-rated restaurant percentages, price distributions
-- **Wealth Correlation**: Relationship between property values and restaurant quality/quantity
+- *Feea rrselation**: Relationship between property values and restaurant quality/quantity
 - **Interactive Maps**: Color-coded by restaurant quality with detailed popups
+### Core Analysis
+**Density**: Restaraapa
+##**# ViMetrius**: Avelagiarttiigs, high-rateonrestausn percetae,pic istributi
+- **WQyl**:Ctrerlation**:cRelatiinma ptbethecn pooplrtyovalucsranaureatRuaanniquality/qug thty
+- **Iateras*:v  MapC**: Color-codeditiardboyu antaqualityewit ddetriund peptps
 
-### 🗺️ Visualizations
-- **Quality Maps**: Interactive maps with color-coded restaurant markers based on ratings
-- **Ranking Charts**: Cities ranked by property value and restaurant metrics
-- **Scatter Plots**: Property value vs restaurant count with population weighting
-- **Quality Analysis**: Distribution of excellent vs average restaurants by area
-
+### rVisuclizions
+- **QuSliayeMaro**:tInser*c:iveopepsywithluoloe-codedvrestseranstmutk rs bcsedonn rating 
+- **RankwithCharto**: Cipirnkdboprvaueandrestartmetrs
+-**Sctte Plts**:Proprtyue vsnt cout wihpopulowightig
+- **QualiyAnlsis**:Distribuin fexellent vsaveragrestaurbyaa
 ## Installation
+Insallaon
 
-1. **Clone the repository**:
-   ```bash
-   git clone <repository-url>
-   cd forks-and-fortunes
+1. **Cloe therepoioy**:1. **Clone the repository**:
+      ```bash
+      git clonposositiry-urltory-url>
+      cd forks-and-fones
    ```
 
+2. **Install dependercits**:
+   ```bauhnes
+      ```
+   
 2. **Install dependencies**:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Set up API keys** in `config.py`:
-   - **Census API Key**: Get from [census.gov/developers](https://www.census.gov/developers/)
-   - **Google Places API Key**: Get from [Google Cloud Console](https://console.cloud.google.com/)
+3.b**Shup**
+     ** pip instalK -**: Getr requ[irements.txt]htps://www.censu.gov/devloprs/
+     ** ```K**:Gfr[G*SlAPCeyuCos](ts://onl.ogg.o/) Places API Key**: Get from [Google Cloud Console](https://console.cloud.google.com/)
 
 4. **Add Zillow Data**: Download ZHVI data and place in the project directory
 
@@ -96,18 +98,18 @@ Cities are organized into wealth tiers for focused analysis:
 
 ## Output Files
 
-### 📁 Results Directory
+### Results Directory
 - `merged_analysis.csv`: Complete dataset with all metrics
 - `restaurant_quality_results.csv`: Detailed restaurant quality data
 - `insights_report.md`: Comprehensive analysis insights
 - `*.png`: Ranking charts and scatter plots
 
-### 🗺️ Maps Directory
+### Maps Directory
 - `{city}_quality_map.html`: Interactive quality maps for each city
 - Color-coded restaurant markers by rating
 - Detailed popups with quality metrics
 
-### 📊 Key Metrics
+### Key Metrics
 
 For each city, the analysis provides:
 

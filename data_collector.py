@@ -1,5 +1,6 @@
 """
 Data collection utilities for Forks & Fortunes analysis
+Where we sweet-talk APIs into giving us their precious data
 """
 
 import pandas as pd

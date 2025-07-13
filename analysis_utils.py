@@ -1,5 +1,7 @@
 """
 Analysis and visualization utilities for Forks & Fortunes
+Because who doesn't love turning data into pretty charts and pretending it's "insights"
+Boutta smoke and rip this shit out
 """
 
 import pandas as pd
@@ -15,73 +17,82 @@ from config import Config
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-# Set style for better-looking plots
 plt.style.use('seaborn-v0_8')
 sns.set_palette("husl")
 
 
 class AnalysisUtils:
-    """Utilities for data analysis and visualization"""
+    """Utilities for data analysis and visualization
+     the place where numbers go to get dressed up for presentations
+    """
     
     def __init__(self):
         self.config = Config
     
     @staticmethod
     def format_currency(x) -> str:
-        """Format number as currency"""
+        """Format number as currency
+        Because apparently humans can't read raw numbers without dollar signs
+        """
         return f"${x:,.0f}" if pd.notnull(x) else "N/A"
     
     @staticmethod
     def format_large_number(x, suffix='') -> str:
-        """Format large numbers with appropriate suffixes"""
+        """Format large numbers with appropriate suffixes
+        For when your data is too big for normal human comprehension
+        """
         if pd.isnull(x):
             return "N/A"
         if x >= 1e9:
-            return f"{x/1e9:.2f}B{suffix}"
+            return f"{x/1e9:.2f}B{suffix}"  # Look ma, I'm a billionaire (in data points)
         elif x >= 1e6:
-            return f"{x/1e6:.1f}M{suffix}"
+            return f"{x/1e6:.1f}M{suffix}"  # Million-dollar dreams
         elif x >= 1e3:
-            return f"{x/1e3:.0f}K{suffix}"
+            return f"{x/1e3:.0f}K{suffix}"  # Thousand-yard stare
         else:
-            return f"{x:.0f}{suffix}"
+            return f"{x:.0f}{suffix}"       # Just a regular peasant number
     
     @staticmethod
     def format_percentage(x) -> str:
-        """Format number as percentage"""
+        """Format number as percentage
+        Because 0.157 is just confusing but 15.7% makes everyone an expert
+        """
         return f"{x:.1f}%" if pd.notnull(x) else "N/A"
     
     def create_ranking_plot(self, df: pd.DataFrame, x_col: str, y_col: str, 
                            title: str, x_label: str, top_n: int = 15, 
                            save_path: Optional[str] = None) -> None:
-        """Create a horizontal bar plot for rankings"""
+        """Create a horizontal bar plot for rankings
+        Because vertical bars are for amateur hour
+        """
         plot_df = df.nlargest(top_n, x_col).copy()
         
         plt.figure(figsize=(14, 10))
         bars = plt.barh(plot_df[y_col], plot_df[x_col], 
                        color='skyblue', edgecolor='navy', alpha=0.7)
         
-        # Add value labels on bars
+        # Add value labels on bars (because people love numbers on their numbers)
         for i, bar in enumerate(bars):
             width = bar.get_width()
             plt.text(width, bar.get_y() + bar.get_height()/2, 
                     f'{width:,.0f}', ha='left', va='center', fontweight='bold')
         
-        # Format x-axis as currency if it's a value column
+        # Format x-axis as currency if it's a value column (money makes everything prettier)
         if 'value' in x_col.lower() or 'zhvi' in x_col.lower():
             plt.gca().xaxis.set_major_formatter(mtick.StrMethodFormatter('${x:,.0f}'))
         
-        plt.gca().invert_yaxis()
+        plt.gca().invert_yaxis()  # Because we're rebels like that
         plt.title(title, fontsize=16, fontweight='bold', pad=20)
         plt.xlabel(x_label, fontsize=12)
-        plt.ylabel('', fontsize=12)
-        plt.grid(axis='x', alpha=0.3)
+        plt.ylabel('', fontsize=12)  # Empty y-label because we're minimalists
+        plt.grid(axis='x', alpha=0.3)  # Subtle grid for that professional look
         plt.tight_layout()
         
         if save_path:
             plt.savefig(save_path, dpi=300, bbox_inches='tight')
             logger.info(f"📊 Saved plot: {save_path}")
         
-        plt.show()
+        plt.show()  # Ta-da! 🎉
     
     def create_scatter_plot(self, df: pd.DataFrame, x_col: str, y_col: str, 
                            title: str, x_label: str, y_label: str,
@@ -343,10 +354,8 @@ class AnalysisUtils:
 
 
 if __name__ == "__main__":
-    # Test analysis utils
     utils = AnalysisUtils()
     
-    # Create test data
     test_data = pd.DataFrame({
         'City': ['Palo Alto', 'Atherton', 'San Francisco', 'Mountain View'],
         'zhvi_latest': [2500000, 4000000, 1200000, 1800000],

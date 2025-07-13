@@ -1,5 +1,6 @@
 """
 Restaurant data collection and analysis for Forks & Fortunes
+Where we turn Google's API into our personal restaurant census
 """
 
 import math

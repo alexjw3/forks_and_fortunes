@@ -3,6 +3,7 @@ Restaurant Quality Analysis for Forks & Fortunes
 
 This module handles restaurant quality metrics including ratings, prices, 
 and review counts from Google Places API data.
+Because apparently we need to scientifically measure how good your tacos are.
 """
 
 import requests

@@ -1,11 +1,11 @@
 """
 Main execution script for Forks & Fortunes analysis
 
-This script orchestrates the complete analysis pipeline:
-1. Data collection (Census, Zillow, Restaurant data)
-2. Data merging and processing
-3. Analysis and visualization
-4. Report generation
+This script orchestrates the complete analysis pipeline (because someone has to be the conductor):
+1. Data collection (Census, Zillow, Restaurant data) - the boring but necessary part
+2. Data merging and processing - where the magic happens (and things break)
+3. Analysis and visualization - pretty charts to impress your friends
+4. Report generation - words to go with the pretty charts
 """
 
 import os
@@ -33,34 +33,34 @@ logger = logging.getLogger(__name__)
 
 
 def main(mode='full', wealth_tier=None):
-    """Main execution function"""
-    logger.info("🍴💰 Starting Forks & Fortunes Analysis")
+    """Main execution function - where the magic (and chaos) happens"""
+    logger.info("Starting Forks & Fortunes Analysis")
     logger.info("=" * 60)
     
-    # Create directories
+    # Create directories (because we're organized like that)
     Config.create_directories()
     
-    # Initialize components
+    # Initialize components (assembling the dream team)
     data_collector = DataCollector()
     restaurant_analyzer = RestaurantAnalyzer()
     analysis_utils = AnalysisUtils()
     
-    # Determine cities to analyze based on mode
+    # Determine cities to analyze based on mode (choose your own adventure)
     if mode == 'test':
         cities_to_analyze = Config.TEST_CITIES
-        logger.info(f"🧪 Running in TEST mode with {len(cities_to_analyze)} cities")
+        logger.info(f"Running in TEST mode with {len(cities_to_analyze)} cities (because patience is overrated)")
     elif mode == 'tier' and wealth_tier:
         cities_to_analyze = Config.WEALTH_TIERS.get(wealth_tier, Config.CITIES_TO_ANALYZE)
-        logger.info(f"💰 Analyzing {wealth_tier} tier: {len(cities_to_analyze)} cities")
+        logger.info(f"Analyzing {wealth_tier} tier: {len(cities_to_analyze)} cities (fancy!)")
     else:
         cities_to_analyze = Config.CITIES_TO_ANALYZE
-        logger.info(f"🏙️ Running FULL analysis with {len(cities_to_analyze)} cities")
+        logger.info(f"Running FULL analysis with {len(cities_to_analyze)} cities (buckle up buttercup)")
     
     logger.info(f"Cities to analyze: {', '.join(cities_to_analyze)}")
     
     try:
         # Step 1: Census Data Collection
-        logger.info("\n📊 STEP 1: Census Data Collection")
+        logger.info("\nSTEP 1: Census Data Collection")
         logger.info("-" * 40)
         
         # Try to load existing census data first
@@ -73,12 +73,12 @@ def main(mode='full', wealth_tier=None):
             logger.info(f"Using existing census data with {len(census_df)} ZIP codes")
         
         # Step 2: Zillow Data Loading
-        logger.info("\n🏠 STEP 2: Zillow Data Loading")
+        logger.info("\nSTEP 2: Zillow Data Loading")
         logger.info("-" * 40)
         
         zillow_df = data_collector.load_zillow_data(Config.ZILLOW_FILE)
         if zillow_df.empty:
-            logger.error("❌ Could not load Zillow data. Please check the file path.")
+            logger.error("Could not load Zillow data. Please check the file path.")
             return
         
         # Step 3: Restaurant Data Analysis with Quality Metrics
@@ -137,10 +137,10 @@ def main(mode='full', wealth_tier=None):
         # Save merged dataset
         merged_file = f"{Config.RESULTS_DIR}/merged_analysis.csv"
         merged_df.to_csv(merged_file, index=False)
-        logger.info(f"💾 Saved merged dataset: {merged_file}")
+        logger.info(f"Saved merged dataset: {merged_file}")
         
         # Step 5: Visualizations
-        logger.info("\n📊 STEP 5: Creating Visualizations")
+        logger.info("\nSTEP 5: Creating Visualizations")
         logger.info("-" * 40)
         
         # Filter for cities with complete data
@@ -186,8 +186,7 @@ def main(mode='full', wealth_tier=None):
                     ascending=True, top_n=10
                 )
         
-        # Step 6: Generate Insights Report
-        logger.info("\n📄 STEP 6: Generating Insights Report")
+        logger.info("\nSTEP 6: Generating Insights Report")
         logger.info("-" * 40)
         
         report = analysis_utils.generate_insights_report(
@@ -195,34 +194,32 @@ def main(mode='full', wealth_tier=None):
             save_path=f"{Config.RESULTS_DIR}/insights_report.md"
         )
         
-        # Print summary
-        logger.info("\n✅ ANALYSIS COMPLETE!")
+        logger.info("\nANALYSIS COMPLETE!")
         logger.info("=" * 60)
-        logger.info(f"📁 Results saved in: {Config.RESULTS_DIR}/")
-        logger.info(f"🗺️ Maps saved in: {Config.MAPS_DIR}/")
-        logger.info(f"📊 Visualizations: {Config.RESULTS_DIR}/*.png")
-        logger.info(f"📄 Full report: {Config.RESULTS_DIR}/insights_report.md")
+        logger.info(f"Results saved in: {Config.RESULTS_DIR}/")
+        logger.info(f"Maps saved in: {Config.MAPS_DIR}/")
+        logger.info(f"Visualizations: {Config.RESULTS_DIR}/*.png")
+        logger.info(f"Full report: {Config.RESULTS_DIR}/insights_report.md")
         
-        # Show quick preview of results
         if not merged_df.empty:
-            logger.info(f"\n📋 Quick Preview ({len(merged_df)} cities analyzed):")
+            logger.info(f"\nQuick Preview ({len(merged_df)} cities analyzed):")
             preview_cols = ['City', 'zhvi_latest', 'restaurant_count']
             available_cols = [col for col in preview_cols if col in merged_df.columns]
             if available_cols:
                 print(merged_df[available_cols].head(10).to_string(index=False))
         
     except KeyboardInterrupt:
-        logger.info("\n⚠️ Analysis interrupted by user")
+        logger.info("\nAnalysis interrupted by user")
     except Exception as e:
-        logger.error(f"❌ Error during analysis: {e}")
+        logger.error(f"Error during analysis: {e}")
         logger.exception("Full error traceback:")
     finally:
-        logger.info(f"\n🕐 Analysis completed at {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
+        logger.info(f"\nAnalysis completed at {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
 
 
 def run_quick_test():
     """Run a quick test with minimal data"""
-    logger.info("🧪 Running quick test mode...")
+    logger.info("Running quick test mode...")
     
     Config.create_directories()
     data_collector = DataCollector()
@@ -288,16 +285,16 @@ Examples:
 
 def list_cities():
     """List all available cities organized by wealth tier"""
-    print("\n🏙️ Available Cities by Wealth Tier:")
+    print("\nAvailable Cities by Wealth Tier:")
     print("=" * 50)
     
     for tier_name, cities in Config.WEALTH_TIERS.items():
-        print(f"\n💰 {tier_name.replace('_', ' ').title()} ({len(cities)} cities):")
+        print(f"\n{tier_name.replace('_', ' ').title()} ({len(cities)} cities):")
         for city in cities:
             print(f"  - {city}")
     
-    print(f"\n📊 Total cities available: {len(Config.CITIES_TO_ANALYZE)}")
-    print(f"🧪 Test cities: {', '.join(Config.TEST_CITIES)}")
+    print(f"\nTotal cities available: {len(Config.CITIES_TO_ANALYZE)}")
+    print(f"Test cities: {', '.join(Config.TEST_CITIES)}")
 
 
 if __name__ == "__main__":
@@ -308,7 +305,7 @@ if __name__ == "__main__":
     elif args.list_cities:
         list_cities()
     elif args.mode == 'tier' and not args.tier:
-        print("❌ Error: --tier argument required when using --mode tier")
+        print("Error: --tier argument required when using --mode tier")
         print("Available tiers: ultra_wealthy, high_wealth, upper_middle, mid_tier, urban")
         sys.exit(1)
     else:
