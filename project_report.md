@@ -74,17 +74,17 @@ While the wealthiest enclaves might be a bit of a letdown for foodies, we found 
 Take San Mateo, for example. It boasts one of the highest percentages of top-tier restaurants and a very respectable average quality score, all while having a median home value that, while still eye-watering, is a fraction of Atherton's. These cities seem to have found a happy equilibrium, with a vibrant restaurant scene that caters to a population with discerning tastes but without the isolation that extreme wealth can bring.
 
 ### The Great Divide: Restaurant Density vs. Wealth
-Our most statistically significant finding was the strong negative correlation (-0.656) between property values and restaurant counts. The more expensive the city, the fewer restaurants it has. This is most starkly illustrated by looking at the cities with the fewest restaurants per billion dollars of property value:
+Our most statistically significant finding was the strong negative correlation (-0.656) between property values and restaurant counts. The more expensive the city, the fewer restaurants it has. This is most starkly illustrated by looking at the cities with the fewest restaurants per billion dollars of *total* property value:
 
 | Rank | City | Restaurants per Billion $ |
 | :--- | :--- | :--- |
-| 1 | Atherton | 32,497 |
-| 2 | Palo Alto | 81,409 |
-| 3 | Portola Valley | 95,794 |
-| 4 | Menlo Park | 111,328 |
-| 5 | Los Altos | 228,017 |
+| 1 | Menlo Park | 6.85 |
+| 2 | Palo Alto | 9.90 |
+| 3 | Atherton | 12.12 |
+| 4 | Hillsborough | 15.72 |
+| 5 | Los Altos | 27.97 |
 
-The city proper of San Francisco, by contrast, is teeming with restaurants, boasting over 3.5 million per billion dollars of property value. This suggests that urban density and a more diverse population are far more important ingredients for a thriving restaurant scene than sheer wealth.
+The city proper of San Francisco, by contrast, is teeming with restaurants, boasting over 150 per billion dollars of property value. This suggests that urban density and a more diverse population are far more important ingredients for a thriving restaurant scene than sheer wealth.
 
 ### Price Point Analysis: Where to Find a Fancy Meal (or a Cheap Eat)
 Beyond just quality and quantity, we also looked at the price distribution of restaurants. This gives us a sense of the economic character of each city's dining scene. Here are the cities with the highest percentage of "expensive" restaurants:
@@ -98,6 +98,46 @@ Beyond just quality and quantity, we also looked at the price distribution of re
 | 5 | Los Altos | 4.4% |
 
 Interestingly, while Atherton is the wealthiest city, it doesn't even crack the top 5 for expensive restaurants, likely due to its small sample size. This further supports the idea that the truly wealthy may not be dining out in their own neighborhoods. On the flip side, cities like South San Francisco and Daly City have a much higher proportion of budget-friendly options, catering to a different demographic.
+
+### Top 5 Cities by Average Restaurant Quality Score
+
+| Rank | City | Average Quality Score |
+| :--- | :--- | :--- |
+| 1 | San Francisco | 4.22 |
+| 2 | Portola Valley | 4.14 |
+| 3 | Daly City | 4.13 |
+| 4 | Palo Alto | 4.12 |
+| 5 | San Mateo | 4.12 |
+
+### Top 5 Cities by Restaurant Density (per 1k population)
+
+| Rank | City | Restaurants per 1k Population |
+| :--- | :--- | :--- |
+| 1 | Mountain View | 86.11 |
+| 2 | San Francisco | 71.78 |
+| 3 | Portola Valley | 58.99 |
+| 4 | Los Altos | 56.12 |
+| 5 | Millbrae | 46.35 |
+
+### Cities with the Most Well-Reviewed Restaurants
+
+| Rank | City | Well-Reviewed Count |
+| :--- | :--- | :--- |
+| 1 | San Francisco | 2020 |
+| 2 | South San Francisco | 1066 |
+| 3 | Mountain View | 1055 |
+| 4 | San Bruno | 874 |
+| 5 | Los Altos | 857 |
+
+### Cities with the Most Budget-Friendly Restaurants
+
+| Rank | City | Budget-Friendly Count |
+| :--- | :--- | :--- |
+| 1 | San Francisco | 1896 |
+| 2 | Daly City | 1649 |
+| 3 | South San Francisco | 1071 |
+| 4 | Mountain View | 1019 |
+| 5 | San Bruno | 852 |
 
 ## Limitations and Future Work
 

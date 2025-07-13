@@ -16,11 +16,11 @@
 
 ## 🍽️ Restaurant Density Insights
 ### Top 5 Under-served Wealthy Areas (fewest restaurants per billion $ property value):
-- Atherton: 32497.32 restaurants/billion$ (246 total)
-- Palo Alto: 81409.36 restaurants/billion$ (344 total)
-- Portola Valley: 95794.91 restaurants/billion$ (392 total)
-- Menlo Park: 111328.62 restaurants/billion$ (310 total)
-- Los Altos: 228017.97 restaurants/billion$ (1122 total)
+- Menlo Park: 6.85 restaurants/billion$ (310 total)
+- Palo Alto: 9.90 restaurants/billion$ (344 total)
+- Atherton: 12.12 restaurants/billion$ (246 total)
+- Hillsborough: 15.72 restaurants/billion$ (922 total)
+- Burlingame: 18.31 restaurants/billion$ (1074 total)
 
 ## 🔍 Key Correlations
 - Property value vs Restaurant count correlation: -0.656

@@ -263,9 +263,17 @@ class AnalysisUtils:
         # Create derived metrics for quality analysis
         if 'zhvi_latest' in merged.columns and 'restaurant_count' in merged.columns:
             # Restaurants per billion dollars of property value
-            merged['restaurants_per_billion_val'] = (
-                merged['restaurant_count'] / (merged['zhvi_latest'] / 1_000_000_000)
-            ).round(2)
+            if 'housing_units' in merged.columns and merged['housing_units'].notna().all():
+                total_property_value = merged['zhvi_latest'] * merged['housing_units']
+                merged['restaurants_per_billion_val'] = (
+                    merged['restaurant_count'] / (total_property_value / 1_000_000_000)
+                ).round(2)
+            else:
+                # Fallback if housing_units is not available
+                logger.warning("Housing units data not available. Restaurants per billion value may be inaccurate.")
+                merged['restaurants_per_billion_val'] = (
+                    merged['restaurant_count'] / (merged['zhvi_latest'] / 1_000_000_000)
+                ).round(2)
             
             # Restaurants per thousand people
             if 'population' in merged.columns:
