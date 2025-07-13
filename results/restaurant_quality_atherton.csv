@@ -1,0 +1,247 @@
+place_id,name,lat,lng,rating,price_level,user_ratings_total,quality_score,types,vicinity,city
+ChIJt8zRS4Sjj4ARj1xl_iU_ggM,Villa Lucia's,37.45468839999999,-122.2284331,4.4,2.0,244.0,4.62,restaurant|food|point_of_interest|establishment,"1725 Woodside Road, Redwood City",Atherton
+ChIJHUMzhESjj4ARqXozfblTyB0,Chicos Grill,37.4497509,-122.2315125,4.5,,55.0,3.89,restaurant|food|point_of_interest|establishment,"2000 Woodside Road, Redwood City",Atherton
+ChIJwa36zj6jj4ARTWZhPSH_rgk,Anabelita's Food,37.4533284,-122.228907,5.0,,17.0,3.75,restaurant|food|point_of_interest|establishment,"119 Santa Clara Avenue, Redwood City",Atherton
+ChIJl3HnNzSjj4ARM-xAmVXimxk,Akami Sushi,37.45461199999999,-122.2283177,4.5,2.0,144.0,4.73,restaurant|food|point_of_interest|establishment,"1725 Woodside Road C, Redwood City",Atherton
+ChIJszp3iSmjj4ARFnfiBGSykW4,Alva's Food Truck,37.4550628,-122.2281621,4.7,1.0,11.0,3.45,restaurant|food|point_of_interest|establishment,"122 Sequoia Avenue, Redwood City",Atherton
+ChIJa2ZiR4Wjj4ARbp69GKePl_s,Lucky,37.45654,-122.229614,4.1,,469.0,4.1,grocery_or_supermarket|meal_delivery|supermarket|restaurant|food|point_of_interest|store|establishment,"200 Woodside Plaza, Redwood City",Atherton
+ChIJRTcCpKejj4ARdycjexLMpFY,Yat Sing Restaurant,37.4578061,-122.2289883,3.8,2.0,113.0,3.99,restaurant|food|point_of_interest|establishment,"38 Woodside Road, Redwood City",Atherton
+ChIJvV9tF6ejj4ARAAzKnzlEz8c,Round Table Pizza,37.457708,-122.229896,3.9,2.0,191.0,4.09,meal_delivery|meal_takeaway|restaurant|food|point_of_interest|establishment,"128 Woodside Plaza, Redwood City",Atherton
+ChIJr4g8FoWjj4AR2iKV6OoPTAU,Breakers Cafe,37.4562697,-122.2297243,4.2,1.0,231.0,4.2,cafe|restaurant|food|point_of_interest|store|establishment,"270 Woodside Road, Redwood City",Atherton
+ChIJVW1_1Jqjj4ARjU8OI-7R4vU,Sushi+Plus,37.45789049999999,-122.2287972,4.3,2.0,603.0,4.51,restaurant|food|point_of_interest|establishment,"30 Woodside Plaza, Redwood City",Atherton
+ChIJQ4mZBIWjj4AR6_hlIpJxwbI,Redwood Grill,37.455781,-122.228909,4.3,2.0,501.0,4.51,restaurant|food|point_of_interest|establishment,"356 Woodside Plaza, Redwood City",Atherton
+ChIJZRttpYajj4ARcez-603tqM0,Woodside Roadhouse,37.4562564,-122.2277426,4.5,2.0,117.0,4.73,restaurant|food|point_of_interest|establishment,"1515 Woodside Road, Redwood City",Atherton
+ChIJYwn3Ncujj4ARjGggaaJ8eUU,CORNER TABLE,37.4578546,-122.2286899,4.6,2.0,123.0,4.83,restaurant|food|point_of_interest|establishment,"20 Woodside Plaza, Redwood City",Atherton
+ChIJebamIZ-jj4AR_RglNOSI4no,Starbucks,37.4663462,-122.2244848,4.0,2.0,409.0,4.2,cafe|restaurant|food|point_of_interest|store|establishment,"820 Woodside Road, Redwood City",Atherton
+ChIJlc29db-jj4ARHEh1XjV_OYY,Little Caesars Pizza,37.4658591,-122.2415471,3.7,1.0,385.0,3.7,meal_takeaway|meal_delivery|restaurant|food|point_of_interest|establishment,"2193 Roosevelt Avenue, Redwood City",Atherton
+ChIJgRRzCr-jj4AR0KQidei7oK4,Oh Baby Sushi,37.4659847,-122.2410228,4.5,2.0,980.0,4.73,restaurant|food|point_of_interest|establishment,"2139 Roosevelt Avenue, Redwood City",Atherton
+ChIJiXByA5yjj4AR8NNjrgDYPmc,Bravo Taqueria (Redwood City),37.4632769,-122.2251404,4.6,1.0,288.0,4.6,restaurant|food|point_of_interest|establishment,"980 Woodside Road, Redwood City",Atherton
+ChIJ8TSlBZyjj4ARa3Htq5mOW_A,Jack in the Box,37.46309100000001,-122.2252822,3.7,1.0,649.0,3.7,meal_delivery|restaurant|food|point_of_interest|establishment,"986 Woodside Road, Redwood City",Atherton
+ChIJb-ZQ17qjj4ARLtmu5zRuz4E,Daniel's kitchen,37.4656795,-122.225391,4.5,1.0,36.0,3.64,restaurant|food|point_of_interest|establishment,"850 Woodside Road, Redwood City",Atherton
+ChIJEab6hT-jj4ARLpgWd7VJp3Y,Ta’ Con Madre Taqueria Estilo Mazatlan,37.4645971,-122.224278,4.9,,43.0,4.06,restaurant|food|point_of_interest|establishment,"895 Woodside Road, Redwood City",Atherton
+ChIJbxwY3QCjj4AR5Ht18lctD_Q,Big Brother's Burgers,37.466118,-122.241011,4.8,2.0,146.0,5.04,restaurant|food|point_of_interest|establishment,"2137 Roosevelt Avenue, Redwood City",Atherton
+ChIJodR-356jj4AR_u06kIfV8uc,Tripplett Management Corporation,37.4662183,-122.2245435,,,,,restaurant|food|point_of_interest|establishment,"830 Woodside Road, Redwood City",Atherton
+ChIJhX3iO5-jj4ARa5RaH_x4ibE,Subway,37.4670733,-122.2245408,3.5,1.0,101.0,3.5,meal_takeaway|restaurant|food|point_of_interest|establishment,"758 Woodside Road, Redwood City",Atherton
+ChIJsf2BFZ-jj4ARq4huVYkd2tU,Popeyes Louisiana Kitchen,37.4673053,-122.2245119,4.0,1.0,1214.0,4.0,restaurant|food|point_of_interest|establishment,"740 Woodside Road, Redwood City",Atherton
+ChIJJ32H3KGjj4ARPVWKZ0efLPU,ampm,37.469216,-122.223938,3.7,1.0,3.0,2.62,convenience_store|gas_station|atm|supermarket|grocery_or_supermarket|cafe|finance|restaurant|food|point_of_interest|store|establishment,"610 Woodside Road, Redwood City",Atherton
+ChIJKy780KGjj4ARxOLR433gz2E,Diner Japonica,37.4694083,-122.2231833,4.7,1.0,190.0,4.7,meal_takeaway|restaurant|food|point_of_interest|establishment,"593 Woodside Road, Redwood City",Atherton
+ChIJ_7x_cJ-jj4ARpz_OyffKOh8,KFC,37.468339,-122.2234804,3.6,1.0,332.0,3.6,restaurant|food|point_of_interest|establishment,"659 Woodside Road, Redwood City",Atherton
+ChIJhX3iO5-jj4ARblE0t8baRNc,El Grullense Grill,37.4668608,-122.2244497,3.8,1.0,738.0,3.8,restaurant|food|point_of_interest|establishment,"768 Woodside Road, Redwood City",Atherton
+ChIJkTLcv6ijj4ARs9u8JLqMNog,McDonald's,37.4676047,-122.2236512,3.5,1.0,536.0,3.5,cafe|restaurant|food|point_of_interest|store|establishment,"709 Woodside Road, Redwood City",Atherton
+ChIJkReq0aGjj4ARvXwGkEvh6ec,Karakade Thai Cuisine,37.4693401,-122.2229822,4.1,2.0,196.0,4.3,restaurant|food|point_of_interest|establishment,"593 Woodside Road Suite G, Redwood City",Atherton
+ChIJJfVAn9yjj4ARTo6qF6MBFSw,Pamilya,37.467115,-122.2245057,4.8,,45.0,4.01,restaurant|food|point_of_interest|establishment,"756 Woodside Road, Redwood City",Atherton
+ChIJ-YiVF5-jj4ARyp62qe1aHig,VIVI's Cafe,37.4669449,-122.2244961,4.1,1.0,245.0,4.1,cafe|restaurant|food|point_of_interest|establishment,"764 Woodside Road, Redwood City",Atherton
+ChIJSUH53JOjj4ARESYgHjETLeY,Redwood City Barbeque,37.46872299999999,-122.224008,4.3,2.0,345.0,4.51,restaurant|food|point_of_interest|establishment,"640 Woodside Road, Redwood City",Atherton
+ChIJ02fmW_6jj4ARgrE8KgCBQ20,Guanato's Snacks,37.4689222,-122.2238494,3.6,2.0,14.0,2.8,meal_takeaway|restaurant|food|point_of_interest|establishment,"628 Woodside Road, Redwood City",Atherton
+ChIJlzR1ewajj4ARigOM07VdWzU,Dunkin',37.4693808,-122.2230872,4.3,1.0,131.0,4.3,bakery|cafe|meal_takeaway|restaurant|food|point_of_interest|store|establishment,"593 Woodside Road Suite A, Redwood City",Atherton
+ChIJwSDisKGjj4AROj-vKN49HU8,Karlita's Taco Place,37.4707395,-122.2236805,4.0,1.0,278.0,4.0,restaurant|food|point_of_interest|establishment,"512 Woodside Road, Redwood City",Atherton
+ChIJqbQfqKGjj4ARYXlK2Ki_TrA,7-Eleven,37.4712283,-122.223597,3.5,1.0,45.0,2.92,convenience_store|liquor_store|cafe|restaurant|food|point_of_interest|store|establishment,"460 Woodside Road, Redwood City",Atherton
+ChIJ6RsTQQqjj4ARNWbNU-DVH_o,US Chinese Food,37.4737578,-122.2184405,4.1,1.0,564.0,4.1,restaurant|food|point_of_interest|establishment,"2490 El Camino Real, Redwood City",Atherton
+ChIJGc59LVajj4ARvOPgtG6gabc,Pronto Pizza,37.47285919999999,-122.2171916,4.6,2.0,94.0,4.74,restaurant|food|point_of_interest|establishment,"2560 El Camino Real, Redwood City",Atherton
+ChIJ617NLqajj4ARGc1OWKkKyM8,Harry's Hofbrau,37.4778737,-122.2231767,4.5,2.0,3042.0,4.73,restaurant|food|point_of_interest|establishment,"1909 El Camino Real, Redwood City",Atherton
+ChIJSVUCSqajj4ARw2r6rmXixZQ,Subway,37.4768487,-122.2234382,4.1,1.0,112.0,4.1,meal_takeaway|restaurant|food|point_of_interest|establishment,"1926 El Camino Real, Redwood City",Atherton
+ChIJ0xuXpaijj4ARWYILaL_C84U,Thai House Restaurant,37.4784307,-122.2249267,3.7,2.0,86.0,3.72,restaurant|food|point_of_interest|establishment,"2109 1742 El Camino Real, Redwood City",Atherton
+ChIJgUW5N6ajj4AR1qAI3T9m6LQ,Starbucks,37.47735,-122.2234583,4.1,2.0,486.0,4.3,cafe|restaurant|food|point_of_interest|store|establishment,"1900 El Camino Real, Redwood City",Atherton
+ChIJU2tZVAqjj4ARPY0Y8nplYek,Chuck E. Cheese,37.4745005,-122.2164481,3.9,2.0,457.0,4.09,restaurant|food|point_of_interest|establishment,"2541-43 El Camino Real, Redwood City",Atherton
+ChIJyVMKSBqij4AR_mUODO7gCmM,Tacos Los Gemelos,37.4792451,-122.2261575,4.4,1.0,591.0,4.4,restaurant|food|point_of_interest|establishment,"1630 El Camino Real #2108, Redwood City",Atherton
+ChIJ8fec666jj4ARsa0kEd7xZSw,Wingstop,37.476946,-122.2235886,3.7,2.0,339.0,3.89,restaurant|food|point_of_interest|establishment,"1918 El Camino Real #1922, Redwood City",Atherton
+ChIJob60Paajj4ARDg8cs1qLxPM,Wendy's,37.4776177,-122.2239666,3.3,1.0,906.0,3.3,restaurant|food|point_of_interest|establishment,"1852 El Camino Real, Redwood City",Atherton
+ChIJ14k8QQujj4ARySMHnj8LaEc,Taco Bell,37.4722879,-122.2155306,3.9,1.0,672.0,3.9,meal_takeaway|restaurant|food|point_of_interest|establishment,"2693 El Camino Real, Redwood City",Atherton
+ChIJkTLcv6ijj4ARyWdgH3uAcCI,McDonald's,37.479261,-122.224261,3.6,1.0,1460.0,3.6,cafe|restaurant|food|point_of_interest|store|establishment,"185 Chestnut Street, Redwood City",Atherton
+ChIJx1RK6K2jj4AR7gnghChjtMI,Taqueria El Grullense,37.4819585,-122.2300761,3.8,1.0,976.0,3.8,restaurant|food|point_of_interest|store|establishment,"1280 El Camino Real, Redwood City",Atherton
+ChIJyapdsaijj4ARhpqS7egwGDc,La Cueva Del Peludo,37.4787685,-122.2252928,3.6,,10.0,2.63,restaurant|food|point_of_interest|establishment,United States,Atherton
+ChIJVTfBT7-jj4ARz-mCfj-_umE,TACOS Y MARISCOS EL GORDO,37.4758041,-122.2204491,5.0,2.0,21.0,4.01,restaurant|food|point_of_interest|establishment,"2215 El Camino Real, Redwood City",Atherton
+ChIJNyiNsQmjj4ARtkhwshrGcWw,P Azul Sea food food truck,37.4759107,-122.2203795,4.9,,8.0,3.55,restaurant|food|point_of_interest|establishment,"2215 El Camino Real, Redwood City",Atherton
+ChIJCVI9Z6-jj4ARoiq2AaDsci8,Koi Palace,37.4789253,-122.2230872,4.0,1.0,2.0,2.82,meal_takeaway|restaurant|food|point_of_interest|establishment,"1531 Main Street, Redwood City",Atherton
+ChIJ7X1zETOjj4AR1Pr7AMjN9RQ,Pokeworks,37.4789253,-122.2230872,3.0,,5.0,2.15,restaurant|food|point_of_interest|establishment,"1531 Main Street Unit #8, Redwood City",Atherton
+ChIJb30ZblCjj4ARe1twrgc49sM,Rooster & Rice,37.4789253,-122.2230872,3.2,1.0,9.0,2.33,restaurant|meal_takeaway|meal_delivery|food|point_of_interest|establishment,"1531 Main Street #5, Redwood City",Atherton
+ChIJXyko_IWjj4AR2uIvR40CjKs,YiFang Fruit Tea,37.4789253,-122.2230872,3.0,,2.0,2.12,restaurant|food|point_of_interest|establishment,"1531 Main Street Unit #6, Redwood City",Atherton
+ChIJ763STIOjj4ARKCSDaTcOnjM,Aria Korean Street Food,37.4789253,-122.2230872,3.4,1.0,19.0,2.57,meal_takeaway|restaurant|food|point_of_interest|establishment,"1531 Main Street Unit #3, Redwood City",Atherton
+ChIJgVM0leSjj4ARll-PNatSG8k,Famous Desserts by The Cheesecake Factory (Located in DoorDash Kitchens),37.4789253,-122.2230872,5.0,,4.0,3.56,meal_takeaway|bakery|restaurant|food|point_of_interest|store|establishment,"1531 Main Street, Redwood City",Atherton
+ChIJMzIGJ3ijj4ARPXBiipSzE_A,DoorDash Kitchens,37.4789253,-122.2230872,3.6,,109.0,3.6,restaurant|meal_delivery|food|point_of_interest|establishment,"1531 Main Street, Redwood City",Atherton
+ChIJXcuL0Yijj4ARJnn-fKjONuc,Chick-fil-A Delivery,37.47907000000001,-122.2231,3.3,,36.0,2.67,restaurant|food|point_of_interest|establishment,"1531 Main Street, Redwood City",Atherton
+ChIJ29b-jqijj4ARmKOUF57P0c8,Panaderia & Restaurante Guatemalteca,37.4794266,-122.2234212,3.8,1.0,325.0,3.8,restaurant|food|point_of_interest|establishment,"1509 Main Street, Redwood City",Atherton
+ChIJ42RwtYGjj4ARQQe5Ni8vGrU,El Gustazzo Pupusas,37.4753948,-122.2188849,5.0,,9.0,3.63,restaurant|food|point_of_interest|establishment,"42 Charter Street, Redwood City",Atherton
+ChIJeRp5XgCjj4ART7xf6UJSgps,Coronado Mexican Food,37.47566090000001,-122.2188478,3.7,,6.0,2.66,restaurant|food|point_of_interest|establishment,"51 Charter Street, Redwood City",Atherton
+ChIJxUp5dgCjj4ARg_UOh-1Ktq8,Bay Area Cheesesteak,37.4759048,-122.2186015,,,,,restaurant|food|point_of_interest|establishment,"67 Charter Street, Redwood City",Atherton
+ChIJE-Tqfxijj4ARPXkT813RsuY,Nekter Juice Bar,37.479274,-122.2206663,1.5,2.0,15.0,1.17,cafe|restaurant|food|point_of_interest|establishment,"1531 Main Street, Redwood City",Atherton
+ChIJf9fmkq6jj4ARjCLo6L3VSQ4,TOGO'S Sandwiches,37.48089040000001,-122.2276282,3.7,1.0,160.0,3.7,meal_takeaway|restaurant|food|point_of_interest|store|establishment,"1501 El Camino Real, Redwood City",Atherton
+ChIJq2a82wejj4AR2NFxr-QycZA,Burger King,37.4804679,-122.2185642,3.6,1.0,647.0,3.6,restaurant|food|point_of_interest|establishment,"2102 Middlefield Road, Redwood City",Atherton
+ChIJuVzWLAqjj4AR0LnAeTq9jo4,Woodside Central,37.4741392,-122.216669,4.3,,2320.0,4.3,shopping_mall|grocery_or_supermarket|restaurant|food|point_of_interest|store|establishment,"2501-2545 El Camino Real, Redwood City",Atherton
+ChIJ1ahxvwijj4ARHa3tkj7VbSo,El Grullense Grill and Seafood,37.4738863,-122.2168651,4.1,2.0,563.0,4.3,restaurant|food|point_of_interest|establishment,"2525 El Camino Real, Redwood City",Atherton
+ChIJFc5cO0ijj4AR8rwSdUFyBQI,Tacos El Zurdo Estilo Sinaloa,37.4732531,-122.2168813,5.0,,6.0,3.59,restaurant|food|point_of_interest|establishment,"2561 El Camino Real, Redwood City",Atherton
+ChIJz-OpPD2jj4ARC7E1taPWjW4,Mariscos El Sanignacense,37.4732531,-122.2168813,4.3,2.0,97.0,4.47,restaurant|food|point_of_interest|establishment,"2561 El Camino Real, Redwood City",Atherton
+ChIJjxxP1Qujj4AR921RUKB1ZOg,Pizza Hut Express,37.4756522,-122.2170496,3.1,1.0,9.0,2.25,meal_takeaway|restaurant|food|point_of_interest|establishment,"2485 El Camino Real, Redwood City",Atherton
+ChIJ5-BA4IKjj4ARK150nf-wPoQ,Mariscos El Camino,37.4727217,-122.2162534,4.0,2.0,76.0,3.9,restaurant|food|point_of_interest|establishment,"2627 El Camino Real, Redwood City",Atherton
+ChIJlZEbtqmjj4ARud3IPh6IZ8s,ampm,37.4817739,-122.2214238,2.9,1.0,7.0,2.09,convenience_store|atm|gas_station|supermarket|grocery_or_supermarket|cafe|restaurant|food|finance|point_of_interest|store|establishment,"1700 Middlefield Road, Redwood City",Atherton
+ChIJDfyF0aqjj4ARYDGcEv7_ws4,El Paisa by Los Alegres Taco Truck,37.4806364,-122.2185005,4.7,2.0,54.0,4.25,restaurant|food|point_of_interest|establishment,"2021 Middlefield Road, Redwood City",Atherton
+ChIJ334KkXOjj4ARrzZ7_kMWQ7c,Palo Alto Auxiliary,37.4687534,-122.2134204,,,,,restaurant|food|point_of_interest|establishment,"61 Renato Court # 16, Redwood City",Atherton
+ChIJx-Kb5nGjj4ARcvsUYmWS2TA,Jack in the Box,37.4676054,-122.2090642,3.5,1.0,685.0,3.5,meal_delivery|restaurant|food|point_of_interest|establishment,"3199 El Camino Real, Redwood City",Atherton
+ChIJcbrjV3Ojj4ARWo6aYALIvzc,La Costa,37.4711911,-122.2142073,4.1,1.0,125.0,4.1,bar|restaurant|food|point_of_interest|establishment,"2761 El Camino Real, Redwood City",Atherton
+ChIJyRl1V3Ojj4ARf2nr4ewTXKg,El Camaron RWC,37.4712162,-122.2141464,4.5,2.0,470.0,4.73,restaurant|food|point_of_interest|establishment,"2761 El Camino Real, Redwood City",Atherton
+ChIJVbEYve-jj4AR77rV9jAOcec,Los Carnalitos Food Truck,37.4693397,-122.2112908,4.6,2.0,486.0,4.83,restaurant|food|point_of_interest|establishment,"2907 El Camino Real, Redwood City",Atherton
+ChIJN6lxI3Kjj4ARtyvHC8OJ__k,Selby's,37.4685773,-122.210373,4.4,4.0,419.0,4.49,restaurant|food|point_of_interest|establishment,"3001 El Camino Real, Redwood City",Atherton
+ChIJfeOQA26jj4ARPgitgF7IA3g,La Roca Restaurant,37.4683069,-122.2085021,4.2,,75.0,3.88,restaurant|food|point_of_interest|establishment,"55 Fifth Avenue unit b, Redwood City",Atherton
+ChIJu2z3_K-kj4AR56nmZskIkg4,Shiok! Singapore Kitchen,37.4777766,-122.21146,4.1,2.0,499.0,4.3,restaurant|food|point_of_interest|establishment,"426 Macarthur Avenue, Redwood City",Atherton
+ChIJdxVs-wijj4AR5oJF9lCwg0Y,Costco Food Court,37.4786721,-122.2162136,3.4,1.0,39.0,2.78,meal_takeaway|restaurant|food|point_of_interest|establishment,"2300 Middlefield Road, Redwood City",Atherton
+ChIJXTVJKwyjj4ARvII7xttPFEA,Capelo's Barbecue,37.4770957,-122.211542,4.6,2.0,609.0,4.83,restaurant|food|point_of_interest|establishment,"2655 Middlefield Road, Redwood City",Atherton
+ChIJ3WkS1zJ-j4AREr2CVc3EjAM,El Sur Empanadas,37.4754094,-122.2098549,4.8,2.0,130.0,5.04,meal_delivery|meal_takeaway|restaurant|food|point_of_interest|establishment,"2844 Middlefield Road, Redwood City",Atherton
+ChIJ160CvQ2jj4ARTHuyVQFvGis,7 Mares,37.4761035,-122.2102668,3.9,2.0,291.0,4.09,restaurant|food|point_of_interest|establishment,"2809 Middlefield Road, Redwood City",Atherton
+ChIJ1ahxvwijj4ARfg2fwTxoX2Y,Tacos El Grullense E & E,37.4798073,-122.2155053,4.1,1.0,1003.0,4.1,restaurant|food|point_of_interest|establishment,"2401 Middlefield Road, Redwood City",Atherton
+ChIJ9adooRKjj4ARGeiaWeRdeJ8,El Grullense II,37.4744444,-122.2083333,4.3,1.0,224.0,4.3,restaurant|food|point_of_interest|establishment,"2940 Middlefield Road, Redwood City",Atherton
+ChIJuyNWuQ2jj4AREyvQjCyYuuM,Connoisseur Coffee Company,37.4761966,-122.2103889,4.7,1.0,266.0,4.7,cafe|restaurant|food|point_of_interest|store|establishment,"2801 Middlefield Road, Redwood City",Atherton
+ChIJW9X6gSKjj4ARJctbKrSW7S4,Sushinaloa,37.4788519,-122.214288,4.5,,355.0,4.5,restaurant|food|point_of_interest|establishment,"2505 Middlefield Road, Redwood City",Atherton
+ChIJt8dAXemkj4ARXDrSoUeLfh0,Dutch Goose,37.4320471,-122.2015788,4.3,1.0,1454.0,4.3,bar|restaurant|food|point_of_interest|establishment,"3567 Alameda de las Pulgas, Menlo Park",Atherton
+ChIJn8Cf4uukj4ARJ3Z-8BqZ5EI,Lulu's on the Alameda,37.4322851,-122.202136,4.1,1.0,407.0,4.1,restaurant|food|point_of_interest|establishment,"3539 Alameda de las Pulgas, Menlo Park",Atherton
+ChIJlexF--ukj4ARHrF17Uxv5jI,Lutticken's,37.43244139999999,-122.2024388,4.3,1.0,196.0,4.3,bar|restaurant|food|point_of_interest|establishment,"3535 Alameda de las Pulgas, Menlo Park",Atherton
+ChIJgfjkWemkj4ARcjnuZBHmt9w,Avanti Pizza Fresh Pasta,37.431895,-122.20236,4.1,1.0,207.0,4.1,restaurant|food|point_of_interest|establishment,"3536 Alameda de las Pulgas #4, Menlo Park",Atherton
+ChIJX78UQ-mkj4ARRUtM_dZIp0w,Starbucks,37.4316641,-122.2019432,3.9,2.0,213.0,4.09,cafe|restaurant|food|point_of_interest|store|establishment,"3590 Alameda de las Pulgas, Menlo Park",Atherton
+ChIJ2f6HIW6jj4ARypWhxp6NZ78,Chavez Supermarket,37.4675751,-122.2079394,4.1,,760.0,4.1,atm|grocery_or_supermarket|restaurant|food|finance|point_of_interest|store|establishment,"46 Fifth Avenue, Redwood City",Atherton
+ChIJwTmN9myjj4AR9pRALapam3c,Hometown Noodle Restaurant,37.47243159999999,-122.204733,4.0,1.0,362.0,4.0,restaurant|food|point_of_interest|establishment,"3151 Middlefield Road, Redwood City",Atherton
+ChIJ3diSZWyjj4ARnIvP4WJNZfY,Mexcal Taqueria,37.4719321,-122.2039819,4.5,1.0,253.0,4.5,restaurant|food|point_of_interest|establishment,"3215 Middlefield Road, Menlo Park",Atherton
+ChIJre18DG6jj4ARgCEz_CQIXdc,Domino's Pizza,37.4685964,-122.2073825,3.3,1.0,328.0,3.3,meal_delivery|meal_takeaway|restaurant|food|point_of_interest|establishment,"100 Fifth Avenue, Redwood City",Atherton
+ChIJZXIJX2yjj4ARB4En0symZQM,Taqueria Gonzalez,37.4721559,-122.2048351,4.5,2.0,279.0,4.73,restaurant|food|point_of_interest|establishment,"3194 Middlefield Road, Redwood City",Atherton
+ChIJsdCloRKjj4ARew1tmjc1B3Y,La Casita Chilanga,37.47455429999999,-122.208513,4.5,2.0,724.0,4.73,restaurant|food|point_of_interest|establishment,"2928 Middlefield Road, Redwood City",Atherton
+ChIJxW7o92ujj4ARtKaaUtmG0HY,Las Parrillas Restaurant,37.4706668,-122.2032935,3.9,2.0,195.0,4.09,restaurant|food|point_of_interest|establishment,"3284 Middlefield Road, Menlo Park",Atherton
+ChIJS_vu2_Sjj4ARBPbjEHLkE1Q,La Quinta Pizza,37.4694384,-122.2073944,4.7,1.0,178.0,4.7,restaurant|food|point_of_interest|establishment,"151 Fifth Avenue STE B, Redwood City",Atherton
+ChIJy2WW3W2jj4ARZUjZtDtwkNk,La Quinta Plaza,37.4694757,-122.2071596,5.0,,5.0,3.57,restaurant|food|point_of_interest|establishment,"171 Fifth Avenue # 106, Redwood City",Atherton
+ChIJx1Q6S22jj4ARsVXqjIlZQtI,Tacos El Grullense E&E,37.4737417,-122.2073611,4.1,1.0,667.0,4.1,restaurant|food|point_of_interest|establishment,"3018 Middlefield Road, Redwood City",Atherton
+ChIJ685Yfd-jj4ARlbSP4u1v_18,El Guanaco Salvadorean & Mexican Restaurant,37.4740412,-122.2080151,3.6,,21.0,2.75,restaurant|food|point_of_interest|establishment,"2950 B, 2950 Middlefield Road, Redwood City",Atherton
+ChIJt3ryQ0qjj4ARbmOQRFWiSsk,Carnitas El Rincon,37.4740412,-122.2080151,4.1,1.0,49.0,3.47,restaurant|food|point_of_interest|establishment,"2950 Middlefield Road, Redwood City",Atherton
+ChIJLbOUwdyjj4ARPPOmQ0iXy0Q,TacosLosGemelos#2,37.4717643,-122.2044241,4.4,,14.0,3.26,restaurant|food|point_of_interest|establishment,"3200 Middlefield Road, Menlo Park",Atherton
+ChIJleds8Gyjj4AR4mL7j3IqKHQ,Paleteria Los Manguitos,37.47274110000001,-122.205068,4.4,1.0,283.0,4.4,restaurant|food|point_of_interest|store|establishment,"3133 Middlefield Road, Redwood City",Atherton
+ChIJp0_WIACjj4ARHeBcHGRiFtA,Eskina Breakfast & Lunch,37.4733851,-122.2058547,4.9,2.0,164.0,5.15,cafe|restaurant|food|point_of_interest|establishment,"3101 Middlefield Road, Redwood City",Atherton
+ChIJA7pOfFujj4AR8vokupz09J4,Shawarma Palace,37.4733853,-122.2058548,4.4,1.0,62.0,3.9,restaurant|food|point_of_interest|establishment,"3101 Middlefield Road, Redwood City",Atherton
+ChIJbS9puHijj4ARKhaZa0O_hQQ,Comalito,37.4725612,-122.2048114,4.9,1.0,54.0,4.22,restaurant|food|point_of_interest|establishment,"3143 Middlefield Road, Redwood City",Atherton
+ChIJec_rdg2jj4ARZaCCAea3sHc,"El Paisano Taqueria, Carniceria y Market",37.4753407,-122.2096256,4.2,2.0,217.0,4.41,grocery_or_supermarket|restaurant|food|point_of_interest|store|establishment,"2856 Middlefield Road, Redwood City",Atherton
+ChIJjaTui1Kjj4AR9tSzmaQDjGo,Tacos y Ceviche El Atoron,37.4751446,-122.2086025,,,,,restaurant|food|point_of_interest|establishment,"2903 Middlefield Road, Redwood City",Atherton
+ChIJMdOU_mujj4ARbA_kUvfzDFM,Tacos El Jarochito,37.4706982,-122.2027965,4.4,1.0,132.0,4.4,restaurant|food|point_of_interest|establishment,"3360 Middlefield Road, Menlo Park",Atherton
+ChIJs_AgLWqjj4AR5kBhWVrx57Q,Cuco's Burritos,37.47549549999999,-122.2092906,4.7,,403.0,4.7,restaurant|food|point_of_interest|establishment,"2855 Middlefield Road, Redwood City",Atherton
+ChIJ99zFYROjj4ARGCIsm3bqEGA,kicks Sports and Grill,37.47660550000001,-122.2024648,5.0,1.0,10.0,3.65,restaurant|food|point_of_interest|establishment,"3151 Edison Way, Redwood City",Atherton
+ChIJyxdqYMajj4ARRnAZy3oMuqU,Chicken Strips and Dips,37.47776089999999,-122.2114472,5.0,2.0,3.0,3.72,meal_takeaway|restaurant|food|point_of_interest|establishment,"426 Macarthur Avenue, Redwood City",Atherton
+ChIJJfonCGWjj4ARleaZij2ZPjA,Redwood City Eats,37.47776089999999,-122.2114472,4.7,,70.0,4.28,restaurant|food|point_of_interest|establishment,"426 Macarthur Avenue, Redwood City",Atherton
+ChIJNXgranejj4ARJvK6WBg63n4,Taiwanese Eats,37.47776089999999,-122.2114472,4.1,2.0,68.0,3.89,restaurant|food|point_of_interest|establishment,"426 Macarthur Avenue, Redwood City",Atherton
+ChIJXwyeVNOjj4ARs-ULbRXMixE,Chicken with Rice,37.4777766,-122.21146,,,,,meal_takeaway|restaurant|food|point_of_interest|establishment,"426 Macarthur Avenue, Redwood City",Atherton
+ChIJPU9xjkWjj4ARHsLQKsZhBls,Cultured Cuisine,37.4777766,-122.21146,2.7,2.0,3.0,2.01,restaurant|food|point_of_interest|establishment,"426 Macarthur Avenue, Redwood City",Atherton
+ChIJqW3NftCjj4ARyOyYlb_iMUY,Asian Bentos,37.4777766,-122.21146,5.0,2.0,1.0,3.69,restaurant|food|point_of_interest|establishment,"426 Macarthur Avenue, Redwood City",Atherton
+ChIJhbwsCQCjj4AR55Z5CY1VY58,Cheverepa,37.4777766,-122.21146,3.7,2.0,3.0,2.75,restaurant|food|point_of_interest|establishment,"426 Macarthur Avenue, Redwood City",Atherton
+ChIJHUIVZQCjj4ARWmxjy-npDiM,Masa Mediterranean,37.4777766,-122.21146,,1.0,,,restaurant|food|point_of_interest|establishment,"426 Macarthur Avenue, Redwood City",Atherton
+ChIJMQ3Jlc6jj4AR26p7uGgScKw,Taqueria Arroyo,37.475543,-122.2074767,,,,,restaurant|food|point_of_interest|establishment,"2930 Flood Avenue, Redwood City",Atherton
+ChIJCZfXbumkj4AR1p2me3o8urg,Flea Street,37.4318449,-122.2011183,4.5,4.0,431.0,4.59,restaurant|food|point_of_interest|establishment,"3607 Alameda de las Pulgas, Menlo Park",Atherton
+ChIJGfS9j8Ojj4ARM4NPR0cGzMI,Mademoiselle Colette,37.4631854,-122.1969313,4.7,,24.0,3.63,bakery|cafe|store|restaurant|food|point_of_interest|establishment,"2 Dinkelspiel Station Lane Patio, Atherton",Atherton
+ChIJDcpuW2mjj4AR2H18vpzJt8U,Pizza Hut,37.4705847,-122.2015929,3.8,1.0,229.0,3.8,meal_delivery|meal_takeaway|restaurant|food|point_of_interest|establishment,"3415 Middlefield Road, Menlo Park",Atherton
+ChIJ3da_5Gujj4ARVIB1crpdgq4,Tacos el Fogon,37.4709584,-122.2021862,4.3,,153.0,4.3,restaurant|food|point_of_interest|establishment,"3387 Middlefield Road, Menlo Park",Atherton
+ChIJO0dKfqyjj4ARACzh-ssi3TI,FeastPeace,37.4808881,-122.2029577,5.0,,1.0,3.51,meal_delivery|restaurant|food|point_of_interest|store|establishment,"2992 Spring Street, Redwood City",Atherton
+ChIJoQsWL-ujj4ARblhiFq7R0zU,Tacos MariLu Food Truck,37.4765304,-122.2044462,4.3,1.0,6.0,3.09,restaurant|food|point_of_interest|establishment,"3151 Edison Way, Redwood City",Atherton
+ChIJf5oo9k-jj4ARWPwuLUhW2vs,Wing Boss,37.4765115,-122.20137,2.5,3.0,13.0,1.94,restaurant|meal_takeaway|food|point_of_interest|establishment,"604 Fifth Avenue, Redwood City",Atherton
+ChIJKRXoZxujj4AR1ClW0emP4qw,Dickey's Barbecue Pit,37.4765397,-122.20114,3.1,2.0,55.0,2.82,restaurant|store|food|point_of_interest|establishment,"604 Fifth Avenue Suite A and B, Redwood City",Atherton
+ChIJ8zlCyxWjj4ARJLjdcDokinY,El Grullense E&E,37.4798944,-122.2001294,4.2,1.0,346.0,4.2,meal_takeaway|restaurant|food|point_of_interest|establishment,"795 Fifth Avenue, Redwood City",Atherton
+ChIJEUWb_9-jj4AR60Fg_lVlxak,The Empanadas King,37.4808879,-122.2029575,4.4,1.0,88.0,4.24,meal_takeaway|bakery|meal_delivery|restaurant|food|point_of_interest|store|establishment,"2992 Spring Street suite d, Redwood City",Atherton
+ChIJRUHuUBCjj4AR9zcbzFaFtco,Tacos El Grullo,37.48182459999999,-122.2063227,4.3,1.0,157.0,4.3,restaurant|food|point_of_interest|establishment,"2798 Spring Street, Redwood City",Atherton
+ChIJ9X8c_5ajj4ARybUvuGF9iUg,Bay Burgers,37.4823815,-122.2089637,5.0,1.0,19.0,3.78,restaurant|food|point_of_interest|establishment,"2634 Spring Street, Redwood City",Atherton
+ChIJq6CCdl-jj4ARjkoQDdcOsDE,Celia's,37.4595368,-122.1943375,4.2,2.0,859.0,4.41,restaurant|food|point_of_interest|establishment,"1850 El Camino Real, Menlo Park",Atherton
+ChIJp1uWC0mlj4ARsNiuJAYb5Zk,Drunken Monk,37.4565375,-122.1883738,4.1,2.0,139.0,4.3,restaurant|food|point_of_interest|establishment,"1438 El Camino Real, Menlo Park",Atherton
+ChIJM7ikDBajj4ARAsUg0DvUvmA,7-Eleven,37.4813555,-122.1991038,3.2,1.0,43.0,2.65,convenience_store|liquor_store|cafe|store|restaurant|food|point_of_interest|establishment,"895 Fifth Avenue, Redwood City",Atherton
+ChIJW_xz3RWjj4AR4ie8zErIWHA,Cipotes Restaurant,37.48084100000001,-122.1987135,3.6,1.0,606.0,3.6,restaurant|food|point_of_interest|establishment,"828 Fifth Avenue, Redwood City",Atherton
+ChIJN9urM66kj4ARTUoR3reRw2g,Subway,37.4506619,-122.1851727,3.7,1.0,94.0,3.63,meal_takeaway|restaurant|food|point_of_interest|establishment,"809 Santa Cruz Avenue, Menlo Park",Atherton
+ChIJmcQI2K-kj4ARygry3P5HdhU,Starbucks,37.452214,-122.183867,3.9,2.0,253.0,4.09,cafe|restaurant|food|point_of_interest|store|establishment,"643-693 Santa Cruz Avenue, Menlo Park",Atherton
+ChIJXTqVn7qkj4ARa3-Bikh4S9c,Amici's East Coast Pizzeria,37.4503135,-122.1859112,4.2,2.0,525.0,4.41,restaurant|food|point_of_interest|establishment,"880 Santa Cruz Avenue, Menlo Park",Atherton
+ChIJPTPS1q-kj4ARMuL955Oc-tI,Bistro Vida,37.4524799,-122.1834076,4.4,2.0,460.0,4.62,restaurant|food|point_of_interest|establishment,"641 Santa Cruz Avenue, Menlo Park",Atherton
+ChIJ2wlgDrCkj4ARMheNOnjl6wc,Mademoiselle Colette,37.4508806,-122.1853833,4.5,3.0,693.0,4.73,bakery|cafe|restaurant|food|point_of_interest|store|establishment,"816 Santa Cruz Avenue, Menlo Park",Atherton
+ChIJ2aR2-6-kj4ARCRsRgFybxcc,Coffeebar,37.452,-122.1855,4.4,2.0,940.0,4.62,bakery|cafe|meal_takeaway|restaurant|food|point_of_interest|store|establishment,"1149 Chestnut Street, Menlo Park",Atherton
+ChIJKRo4cbCkj4ARTAlpAXF8f7s,The Posh Bagel (Menlo Park),37.4501611,-122.1856063,4.0,1.0,202.0,4.0,bakery|restaurant|food|point_of_interest|store|establishment,"869 Santa Cruz Avenue, Menlo Park",Atherton
+ChIJJa7UG7Ckj4ARWTVwwBUhWU0,Bagel Street Cafe,37.4513695,-122.1849418,4.4,1.0,178.0,4.4,bakery|cafe|restaurant|food|point_of_interest|store|establishment,"746 Santa Cruz Avenue, Menlo Park",Atherton
+ChIJYfJCcSqlj4ARm2v5HkfMSv0,Camper,37.4499958,-122.1861014,4.4,2.0,434.0,4.62,restaurant|food|point_of_interest|establishment,"898 Santa Cruz Avenue, Menlo Park",Atherton
+ChIJ43doM-ulj4ARDDU_2YFai1c,ZENSHI Handcrafted Sushi,37.4491818,-122.185159,,,,,restaurant|meal_takeaway|food|point_of_interest|establishment,"1010 University Drive, Menlo Park",Atherton
+ChIJB0d75rK9j4AR-sgYVBDrIgs,LeVant dessert,37.4507691,-122.1856357,4.4,2.0,166.0,4.62,bakery|cafe|restaurant|food|point_of_interest|store|establishment,"842 Santa Cruz Avenue, Menlo Park",Atherton
+ChIJVVXqDrCkj4ARLM2HcoPKxmY,Roma,37.4508844,-122.1855027,4.1,2.0,270.0,4.3,restaurant|food|point_of_interest|establishment,"820 Santa Cruz Avenue, Menlo Park",Atherton
+ChIJeRPhbgClj4AR9sW9Tqbu0Qs,"yeobo, darling",37.4504806,-122.1851368,4.9,,16.0,3.67,restaurant|food|point_of_interest|establishment,"827 Santa Cruz Avenue, Menlo Park",Atherton
+ChIJ__-UGrCkj4ARFiZnv8KczUg,Clark's Oyster Bar- Menlo Park,37.4512731,-122.1851479,3.8,,27.0,2.97,restaurant|food|point_of_interest|establishment,"780 Santa Cruz Avenue, Menlo Park",Atherton
+ChIJx03r9yilj4ARHXLc1aMnESk,Mrs Khan Uyghur Cuisine,37.4520916,-122.1845493,4.3,2.0,222.0,4.51,restaurant|food|point_of_interest|establishment,"712 Santa Cruz Avenue, Menlo Park",Atherton
+ChIJ9c2m3eelj4ARXFWyLXrjbDo,Tilak Indian and Nepalese Cuisine,37.4521978,-122.1837068,4.5,2.0,235.0,4.73,restaurant|food|point_of_interest|establishment,"683 Santa Cruz Avenue, Menlo Park",Atherton
+ChIJ6ciMyq-kj4ARRLEgxqtHAjQ,STACKS Menlo Park,37.45345599999999,-122.183247,4.3,2.0,1284.0,4.51,restaurant|food|point_of_interest|establishment,"600 Santa Cruz Avenue, Menlo Park",Atherton
+ChIJo4971K-kj4AReyDUlK6mSI0,Left Bank,37.452656,-122.1833172,4.2,3.0,1137.0,4.41,bar|restaurant|food|point_of_interest|establishment,"635 Santa Cruz Avenue, Menlo Park",Atherton
+ChIJJ0dW5KWkj4AREKzj85yKGhw,FEY Restaurant,37.4556584,-122.1868502,4.0,2.0,502.0,4.2,meal_delivery|restaurant|food|point_of_interest|establishment,"1368 El Camino Real, Menlo Park",Atherton
+ChIJiRDbtq-kj4ARtq3vEYcFmvw,Sultana Mediterranean,37.4537158,-122.1836108,4.5,2.0,659.0,4.73,restaurant|food|point_of_interest|establishment,"1149 El Camino Real, Menlo Park",Atherton
+ChIJgyJtva-kj4ARRAkjcifHwv0,Lotus Restaurant,37.4537353,-122.1844533,4.3,1.0,287.0,4.3,restaurant|food|point_of_interest|establishment,"625 Oak Grove Avenue Unit B, Menlo Park",Atherton
+ChIJyX5Cna-kj4ARFVEhKvEn--w,Round Table Pizza,37.4543529,-122.185026,4.2,2.0,367.0,4.41,meal_takeaway|meal_delivery|restaurant|food|point_of_interest|establishment,"1225 El Camino Real, Menlo Park",Atherton
+ChIJiQTY0LGkj4ARaKrhEgWBgHk,Chef Kwan's,37.452247,-122.182585,3.9,2.0,273.0,4.09,restaurant|food|point_of_interest|establishment,"630 Menlo Avenue, Menlo Park",Atherton
+ChIJK5fHMa6kj4AR8DZJff2k-MQ,Trellis Restaurant,37.45324610000001,-122.182664,4.3,2.0,260.0,4.51,restaurant|food|point_of_interest|establishment,"1077 El Camino Real, Menlo Park",Atherton
+ChIJE1BxNq6kj4ARm-YgnncZtO4,British Bankers Club,37.45372909999999,-122.1826871,4.3,2.0,394.0,4.51,restaurant|bar|food|point_of_interest|establishment,"555 Santa Cruz Avenue, Menlo Park",Atherton
+ChIJ4_hc4a6kj4ARrAZhq2MG_bo,7-Eleven,37.4557638,-122.182934,2.8,1.0,35.0,2.25,convenience_store|liquor_store|cafe|restaurant|food|point_of_interest|store|establishment,"525 Oak Grove Avenue, Menlo Park",Atherton
+ChIJ3RNyM66kj4ARFCWUS_Jt3jg,Kyosho,37.4532773,-122.1829578,4.5,4.0,371.0,4.59,restaurant|food|point_of_interest|establishment,"605 Santa Cruz Avenue, Menlo Park",Atherton
+ChIJrbqcMa6kj4ARYORVCGFGaI0,Mama Coco Cocina Mexicana,37.4532544,-122.1827867,4.3,2.0,367.0,4.51,restaurant|food|point_of_interest|establishment,"1081 El Camino Real, Menlo Park",Atherton
+ChIJARB2O66kj4ARF-HVDDNeV7c,Cafe Borrone,37.4537501,-122.1823053,4.4,2.0,2151.0,4.62,cafe|restaurant|food|point_of_interest|establishment,"1010 El Camino Real, Menlo Park",Atherton
+ChIJ1x4tlq-kj4ARmtMkYWUFaV8,La Stanza Cucina Italiana,37.4535769,-122.1845604,4.5,2.0,310.0,4.73,restaurant|food|point_of_interest|establishment,"651 Oak Grove Avenue Suite H, Menlo Park",Atherton
+ChIJ2ZJ7s6-kj4ARGO385nDTuaY,McDonald's,37.4539272,-122.183154,3.7,1.0,911.0,3.7,cafe|restaurant|food|point_of_interest|store|establishment,"1100 El Camino Real, Menlo Park",Atherton
+ChIJ_Wq7za-kj4AR2NguTYVeu84,Cold Stone Creamery,37.4530032,-122.1830461,4.0,2.0,118.0,4.2,bakery|restaurant|food|point_of_interest|store|establishment,"611 Santa Cruz Avenue, Menlo Park",Atherton
+ChIJJ-I5z6-kj4ARIr0WLwxDekM,Menlo Cafe,37.4531213,-122.1837179,4.2,1.0,94.0,4.12,cafe|restaurant|food|point_of_interest|store|establishment,"620 Santa Cruz Avenue, Menlo Park",Atherton
+ChIJPRbE4q6kj4ARvgfhVpQQ-Wc,J & J Hawaiian BBQ,37.45566499999999,-122.1827078,4.2,1.0,655.0,4.2,restaurant|food|point_of_interest|establishment,"1170 Alma Street, Menlo Park",Atherton
+ChIJ_-T3GD-lj4ARuK5KmNgcQBQ,Oak + Violet,37.4561654,-122.1875838,4.3,,305.0,4.3,restaurant|food|point_of_interest|establishment,"1400 El Camino Real, Menlo Park",Atherton
+ChIJpxhC6celj4AR03xbVWGitgU,Hirotaka Sushi,37.4555862,-122.1864197,4.5,2.0,50.0,4.02,restaurant|food|point_of_interest|establishment,"1328 El Camino Real, Menlo Park",Atherton
+ChIJe1sdKlKlj4ARrLC-zqz7wHo,Burma Love,37.4554175,-122.1862363,4.2,2.0,162.0,4.41,restaurant|food|point_of_interest|establishment,"1302 El Camino Real, Menlo Park",Atherton
+ChIJC4JvtdKlj4ARf747hSEVuyo,Che Fico Parco Menlo,37.4553276,-122.1857749,4.0,2.0,132.0,4.2,restaurant|food|point_of_interest|establishment,"1302 El Camino Real, Menlo Park",Atherton
+ChIJiTFlmqalj4AR8JK5BSsP7uk,Proper Food,37.4550313,-122.185385,4.3,,15.0,3.2,restaurant|food|point_of_interest|establishment,"1300 El Camino Real, Menlo Park",Atherton
+ChIJpw1PZ4Olj4AR8fsc3070UDA,Robin Menlo Park,37.45503499999999,-122.1853835,4.7,,102.0,4.7,restaurant|food|point_of_interest|establishment,"1300 El Camino Real Suite C, Menlo Park",Atherton
+ChIJt0ZDhbelj4ARogAJ04UK6Y4,Springline - The Offices (South),37.4553544,-122.1853121,4.7,,3.0,3.33,restaurant|food|point_of_interest|establishment,"1300 El Camino Real, Menlo Park",Atherton
+ChIJ-_yAHQClj4AR4G8J6Gda_NE,Bubbelah,37.4557547,-122.1854195,4.5,,2.0,3.18,restaurant|food|point_of_interest|establishment,"1300 El Camino Real Suite A, Menlo Park",Atherton
+ChIJXfHxRFKlj4AR7ku_2dpX27c,Jason Cafe,37.4548782,-122.1849956,4.5,2.0,126.0,4.73,restaurant|food|point_of_interest|establishment,"1246 El Camino Real, Menlo Park",Atherton
+ChIJdRIQVbKlj4ARR7BFLYsQ1rc,Mr. Green Bubble | Menlo Park,37.453325,-122.1835405,4.2,1.0,132.0,4.2,meal_takeaway|restaurant|food|point_of_interest|store|establishment,"604 Santa Cruz Avenue, Menlo Park",Atherton
+ChIJLylwScmlj4ARj_Cu5p52tuc,Son & Garden,37.4550286,-122.1835962,4.3,2.0,549.0,4.51,restaurant|food|point_of_interest|establishment,"1195 Merrill Street, Menlo Park",Atherton
+ChIJnemarm-lj4AR0SbnSCF4Czk,Farmhouse Kitchen Thai Cuisine,37.4549056,-122.1834202,4.4,1.0,1253.0,4.4,restaurant|food|point_of_interest|establishment,"1165 Merrill Street, Menlo Park",Atherton
+ChIJA424LSylj4ARlVqdsr_STh4,Mac'n Cheese Shop Menlo Park,37.45266729999999,-122.1833631,3.0,,3.0,2.13,meal_takeaway|restaurant|food|point_of_interest|establishment,"635 Santa Cruz Avenue, Menlo Park",Atherton
+ChIJq6r6AK-kj4AR2S_J3xr_5ew,iMenuToGo,37.45486489999999,-122.1833409,,,,,restaurant|food|point_of_interest|establishment,"1165 Merrill Street, Menlo Park",Atherton
+ChIJG9rCFfKlj4ARIBaOF4i5_M8,The Mandarin,37.453024,-122.1822457,4.3,2.0,165.0,4.51,restaurant|food|point_of_interest|establishment,"1029 El Camino Real, Menlo Park",Atherton
+ChIJyyp24eClj4ARq9LeAXdUlFE,Mountain Mike's Pizza,37.4528284,-122.1820794,4.2,2.0,160.0,4.41,meal_takeaway|meal_delivery|restaurant|food|point_of_interest|establishment,"1001 El Camino Real, Menlo Park",Atherton
+ChIJzeMWMVKlj4ARlDbb3WjiFZ0,Mami Cheli's,37.4525801,-122.1815592,4.3,1.0,256.0,4.3,restaurant|food|point_of_interest|establishment,"989 El Camino Real Ste B, Menlo Park",Atherton
+ChIJlyfNd0ijj4ARMMPsRV-Th0c,Starbucks,37.47861899999999,-122.186086,3.9,2.0,692.0,4.09,cafe|restaurant|food|point_of_interest|store|establishment,"Marsh Manor, 995 Marsh Road, Redwood City",Atherton
+ChIJF_y_20ejj4AR9R7-uYnJtOM,Freewheel Brewing Company - Best Brewery and Restaurant in Redwood City,37.4782969,-122.1870338,4.6,2.0,441.0,4.83,bar|restaurant|food|point_of_interest|establishment,"3736 Florence Street, Redwood City",Atherton
+ChIJ1_3qwUejj4ARR2LFfqhuGCo,Los Gallos Taqueria,37.4783394,-122.187192,4.2,1.0,684.0,4.2,restaurant|food|point_of_interest|establishment,"3726 Florence Street, Redwood City",Atherton
+ChIJQbl1wUejj4ARJ83XFomeFhw,Marsh Manor Shopping Center,37.4784065,-122.1871231,4.3,,720.0,4.3,shopping_mall|grocery_or_supermarket|restaurant|food|point_of_interest|store|establishment,"3700 Florence Street, Redwood City",Atherton
+ChIJM2JWkk6jj4ARniMrOcsXTnw,State of Mind Public House and Pizzeria,37.47826269999999,-122.1874204,4.6,1.0,117.0,4.6,restaurant|food|point_of_interest|establishment,"3710 Florence Street, Redwood City",Atherton
+ChIJAdkuPWqjj4ARRdQMSi_gRAE,Lavender 'n Cream,37.47828159999999,-122.1872289,4.3,2.0,100.0,4.51,bakery|cafe|restaurant|food|point_of_interest|store|establishment,"3716 Florence Street, Redwood City",Atherton
+ChIJEd_m3i27j4ARpK8gpI1kGlM,Feast and Floral,37.4783751,-122.1865098,5.0,,26.0,3.89,restaurant|florist|bar|food|point_of_interest|store|establishment,"3770 Florence Street, Redwood City",Atherton
+ChIJc-KUEdOkj4ARdvJTa-mR1JM,Beckman Bistro,37.4318753,-122.1763953,4.3,1.0,112.0,4.3,cafe|restaurant|food|point_of_interest|establishment,"279 Campus Drive W, Stanford",Atherton
+ChIJSXqoANOkj4ARhxIaLTXHhgk,Lutticken's Deli,37.43214830000001,-122.1772972,4.2,1.0,76.0,3.9,restaurant|food|point_of_interest|store|establishment,"269 Campus Drive, Stanford",Atherton
+ChIJgzataM2kj4ARQmigzDUgYcw,ZoomCaffe,37.4357298,-122.1763631,3.2,,10.0,2.34,cafe|restaurant|food|point_of_interest|store|establishment,"Stanford Hospital, 875 Blake Wilbur Drive, Palo Alto",Atherton
+ChIJtRbwQNOkj4ARflHkYQ2Lt-4,Alway Cafe,37.4317617,-122.1758062,,,,,cafe|restaurant|food|point_of_interest|store|establishment,"300 Pasteur Drive, Stanford",Atherton
+ChIJaUR5aWSlj4ARw6CG3DFkPQY,Kali Stanford,37.43017760000001,-122.1764784,5.0,,1.0,3.51,restaurant|food|point_of_interest|establishment,"290 Jane Stanford Way, Palo Alto",Atherton
+ChIJW6n8VCu7j4ARUfRs20MkcpA,Greenfish Cafe,37.43099290000001,-122.174685,4.1,1.0,239.0,4.1,restaurant|food|point_of_interest|establishment,"318 Campus Drive, Stanford",Atherton
+ChIJAQB0y8ukj4ARIh3K6QumFHc,Cafe Wisteria,37.4415123,-122.1791504,4.5,2.0,114.0,4.73,restaurant|food|point_of_interest|establishment,"75 Arbor Road, Menlo Park",Atherton
+ChIJQaUX9rGkj4AR0094cczM7es,Jeffrey's Hamburgers,37.4525122,-122.1802369,4.5,2.0,1448.0,4.73,restaurant|food|point_of_interest|establishment,"888 El Camino Real, Menlo Park",Atherton
+ChIJPbMu7rGkj4ARhNZdO83g59k,Octopus Japanese Restaurant,37.452292,-122.1810132,4.4,2.0,181.0,4.62,restaurant|food|point_of_interest|establishment,"925 El Camino Real, Menlo Park",Atherton
+ChIJZ1UNLrKkj4ARKcgVQRourdA,Cook's Seafood,37.451466,-122.17955,4.5,2.0,1151.0,4.73,restaurant|food|point_of_interest|establishment,"751 El Camino Real, Menlo Park",Atherton
+ChIJze7hSbKkj4ARozcgS2khx2Q,MP Mongolian BBQ,37.4518168,-122.1790433,4.3,2.0,450.0,4.51,restaurant|food|point_of_interest|establishment,"700 El Camino Real, Menlo Park",Atherton
+ChIJKQDyuVGlj4ARv_rHjJdjDAw,Guapa's Mexican Grill,37.4496803,-122.1784631,4.3,1.0,73.0,3.95,restaurant|food|point_of_interest|establishment,"515 El Camino Real suite 110, Menlo Park",Atherton
+ChIJeZwEO3Klj4AR_gcdPbBFgu4,ZENSHI Handcrafted Sushi,37.4505164,-122.1790396,,,,,restaurant|meal_takeaway|food|point_of_interest|establishment,"525 El Camino Real, Menlo Park",Atherton
+ChIJIe6BnIOlj4ARXPthTKjwgag,Peninsula meals an wheels,37.4523847,-122.1797053,,,,,restaurant|food|point_of_interest|establishment,"800 El Camino Real Suite #100, Menlo Park",Atherton
+ChIJDTJ6wNalj4ARy6J-AIBdFD0,The Villa Menlo Park,37.4510321,-122.1773984,5.0,,2.0,3.53,shopping_mall|jewelry_store|restaurant|food|point_of_interest|store|establishment,"500 El Camino Real, Menlo Park",Atherton
+ChIJ6T-LuB-lj4ARpKsYLq_ZApg,Ren Omakase,37.4497487,-122.1764992,5.0,,9.0,3.63,restaurant|food|point_of_interest|establishment,"403 El Camino Real, Menlo Park",Atherton
+ChIJ03qnoLSkj4ARY8QLKH73qlM,Eylan,37.45114499999999,-122.177326,4.5,,120.0,4.5,restaurant|food|point_of_interest|establishment,"500 El Camino Real, Menlo Park",Atherton
+ChIJM3CutDW7j4ARoinoUTTB1Ng,Chipotle Mexican Grill,37.4442663,-122.1708902,3.1,1.0,889.0,3.1,restaurant|food|point_of_interest|establishment,"180 El Camino Real Ste 15A, Palo Alto",Atherton
+ChIJ2VtDOzS7j4ARaKOgGvJXoJ4,Fleming’s Prime Steakhouse & Wine Bar,37.44457,-122.1703298,4.4,4.0,1174.0,4.49,bar|restaurant|food|point_of_interest|establishment,"180 El Camino Real G-2, Palo Alto",Atherton
+ChIJexdrvjK7j4AR--GDhkDzYds,Tootsie's At The Stanford Barn,37.437217,-122.173251,4.4,2.0,445.0,4.62,cafe|restaurant|food|point_of_interest|establishment,"700 Welch Road, Palo Alto",Atherton
+ChIJo5nmsTW7j4ART3mdPx6VTDU,Pressed Juicery,37.44228020000001,-122.1709101,4.3,2.0,231.0,4.51,store|health|restaurant|food|point_of_interest|establishment,"660 Stanford Shopping Center Ste 230, Palo Alto",Atherton
+ChIJWd3-EjS7j4ARBpErHQgwXDU,NM Cafe,37.4413282,-122.1726101,4.3,2.0,39.0,3.69,restaurant|cafe|bar|food|point_of_interest|establishment,"400 Stanford Shopping Center, Palo Alto",Atherton
+ChIJD9VYOzS7j4ARus4pfa0zkJU,The Melt,37.4430947,-122.1725973,4.4,2.0,1968.0,4.62,restaurant|food|point_of_interest|establishment,"180 El Camino Real, Palo Alto",Atherton
+ChIJFzb5MDO7j4ARWg30HzjPZmI,Bazille,37.43910090000001,-122.1735263,4.3,2.0,156.0,4.51,restaurant|food|point_of_interest|establishment,"550 Stanford Shopping Center, Palo Alto",Atherton
+ChIJISfg6jK7j4AR1QjILutJPms,Vina Enoteca,37.4372072,-122.1732643,4.5,3.0,825.0,4.73,bar|restaurant|food|point_of_interest|establishment,"700 Welch Road #110, Palo Alto",Atherton
+ChIJmdKIrTW7j4AROXkl-g4j78k,Tender Greens,37.4433554,-122.1703904,4.2,2.0,840.0,4.41,restaurant|food|point_of_interest|establishment,"180 El Camino Real Suite 1050, Palo Alto",Atherton
+ChIJt9KIrTW7j4ARjb1bTp5MW-E,True Food Kitchen,37.443921,-122.170323,4.2,2.0,2320.0,4.41,meal_takeaway|restaurant|food|point_of_interest|establishment,"180 El Camino Real Ste 1140, Palo Alto",Atherton
+ChIJhXcepTW7j4ARkdzoQMZEBoU,McDonald's,37.4426808,-122.1705781,3.7,1.0,701.0,3.7,cafe|store|restaurant|food|point_of_interest|establishment,"208 Stanford Shopping Center, Palo Alto",Atherton
+ChIJJzcXtnO7j4ARGsdmlyvEgYI,Pacific Catch,37.4427423,-122.1729721,4.2,2.0,667.0,4.41,restaurant|food|point_of_interest|establishment,"711 Stanford Shopping Center, Palo Alto",Atherton
+ChIJw9v7bFC7j4ARqHLv-7H0mZQ,Hummus Mediterranean Kitchen,37.4427416,-122.1728852,4.6,2.0,347.0,4.83,restaurant|food|point_of_interest|establishment,"715 Stanford Shopping Center, Palo Alto",Atherton
+ChIJq7CK9n27j4ARk-wBfkPd78s,Pizzone,37.4372072,-122.1732643,4.3,,11.0,3.15,meal_delivery|meal_takeaway|restaurant|food|point_of_interest|establishment,"700 Welch Road #110, Palo Alto",Atherton
+ChIJGcqedvy7j4AR3qCgK_C-3qU,Taro San Japanese Noodle Bar,37.4428155,-122.1725344,3.9,2.0,639.0,4.09,restaurant|food|point_of_interest|establishment,"717 Stanford Shopping Center, Palo Alto",Atherton
+ChIJ-cKKzxa7j4ARMboigp4Thvk,Sushi Roku Palo Alto,37.4431814,-122.1724721,4.2,,160.0,4.2,restaurant|food|point_of_interest|establishment,"180 El Camino Real Suite 700a, Palo Alto",Atherton
+ChIJT4HbOAC7j4ARTCe1vbVPVT8,Delarosa,37.4432828,-122.1721584,,,,,restaurant|food|point_of_interest|establishment,"136 Stanford Shopping Center, Palo Alto",Atherton
+ChIJFcnfCkK7j4ARKg5J99QKKpU,Wetzel's Pretzels,37.442544,-122.1710704,3.4,1.0,22.0,2.6,bakery|restaurant|food|point_of_interest|store|establishment,"660 Stanford Shopping Center #228A, Palo Alto",Atherton
+ChIJpbeYtaS7j4ARHndrtIWzx2k,Cedar And Sage Bistro,37.4444078,-122.1722516,,,,,bar|restaurant|food|point_of_interest|establishment,"1301 Stanford Shopping Center, Palo Alto",Atherton
+ChIJxQENlQ67j4AReETtyacmZA4,RH Rooftop Restaurant at RH Palo Alto,37.4447784,-122.1722412,3.9,,255.0,3.9,restaurant|food|point_of_interest|establishment,"180 El Camino Real Building B, Palo Alto",Atherton
+ChIJk0N57Sm7j4ARq4jfPi88hKY,World Wrapps,37.4425494,-122.1705679,4.6,2.0,154.0,4.83,restaurant|food|point_of_interest|establishment,"180 Stanford Shopping Center Unit 240-C, Palo Alto",Atherton
+ChIJLwPku6e7j4ARG-kJtwaHoHk,JOE & THE JUICE,37.4428345,-122.1706597,3.2,2.0,146.0,3.36,meal_takeaway|cafe|restaurant|food|point_of_interest|store|establishment,"Urban Area, 669 Stanford Shopping Center, Palo Alto",Atherton
+ChIJ90rubDS7j4AR7pLFdYlNGU4,Go Fish Poke Bar- Stanford Shopping Center,37.4427274,-122.1705035,4.3,2.0,509.0,4.51,restaurant|food|point_of_interest|establishment,"660 Stanford Shopping Center #244B, Palo Alto",Atherton
+ChIJBRqe0TW7j4ARopovC5rU388,Dumpling Time Stanford,37.4449754,-122.1715713,3.9,,21.0,2.98,restaurant|food|point_of_interest|establishment,"180 El Camino Real #1410, Palo Alto",Atherton
+ChIJDdfCXjG7j4ARfPRwX96UcCs,ZoomCaffe,37.44151489999999,-122.1686795,4.1,,12.0,3.02,cafe|restaurant|food|point_of_interest|store|establishment,"211 Quarry Road Stanford Hospital Hoover Pavilion, Palo Alto",Atherton
+ChIJYa_Hwm27j4ARnruqUA4l5Vc,Shake Shack Stanford Shopping Center,37.4436468,-122.1685085,3.9,2.0,1949.0,4.09,meal_takeaway|restaurant|food|point_of_interest|establishment,"180 El Camino Real Suite #950, Palo Alto",Atherton
+ChIJ64ktUF67j4ARKikpyeVJKPA,Menlo Tavern,37.4477243,-122.1721992,4.3,,317.0,4.3,restaurant|food|point_of_interest|establishment,"100 El Camino Real, Menlo Park",Atherton

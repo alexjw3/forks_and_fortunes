@@ -1,0 +1,950 @@
+place_id,name,lat,lng,rating,price_level,user_ratings_total,quality_score,types,vicinity,city
+ChIJD1hlWPGdj4ARnx5LiyOUYnc,Stella,37.5772454,-122.3492036,4.4,3.0,575.0,4.62,restaurant|food|point_of_interest|establishment,"1448 Burlingame Avenue, Burlingame",Foster City
+ChIJq7QoI_Gdj4AR2mo3R1T66k0,Sapore Italiano Ristorante,37.5770038,-122.3491073,4.3,2.0,599.0,4.51,meal_takeaway|restaurant|food|point_of_interest|establishment,"1447 Burlingame Avenue, Burlingame",Foster City
+ChIJj2yyE_Gdj4ARW78PDfzi8-4,Alana's Cafe,37.5777061,-122.3485619,4.5,2.0,549.0,4.73,cafe|restaurant|food|point_of_interest|establishment,"1408 Burlingame Avenue, Burlingame",Foster City
+ChIJ7U0IaPGdj4ARLM_Tglutr7Q,Barracuda Japanese Restaurant,37.5783369,-122.3490101,4.1,2.0,230.0,4.3,bar|restaurant|food|point_of_interest|establishment,"347 Primrose Road, Burlingame",Foster City
+ChIJSxp0RfCdj4AR-qT7eTk1510,Five Guys,37.5766966,-122.3470996,4.2,2.0,540.0,4.41,meal_takeaway|restaurant|food|point_of_interest|establishment,"203 Primrose Road, Burlingame",Foster City
+ChIJG_UZdvGdj4ARZ3xlQKgMTSM,Crepevine Restaurants,37.5784598,-122.347563,4.5,2.0,2028.0,4.73,restaurant|food|point_of_interest|establishment,"1310 Burlingame Avenue, Burlingame",Foster City
+ChIJ6QI8VfCdj4ARVw83lkffb4A,Pizza My Heart,37.5770889,-122.3475056,4.3,1.0,399.0,4.3,meal_takeaway|restaurant|food|point_of_interest|establishment,"235 Primrose Road, Burlingame",Foster City
+ChIJV-z5IfGdj4ARWuykkidQUGk,Rise Pizzeria,37.5769297,-122.3491792,4.4,2.0,577.0,4.62,restaurant|food|point_of_interest|establishment,"1451 Burlingame Avenue, Burlingame",Foster City
+ChIJl5DGPfGdj4ARO23eOTbXagc,Pizzeria Delfina,37.5773187,-122.3490987,4.4,2.0,815.0,4.62,bar|restaurant|food|point_of_interest|establishment,"1444 Burlingame Avenue, Burlingame",Foster City
+ChIJ-eJEC_Gdj4ARqgsDnel8P3c,Asian Box,37.5776941,-122.3481089,4.1,1.0,268.0,4.1,restaurant|food|point_of_interest|establishment,"1401 Burlingame Avenue, Burlingame",Foster City
+ChIJI7FkUPCdj4ARYqyVbY1njeE,Ike's Love & Sandwiches,37.57659719999999,-122.3469417,4.2,2.0,325.0,4.41,meal_takeaway|meal_delivery|restaurant|food|point_of_interest|establishment,"1400 Howard Avenue, Burlingame",Foster City
+ChIJi2qSIfGdj4ARhA6S8HTi2_A,Panda Express,37.5768874,-122.3492321,3.9,1.0,439.0,3.9,meal_takeaway|meal_delivery|restaurant|food|point_of_interest|establishment,"1453 Burlingame Avenue, Burlingame",Foster City
+ChIJyTbSawydj4ARmC9sozt31wQ,ZENSHI Handcrafted Sushi,37.5772168,-122.350384,,,,,restaurant|meal_takeaway|food|point_of_interest|establishment,"1477 Chapin Avenue, Burlingame",Foster City
+ChIJo4mAInudj4ARfBZWtua6lkk,ZENSHI Handcrafted Sushi,37.5764333,-122.348304,,,,,restaurant|meal_takeaway|food|point_of_interest|establishment,"1450 Howard Avenue, Burlingame",Foster City
+ChIJ0S5UF_Gdj4ARrPuY3r7Z-yY,Rasoi Restaurant & Lounge,37.57728879999999,-122.3486586,4.2,2.0,631.0,4.41,restaurant|food|point_of_interest|establishment,"1425 Burlingame Avenue, Burlingame",Foster City
+ChIJS61xWPGdj4ARtjQ_yit3l8E,Chouchou French Bistro,37.5787343,-122.3495982,4.2,,64.0,3.75,restaurant|food|point_of_interest|establishment,"401 Primrose Road, Burlingame",Foster City
+ChIJefXFTACdj4ARQlA2vGf2AXk,ACAN,37.5781705,-122.3489647,5.0,,8.0,3.62,bar|restaurant|food|point_of_interest|establishment,"339 Primrose Road, Burlingame",Foster City
+ChIJXSwMTU6dj4AR8jC5y1F01_Q,Masala Desi Cafe - Burlingame,37.5780938,-122.3486515,4.3,2.0,304.0,4.51,cafe|restaurant|food|point_of_interest|store|establishment,"321 Primrose Road, Burlingame",Foster City
+ChIJ45ZB6_Gdj4ARJDuklX8gUXk,Cafe Cherimoya,37.5776125,-122.3482331,4.4,1.0,109.0,4.4,restaurant|food|point_of_interest|establishment,"1407 Burlingame Avenue, Burlingame",Foster City
+ChIJ_5A2dNidj4ARCPcTAiyWG6s,Palmetto Superfoods - Burlingame,37.5768328,-122.347347,4.4,1.0,123.0,4.4,restaurant|food|point_of_interest|store|establishment,"225 Primrose Road, Burlingame",Foster City
+ChIJRXdXdfGdj4AR5Os-G3Wld1Y,Mediterranean Kebab,37.57831580000001,-122.3476746,4.4,2.0,872.0,4.62,restaurant|food|point_of_interest|establishment,"1318 Burlingame Avenue, Burlingame",Foster City
+ChIJ4yAec_Gdj4AR0xmQ_i0_EbA,Caffe Central,37.57813229999999,-122.3481776,4.4,2.0,671.0,4.62,restaurant|cafe|food|point_of_interest|establishment,"1380 Burlingame Avenue, Burlingame",Foster City
+ChIJG6jeC_Gdj4ARv195CmDimAo,JOE & THE JUICE,37.5777529,-122.347801,3.6,2.0,210.0,3.78,cafe|meal_takeaway|restaurant|food|point_of_interest|store|establishment,"1395 Burlingame Avenue Street, Burlingame",Foster City
+ChIJxyMCLPKdj4ARCOZkwvPLG1c,Il Fornaio,37.579933,-122.347116,4.3,2.0,1249.0,4.51,restaurant|food|point_of_interest|establishment,"327 Lorton Avenue, Burlingame",Foster City
+ChIJj2pBJfKdj4AR4qXVqaOjAJY,Stacks,37.5802157,-122.3469846,4.4,2.0,1381.0,4.62,restaurant|food|point_of_interest|establishment,"361 California Drive, Burlingame",Foster City
+ChIJiahRlPGdj4ARJjeUd2mmutU,Mingalaba Restaurant,37.5788556,-122.3464861,4.3,2.0,1206.0,4.51,restaurant|food|point_of_interest|establishment,"1213 Burlingame Avenue, Burlingame",Foster City
+ChIJz_ye9vGdj4ARoBGsAmTo-ys,Flights Restaurant By Alex Hult - Burlingame,37.5797044,-122.3456551,4.0,3.0,690.0,4.2,restaurant|bar|food|point_of_interest|establishment,"1100 Burlingame Avenue, Burlingame",Foster City
+ChIJq2Lo6SR2j4ARZiFdFBGLo9w,Broadway Grill,37.5848886,-122.3658926,4.4,3.0,539.0,4.62,bar|restaurant|food|point_of_interest|establishment,"1400 Broadway, Burlingame",Foster City
+ChIJbaUbkfGdj4AR6fN-d_gjBOE,Copenhagen Bakery & Cafe,37.5790611,-122.3466333,4.4,2.0,1469.0,4.62,bakery|cafe|store|restaurant|food|point_of_interest|establishment,"1216 Burlingame Avenue, Burlingame",Foster City
+ChIJDVVK5CR2j4ARgPE-lTYlOWc,Broadway Prime,37.5853618,-122.3654883,4.3,3.0,632.0,4.51,restaurant|food|point_of_interest|establishment,"1316 Broadway, Burlingame",Foster City
+ChIJqfq09yR2j4ARZNC9Jan_MZs,Shabu House,37.5855389,-122.3646944,4.4,2.0,388.0,4.62,restaurant|food|point_of_interest|establishment,"1150 Paloma Avenue, Burlingame",Foster City
+ChIJP8ZRyCV2j4ARfqQbhMi2gHE,Mokutanya,37.5869891,-122.3631169,4.2,3.0,941.0,4.41,restaurant|food|point_of_interest|establishment,"1155 California Drive, Burlingame",Foster City
+ChIJy00E44mdj4AR99aRw38wQZw,7-Eleven,37.5870523,-122.3558838,2.6,1.0,38.0,2.12,convenience_store|liquor_store|cafe|store|restaurant|food|point_of_interest|establishment,"975 Rollins Road, Burlingame",Foster City
+ChIJQeCH7yR2j4ARUbr89ybs_w8,Cafe Figaro,37.585413,-122.36569,4.5,2.0,330.0,4.73,bar|restaurant|food|point_of_interest|establishment,"1318 Broadway, Burlingame",Foster City
+ChIJabgbACV2j4ARD2wh28Cgs6Y,Village Host Pizza & Grill,37.58604400000001,-122.364574,4.2,2.0,341.0,4.41,meal_delivery|restaurant|food|point_of_interest|establishment,"1201 Broadway, Burlingame",Foster City
+ChIJ9fMJf_Gdj4ARbfmd9QthUW0,Leland Tea Company - Burlingame,37.57902970000001,-122.3474149,4.6,,164.0,4.6,cafe|restaurant|food|point_of_interest|establishment,"1223 Donnelly Avenue, Burlingame",Foster City
+ChIJq6vw5CR2j4ARP1LVGHioYOM,Subway,37.5854576,-122.3654668,3.8,1.0,133.0,3.8,meal_takeaway|restaurant|food|point_of_interest|establishment,"1308 Broadway, Burlingame",Foster City
+ChIJy-qn4iR2j4ARubCFxpW4lh0,Starbucks,37.5859008,-122.3651705,4.0,2.0,406.0,4.2,cafe|restaurant|food|point_of_interest|store|establishment,"1230 Broadway, Burlingame",Foster City
+ChIJC_Wb6fGdj4ARccrYARYUlsM,Trapeze Restaurant,37.5789776,-122.3456688,4.4,2.0,332.0,4.62,restaurant|food|point_of_interest|establishment,"266 Lorton Avenue, Burlingame",Foster City
+ChIJV4om8_Gdj4ARaKVKFBV_L7Q,Starbucks,37.5794516,-122.346146,4.1,2.0,488.0,4.3,cafe|restaurant|food|point_of_interest|store|establishment,"1160 Lorton Avenue, Burlingame",Foster City
+ChIJKUxY8fGdj4ARzMgsgdkCFlk,Blue Line Pizza,37.57962329999999,-122.3457987,4.4,2.0,720.0,4.62,bar|restaurant|food|point_of_interest|establishment,"1108 Burlingame Avenue, Burlingame",Foster City
+ChIJkxrB_yR2j4ARArTT1P_8Ou0,Ristorante Rocca,37.58601639999999,-122.3646821,4.5,2.0,552.0,4.73,bar|restaurant|food|point_of_interest|establishment,"1205 Broadway, Burlingame",Foster City
+ChIJ7xbkqSV2j4ARMmIU5GRzkWs,Bonne Sante Broadway,37.5846293,-122.3658061,4.5,1.0,193.0,4.5,meal_takeaway|restaurant|food|point_of_interest|establishment,"1431 Broadway, Burlingame",Foster City
+ChIJr6t18iR2j4ARAxZG3SeWvfs,Cafe Capuchino,37.584843,-122.3654139,4.9,1.0,156.0,4.9,cafe|restaurant|food|point_of_interest|store|establishment,"1158 Capuchino Avenue, Burlingame",Foster City
+ChIJa3BqASV2j4AR0Z5qgwuefME,Young Can Wok Chinese Bistro,37.5862695,-122.3648867,4.1,2.0,211.0,4.3,restaurant|food|point_of_interest|establishment,"1200 Broadway, Burlingame",Foster City
+ChIJv0hH8PGdj4ARvHkSMaWAuhs,Deja vu Juice Bar,37.57945369999999,-122.3455379,4.4,2.0,111.0,4.62,meal_takeaway|restaurant|food|point_of_interest|store|establishment,"1109 Burlingame Avenue, Burlingame",Foster City
+ChIJU0mV-vGdj4ARTvs5m0l5JYc,Limón,37.5795444,-122.3454031,4.4,2.0,2318.0,4.62,restaurant|food|point_of_interest|establishment,"1101 Burlingame Avenue, Burlingame",Foster City
+ChIJofaR7yR2j4ARuKNI4uVDOKU,Behan's An Irish Pub,37.58522780000001,-122.3653139,4.4,1.0,290.0,4.4,bar|restaurant|food|point_of_interest|establishment,"1327 Broadway, Burlingame",Foster City
+ChIJW3ii8PGdj4AR1x1zsySJ93k,La Corneta Taqueria,37.5792406,-122.3459085,4.2,1.0,918.0,4.2,restaurant|food|point_of_interest|establishment,"1123 Burlingame Avenue, Burlingame",Foster City
+ChIJ6aPNyfSdj4AROZpGeQ99Cgs,Hanabi Ramen and Japanese Curry,37.5824033,-122.3518959,4.6,2.0,629.0,4.83,restaurant|food|point_of_interest|establishment,"723 California Drive, Burlingame",Foster City
+ChIJW5G6riV2j4ARpecjQWBW1OU,Royal Donut Cafe,37.58651949999999,-122.3641293,4.5,1.0,461.0,4.5,bakery|cafe|restaurant|food|point_of_interest|store|establishment,"1165 Broadway, Burlingame",Foster City
+ChIJTTER7SR2j4ARt_v48U0Kbyo,Que SeRaw SeRaw,37.5848337,-122.3653863,4.7,2.0,77.0,4.59,meal_takeaway|restaurant|food|point_of_interest|establishment,"1160 Capuchino Avenue, Burlingame",Foster City
+ChIJTw8ywjCdj4ARTc2cAghHatk,Truffle Poké Bar,37.5797019,-122.3475726,4.0,2.0,22.0,3.22,restaurant|food|point_of_interest|establishment,"1212 Donnelly Avenue, Burlingame",Foster City
+ChIJ8Ule_iR2j4ARa3XRKhoN3lU,il Piccolo Caffe,37.5858833,-122.3648127,4.5,1.0,304.0,4.5,cafe|restaurant|food|point_of_interest|store|establishment,"1219 Broadway, Burlingame",Foster City
+ChIJk4HvGi-dj4AR0ojgJrnLKLQ,Twelvemonth,37.5798503,-122.3464763,4.4,,352.0,4.4,restaurant|bakery|bar|food|point_of_interest|store|establishment,"330 Lorton Avenue, Burlingame",Foster City
+ChIJ9TBrXgB3j4AR8NdHIsecCpw,Shabu Club,37.5856216,-122.3646392,4.5,,8.0,3.26,restaurant|food|point_of_interest|establishment,"1150 Paloma Avenue, Burlingame",Foster City
+ChIJmfS6WKKdj4ARmJK7r9oRPWE,SaltYard Restaurant and Bar,37.5797334,-122.3463108,4.3,2.0,535.0,4.51,restaurant|food|point_of_interest|establishment,"322 Lorton Avenue, Burlingame",Foster City
+ChIJg5xCC1Gdj4ARoMzsrfs2AxE,Urban Kitchen,37.57948189999999,-122.3461381,4.8,2.0,380.0,5.04,restaurant|food|point_of_interest|establishment,"1152 Burlingame Avenue, Burlingame",Foster City
+ChIJORjJh2d3j4ARPJK8q1uPWXM,Himali Bistro,37.5855556,-122.365,4.9,,172.0,4.9,restaurant|food|point_of_interest|establishment,"1251 Broadway, Burlingame",Foster City
+ChIJO2sKxnx3j4ARpniKb67Ix2Q,Bistro Arancini,37.585844,-122.3647056,4.7,2.0,59.0,4.33,restaurant|food|point_of_interest|establishment,"1219 Broadway, Burlingame",Foster City
+ChIJjfYPxC52j4ARLlCAR6jjt9c,Max's of Burlingame,37.5923271,-122.3621063,4.1,2.0,1587.0,4.3,bar|restaurant|food|point_of_interest|establishment,"1250 Old Bayshore Highway, Burlingame",Foster City
+ChIJiYoH-4idj4ARlr9MWyW8vg4,Gabriel & Daniel's Mexican Grill,37.5901242,-122.3528633,4.7,1.0,417.0,4.7,restaurant|food|point_of_interest|establishment,"250 Anza Boulevard, Burlingame",Foster City
+ChIJA8gg0Yidj4ARgPypyVcf6rI,37 North,37.5906189,-122.3510039,4.1,2.0,164.0,4.3,restaurant|food|point_of_interest|establishment,"835 Airport Boulevard, Burlingame",Foster City
+ChIJQSxYoSV2j4ARlgCVyTXyfrc,Yangon,37.5870881,-122.3641562,4.5,2.0,245.0,4.73,restaurant|food|point_of_interest|establishment,"1136 Broadway, Burlingame",Foster City
+ChIJkRSqpi52j4ARLwQ_-AEBaZI,Se Come Asi Taqueria,37.5935015,-122.3629154,4.0,1.0,224.0,4.0,restaurant|food|point_of_interest|establishment,"1302 Old Bayshore Highway, Burlingame",Foster City
+ChIJu64dBI-dj4ARPtbsrwFK2VM,Tap & Tavern,37.5914205,-122.3480166,3.8,2.0,122.0,3.99,bar|restaurant|food|point_of_interest|establishment,"150 Anza Boulevard, Burlingame",Foster City
+ChIJm5HKKSZ2j4ARdqUtcDBPwxk,West Bay Café,37.5902765,-122.3596811,3.5,,139.0,3.5,bar|restaurant|food|point_of_interest|establishment,"1177 Airport Boulevard, Burlingame",Foster City
+ChIJN2ifh5Sdj4ARSGtJq3FanRE,Topgolf Burlingame,37.589547,-122.3552829,3.9,2.0,244.0,4.09,restaurant|food|point_of_interest|establishment,"258 Anza Boulevard, Burlingame",Foster City
+ChIJxVY3wSV2j4ARhhR0g-Xi2iI,Maverick Jack's,37.5876087,-122.363061,4.4,2.0,730.0,4.62,restaurant|food|point_of_interest|establishment,"1190 California Drive, Burlingame",Foster City
+ChIJ6eT1eKp3j4ARtqja3C5FJGQ,Society Restaurant & Hookah Lounge,37.58717169999999,-122.3641191,4.7,2.0,103.0,4.94,restaurant|food|point_of_interest|establishment,"1130 Broadway, Burlingame",Foster City
+ChIJ0Tmb71F3j4ARtbbnJId6hC0,Jayli’s Cocina,37.5863038,-122.3642615,4.5,2.0,23.0,3.63,restaurant|food|point_of_interest|establishment,"1199 Broadway Suite 2, Burlingame",Foster City
+ChIJj93oSJl3j4ARunOR_4JIHyw,Mediterranean Pizza and Gyros,37.58632749999999,-122.3642851,4.7,2.0,275.0,4.94,restaurant|food|point_of_interest|establishment,"1199 Broadway, Burlingame",Foster City
+ChIJQ_g-XSl3j4ARdAA4LYj7ZIg,Pulpo Restaurant & Wine Bar,37.5864835,-122.3645924,4.4,2.0,134.0,4.62,bar|restaurant|food|point_of_interest|establishment,"1184 Broadway, Burlingame",Foster City
+ChIJbeJAtwN3j4ARjIcILBbWNcM,Fuumi,37.5864504,-122.364746,4.4,2.0,152.0,4.62,restaurant|food|point_of_interest|establishment,"1190 Broadway, Burlingame",Foster City
+ChIJd14KIfV3j4ARlAEUohNRoQg,Curry Hyuga,37.5861843,-122.3649388,4.7,2.0,473.0,4.94,restaurant|food|point_of_interest|establishment,"1204 Broadway, Burlingame",Foster City
+ChIJDYmqBax3j4ARH3z-fDQTfpI,Broadway Kebab & Gyros,37.5858739,-122.3652479,4.7,2.0,163.0,4.94,restaurant|food|point_of_interest|establishment,"1232 Broadway, Burlingame",Foster City
+ChIJndyPICp3j4ARaCUaOEoQ0OU,Sweet Citrus Burlingame,37.5857907,-122.3653364,4.7,2.0,24.0,3.81,restaurant|food|point_of_interest|establishment,"1236 Broadway, Burlingame",Foster City
+ChIJL35i5iR2j4AR99unW3trc6g,Sky Ramen,37.5853217,-122.3657004,4.1,2.0,114.0,4.3,restaurant|food|point_of_interest|establishment,"1320 Broadway, Burlingame",Foster City
+ChIJCx-t2IF3j4AR9hpvNAjkTwY,Centro Pizza,37.5851844,-122.3656736,4.6,2.0,289.0,4.83,restaurant|food|point_of_interest|establishment,"1326 Broadway, Burlingame",Foster City
+ChIJOxX-qLx3j4AR_Wksr1A1aPE,Plucky's Cafe,37.58513,-122.3657303,4.7,,123.0,4.7,restaurant|cafe|food|point_of_interest|establishment,"1352 Broadway, Burlingame",Foster City
+ChIJr3wONy12j4ARKxEw1C1SA7Y,Benihana,37.5982151,-122.3642571,4.1,3.0,2670.0,4.3,restaurant|food|point_of_interest|establishment,"1496 Old Bayshore Highway, Burlingame",Foster City
+ChIJVVWlay12j4ARSjZ58cYB-B8,Soup Moment,37.5961839,-122.3662328,,,,,restaurant|food|point_of_interest|establishment,"808 Burlway Road, Burlingame",Foster City
+ChIJO0YAtNJ3j4ARqmqR_BuLb4U,Mr Teriyaki Sushi,37.5947044,-122.3665193,4.5,1.0,556.0,4.5,restaurant|food|point_of_interest|establishment,"851 Burlway Road #900, Burlingame",Foster City
+ChIJMfreRyx2j4ARxirPaTsdPuA,Aroma Cafe,37.594718,-122.3640757,4.2,1.0,25.0,3.25,cafe|restaurant|food|point_of_interest|store|establishment,"1350 Old Bayshore Highway STE 10, Burlingame",Foster City
+ChIJZXdjzy12j4ARiK2M4O2e2pc,3SIXTY Bistro,37.5937675,-122.3654576,3.9,2.0,309.0,4.09,bar|restaurant|food|point_of_interest|establishment,"1333 Old Bayshore Highway, Burlingame",Foster City
+ChIJfeqH2ix2j4ARAKT_kBQtKCc,Grand Harbor Seafood and Dimsum Restaurant,37.5977417,-122.3640139,3.9,2.0,1556.0,4.09,restaurant|food|point_of_interest|establishment,"1492 Old Bayshore Highway, Burlingame",Foster City
+ChIJxcPKfwB3j4ARk39wTQrW7bU,Fries Plus,37.5963482,-122.3651681,3.7,,11.0,2.71,restaurant|food|point_of_interest|establishment,"1390 Old Bayshore Highway, Burlingame",Foster City
+ChIJAW7EffV3j4ARvPVUSqWC3Yg,HL Peninsula Pearl,37.5995131,-122.3665488,3.9,2.0,951.0,4.09,restaurant|food|point_of_interest|establishment,"1590 Old Bayshore Highway, Burlingame",Foster City
+ChIJXYSdGFJ3j4ARd8JjXLyzCr4,HL Peninsula Garden,37.5999237,-122.3669411,3.8,2.0,225.0,3.99,bar|restaurant|food|point_of_interest|establishment,"1600 Old Bayshore Highway, Burlingame",Foster City
+ChIJ75cJIO6dj4AR1bqt-XFNtDA,SAKAE Sushi,37.57912779999999,-122.3446278,4.4,2.0,360.0,4.62,restaurant|food|point_of_interest|establishment,"243 California Drive, Burlingame",Foster City
+ChIJIdu1H-6dj4AREVQ9qxFkn8k,Christie's,37.5791009,-122.3447168,4.5,1.0,491.0,4.5,restaurant|food|point_of_interest|establishment,"245 California Drive, Burlingame",Foster City
+ChIJz9pJNPCdj4ARi7EwE_6OT1c,Oyster Boy Fish House,37.5772629,-122.3459709,4.2,,6.0,3.02,restaurant|food|point_of_interest|establishment,"1300 Howard Avenue, Burlingame",Foster City
+ChIJh6F2L-6dj4ARpfXQhnR_NWI,Tea Plus Noodles House,37.5783853,-122.3443612,4.2,2.0,137.0,4.41,restaurant|food|point_of_interest|establishment,"1100 Howard Avenue ste D, Burlingame",Foster City
+ChIJS5o03fGdj4ARhG9sFLcI5-g,Farm & Vine American Bistro,37.5787439,-122.3454622,4.4,2.0,305.0,4.62,restaurant|food|point_of_interest|establishment,"248 Lorton Avenue, Burlingame",Foster City
+ChIJoYObMe6dj4ARiutMipkwFMo,Tomokazu Japanese Cuisine,37.5783411,-122.34382,4.2,2.0,341.0,4.41,restaurant|food|point_of_interest|establishment,"1101 Howard Avenue, Burlingame",Foster City
+ChIJP2Uqw_Gdj4ARx2LPjRVSfU4,Paddy Flynn's,37.5786919,-122.3454287,4.3,1.0,204.0,4.3,bar|restaurant|food|point_of_interest|establishment,"246 Lorton Avenue, Burlingame",Foster City
+ChIJTbRINPCdj4ARVQZDEDbvsNQ,Park & Howard Bistro,37.5772815,-122.3459614,4.5,,258.0,4.5,restaurant|food|point_of_interest|establishment,"1300 Howard Avenue, Burlingame",Foster City
+ChIJTTgiNfCdj4ARxr6K9Uv8XI0,Rasa - Burlingame,37.5774089,-122.3460472,4.3,3.0,1682.0,4.51,restaurant|food|point_of_interest|establishment,"209 Park Road, Burlingame",Foster City
+ChIJpbQ1-bSdj4AR67PYXBSlVGM,Capri Lasagneria,37.5775317,-122.3462102,4.7,2.0,84.0,4.7,restaurant|food|point_of_interest|establishment,"231 Park Road, Burlingame",Foster City
+ChIJT03rQeWdj4ARBIswVlxA1oM,Tacos Al Vapor Michoacan,37.5748656,-122.3432491,4.2,,305.0,4.2,restaurant|food|point_of_interest|establishment,"1 Park Road, Burlingame",Foster City
+ChIJrQZi2s2dj4ARFy25NRXMix0,Mochiko Mochi Pizza (Closed),37.5789081,-122.3460332,4.2,2.0,21.0,3.36,restaurant|food|point_of_interest|establishment,"283 Lorton Avenue, Burlingame",Foster City
+ChIJIdNAKRydj4ARtMj7FdThMcA,Mykonos,37.5785759,-122.3451344,4.6,2.0,832.0,4.83,bar|restaurant|food|point_of_interest|establishment,"226 Lorton Avenue, Burlingame",Foster City
+ChIJH-bjmi-dj4AR17X2m877L20,Mediterranean Kitchen Burlingame,37.57903429999999,-122.3458177,4.6,2.0,494.0,4.83,restaurant|food|point_of_interest|establishment,"270 Lorton Avenue, Burlingame",Foster City
+ChIJ06ZpNFudj4ARkoxiMPVjriM,Dumpling Kitchen & Bar,37.5791577,-122.3459344,4.7,2.0,55.0,4.27,restaurant|food|point_of_interest|establishment,"1125 Burlingame Avenue, Burlingame",Foster City
+ChIJN-fFVaOdj4AR9PCZYAk8aD4,Tuna Kahuna,37.57926309999999,-122.3457952,4.7,1.0,363.0,4.7,bar|restaurant|food|point_of_interest|establishment,"1117 Burlingame Avenue, Burlingame",Foster City
+ChIJ6_DtMu6dj4ARUOUIMrYrL4s,Coconut Bay Thai Restaurant,37.5782333,-122.3439706,4.3,2.0,524.0,4.51,restaurant|food|point_of_interest|establishment,"1107 Howard Avenue, Burlingame",Foster City
+ChIJoakpq36dj4ARWtt7W9Ing5E,Caffe Stellato,37.5795558,-122.3459057,4.7,1.0,170.0,4.7,restaurant|food|point_of_interest|store|establishment,"1112 Burlingame Avenue, Burlingame",Foster City
+ChIJIV9OtQCdj4ARKiA1bDi2I5A,Lotus Falafel and Shawarma - Burlingame,37.5795091,-122.3455252,4.7,2.0,108.0,4.94,restaurant|food|point_of_interest|establishment,"1107 Burlingame Avenue, Burlingame",Foster City
+ChIJI9BsyQydj4ARgDTLchiSq28,El Quetzal comida Guatemalteca,37.5793908,-122.3440748,4.4,,55.0,3.81,restaurant|food|point_of_interest|establishment,"216 California Drive, Burlingame",Foster City
+ChIJwYo8l5Gdj4ARzYTiPg7X3JI,"Kincaid's Fish, Chop & Steakhouse",37.591771,-122.3429228,4.3,3.0,2038.0,4.51,restaurant|food|point_of_interest|establishment,"60 Bayview Place, Burlingame",Foster City
+ChIJq1D09o2dj4AR_04c1q-RrCg,Fire|Vine Grill & Bar & Windows On The Bay,37.58993900000001,-122.343013,3.7,,69.0,3.36,bar|restaurant|food|point_of_interest|establishment,"600 Airport Boulevard, Burlingame",Foster City
+ChIJc4Dk0JOdj4AR4zyrPfgtCe8,Waterfront Cafe,37.5904397,-122.3413736,5.0,,8.0,3.62,restaurant|food|point_of_interest|establishment,"500 Airport Boulevard, Burlingame",Foster City
+ChIJJQ0wDMifj4ARJH4RAlBBVkQ,Rainbow Pizza,37.52118060000001,-122.3372234,4.6,2.0,532.0,4.83,restaurant|food|point_of_interest|establishment,"112 De Anza Boulevard, San Mateo",Foster City
+ChIJw5XHiMifj4ARPKqzyYwc8kw,Wakuriya,37.5213139,-122.3367444,4.7,4.0,193.0,4.79,restaurant|food|point_of_interest|establishment,"115 De Anza Boulevard, San Mateo",Foster City
+ChIJW6HjCMifj4AROO6-1u_rVkk,Starbucks,37.5212054,-122.3373408,4.0,2.0,182.0,4.2,cafe|restaurant|food|point_of_interest|store|establishment,"Crystal Springs Shopping Center, 111 De Anza Boulevard, San Mateo",Foster City
+ChIJOfR9l8ifj4ARrySgX1RoFIw,Lily's Crêperie,37.52103109999999,-122.3373667,4.3,1.0,125.0,4.3,cafe|meal_takeaway|restaurant|food|point_of_interest|store|establishment,"108 De Anza Boulevard, San Mateo",Foster City
+ChIJz1gRjsifj4AR9Fq5_CAqEmw,Neal's Coffee Shop,37.5213907,-122.336832,4.3,2.0,285.0,4.51,cafe|restaurant|food|point_of_interest|establishment,"114 De Anza Boulevard, San Mateo",Foster City
+ChIJXSQlDMifj4ARCQiDUvrmeKM,Little Hunan Restaurant,37.5211704,-122.3365337,4.5,1.0,63.0,4.0,restaurant|food|point_of_interest|establishment,"120 De Anza Boulevard, San Mateo",Foster City
+ChIJDyIcll2fj4ARX9E-0E54zzI,ZENSHI Handcrafted Sushi,37.5208288,-122.3377874,,,,,restaurant|meal_takeaway|food|point_of_interest|establishment,"100 De Anza Boulevard, San Mateo",Foster City
+ChIJUeMTJoifj4ARPCq6MwzU2lw,Sourdough & Co,37.52124939999999,-122.3364909,4.5,1.0,57.0,3.92,restaurant|food|point_of_interest|establishment,"119 De Anza Boulevard, San Mateo",Foster City
+ChIJi3DsR-idj4ARYhSvmuHVNmQ,Celia's,37.5798006,-122.3350557,4.3,2.0,971.0,4.51,restaurant|food|point_of_interest|establishment,"504 Peninsula Avenue, San Mateo",Foster City
+ChIJERZ2ZWWdj4ARCAAjBDaa2_Q,Mateo Pizza Restaurant,37.5764971,-122.3383265,5.0,2.0,302.0,5.25,meal_delivery|meal_takeaway|restaurant|food|point_of_interest|establishment,"851 North San Mateo Drive, San Mateo",Foster City
+ChIJy02gQtidj4ARgH2eZWz8tyQ,Tacos Junior's,37.5758871,-122.3368849,2.5,,2.0,1.76,restaurant|food|point_of_interest|establishment,San Mateo,Foster City
+ChIJkYbPmeidj4AR-JfvQZ-F2LI,Minako Organic-ish Japanese Cuisine,37.57825270000001,-122.3374565,4.7,,121.0,4.7,restaurant|food|point_of_interest|establishment,"360 Peninsula Avenue, San Mateo",Foster City
+ChIJUYxhGOidj4ARrPzVbgjYJms,Wingstop,37.5800111,-122.3329109,3.5,2.0,188.0,3.68,restaurant|food|point_of_interest|establishment,"858 North Delaware Street, San Mateo",Foster City
+ChIJI7NivpmAhYARCjKNBbDoezw,Starbucks,37.5798132,-122.3333547,3.7,2.0,394.0,3.89,cafe|store|restaurant|food|point_of_interest|establishment,"842 North Delaware Street, San Mateo",Foster City
+ChIJeWbWm96dj4ARQOT3ncihZ_Q,Andy’s Tacos Jalisco Food Truck,37.57831929999999,-122.3369969,4.6,1.0,35.0,3.7,restaurant|food|point_of_interest|establishment,"400 Peninsula Avenue, San Mateo",Foster City
+ChIJh1Pinbedj4ARfPkf5TbAlbI,Golden Boy Pizza,37.5862903,-122.3333892,4.7,2.0,300.0,4.94,meal_takeaway|restaurant|food|point_of_interest|establishment,"1119 North Amphlett Boulevard, San Mateo",Foster City
+ChIJcSNm1sGdj4ARp19r8dgKWYY,Hot Wok Bistro,37.585788,-122.333264,4.6,1.0,564.0,4.6,restaurant|food|point_of_interest|establishment,"1012 Howard Avenue, San Mateo",Foster City
+ChIJrQxCoJKdj4AR1Tmf4lRpJdU,Bonjour Bakehouse,37.5859511,-122.3335587,4.8,2.0,150.0,5.04,bakery|cafe|restaurant|food|point_of_interest|store|establishment,"1007 Howard Avenue, San Mateo",Foster City
+ChIJd9gXrEyej4ARlgypLDshq5w,Subway,37.5341004,-122.327048,3.1,1.0,55.0,2.68,meal_takeaway|restaurant|food|point_of_interest|establishment,"1308 West Hillsdale Boulevard, San Mateo",Foster City
+ChIJXw30qUyej4ARLerDE_pTX3A,Celia's Mexican Restaurant,37.5330796,-122.3286071,4.2,2.0,510.0,4.41,bar|restaurant|food|point_of_interest|establishment,"Laurelwood Shopping Center, 3190 Campus Drive, San Mateo",Foster City
+ChIJMwymS7Ofj4ARz4KhyQKQdWs,Round Table Pizza,37.53409439999999,-122.3269933,4.2,2.0,147.0,4.41,meal_takeaway|meal_delivery|restaurant|food|point_of_interest|establishment,"1304 West Hillsdale Boulevard, San Mateo",Foster City
+ChIJtVqBTLOfj4ARQa3Ui7oZCSQ,Shiki Japanese Restaurant,37.5340343,-122.3273911,4.4,2.0,147.0,4.62,restaurant|food|point_of_interest|establishment,"1332 West Hillsdale Boulevard, San Mateo",Foster City
+ChIJvdanoEyej4ARdulLFkKHOJk,Toa Yuen Restaurant,37.5337507,-122.3284457,4.3,1.0,53.0,3.69,restaurant|food|point_of_interest|establishment,"3170 Campus Drive, San Mateo",Foster City
+ChIJ51llI8Sfj4AR3U6RBSjFVeg,Sal's Burgers,37.5339434,-122.3285659,4.7,2.0,249.0,4.94,restaurant|food|point_of_interest|establishment,"3158 Campus Drive, San Mateo",Foster City
+ChIJhRbrQQ2fj4ARczAdwL2uJao,Bagel Box And Coffee,37.5337463,-122.3279017,4.5,1.0,56.0,3.91,bakery|cafe|restaurant|food|point_of_interest|store|establishment,"3174 Campus Drive, San Mateo",Foster City
+ChIJEZSWcoqfj4ARRh1KStl4i3s,Brothers Cafe,37.5340474,-122.3275585,4.6,2.0,175.0,4.83,cafe|restaurant|food|point_of_interest|store|establishment,"1338 West Hillsdale Boulevard, San Mateo",Foster City
+ChIJsegTsX-fj4ARBGUV3a1Mntw,Nick The Greek,37.5335357,-122.3274522,4.5,1.0,247.0,4.5,restaurant|food|point_of_interest|establishment,"1324 West Hillsdale Boulevard, San Mateo",Foster City
+ChIJicQ9lQifj4ARvl0C0FPjldo,ZENSHI Handcrafted Sushi,37.5339385,-122.3258978,,,,,restaurant|meal_takeaway|food|point_of_interest|establishment,"1218 West Hillsdale Boulevard, San Mateo",Foster City
+ChIJI2THxnGej4ARZ8lUgarD0UU,sweetgreen,37.563364,-122.3259359,4.3,2.0,422.0,4.51,meal_takeaway|restaurant|food|point_of_interest|establishment,"1 East 3rd Avenue, San Mateo",Foster City
+ChIJEdn_l--fj4ARsZH4930Vj_I,Rin-Tei,37.5640166,-122.3274256,4.4,2.0,137.0,4.62,restaurant|food|point_of_interest|establishment,"104 South El Camino Real, San Mateo",Foster City
+ChIJ39pZ9naej4ARh1YP9Q7b6yw,La Piñata,37.56916,-122.3258757,4.1,1.0,741.0,4.1,restaurant|food|point_of_interest|establishment,"120 North B Street, San Mateo",Foster City
+ChIJHezl03aej4AR1R9NtvewBWg,Sushi Maruyama,37.5673286,-122.3253401,4.7,3.0,432.0,4.94,restaurant|food|point_of_interest|establishment,"279 Baldwin Avenue, San Mateo",Foster City
+ChIJ68Vvr0ydj4ARDrbmnB5DlC0,Panther Brazilian Açai,37.571253,-122.3310591,4.9,,29.0,3.86,restaurant|food|point_of_interest|establishment,"300 North San Mateo Drive, San Mateo",Foster City
+ChIJebivUd6dj4ARiE0uLvcQlXg,Taqueria Los Primos #2,37.572881,-122.3310357,4.2,1.0,132.0,4.2,restaurant|food|point_of_interest|establishment,"376 North Ellsworth Avenue, San Mateo",Foster City
+ChIJje0i-naej4ARp6AWebONsrs,Peninsula Italian American Social Club,37.5689475,-122.3257731,4.6,,156.0,4.6,restaurant|food|point_of_interest|establishment,"100 North B Street, San Mateo",Foster City
+ChIJZe2ninaej4AR0VJDQPRwrYU,Taqueria Los Primos #1,37.5690917,-122.3263861,4.5,1.0,316.0,4.5,restaurant|food|point_of_interest|establishment,"85 North B Street #4, San Mateo",Foster City
+ChIJ7-LfZrKfj4ARPrfz9A-zPoE,Pupuseria El Salvador ( el rinconcito catracho),37.56907299999999,-122.3263005,4.4,,47.0,3.7,restaurant|food|point_of_interest|establishment,"85 North B Street #2, San Mateo",Foster City
+ChIJA6M4a22fj4ARtjCESKxU3rU,Pupuseria Valle de Jiboa,37.56907299999999,-122.3263005,5.0,,2.0,3.53,restaurant|food|point_of_interest|establishment,"85 North B Street #2, San Mateo",Foster City
+ChIJX2k39Xaej4AR5_WO8JtwpSs,El Rinconsito Catracho,37.56907299999999,-122.3263005,3.8,2.0,52.0,3.42,restaurant|food|point_of_interest|establishment,"85 North B Street #2, San Mateo",Foster City
+ChIJ3TudkFifj4AR1-KkklUy_3U,Taquería las pencas #2,37.5684654,-122.325765,4.5,2.0,88.0,4.55,restaurant|food|point_of_interest|establishment,"45 North B Street, San Mateo",Foster City
+ChIJ5T8k8Haej4ARTLyt_sT27nU,Snacks Antojitos Mexicanos,37.56829140000001,-122.3255695,4.2,1.0,146.0,4.2,restaurant|food|point_of_interest|store|establishment,"31 North B Street, San Mateo",Foster City
+ChIJka36GOidj4ARmos5zm8NQ5k,Round Table Pizza,37.5798516,-122.3332688,4.0,2.0,179.0,4.2,meal_delivery|meal_takeaway|restaurant|food|point_of_interest|establishment,"844 North Delaware Street, San Mateo",Foster City
+ChIJXfy5KtSdj4ARGeV59JOwm-k,Dosa Express,37.57995810000001,-122.3347764,4.6,,289.0,4.6,restaurant|food|point_of_interest|establishment,"514 Peninsula Avenue, San Mateo",Foster City
+ChIJS5FpLCyfj4ARYZD9u8Dh0Po,Tasty Sinaloa food truck,37.5797898,-122.3334205,4.5,2.0,8.0,3.42,restaurant|food|point_of_interest|establishment,"842 North Delaware Street, San Mateo",Foster City
+ChIJUUIAHOidj4ARQg42BkBJ_RI,Subway,37.5798903,-122.3331116,3.1,1.0,80.0,2.91,meal_takeaway|restaurant|food|point_of_interest|establishment,"852 North Delaware Street, San Mateo",Foster City
+ChIJN6x96hadj4AR7ZVrIZVCt4s,Totoro Ramen,37.57999869999999,-122.3331174,4.6,2.0,298.0,4.83,restaurant|food|point_of_interest|establishment,"856 North Delaware Street, San Mateo",Foster City
+ChIJC6tbMnidj4AR1sSiIM4OfEQ,Totoro Bento,37.58008709999999,-122.3329101,,1.0,,,meal_takeaway|restaurant|food|point_of_interest|establishment,"856 North Delaware Street, San Mateo",Foster City
+ChIJTWuhuaKdj4ARZTCofuVb3E8,Tacos El Sabor De Mi Pueblo (food truck),37.5783583,-122.3254771,4.6,1.0,24.0,3.55,restaurant|food|point_of_interest|establishment,"448 North Humboldt Street, San Mateo",Foster City
+ChIJ6zi6hsadj4ARXuUri5vx2A0,Par 3 and Villa Vista at Poplar Creek,37.58665029999999,-122.3252121,4.5,3.0,353.0,4.73,restaurant|food|point_of_interest|establishment,"1700 Coyote Point Drive, San Mateo",Foster City
+ChIJQRzbpVqej4ARlQ1GvYX4fAs,Cafe 2k,37.544614,-122.3213032,4.6,1.0,23.0,3.54,cafe|restaurant|food|point_of_interest|establishment,"2000 Alameda de las Pulgas, San Mateo",Foster City
+ChIJK0lqulCfj4ARSUuGMqbxZHE,Mariscos el pariente #2,37.55810870000001,-122.3216293,4.9,,9.0,3.56,restaurant|food|point_of_interest|establishment,"908 South El Camino Real, San Mateo",Foster City
+ChIJOWymJtWYj4ARenbrS8PUIJ8,Tokie's Downtown,37.5625665,-122.3243596,4.5,2.0,281.0,4.73,restaurant|food|point_of_interest|establishment,"34 East 4th Avenue, San Mateo",Foster City
+ChIJd3dEm3Cej4ARl8USef836uE,Cinemark Century San Mateo 12,37.5663339,-122.3223532,4.4,,1840.0,4.4,movie_theater|meal_takeaway|restaurant|food|point_of_interest|establishment,"320 2nd Avenue, San Mateo",Foster City
+ChIJVaPxJnCej4ARyxiB9Tt2tG8,Starbucks,37.562897,-122.323927,3.9,2.0,480.0,4.09,cafe|restaurant|food|point_of_interest|store|establishment,"54 East 4th Avenue, San Mateo",Foster City
+ChIJHQ-1AmWej4AR1QryXVCTOi8,Espetus San Mateo,37.56229860000001,-122.3192993,4.6,4.0,2512.0,4.69,bar|restaurant|food|point_of_interest|establishment,"710 South B Street, San Mateo",Foster City
+ChIJSS6QeHCej4ARAssTIDcQIiU,B Street & Vine,37.565168,-122.322333,4.4,2.0,630.0,4.62,restaurant|food|point_of_interest|establishment,"320 South B Street, San Mateo",Foster City
+ChIJFbeGuHCej4ARWLQmzwIx9Xc,Curry Up Now,37.56681,-122.32364,4.1,2.0,1286.0,4.3,restaurant|food|point_of_interest|establishment,"129 South B Street, San Mateo",Foster City
+ChIJ01Fn83Cej4ARB9X33o7q96k,"Happy Lamb Hot Pot, San Mateo 快乐小羊",37.565509,-122.3235506,4.3,2.0,781.0,4.51,bar|restaurant|food|point_of_interest|establishment,"215 South Ellsworth Avenue, San Mateo",Foster City
+ChIJfRMInHqej4AR-4NtZnaL4q0,Pancho Villa Taqueria,37.56498390000001,-122.32166,4.2,1.0,2093.0,4.2,meal_delivery|restaurant|food|point_of_interest|establishment,"365 South B Street, San Mateo",Foster City
+ChIJeYxGt3Gej4ARWlGEOdBa0LE,Hotaru Restaurant,37.56351539999999,-122.3254897,4.3,2.0,524.0,4.51,restaurant|food|point_of_interest|establishment,"33 East 3rd Avenue #4010, San Mateo",Foster City
+ChIJwbQzTXCej4AR6AiUPmWLsAY,Amici's East Coast Pizzeria,37.5640816,-122.3248565,4.2,2.0,331.0,4.41,restaurant|food|point_of_interest|establishment,"69 East 3rd Avenue, San Mateo",Foster City
+ChIJCeDDEXCej4ARCMv4Lie2nj8,Pizza My Heart,37.5637701,-122.3227003,4.3,1.0,314.0,4.3,meal_takeaway|meal_delivery|restaurant|food|point_of_interest|establishment,"140 East 4th Avenue, San Mateo",Foster City
+ChIJmUm103Cej4AROlDvaAdcuKk,O'Neills Irish Pub,37.5671074,-122.3244377,4.3,1.0,394.0,4.3,night_club|bar|restaurant|food|point_of_interest|establishment,"34 South B Street, San Mateo",Foster City
+ChIJ9WyHNXCej4ARr47XTsNUA_Q,Porterhouse,37.56629220000001,-122.3235978,4.5,3.0,597.0,4.73,night_club|bar|restaurant|food|point_of_interest|establishment,"164 South B Street, San Mateo",Foster City
+ChIJdYnq7nCej4ARB-6vA0482oU,Bay Watch San Mateo,37.5660306,-122.3240158,4.3,2.0,594.0,4.51,restaurant|food|point_of_interest|establishment,"201 2nd Avenue, San Mateo",Foster City
+ChIJcUAq7XCej4ARXAQVeV53NVI,Izakaya Mai,37.5659546,-122.3234899,4.2,2.0,576.0,4.41,restaurant|food|point_of_interest|establishment,"212 2nd Avenue, San Mateo",Foster City
+ChIJsRSv03Cej4ARF2eZmKCM258,Joy Sushi,37.5672346,-122.3244971,4.2,2.0,366.0,4.41,restaurant|food|point_of_interest|establishment,"30 South B Street, San Mateo",Foster City
+ChIJS0FdLG6ej4ARU0tzmGLEWXU,Cafe 400,37.561844,-122.32528,3.7,1.0,3.0,2.62,meal_takeaway|meal_delivery|restaurant|food|point_of_interest|establishment,"400 South El Camino Real, San Mateo",Foster City
+ChIJp5jfy3qej4ARVlOWBNuy_eg,Ravioli House,37.56410880000001,-122.3204674,4.7,2.0,380.0,4.94,restaurant|food|point_of_interest|store|establishment,"505 South B Street, San Mateo",Foster City
+ChIJ3xfY7XCej4ARxv7jAZpvKII,Himawari,37.5658194,-122.3237602,4.4,2.0,860.0,4.62,restaurant|food|point_of_interest|establishment,"202 2nd Avenue, San Mateo",Foster City
+ChIJV8071G-ej4ARS87L6PupHas,Earthbar,37.56226509999999,-122.3248947,3.1,2.0,12.0,2.4,restaurant|food|point_of_interest|establishment,"Inside Equinox, 4 East 4th Avenue, San Mateo",Foster City
+ChIJF30YMHCej4ARLb3Fac_ayNQ,noodleosophy,37.5631531,-122.3241503,4.3,2.0,487.0,4.51,meal_takeaway|restaurant|food|point_of_interest|establishment,"41 East 4th Avenue, San Mateo",Foster City
+ChIJJaVySXCej4ARuJfHPtKWwbE,Clay Oven Cuisine of India,37.5637012,-122.3243109,3.5,2.0,425.0,3.68,meal_takeaway|restaurant|food|point_of_interest|establishment,"78 East 3rd Avenue, San Mateo",Foster City
+ChIJV_JyhqD1UocRck6StTwWwfA,Central Park Bistro,37.5642295,-122.3228201,4.4,2.0,376.0,4.62,restaurant|food|point_of_interest|establishment,"181 East 4th Avenue, San Mateo",Foster City
+ChIJrTqCc3Cej4ARB1BoBxdHsFw,Gyu-Kaku Japanese BBQ,37.56455,-122.322491,4.3,2.0,1165.0,4.51,restaurant|food|point_of_interest|establishment,"329 South Ellsworth Avenue, San Mateo",Foster City
+ChIJOTbfdHCej4ARIab_uDLZJr0,M sandwiches Cafe San Mateo,37.5644733,-122.3222723,4.6,1.0,228.0,4.6,meal_takeaway|restaurant|food|point_of_interest|establishment,"205 East 4th Avenue, San Mateo",Foster City
+ChIJp6yImXCej4ARwQ0kgVjz25w,Dash Japanese Tapas and Sushi,37.56588380000001,-122.3236271,4.5,2.0,451.0,4.73,restaurant|food|point_of_interest|establishment,"204A 2nd Avenue, San Mateo",Foster City
+ChIJb-BteXCej4ARhYpP7JyS9cA,Avocado Toast,37.5652151,-122.3225527,4.3,2.0,215.0,4.51,restaurant|food|point_of_interest|establishment,"226 East 3rd Avenue, San Mateo",Foster City
+ChIJbQOaZ3Cej4ARpMxBFKP_K3A,San Mateo Prime,37.5646972,-122.3233489,4.3,3.0,221.0,4.51,bar|restaurant|food|point_of_interest|establishment,"174 East 3rd Avenue, San Mateo",Foster City
+ChIJ6zDxjXCej4AROgj36_xUWgM,Bonchon San Mateo,37.56598,-122.3230912,4.3,2.0,453.0,4.51,meal_takeaway|restaurant|food|point_of_interest|establishment,"220 South B Street, San Mateo",Foster City
+ChIJY5OlhXCej4ARTewMKKVfI2Q,Pacific Catch,37.56592439999999,-122.3226601,4.3,2.0,1238.0,4.51,restaurant|food|point_of_interest|establishment,"243 South B Street, San Mateo",Foster City
+ChIJxd8KkXCej4ARzj6lIWQL8sg,New York Pizza,37.5661232,-122.3228954,4.3,1.0,271.0,4.3,meal_delivery|meal_takeaway|restaurant|food|point_of_interest|establishment,"219 South B Street, San Mateo",Foster City
+ChIJrYr2l3qej4AR_RjxY_WLHlg,Tomatina,37.5647325,-122.3213106,4.2,2.0,547.0,4.41,restaurant|food|point_of_interest|store|establishment,"401 South B Street, San Mateo",Foster City
+ChIJJ5RD_Eh2j4ARJXCwvPBwjQY,Jeffrey's Hamburgers,37.56707600000001,-122.3242925,4.5,1.0,712.0,4.5,restaurant|food|point_of_interest|establishment,"42 South B Street, San Mateo",Foster City
+ChIJrZNMK3eej4ARRHSOh0uJpP0,Wursthall,37.567287,-122.324631,4.4,2.0,2134.0,4.62,bar|restaurant|food|point_of_interest|establishment,"310 Baldwin Avenue, San Mateo",Foster City
+ChIJZXkHDnCej4ARpm_A2IsQwfc,Domino's Pizza,37.5641179,-122.3229262,3.5,1.0,303.0,3.5,meal_delivery|meal_takeaway|restaurant|food|point_of_interest|establishment,"169 East 4th Avenue, San Mateo",Foster City
+ChIJIyz_kHqej4AR7iP5Z0yDksM,Sushi Yoshizumi,37.5651899,-122.3212369,4.8,4.0,250.0,4.9,restaurant|food|point_of_interest|establishment,"325 East 4th Avenue, San Mateo",Foster City
+ChIJg-Kn0nCej4ARnjelgmVofko,Poke Island CreAsian Kitchen,37.5673694,-122.3242184,4.4,2.0,48.0,3.9,restaurant|food|point_of_interest|establishment,"43 South B Street, San Mateo",Foster City
+ChIJjepZJnCej4ARSdvGEZ7KNFo,Noah's NY Bagels,37.56283569999999,-122.3239768,3.9,1.0,277.0,3.9,bakery|cafe|restaurant|food|point_of_interest|store|establishment,"50 East 4th Avenue, San Mateo",Foster City
+ChIJ5VNLDnCej4ARf6DmmGYOkxg,Hummus Mediterranean Kitchen,37.56384750000001,-122.322638,4.3,2.0,817.0,4.51,restaurant|food|point_of_interest|establishment,"150 East 4th Avenue, San Mateo",Foster City
+ChIJ3-_dDXCej4ARKIbU9TPugzQ,Thonglor Thai Bistro,37.5641598,-122.3228988,4.2,2.0,201.0,4.41,restaurant|food|point_of_interest|establishment,"173 East 4th Avenue, San Mateo",Foster City
+ChIJ_1RlW3Cej4ARYvnkPAEcS-o,Vespucci Ristorante Italiano,37.5646619,-122.3239574,4.7,2.0,358.0,4.94,restaurant|food|point_of_interest|establishment,"147 East 3rd Avenue, San Mateo",Foster City
+ChIJaR-uSHCej4ARkc7lUlOBado,L&L Hawaiian Barbecue,37.5640748,-122.3242398,3.6,1.0,211.0,3.6,restaurant|food|point_of_interest|establishment,"94 East 3rd Avenue, San Mateo",Foster City
+ChIJxcN5mHCej4AR0zc2K2taXe0,Beard Papa's,37.5666832,-122.3229048,4.2,1.0,148.0,4.2,bakery|restaurant|food|point_of_interest|store|establishment,"365 2nd Avenue, San Mateo",Foster City
+ChIJHzu5W3Cej4ARJHzDBzqYyqk,Shabuway,37.5646142,-122.3239277,4.1,2.0,210.0,4.3,restaurant|food|point_of_interest|establishment,"145 East 3rd Avenue, San Mateo",Foster City
+ChIJ7yCNNyufj4AR4t1ACpzILO4,Izakaya Fusion Grill Keitan,37.5635769,-122.3254684,4.6,1.0,381.0,4.6,restaurant|food|point_of_interest|establishment,"35 East 3rd Avenue, San Mateo",Foster City
+ChIJ9WHlHACfj4ARfU8L1ZrFfvo,Taste of Shaxian,37.56269299999999,-122.324269,4.5,2.0,366.0,4.73,restaurant|food|point_of_interest|establishment,"38 East 4th Avenue, San Mateo",Foster City
+ChIJo4A_XH2fj4ARoAznX-J-MA0,Simple Salads,37.5635857,-122.3249584,,,,,restaurant|food|point_of_interest|establishment,"50 East 3rd Avenue, San Mateo",Foster City
+ChIJrxRrfQCfj4ARwdjfmcm2a7Y,Pasta Everyday,37.56356,-122.3248987,,,,,restaurant|food|point_of_interest|establishment,"50 East 3rd Avenue, San Mateo",Foster City
+ChIJZUNdeQCfj4ARG4pWI72Ya-E,Lobster Burger,37.56356,-122.3248987,,,,,restaurant|food|point_of_interest|establishment,"50 East 3rd Avenue, San Mateo",Foster City
+ChIJLRZtRwCfj4ARTRFI49IhOrg,RHD Sandwiches,37.56356,-122.3248987,,,,,restaurant|food|point_of_interest|establishment,"50 East 3rd Avenue, San Mateo",Foster City
+ChIJbb55ZQCfj4ARU7AUEkjN2Es,Sushirrito,37.56356,-122.3248987,5.0,,4.0,3.56,meal_takeaway|restaurant|food|point_of_interest|establishment,"50 East 3rd Avenue, San Mateo",Foster City
+ChIJRTWR2O6fj4ARAqPsTcQX5Hk,Colander Kitchens,37.56356,-122.3248987,5.0,,2.0,3.53,restaurant|food|point_of_interest|establishment,"50 East 3rd Avenue, San Mateo",Foster City
+ChIJIbbVHQCfj4ARJ9di5OOqcx8,Nice Pizza,37.56356,-122.3248987,5.0,,1.0,3.51,restaurant|food|point_of_interest|establishment,"50 East 3rd Avenue, San Mateo",Foster City
+ChIJq_C-UQCfj4ARcooL1Uuuhn8,Simple Salads,37.563649,-122.3249729,5.0,,1.0,3.51,restaurant|food|point_of_interest|establishment,"50 East 3rd Avenue, San Mateo",Foster City
+ChIJhQui2UCfj4AR_W3tStG_No8,猛男汉堡Macho Burger San Mateo,37.563226,-122.3243012,4.1,1.0,49.0,3.47,meal_takeaway|restaurant|food|point_of_interest|establishment,"41 East 4th Avenue, San Mateo",Foster City
+ChIJBUJUEvufj4AR3Ms-AQad6AU,Foreigner Cafe,37.56374660000001,-122.3247235,4.4,2.0,718.0,4.62,restaurant|food|point_of_interest|establishment,"60 East 3rd Avenue Ste 108, San Mateo",Foster City
+ChIJmQba6BWfj4ARsGyybmBYOxA,Taishoken Ramen,37.5633138,-122.3241043,4.5,2.0,1213.0,4.73,restaurant|food|point_of_interest|establishment,"47 East 4th Avenue, San Mateo",Foster City
+ChIJf3TeNXqej4ARHSJlhq8OcMw,Little Caesars Pizza,37.56756599999999,-122.319624,3.7,1.0,320.0,3.7,meal_delivery|meal_takeaway|restaurant|food|point_of_interest|establishment,"615 East 3rd Avenue, San Mateo",Foster City
+ChIJi1zXD3qej4ARz_SZHSId8Zc,Kokko,37.5677306,-122.3214944,4.5,2.0,623.0,4.73,restaurant|food|point_of_interest|establishment,"509 2nd Avenue, San Mateo",Foster City
+ChIJI9eeaXqej4ARVJcDscRCXtI,Takahashi Market,37.5670239,-122.3207761,4.7,,794.0,4.7,grocery_or_supermarket|restaurant|food|point_of_interest|store|establishment,"221 South Claremont Street, San Mateo",Foster City
+ChIJr8PZQ3qej4AR6vAxzA92KEY,Jack in the Box,37.5670879,-122.3205288,3.5,1.0,1182.0,3.5,meal_delivery|restaurant|food|point_of_interest|establishment,"555 East 3rd Avenue, San Mateo",Foster City
+ChIJY2e9Znqej4ARyqMxMoKLZvI,Saigon City Restaurant,37.566384,-122.320984,4.3,1.0,403.0,4.3,restaurant|food|point_of_interest|establishment,"418 East 3rd Avenue, San Mateo",Foster City
+ChIJeWdT-3qej4ARnKss-7xSdK0,Taco Bell,37.56582219999999,-122.3196687,4.0,1.0,587.0,4.0,meal_takeaway|restaurant|food|point_of_interest|establishment,"500 East 4th Avenue, San Mateo",Foster City
+ChIJZ9Q8J3eej4AROFxbodDBg_c,La Cumbre Taqueria SM,37.5681007,-122.3247005,3.9,1.0,379.0,3.9,restaurant|food|point_of_interest|establishment,"28 North B Street, San Mateo",Foster City
+ChIJI3OEonCej4AREArcgWBdvb0,Cold Stone Creamery,37.5667859,-122.3228142,3.9,2.0,129.0,4.09,bakery|restaurant|food|point_of_interest|store|establishment,"375 2nd Avenue, San Mateo",Foster City
+ChIJURwyuHCej4ARNI5aGNVMHrs,Dessert Republic Cafe,37.5669537,-122.3233401,4.1,1.0,274.0,4.1,restaurant|food|point_of_interest|establishment,"138 Main Street, San Mateo",Foster City
+ChIJY2V3mXqej4AR-nm6ZMkV3XM,Izakaya Ginji,37.56493889999999,-122.3215667,4.4,2.0,596.0,4.62,bar|restaurant|food|point_of_interest|establishment,"301 East 4th Avenue E, San Mateo",Foster City
+ChIJ99ikTXqej4ARGoh_VO6JCWY,7-Eleven,37.5669516,-122.3194765,2.3,1.0,41.0,1.89,convenience_store|liquor_store|cafe|restaurant|food|point_of_interest|store|establishment,"600 East 3rd Avenue, San Mateo",Foster City
+ChIJcwqGotCdj4ARb4F6T3SC9L8,330 Bistro Bar & Grill,37.5789512,-122.3215359,3.0,,29.0,2.36,bar|restaurant|food|point_of_interest|establishment,"330 North Bayshore Boulevard, San Mateo",Foster City
+ChIJtWCv92Gdj4ARkHZ2M8VrClg,Antojitos Guatemaltecos Reve,37.5730458,-122.3246252,4.0,,7.0,2.88,restaurant|food|point_of_interest|establishment,"714 Monte Diablo Avenue, San Mateo",Foster City
+ChIJp03kQ7ydj4AR2pYN31_FjTc,Taqueria Ixpalino Sinaloa,37.5735756,-122.3236944,5.0,,6.0,3.59,restaurant|food|point_of_interest|establishment,"800 Monte Diablo Avenue, San Mateo",Foster City
+ChIJ2_leLACfj4ARcIbrTHNN09Y,Taqueria El Tigre,37.5714603,-122.3233293,5.0,,1.0,3.51,restaurant|food|point_of_interest|establishment,"50 North Eldorado Street, San Mateo",Foster City
+ChIJswaXkbifj4ARBk__2-6HPTU,Rise Woodfire Pizza & Rotisserie,37.5680359,-122.3241065,4.4,3.0,514.0,4.62,bar|restaurant|food|point_of_interest|establishment,"2 North B Street, San Mateo",Foster City
+ChIJKfn1kpKfj4ARJ-KC-Uwze98,Ox 9 Lanzhou Handpulled Noodles,37.5676478,-122.3244765,4.6,2.0,368.0,4.83,restaurant|food|point_of_interest|establishment,"11 South B Street, San Mateo",Foster City
+ChIJxR111XCej4ARJQ8p2BIO_NA,Byte Kitchen,37.56707559999999,-122.3248422,5.0,,1.0,3.51,restaurant|food|point_of_interest|establishment,"5 South Ellsworth Avenue, San Mateo",Foster City
+ChIJE-U74-Ofj4ARcdJ5z6TZJGE,EL QUETZAL (COMIDA GUATEMALTECA),37.5763576,-122.3207829,3.9,,15.0,2.91,restaurant|food|point_of_interest|establishment,"211 North Amphlett Boulevard, San Mateo",Foster City
+ChIJlX9G8yF3j4AR_pSVnsp4H30,Taquizas Taco Truck,37.5761146,-122.3205393,4.0,,4.0,2.85,restaurant|food|point_of_interest|establishment,"201 North Amphlett Boulevard, San Mateo",Foster City
+ChIJo7Mrvsefj4ARdKXp3_Yoeo0,MY Dumpling,37.5668209,-122.3241557,4.7,,151.0,4.7,restaurant|food|point_of_interest|establishment,"100 South B Street, San Mateo",Foster City
+ChIJoRzWonufj4ARgwyltSJXaP4,Kajiken,37.5666911,-122.3239936,4.5,2.0,562.0,4.73,restaurant|food|point_of_interest|establishment,"112 South B Street, San Mateo",Foster City
+ChIJ2_xn6N-fj4ARhiafxUTWz5Y,Curry Pizza House San Mateo,37.5667635,-122.3236109,4.9,2.0,161.0,5.15,liquor_store|meal_takeaway|restaurant|food|point_of_interest|store|establishment,"135 South B Street, San Mateo",Foster City
+ChIJ4euZB4efj4ARE0P348sbYyc,Zhangliang Malatang,37.5667431,-122.3233958,4.3,1.0,141.0,4.3,restaurant|food|point_of_interest|establishment,"139 South B Street, San Mateo",Foster City
+ChIJlZciNwCfj4ARoQRaOS3XOQ4,Fish With You 鱼你在一起下饭酸菜鱼,37.5664339,-122.3236324,4.3,2.0,138.0,4.51,restaurant|food|point_of_interest|establishment,"150 South B Street, San Mateo",Foster City
+ChIJi3ON7WSfj4ARZKGwlPuBTDo,Koja Kitchen,37.56642619999999,-122.3236403,3.3,2.0,50.0,2.95,restaurant|food|point_of_interest|establishment,"150 South B Street, San Mateo",Foster City
+ChIJt2p0sJWfj4ARAnNW1EHwWbo,Mountain Mike's Pizza,37.5664,-122.3235727,4.3,2.0,63.0,4.01,meal_delivery|meal_takeaway|restaurant|food|point_of_interest|establishment,"154 South B Street, San Mateo",Foster City
+ChIJJ359_7Sfj4ARJZnEW4YwpzM,Daeho kalbijjim & beef soup,37.5660399,-122.3238253,4.5,2.0,481.0,4.73,restaurant|food|point_of_interest|establishment,"213 2nd Avenue, San Mateo",Foster City
+ChIJG2nvYCifj4ARS2YfRVbPyYs,Fletch's Taqueria,37.5666332,-122.3226483,4.3,1.0,100.0,4.3,restaurant|food|point_of_interest|establishment,"385 2nd Avenue, San Mateo",Foster City
+ChIJb2cMDUyfj4ARMMNpFMGBlv8,New Thai Elephant,37.5661277,-122.3232482,4.5,2.0,1084.0,4.73,meal_takeaway|restaurant|food|point_of_interest|establishment,"200 South B Street, San Mateo",Foster City
+ChIJc3R6j16ej4ARSX5Uq0eROqI,All Spice,37.5528778,-122.3156444,4.7,4.0,346.0,4.79,restaurant|food|point_of_interest|establishment,"1602 South El Camino Real, San Mateo",Foster City
+ChIJAVwgd16ej4ARkmcr_le3cKU,Mr Pickle's Sandwich Shop,37.5537631,-122.3162092,4.1,1.0,159.0,4.1,restaurant|food|point_of_interest|store|establishment,"1432 El Camino Real, San Mateo",Foster City
+ChIJIZkmW1efj4ARGs8mWdao6n8,MB's Place,37.55225890000001,-122.3146568,5.0,2.0,1.0,3.69,restaurant|food|point_of_interest|establishment,"21 Borel Avenue, San Mateo",Foster City
+ChIJCzbe2Viej4ARxdm0aQzctUo,Jack's Restaurant & Bar,37.5510775,-122.3134434,4.4,2.0,2076.0,4.62,restaurant|food|point_of_interest|establishment,"1750 South El Camino Real, San Mateo",Foster City
+ChIJo0jyGB-fj4ARcu4tnBtr6Js,Sushilito Boy,37.55313900000001,-122.3154685,,,,,restaurant|food|point_of_interest|establishment,"1600 South El Camino Real, San Mateo",Foster City
+ChIJMf6g2V6ej4AR3_TVlwUfy-A,Starbucks,37.552243,-122.31386,4.0,2.0,335.0,4.2,cafe|restaurant|food|point_of_interest|store|establishment,"1701 South El Camino Real, San Mateo",Foster City
+ChIJeQrn3l2ej4AREPcVZgheeOk,McDonald's,37.5539469,-122.3163956,3.8,1.0,1561.0,3.8,cafe|restaurant|food|point_of_interest|store|establishment,"1420 El Camino Real, San Mateo",Foster City
+ChIJHwExAV-ej4ARTtO8nKuvAy8,El Sinaloense Mexican Restaurant,37.55373069999999,-122.3133779,4.3,2.0,788.0,4.51,bar|restaurant|food|point_of_interest|establishment,"1622 Palm Avenue, San Mateo",Foster City
+ChIJkbgjNQCfj4ARz-TbgafEZOI,Taste and Glory,37.55572360000001,-122.3182586,4.5,2.0,165.0,4.73,restaurant|food|point_of_interest|establishment,"1208 South El Camino Real, San Mateo",Foster City
+ChIJu9fnfEGfj4AReN6R333JaPA,La Casa de Los Huevos,37.555591,-122.3180814,4.6,2.0,125.0,4.83,restaurant|food|point_of_interest|establishment,"1214 South El Camino Real, San Mateo",Foster City
+ChIJ-wp0Z2eej4ARc_LvawPcMHg,Truffle Poké Bar,37.5552602,-122.3177616,4.3,2.0,413.0,4.51,restaurant|food|point_of_interest|establishment,"1234 South El Camino Real, San Mateo",Foster City
+ChIJRex2iSmfj4ARL7p5mMxjlbA,Monchi's Red Tacos,37.55466009999999,-122.3171807,4.2,,16.0,3.14,restaurant|food|point_of_interest|establishment,"1300 South El Camino Real, San Mateo",Foster City
+ChIJgWEBd16ej4ARwB83tMxbRYQ,Charm Thai Eatery,37.5538694,-122.3161694,4.4,2.0,472.0,4.62,restaurant|food|point_of_interest|establishment,"1428 South El Camino Real, San Mateo",Foster City
+ChIJqfWFNp-fj4AR0Ba2ssfGdFI,Skyfall American Cuisine,37.5537809,-122.3160814,,,,,restaurant|food|point_of_interest|establishment,"1502 South El Camino Real, San Mateo",Foster City
+ChIJ06nLGwCfj4AR-MnK7x2Gt7s,The Burger,37.5540042,-122.3154649,5.0,1.0,50.0,4.25,restaurant|food|point_of_interest|establishment,"1501 South El Camino Real, San Mateo",Foster City
+ChIJtexa8l6ej4AREIXNZySKm5g,Camila's Tacos (Food Truck),37.55306169999999,-122.3147892,4.6,,49.0,3.9,restaurant|food|point_of_interest|establishment,"1601 South El Camino Real, San Mateo",Foster City
+ChIJD9Xrd5afj4ARihG07ICbWn0,ZENSHI Handcrafted Sushi,37.553107,-122.313716,,,,,restaurant|meal_takeaway|food|point_of_interest|establishment,"1655 El Camino Real, San Mateo",Foster City
+ChIJzz8qMdufj4ARgm3yJ0jB-14,SSB Kitchen,37.5540415,-122.312821,,,,,restaurant|food|point_of_interest|establishment,"109 South Boulevard, San Mateo",Foster City
+ChIJe_K0-WSej4ARodOC4dXyLbI,Ramen Dojo,37.5621775,-122.318578,4.4,2.0,1304.0,4.62,restaurant|food|point_of_interest|establishment,"805 South B Street, San Mateo",Foster City
+ChIJ7-Nx72Sej4ARlS3NrCI6zZI,Sibby's Cupcakery,37.562836,-122.318554,4.7,,129.0,4.7,bakery|home_goods_store|meal_takeaway|store|restaurant|food|point_of_interest|establishment,"716 South Railroad Avenue, San Mateo",Foster City
+ChIJ-wRqZmSej4ARSNYRjsH5aEc,Ramen Parlor,37.56177020000001,-122.3176162,4.4,2.0,875.0,4.62,restaurant|food|point_of_interest|establishment,"901 South B Street, San Mateo",Foster City
+ChIJzxQm-2Sej4ARd4DGD1s_-YI,Charlie's Taqueria,37.5624087,-122.3187689,4.5,1.0,554.0,4.5,restaurant|food|point_of_interest|establishment,"725 South B Street, San Mateo",Foster City
+ChIJQbNcA9adj4ARmcSDBfrEoOU,El Palenque Taqueria,37.5746444,-122.3169944,4.5,1.0,635.0,4.5,restaurant|food|point_of_interest|establishment,"15 North Kingston Street, San Mateo",Foster City
+ChIJxyjrMZadj4AR6-EYjcTmpBs,Mariscos El Ajoyano,37.57471170000001,-122.3169886,4.0,2.0,34.0,3.37,restaurant|food|point_of_interest|establishment,"19 North Kingston Street, San Mateo",Foster City
+ChIJkYUIAtadj4ARkgmjqEpxzvk,Primas Market,37.5744792,-122.3168666,4.3,,9.0,3.13,supermarket|grocery_or_supermarket|store|restaurant|food|point_of_interest|establishment,"3A North Kingston Street, San Mateo",Foster City
+ChIJizmDgi-fj4ARUFmM9f_j4ko,Mariscos Y Taqueria Ixpalino Sinaloa,37.5745114,-122.3167765,4.4,,87.0,4.23,restaurant|food|point_of_interest|establishment,"3a North Kingston Street, San Mateo",Foster City
+ChIJA2-SPwCfj4ARjGXicDBWIiw,Pollo Campesino Food Truck,37.5684889,-122.3186006,,,,,restaurant|food|point_of_interest|establishment,"101 East 3rd Avenue, San Mateo",Foster City
+ChIJcVvclg6jj4ARUhTZvdFIKyk,La Chapina Restaurant,37.5677413,-122.3203125,4.0,2.0,303.0,4.2,restaurant|food|point_of_interest|establishment,"215 South Delaware Street, San Mateo",Foster City
+ChIJ3SH8Znqej4ARUMkudLM5pJE,Fuji Sukiyaki,37.566401,-122.320825,4.3,2.0,405.0,4.51,restaurant|food|point_of_interest|establishment,"428 East 3rd Avenue, San Mateo",Foster City
+ChIJTeZ4mJ2fj4AR61fU165t5F0,Eterna Primavera,37.5676564,-122.3196758,4.5,,8.0,3.26,restaurant|food|point_of_interest|establishment,"615 East 3rd Avenue Suite D, San Mateo",Foster City
+ChIJvcCxDgCdj4ARLOahu9rttOM,Grand Harbor Restuarant,37.5838588,-122.3168636,,,,,restaurant|food|point_of_interest|establishment,"1429 Old Bayshore Highway, Burlingame",Foster City
+ChIJrzidLPmej4ARioxd87uGxKk,Tannourine Restaurant,37.54384359999999,-122.3074614,4.4,2.0,319.0,4.62,restaurant|food|point_of_interest|establishment,"120 West 25th Avenue, San Mateo",Foster City
+ChIJL3smLP-ej4ARgQN_9BVPdJc,Fortune Star | Chinese Restaurant (#1 Mandarin Style),37.5433296,-122.3084696,4.0,2.0,89.0,4.06,restaurant|food|point_of_interest|establishment,"173 West 25th Avenue, San Mateo",Foster City
+ChIJVWjBMv-ej4ARSMCgAcSHQ0E,La Lanterna Ristorante,37.5434922,-122.3087981,4.4,2.0,276.0,4.62,restaurant|food|point_of_interest|establishment,"180 West 25th Avenue, San Mateo",Foster City
+ChIJIe6VLP-ej4ARL27Gwj9FFGc,The Noodle Shop,37.5436252,-122.308418,4.3,1.0,289.0,4.3,restaurant|food|point_of_interest|establishment,"164 West 25th Avenue, San Mateo",Foster City
+ChIJHVNe1fiej4ARCCA1SWQivTw,Kobeya,37.5437365,-122.3078976,4.4,1.0,161.0,4.4,restaurant|food|point_of_interest|establishment,"140 West 25th Avenue, San Mateo",Foster City
+ChIJLZhr0v6ej4ARAP-hT1EdtdY,LUCETI'S on 25th,37.54362939999999,-122.3072381,4.3,2.0,233.0,4.51,restaurant|food|point_of_interest|establishment,"109 West 25th Avenue, San Mateo",Foster City
+ChIJtVBa0viej4ARVQZlZFwYlQI,PJ's Pizza Co.,37.5435826,-122.3084494,4.7,2.0,256.0,4.94,restaurant|food|point_of_interest|establishment,"168 West 25th Avenue, San Mateo",Foster City
+ChIJufORWYCfj4ARWtwBIoWzmAg,Del Oro Taqueria Mexican Grill,37.5435056,-122.3077137,4.1,2.0,81.0,4.06,restaurant|food|point_of_interest|establishment,"127 West 25th Avenue, San Mateo",Foster City
+ChIJ3VUJ3tKfj4ARIKA9t6cIdzE,小香牛骨米粉Hunan Mifen San Mateo,37.5434577,-122.3076048,4.4,2.0,76.0,4.29,restaurant|food|point_of_interest|establishment,"123 West 25th Avenue, San Mateo",Foster City
+ChIJT1h6HgCfj4ARgnzghvthQ78,李面请 大碗刀削面 Li's Knife Cut Noodle,37.54355090000001,-122.3076066,4.7,,42.0,3.88,restaurant|food|point_of_interest|establishment,"121 West 25th Avenue, San Mateo",Foster City
+ChIJKZz8LPmej4ARBbVMIQuCtnk,Furagu Sushi,37.54388240000001,-122.307341,4.4,2.0,170.0,4.62,restaurant|food|point_of_interest|establishment,"116 West 25th Avenue, San Mateo",Foster City
+ChIJe1hpqKGfj4ARWBFCgo71nII,人间烟火小酒馆（Dynasty BBQ),37.5436791,-122.3071561,4.6,2.0,367.0,4.83,restaurant|food|point_of_interest|establishment,"105 West 25th Avenue, San Mateo",Foster City
+ChIJhVAUTsyfj4ARDeeBUOsZ2JQ,Prime BBQ,37.5437503,-122.3065682,4.8,2.0,1365.0,5.04,restaurant|food|point_of_interest|establishment,"33 West 25th Avenue, San Mateo",Foster City
+ChIJC9ir5_eej4ARSXbY44ty6Po,Heidi's Pies Restaurant,37.54899169999999,-122.3102553,4.2,1.0,1695.0,4.2,cafe|restaurant|food|point_of_interest|establishment,"1941 South El Camino Real, San Mateo",Foster City
+ChIJ2VGpcliej4ARL6SrI46lA4I,Santa Ramen,37.5487118,-122.3114518,4.3,1.0,683.0,4.3,restaurant|food|point_of_interest|establishment,"1944 South El Camino Real, San Mateo",Foster City
+ChIJg1CHCViej4ARakPttIGBCi8,Seapot,37.54853190000001,-122.3108829,4.3,2.0,865.0,4.51,restaurant|food|point_of_interest|establishment,"1952 South El Camino Real, San Mateo",Foster City
+ChIJ3yb8APmej4ARLbgxXT1Iis8,Pho Element,37.5460099,-122.3077309,4.4,1.0,909.0,4.4,restaurant|food|point_of_interest|establishment,"2216 South El Camino Real, San Mateo",Foster City
+ChIJJZ-QAPmej4ARs-KLOLdk_-M,Seniore's Pizza,37.5460941,-122.307817,4.3,2.0,256.0,4.51,meal_takeaway|restaurant|food|point_of_interest|establishment,"2210 South El Camino Real, San Mateo",Foster City
+ChIJJzUYqv6ej4ARdP1wPGk7IUA,Oceanic Restaurant,37.54432930000001,-122.3051831,4.2,2.0,160.0,4.41,meal_delivery|restaurant|food|point_of_interest|establishment,"2507 South El Camino Real, San Mateo",Foster City
+ChIJ14-fBvmej4ARrGESAkmSw-I,Silver House,37.54591749999999,-122.3076096,4.1,2.0,281.0,4.3,restaurant|food|point_of_interest|establishment,"2224 South El Camino Real, San Mateo",Foster City
+ChIJ1abXTPmej4ARcbHKZmE-yaI,Cobani Gyro & Kebab,37.5442923,-122.306095,4.4,2.0,947.0,4.62,restaurant|food|point_of_interest|establishment,"8 West 25th Avenue, San Mateo",Foster City
+ChIJYYxHV_mej4ARPMAgsqWIHoQ,Little Shanghai Restaurant,37.5449941,-122.3053605,4.2,1.0,584.0,4.2,restaurant|food|point_of_interest|establishment,"17 East 25th Avenue, San Mateo",Foster City
+ChIJ-7aII_iej4ARV_TT46jMcrQ,Daiki Sushi,37.5477929,-122.30893,4.0,2.0,398.0,4.2,restaurant|food|point_of_interest|establishment,"2075 South El Camino Real, San Mateo",Foster City
+ChIJYfk37veej4AR_Y__HVrKHFU,Taco Bell,37.5485958,-122.3097642,4.0,1.0,904.0,4.0,meal_takeaway|restaurant|food|point_of_interest|establishment,"1975 South El Camino Real, San Mateo",Foster City
+ChIJ7e-JFfmej4AROyDsovvnp_U,La Fonda de San Mateo,37.545231,-122.306842,4.4,2.0,266.0,4.62,restaurant|food|point_of_interest|establishment,"2310 South El Camino Real, San Mateo",Foster City
+ChIJveGSE_mej4ARI3Np6OdTKcg,Silver Lake Seafood Restaurant,37.5456995,-122.3066989,4.4,1.0,186.0,4.4,restaurant|food|point_of_interest|establishment,"2291 South El Camino Real, San Mateo",Foster City
+ChIJTV5S5-Ofj4ARcKTVvNe9Z7E,Curry & Kabab - San Mateo,37.5493592,-122.3105966,4.3,2.0,445.0,4.51,meal_delivery|meal_takeaway|restaurant|food|point_of_interest|establishment,"1923 South El Camino Real, San Mateo",Foster City
+ChIJfZwk1GCfj4ARGTJ1yrjaMq8,Chai Yo Thai Cuisine,37.5472306,-122.3090022,4.6,,110.0,4.6,restaurant|food|point_of_interest|establishment,"2116 South El Camino Real, San Mateo",Foster City
+ChIJx5v3UiCfj4AR5nLeVzTzZXI,Dosa Box,37.5477207,-122.3083157,5.0,,4.0,3.56,restaurant|food|point_of_interest|establishment,"66 21st Avenue, San Mateo",Foster City
+ChIJbaKmySifj4ARz3VXd1tWphY,Morning Cafe,37.5477207,-122.3083157,5.0,,11.0,3.67,restaurant|food|point_of_interest|establishment,"66 21st Avenue, San Mateo",Foster City
+ChIJl3GG6Lyfj4ARm0BRMW1ZRas,Village Sandwich,37.5477207,-122.3083157,4.3,,6.0,3.09,restaurant|food|point_of_interest|establishment,"66 21st Avenue k15, San Mateo",Foster City
+ChIJDydqE5Cfj4ARpj4isq4NcJo,XENiA Mediterranean Kitchen,37.5477207,-122.3083157,3.2,2.0,5.0,2.4,restaurant|food|point_of_interest|establishment,"66 21st Avenue, San Mateo",Foster City
+ChIJ91G1hYGfj4ARq9cpilAzffw,Bibimmate,37.5477207,-122.3083157,4.8,,9.0,3.49,restaurant|food|point_of_interest|establishment,"66 21st Avenue, San Mateo",Foster City
+ChIJAVykI5-fj4ARNjVQ0dcBgH4,Wukong Express,37.5477207,-122.3083157,5.0,1.0,8.0,3.62,restaurant|food|point_of_interest|establishment,"66 21st Avenue, San Mateo",Foster City
+ChIJUaM_glufj4ARj-lKjbX5WjU,Wings To Go San Mateo,37.5477207,-122.3083157,,,,,restaurant|food|point_of_interest|establishment,"66 21st Avenue, San Mateo",Foster City
+ChIJiZQybSCfj4ARUQYiq9JS-yE,Palmita,37.5477207,-122.3083157,4.8,,12.0,3.53,meal_delivery|restaurant|food|point_of_interest|establishment,"66 21st Avenue, San Mateo",Foster City
+ChIJM4bVPCCfj4ARuWhne1x88Ok,Big Daddy's Hawaiian BBQ (San Mateo),37.5477207,-122.3083157,4.1,1.0,34.0,3.29,restaurant|food|point_of_interest|establishment,"66 21st Avenue, San Mateo",Foster City
+ChIJhbZZu16fj4ARiLShPmLv89A,Serene Light Kitchen,37.5477207,-122.3083157,5.0,2.0,1.0,3.69,restaurant|food|point_of_interest|establishment,"66 21st Avenue, San Mateo",Foster City
+ChIJZflyZxKfj4ARdolOkRYVAlw,The Backhouse,37.5477207,-122.3083157,4.8,,16.0,3.59,restaurant|food|point_of_interest|establishment,"66 21st Avenue, San Mateo",Foster City
+ChIJlXnPSM2fj4ARURqKnm2MieY,Umami Express,37.5477207,-122.3083157,3.5,2.0,8.0,2.66,meal_delivery|restaurant|food|point_of_interest|establishment,"66 21st Avenue, San Mateo",Foster City
+ChIJjbclDl2fj4ARJM5RW_eIb_E,Dippd donuts,37.5477207,-122.3083157,5.0,,3.0,3.54,restaurant|food|point_of_interest|establishment,"66 21st Avenue, San Mateo",Foster City
+ChIJN9ugXvefj4AR0V_Cg_q2o6o,HOM Korean Kitchen,37.5477207,-122.3083157,5.0,2.0,1.0,3.69,restaurant|food|point_of_interest|establishment,"66 21st Avenue, San Mateo",Foster City
+ChIJ0yl849qfj4ARBW-6IyGZpsU,lulubowls (Hawaiian-Inspired Bowls- San Mateo),37.5477207,-122.3083157,3.9,2.0,15.0,3.05,restaurant|food|point_of_interest|establishment,"66 21st Avenue, San Mateo",Foster City
+ChIJhftVc3Ofj4ARx1r7g4SLa4I,Ben's Fast Food,37.5477207,-122.3083157,4.1,1.0,36.0,3.31,meal_delivery|restaurant|food|point_of_interest|establishment,"66 21st Avenue, San Mateo",Foster City
+ChIJ_1FZcjWfj4AR_aOo4ejXS1Q,Panela De Barro,37.5477207,-122.3083157,1.0,,1.0,0.7,restaurant|food|point_of_interest|establishment,"66 21st Avenue, San Mateo",Foster City
+ChIJBXkQpxWfj4ARJhFur0towwE,San Mateo Food Mall,37.5477207,-122.3083157,4.5,,60.0,3.96,restaurant|food|point_of_interest|establishment,"66 21st Avenue, San Mateo",Foster City
+ChIJjfuGQvKfj4AR8pVedHV87sA,Ramen & Donburi & Curry,37.5477207,-122.3083157,1.0,2.0,1.0,0.74,restaurant|food|point_of_interest|establishment,"66 21st Avenue, San Mateo",Foster City
+ChIJ0xuuKCOfj4ARsCiMailnXtU,moonbowls (Healthy Korean Bowls- San Mateo),37.5477207,-122.3083157,3.9,2.0,55.0,3.54,restaurant|food|point_of_interest|establishment,"66 21st Avenue, San Mateo",Foster City
+ChIJw3U02Rifj4ARGSl3CJM0SX0,Sara's Kitchen,37.5477207,-122.3083157,5.0,,9.0,3.63,meal_takeaway|restaurant|food|point_of_interest|establishment,"66 21st Avenue, San Mateo",Foster City
+ChIJ68EDlvqfj4ARGC2jMqsSWwM,Wings Circle,37.5477207,-122.3083157,4.9,,27.0,3.83,restaurant|meal_takeaway|food|point_of_interest|establishment,"66 21st Avenue, San Mateo",Foster City
+ChIJ7VEHR9Ofj4AR6AEUKzk2Y38,Cooking Papa San Mateo,37.5477207,-122.3083157,5.0,1.0,25.0,3.87,restaurant|food|point_of_interest|establishment,"66 21st Avenue, San Mateo",Foster City
+ChIJ--eOAFqfj4ARxm0wIxmzQ-Q,Batea Colombian cuisine,37.5477542,-122.3083229,,,,,restaurant|food|point_of_interest|establishment,"66 21st Avenue, San Mateo",Foster City
+ChIJx04Wg1-ej4ARhIxqOdSsqVw,Nob Hill Pizza and Popcorn,37.554888,-122.3116156,5.0,,4.0,3.56,restaurant|food|point_of_interest|establishment,"155 South Boulevard, San Mateo",Foster City
+ChIJkdufYMqfj4ARRzWEPAMY5T8,Noma Sushi,37.5546691,-122.310951,4.4,2.0,150.0,4.62,restaurant|food|point_of_interest|establishment,"152 South Boulevard, San Mateo",Foster City
+ChIJkW6H4Wufj4ARjp0Xecw40QM,Beach Hut Deli,37.5544939,-122.3066124,4.5,2.0,190.0,4.73,restaurant|bar|food|point_of_interest|establishment,"1798 South Delaware Street, San Mateo",Foster City
+ChIJtbljcgCfj4ARDa74ZABf3tQ,Taquizas Mariscos Y Taqueria Ixpalino Sinaloa,37.55377590000001,-122.3053585,5.0,,6.0,3.59,restaurant|food|point_of_interest|establishment,"South Delaware Street &, Concar Drive, San Mateo",Foster City
+ChIJUUoh_hmfj4ARhQw2XfMXZQk,Pantry Family Restaurant,37.5532264,-122.3050689,4.2,1.0,714.0,4.2,restaurant|food|point_of_interest|establishment,"1855 South Delaware Street, San Mateo",Foster City
+ChIJP7SzgWOej4ARm8ksqOCHTCw,Golden 9th Deli & Market,37.5626473,-122.3162735,4.5,1.0,63.0,4.0,restaurant|food|point_of_interest|store|establishment,"500 9th Avenue, San Mateo",Foster City
+ChIJL62tToeej4ARGIeXV2uPqBs,Subway,37.5710062,-122.310255,3.3,1.0,91.0,3.21,meal_takeaway|restaurant|food|point_of_interest|establishment,"530 South Norfolk Street, San Mateo",Foster City
+ChIJwRwXQIeej4ARW7apZkKr0vg,Maria's Restaurant,37.5707498,-122.3094834,4.1,,363.0,4.1,restaurant|food|point_of_interest|establishment,"1452 Cary Avenue, San Mateo",Foster City
+ChIJy-fcrYCej4ARYkqWqiQ_Sxc,Tabla Indian Restaurant - San Mateo,37.5715569,-122.3107186,4.1,2.0,974.0,4.3,restaurant|food|point_of_interest|establishment,"450 South Norfolk Street, San Mateo",Foster City
+ChIJoQ1NTYeej4ARiwuJUtApyNk,Round Table Pizza,37.5716089,-122.3109077,4.1,2.0,130.0,4.3,meal_delivery|meal_takeaway|restaurant|food|point_of_interest|establishment,"430 South Norfolk Street, San Mateo",Foster City
+ChIJ96g6P4eej4ARKIor0cbehBU,Aldo's Pizza,37.5709114,-122.3092081,4.4,2.0,244.0,4.62,meal_delivery|restaurant|food|point_of_interest|establishment,"600 South Norfolk Street, San Mateo",Foster City
+ChIJv8E7TYeej4ARi-YP0JM5La8,Ay Caray Taqueria,37.5713523,-122.3104597,4.0,1.0,118.0,4.0,restaurant|food|point_of_interest|establishment,"478 South Norfolk Street, San Mateo",Foster City
+ChIJOycVaoeej4AR81z6tkuorXM,America's House,37.57062439999999,-122.3096135,4.0,2.0,365.0,4.2,restaurant|food|point_of_interest|establishment,"1440 Cary Avenue, San Mateo",Foster City
+ChIJr53DR4eej4ARzRknJcDEGSU,Golden Wok Bistro,37.570842,-122.310058,4.1,1.0,134.0,4.1,restaurant|food|point_of_interest|establishment,"570 South Norfolk Street, San Mateo",Foster City
+ChIJjxM6V4eej4ARJx7k-ijXwqs,Chavez Supermarket,37.5712359,-122.3104021,4.1,,960.0,4.1,bakery|supermarket|grocery_or_supermarket|store|finance|restaurant|food|point_of_interest|establishment,"500 South Norfolk Street, San Mateo",Foster City
+ChIJQ3nmZgCfj4ARI1GGQvh0jmc,"Tamales ""Oaxaqueños""",37.5718403,-122.3094972,,,,,restaurant|food|point_of_interest|establishment,"501 South Norfolk Street, San Mateo",Foster City
+ChIJ-39bhJCfj4ARzNqpvLgUYJo,Shore-Vu Club,37.5708389,-122.3099127,,,,,bar|restaurant|food|point_of_interest|establishment,"596 South Norfolk Street, San Mateo",Foster City
+ChIJm6Faboyfj4ARX1JwveIgJf4,Hermedia Restaurant,37.5705679,-122.3097024,3.7,,3.0,2.62,restaurant|food|point_of_interest|establishment,"1424 Cary Avenue, San Mateo",Foster City
+ChIJ14OHaoeej4ARQa1Xvrjqfoo,Harry's Shoreview Deli,37.5706827,-122.3095481,4.1,,20.0,3.12,store|restaurant|food|point_of_interest|establishment,"1446 Cary Avenue, San Mateo",Foster City
+ChIJmzr6Snqej4ARKnXwd1B3-lM,Ike's Place,37.56745550000001,-122.3193179,4.6,1.0,466.0,4.6,meal_takeaway|restaurant|food|point_of_interest|establishment,"680 East 3rd Avenue, San Mateo",Foster City
+ChIJy1qOG0mfj4ARoMXfcvc2RQQ,Onigilly - San Mateo,37.5673086,-122.3193939,4.6,2.0,91.0,4.7,restaurant|food|point_of_interest|establishment,"670 East 3rd Avenue, San Mateo",Foster City
+ChIJQ6_pTHqej4ARsN5gHPirK9Y,Zen Noodle Bar,37.5672573,-122.319404,4.2,1.0,243.0,4.2,restaurant|food|point_of_interest|establishment,"668 East 3rd Avenue, San Mateo",Foster City
+ChIJSbNQLACfj4ARHwEmIccZF7Y,Comida china,37.5672147,-122.3194234,,,,,restaurant|food|point_of_interest|establishment,"668 East 3rd Avenue, San Mateo",Foster City
+ChIJ9wyeTXqej4ARYxWWs4z7o3s,New Wing Fat Chinese Restaurant,37.5671134,-122.3194072,4.3,,74.0,3.96,restaurant|food|point_of_interest|establishment,"640 East 3rd Avenue, San Mateo",Foster City
+ChIJO9AWmmGfj4ARqA9ba6ucHsE,BentoSprout,37.56773,-122.3111927,4.7,3.0,17.0,3.71,restaurant|food|point_of_interest|establishment,"724 South Amphlett Boulevard, San Mateo",Foster City
+ChIJx8O6A4yfj4ARFEU7GNNsjXs,George Lopez Tacos,37.5676765,-122.3112388,2.0,,4.0,1.42,restaurant|food|point_of_interest|establishment,"724 South Amphlett Boulevard, San Mateo",Foster City
+ChIJUw8fO22fj4ARwrT7AEyvd1w,Krispy Krunchy Chicken,37.56687439999999,-122.3192245,3.4,1.0,15.0,2.53,restaurant|food|point_of_interest|establishment,"609 East 4th Avenue, San Mateo",Foster City
+ChIJUwAoqHuej4AR_nF_loM446w,Tacos Al Vapor Nueva Italia,37.5666712,-122.3184689,4.3,1.0,255.0,4.3,restaurant|food|point_of_interest|establishment,"602 B East 4th Avenue, San Mateo",Foster City
+ChIJSQJ_CHuej4ARezc8vH_W3Mc,Al Carbon Pollos a la Brasa,37.566596,-122.31857,4.0,2.0,259.0,4.2,restaurant|food|point_of_interest|establishment,"602 East 4th Avenue C, San Mateo",Foster City
+ChIJ1dqUT7Kfj4ARJjWhF4JuDFI,Edi's Quesabirrias & Tacos,37.56657649999999,-122.3205504,4.8,1.0,17.0,3.6,restaurant|food|point_of_interest|establishment,"500 East 3rd Avenue, San Mateo",Foster City
+ChIJAQDMY3qej4AR6lq7DZvwIyQ,KFC,37.56613979999999,-122.3210929,1.0,1.0,1.0,0.7,restaurant|food|point_of_interest|establishment,"406 East 3rd Avenue, San Mateo",Foster City
+ChIJIU8Ldsafj4ARRR7_eHI3GXc,Pizza Hut Express,37.5663578,-122.3223203,5.0,1.0,1.0,3.51,meal_takeaway|restaurant|food|point_of_interest|establishment,"320 2nd Avenue Century 12 #437, San Mateo",Foster City
+ChIJWV4bIgOfj4AR8nlVhuFMcT4,Paul Martin's American Grill,37.5383607,-122.3008326,4.0,2.0,898.0,4.2,restaurant|food|point_of_interest|establishment,"101 Hillsdale Shopping Center, San Mateo",Foster City
+ChIJdYut3AKfj4ARJXG4MCjaQuc,California Pizza Kitchen,37.5379144,-122.3012126,4.0,2.0,738.0,4.2,meal_delivery|bar|meal_takeaway|restaurant|food|point_of_interest|store|establishment,"100 31st Avenue, San Mateo",Foster City
+ChIJgyRbEgOfj4AR8ilzv4qcOqA,The Cheesecake Factory,37.5364894,-122.2990469,4.0,2.0,2384.0,4.2,restaurant|bakery|meal_takeaway|food|point_of_interest|store|establishment,"398 Hillsdale Shopping Center, San Mateo",Foster City
+ChIJY_lmSQOfj4ARPkrCcGFV0QU,Marketplace Café,37.5374271,-122.3013765,4.3,2.0,61.0,3.99,restaurant|food|point_of_interest|establishment,"130 Hillsdale Shopping Center, San Mateo",Foster City
+ChIJAzQzRAOfj4ARRVKCVgqgASY,Mrs. Fields,37.5367349,-122.2997466,3.8,2.0,15.0,2.97,bakery|cafe|restaurant|food|point_of_interest|store|establishment,"453 West Sailer Drive, San Mateo",Foster City
+ChIJdYut3AKfj4ARu1CHrOPgZwg,Andersen Bakery,37.53717959999999,-122.3009773,4.2,2.0,243.0,4.41,bakery|cafe|restaurant|food|point_of_interest|store|establishment,"Hillsdale Mall, 198 East Sailer Drive, San Mateo",Foster City
+ChIJdYut3AKfj4ARfeuU_SD7PVg,Starbucks,37.5376737,-122.3001834,4.0,2.0,553.0,4.2,cafe|restaurant|food|point_of_interest|store|establishment,"157 Hillsdale Mall, San Mateo",Foster City
+ChIJ07ZqjBWfj4ARvQvro39bpdI,The Refuge (San Mateo),37.5379766,-122.3019319,4.5,2.0,370.0,4.73,meal_delivery|bar|restaurant|food|point_of_interest|store|establishment,"66 31st Avenue, San Mateo",Foster City
+ChIJP3N8lZufj4AR8UMuiSn9ZpA,Pressed Juicery,37.53864429999999,-122.302141,3.6,2.0,27.0,2.95,restaurant|food|point_of_interest|health|store|establishment,"44 West Sailer Drive Space KO2A, San Mateo",Foster City
+ChIJq94M2I6fj4AR-K0QJJZ0SwU,KURO-OBI by IPPUDO,37.5382867,-122.3016897,3.3,2.0,134.0,3.46,restaurant|food|point_of_interest|establishment,"Hillsdale Shopping Center Zone H (Upper Level, 60 East 31st Avenue, San Mateo",Foster City
+ChIJoyk2-Gyfj4AR75KHuhEKtt4,Tacos El Grullense C&D,37.53821919999999,-122.3014531,3.4,2.0,82.0,3.38,restaurant|food|point_of_interest|establishment,"60 31st Avenue, San Mateo",Foster City
+ChIJGWeNXdmfj4ARF0E7Px9I1Ac,Sarku Japan,37.5381943,-122.3013844,2.9,1.0,62.0,2.57,restaurant|food|point_of_interest|establishment,"60 31st Ave Hillsdale Shopping Center, San Mateo",Foster City
+ChIJdYut3AKfj4AR3_ezAKyBINg,Wetzel's Pretzels,37.5380646,-122.3012504,3.9,1.0,40.0,3.2,bakery|restaurant|food|point_of_interest|store|establishment,"60 31st Avenue Space #1040, San Mateo",Foster City
+ChIJaftroqafj4ARP2AjcD1UhoQ,Palette Tea Garden & Dim Sum 彩苑,37.5386697,-122.3018257,4.0,2.0,1161.0,4.2,restaurant|food|point_of_interest|establishment,"48 Hillsdale Mall, San Mateo",Foster City
+ChIJl9Y9w0Sfj4AR19hlcQzOkUQ,Panda Express,37.538356,-122.3013731,3.1,1.0,100.0,3.1,meal_delivery|meal_takeaway|restaurant|food|point_of_interest|establishment,"74 Hillsdale Mall, San Mateo",Foster City
+ChIJncNNGV2fj4ARU81wLeAPvrY,Shake Shack Hillsdale,37.5384903,-122.3013795,3.9,2.0,798.0,4.09,meal_takeaway|restaurant|food|point_of_interest|establishment,"33 Hillsdale Shopping Center, San Mateo",Foster City
+ChIJnTCnsWafj4ARYZHCfRdX8AI,Blue Whale Poke Bar and Grill,37.5386362,-122.3015052,3.7,2.0,121.0,3.89,restaurant|food|point_of_interest|establishment,"70 Hillsdale Shopping Center, San Mateo",Foster City
+ChIJbUWR7Zafj4ARMYECIC0Iey0,Pinstripes,37.5391123,-122.3014859,4.3,2.0,816.0,4.51,restaurant|bowling_alley|bar|food|point_of_interest|establishment,"36 Hillsdale Mall, San Mateo",Foster City
+ChIJx8042Qafj4ARPEMbdQDvnMM,Mikiya Wagyu Shabu House | San Mateo,37.5389006,-122.3011658,4.6,1.0,89.0,4.45,restaurant|food|point_of_interest|establishment,"68 Hillsdale Mall, San Mateo",Foster City
+ChIJXdykGfafj4ARCuaIwit3KZ4,YAYOI Hillsdale,37.5366304,-122.299239,4.0,2.0,314.0,4.2,restaurant|food|point_of_interest|establishment,"389 Hillsdale Mall, San Mateo",Foster City
+ChIJPwJWe3Cej4AR2tUwdkF4nL8,Sushi Edomata,37.5449107,-122.3047612,4.6,3.0,969.0,4.83,restaurant|food|point_of_interest|establishment,"38 East 25th Avenue, San Mateo",Foster City
+ChIJ_Winrv2ej4AR2Rr3gBdksFg,Subway,37.5426589,-122.3028114,4.0,1.0,133.0,4.0,meal_takeaway|restaurant|food|point_of_interest|establishment,"2727 South El Camino Real Suite C, San Mateo",Foster City
+ChIJgbqC-_uej4AR9hgwImYJcIc,The Swingin' Door,37.545086,-122.3045991,4.3,1.0,863.0,4.3,night_club|bar|restaurant|food|point_of_interest|establishment,"106 East 25th Avenue, San Mateo",Foster City
+ChIJkS2XdP2ej4AR7aAFdP5cDcM,Burger King,37.5418711,-122.3020135,3.8,1.0,784.0,3.8,restaurant|food|point_of_interest|establishment,"2817 South El Camino Real, San Mateo",Foster City
+ChIJ__3YvAKfj4ARV1pq8xK3ggQ,Jersey Mike's Subs,37.5403822,-122.3008713,4.2,1.0,289.0,4.2,meal_takeaway|restaurant|food|point_of_interest|store|establishment,"2925 South El Camino Real, San Mateo",Foster City
+ChIJN3f1GkCfj4ARUaKFCbughQQ,Jayli’s Cocina,37.54155799999999,-122.3031779,4.7,1.0,52.0,4.02,restaurant|food|point_of_interest|establishment,"28th Ave, South El Camino Real, San Mateo",Foster City
+ChIJT-x_Pbyfj4ARWOx5qh3aANw,Sapporo Rock & Roll Sushi,37.5444223,-122.3060196,4.6,,337.0,4.6,restaurant|food|point_of_interest|establishment,"2456 South El Camino Real, San Mateo",Foster City
+ChIJkwaiUvmej4ARclO6_O7RvpY,Chef Zhao Bistro,37.5445109,-122.3060999,4.1,2.0,295.0,4.3,restaurant|food|point_of_interest|establishment,"2450 South El Camino Real, San Mateo",Foster City
+ChIJJbGJdumfj4ARHqzFGHMnOfs,S El Camino Taqueria,37.54529589999999,-122.3062684,4.7,2.0,34.0,3.96,restaurant|food|point_of_interest|establishment,"2317 South El Camino Real, San Mateo",Foster City
+ChIJ1esUKH2fj4ARhW87pT6IjxY,Spice Junction,37.5455653,-122.3065329,4.2,1.0,29.0,3.31,restaurant|food|point_of_interest|establishment,"2299 South El Camino Real, San Mateo",Foster City
+ChIJZVLGdNCfj4ARFVjKUqI0GS0,Spices LLC,37.5455653,-122.3065329,,,,,restaurant|food|point_of_interest|establishment,"2299 South El Camino Real, San Mateo",Foster City
+ChIJ1afTrWmfj4ARwm1KRh3G_E0,Cinépolis Luxury Cinemas San Mateo,37.5393591,-122.3010707,4.0,,1008.0,4.0,movie_theater|bar|restaurant|food|point_of_interest|establishment,"Parking lot, 8 Hillsdale Mall, 60 31st Avenue, San Mateo",Foster City
+ChIJmUsD8Puej4ARjrL6z1BUv0I,Bizza (San Mateo),37.5452999,-122.3044137,4.6,2.0,96.0,4.77,restaurant|food|point_of_interest|establishment,"116 East 25th Avenue, San Mateo",Foster City
+ChIJNXD9Wmefj4ARw5k3-lRu9I8,Flores San Mateo,37.5392379,-122.3007421,4.0,2.0,135.0,4.2,restaurant|food|point_of_interest|establishment,"4 Hillsdale Mall, San Mateo",Foster City
+ChIJ_3bHZ_Cej4ARhqJ6zf6UOwY,Dulzura Café,37.5514934,-122.3018415,4.5,,111.0,4.5,bakery|cafe|store|restaurant|food|point_of_interest|establishment,"709 Bermuda Drive, San Mateo",Foster City
+ChIJSd1l2POej4ARpB-qWOPYDNw,7-Eleven,37.55471740000001,-122.3031432,3.5,1.0,39.0,2.86,convenience_store|cafe|liquor_store|restaurant|food|point_of_interest|store|establishment,"678 Concar Drive, San Mateo",Foster City
+ChIJ9fPayfufj4ARUa9MNxlDVts,Los Triki Takos Mariscos y Tacos,37.553291,-122.3024425,4.9,1.0,21.0,3.74,restaurant|food|point_of_interest|establishment,"1880 South Grant Street, San Mateo",Foster City
+ChIJkUR07V2fj4AR7gvfwL9kCVs,Suavecito Birria & Tacos,37.5640882,-122.3073516,4.6,1.0,341.0,4.6,restaurant|food|point_of_interest|establishment,"1100 South Amphlett Boulevard, San Mateo",Foster City
+ChIJYVjELGSfj4ARdh9CreBa7z4,Village Host Pizza & Grill - Belmont,37.5113718,-122.2935946,4.2,2.0,303.0,4.41,restaurant|food|point_of_interest|establishment,"1017 Alameda de las Pulgas, Belmont",Foster City
+ChIJT4wJdyKfj4ARfY7yALUVxk8,Jiro Cafe & Bakery,37.5101876,-122.2937892,4.8,1.0,59.0,4.21,bakery|cafe|restaurant|food|point_of_interest|store|establishment,"1094 Alameda de las Pulgas, Belmont",Foster City
+ChIJZVmzny-fj4ARbPQCXM9oYnk,ZENSHI Handcrafted Sushi,37.5122419,-122.2956033,,,,,restaurant|meal_takeaway|food|point_of_interest|establishment,"2100 Ralston Avenue, Belmont",Foster City
+ChIJx995siSfj4ARUvrkptK2TDk,Sushi Kuu,37.511622,-122.293839,4.6,2.0,71.0,4.41,restaurant|food|point_of_interest|establishment,"1001 Alameda de las Pulgas, Belmont",Foster City
+ChIJYzU5e2afj4ARf3o2-O0IUfg,Vivace Ristorante,37.51263280000001,-122.2930673,4.4,3.0,525.0,4.62,restaurant|food|point_of_interest|establishment,"1910 Ralston Avenue, Belmont",Foster City
+ChIJh-Tmh2afj4ARmj-JlEdP-9g,Cafe Bliss,37.5121674,-122.2930812,4.5,2.0,191.0,4.73,cafe|restaurant|food|point_of_interest|establishment,"2039 Ralston Avenue, Belmont",Foster City
+ChIJiYH4tmafj4ARLq0rUScULKU,Subway,37.5110269,-122.2930325,2.5,1.0,68.0,2.26,meal_takeaway|restaurant|food|point_of_interest|establishment,"1073 Alameda de las Pulgas, Belmont",Foster City
+ChIJTWyOeWafj4AR1GCqyNGiqT0,Lorenzo's Sandwich Shop,37.5127458,-122.2934164,4.7,1.0,206.0,4.7,meal_takeaway|restaurant|food|point_of_interest|establishment,"911 Villa Avenue, Belmont",Foster City
+ChIJc_E4p2afj4AR6zCZ2bV1P4g,Starbucks,37.5110768,-122.293121,4.0,2.0,192.0,4.2,cafe|store|restaurant|food|point_of_interest|establishment,"1071 Alameda de las Pulgas, Belmont",Foster City
+ChIJicGBqGafj4AR5pZvrjNvqfs,Gin Mon Chinese Restaurant,37.51083779999999,-122.2930184,4.3,,178.0,4.3,restaurant|food|point_of_interest|establishment,"1079 Alameda de las Pulgas, Belmont",Foster City
+ChIJ3RIWKGSfj4ARD-Qjdggg7aU,Coyote's Mexican Cafe,37.5116885,-122.293623,4.2,1.0,191.0,4.2,restaurant|food|point_of_interest|establishment,"1003 1/2 Alameda de las Pulgas, Belmont",Foster City
+ChIJh6WBQNqfj4ARNcZkArVKcZY,Capo Mediterranean Kitchen,37.5125012,-122.2941415,4.8,2.0,305.0,5.04,restaurant|food|point_of_interest|establishment,"2040 Ralston Avenue, Belmont",Foster City
+ChIJG1dkCQCfj4ARUqNN2d1m1wU,Amara,37.5117003,-122.2930713,4.6,,64.0,4.1,restaurant|food|point_of_interest|establishment,"1015 Alameda de las Pulgas, Belmont",Foster City
+ChIJpyQtSRefj4ARys-69XLWhl4,Subway,37.5329643,-122.2934487,3.1,1.0,46.0,2.6,meal_takeaway|restaurant|food|point_of_interest|establishment,"3880 South El Camino Real, San Mateo",Foster City
+ChIJX3rgaxqfj4ARTDV4zC6uL8c,Yuzu,37.5342006,-122.2955589,4.5,2.0,249.0,4.73,restaurant|food|point_of_interest|establishment,"54 37th Avenue, San Mateo",Foster City
+ChIJ7TKz_xmfj4ARtQgGqsBFIBQ,Maverick Jack's San Mateo,37.5321712,-122.2919116,4.5,2.0,1177.0,4.73,restaurant|food|point_of_interest|establishment,"4000 South El Camino Real, San Mateo",Foster City
+ChIJkTQUbxqfj4ARnwE0LebF5Gg,Fernando's Méxican Restaurant,37.53365030000001,-122.2956476,4.3,2.0,441.0,4.51,restaurant|food|point_of_interest|establishment,"63 37th Avenue, San Mateo",Foster City
+ChIJwdQE_hmfj4ARhnRXauveN9M,Cuban Kitchen,37.5337991,-122.2934504,4.7,2.0,1016.0,4.94,restaurant|food|point_of_interest|establishment,"3799 South El Camino Real, San Mateo",Foster City
+ChIJma5mbxqfj4ARgg-PlO8L6Cw,Sole Ristorante Italiano,37.5336708,-122.295804,4.6,2.0,367.0,4.83,restaurant|food|point_of_interest|establishment,"69 37th Avenue, San Mateo",Foster City
+ChIJ7RmhEwCfj4ARNc-STe7KpKs,YAKSI PIZZA,37.5337858,-122.295383,,3.0,,,restaurant|food|point_of_interest|establishment,"33 37th Avenue, San Mateo",Foster City
+ChIJiax_PhKfj4ARzL3GtanZl9g,Amazonia Acai,37.5337542,-122.2949415,5.0,,3.0,3.54,restaurant|food|point_of_interest|establishment,"26 King Court, San Mateo",Foster City
+ChIJ26FUmEafj4ARONOzjbN8zg8,Mariscos de Sinaloa (Lupe's food truck from Salinas),37.5338024,-122.293466,5.0,,1.0,3.51,restaurant|food|point_of_interest|establishment,"3799 South El Camino Real, San Mateo",Foster City
+ChIJKxkjF6Ofj4ARtVLjMzmHer0,Latin Flavor Cuisine Food Truck / Honduras,37.5333901,-122.2929001,5.0,,3.0,3.54,restaurant|food|point_of_interest|establishment,"3825 South El Camino Real, San Mateo",Foster City
+ChIJ217FsiuLUocR11lZFFoqKZ4,Tokemoana's,37.5320841,-122.2918246,4.6,2.0,156.0,4.83,restaurant|food|point_of_interest|establishment,"4000 South El Camino Real Unit B, San Mateo",Foster City
+ChIJQa5tEVyfj4ARPT1f3Fn7yBI,Slices Pizza,37.5410559,-122.2979796,3.9,2.0,51.0,3.49,restaurant|food|point_of_interest|establishment,"3035 South Delaware Street #C, San Mateo",Foster City
+ChIJD4nz7OGej4AR1KYksg-xRIo,Starbucks,37.5447142,-122.2928244,4.3,2.0,190.0,4.51,cafe|restaurant|food|point_of_interest|store|establishment,"Jefferson at Bay Meadows, 1391 Saratoga Drive, San Mateo",Foster City
+ChIJi3qh7OGej4ARkHFqMZ-ZO44,Tastee Grill,37.544691,-122.2926994,4.2,1.0,402.0,4.2,restaurant|food|point_of_interest|establishment,"1001 Park Place, San Mateo",Foster City
+ChIJ41e3keiej4ARQwNuOXtHWOk,Round Table Pizza,37.5543785,-122.2939806,4.3,2.0,141.0,4.51,meal_delivery|meal_takeaway|restaurant|food|point_of_interest|establishment,"1852 South Norfolk Street, San Mateo",Foster City
+ChIJ7aaXC2JrMhURA_Vtk2mC82E,La's Cafe,37.5526378,-122.2927186,4.5,,6.0,3.23,cafe|restaurant|food|point_of_interest|store|establishment,"1900 South Norfolk Street # 126, San Mateo",Foster City
+ChIJQ_iGyRWfj4ARP6QUoj8Aves,Bel Mateo Bowl,37.5282392,-122.2904835,4.4,,1181.0,4.4,bowling_alley|bar|meal_takeaway|restaurant|food|point_of_interest|establishment,"4330 Olympic Avenue, San Mateo",Foster City
+ChIJPVFwnz-fj4ARzKTQU-WDneY,Shalizaar,37.52763940000001,-122.2855469,4.2,2.0,1331.0,4.41,restaurant|food|point_of_interest|establishment,"300 El Camino Real, Belmont",Foster City
+ChIJc9G4yj-fj4ARyWUWpPasRuE,Bay Area Boxing,37.5285229,-122.2866689,5.0,,127.0,5.0,gym|restaurant|food|point_of_interest|health|establishment,"210 El Camino Real, Belmont",Foster City
+ChIJ7-dJixWfj4ARtYi2zjHRQyo,Papa Johns Pizza,37.5291886,-122.288336,3.1,1.0,138.0,3.1,restaurant|food|point_of_interest|establishment,"9 43rd Avenue, San Mateo",Foster City
+ChIJJRmUeRafj4ARQs7iBA7Y80Y,Peking Alley,37.5293993,-122.2879767,4.3,1.0,325.0,4.3,restaurant|food|point_of_interest|establishment,"4300 South El Camino Real, San Mateo",Foster City
+ChIJzwMJvxWfj4ARDUm3gCvCTo4,Round Table Pizza,37.528775,-122.289544,4.3,2.0,279.0,4.51,meal_delivery|meal_takeaway|restaurant|food|point_of_interest|establishment,"61 43rd Avenue, San Mateo",Foster City
+ChIJdUQYkhWfj4ARvv8mWDJD5xY,Taquería Los Moreno,37.528971,-122.288851,4.5,1.0,295.0,4.5,restaurant|food|point_of_interest|establishment,"37 43rd Avenue, San Mateo",Foster City
+ChIJUe_zq-Kfj4ARlcEKx1YUpeo,ZENSHI Handcrafted Sushi,37.529227,-122.2899332,,,,,restaurant|meal_takeaway|food|point_of_interest|establishment,"49 42nd Avenue, San Mateo",Foster City
+ChIJgwpfriyfj4ARvDFTsH7jZYU,Cheung Hing,37.5301075,-122.290466,3.7,2.0,332.0,3.89,restaurant|food|point_of_interest|establishment,"40 42nd Avenue, San Mateo",Foster City
+ChIJc8JISACfj4ARpxD6dtUFFf8,Kodawari Japanese Cuisine,37.5301715,-122.2902986,,,,,restaurant|food|point_of_interest|establishment,"32 42nd Avenue, San Mateo",Foster City
+ChIJj_rGBD6fj4AR2yxHbCg-99Y,Guadalajara Grill,37.5310685,-122.287394,4.3,1.0,617.0,4.3,restaurant|food|point_of_interest|establishment,"19 Laurie Meadows Drive, San Mateo",Foster City
+ChIJp02X4T2fj4ARn_wFNB-PWU0,7-Eleven,37.5310342,-122.2873195,3.3,1.0,32.0,2.63,convenience_store|liquor_store|cafe|restaurant|food|point_of_interest|store|establishment,"11 Laurie Meadows Drive, San Mateo",Foster City
+ChIJr_RGipGfj4ARhmhhx_Txxpw,Town of dumpling,37.5311026,-122.2875853,4.5,1.0,178.0,4.5,restaurant|food|point_of_interest|establishment,"29 Laurie Meadows Drive, San Mateo",Foster City
+ChIJQ9Z4p4mfj4ARszif035j1cA,Calibur Express,37.5269075,-122.2847944,3.0,,3.0,2.13,restaurant|food|point_of_interest|establishment,"390 El Camino Real Suite E, Belmont",Foster City
+ChIJ--r7Y9Wfj4ARwo3dSJxZFsY,Good Eats,37.5269199,-122.2847612,4.1,2.0,23.0,3.31,restaurant|food|point_of_interest|establishment,"390 El Camino Real Suite E, Belmont",Foster City
+ChIJ1Y7oOkCfj4AR84UxeQWgh0c,La Ronda Restaurant Peruvian Cuisine,37.54106019999999,-122.2910781,4.7,2.0,144.0,4.94,restaurant|food|point_of_interest|establishment,"224 East Hillsdale Boulevard, San Mateo",Foster City
+ChIJU3OawOGej4ARUKHj1NBTLTg,Chipotle Mexican Grill,37.5446906,-122.2914827,3.7,1.0,432.0,3.7,restaurant|food|point_of_interest|establishment,"1050 Park Place, San Mateo",Foster City
+ChIJrVSfz-Gej4ARAl58ICzAWDM,Shiki Japanese Restaurant,37.5445308,-122.2913897,4.0,2.0,138.0,4.2,restaurant|food|point_of_interest|establishment,"1040 Park Place, San Mateo",Foster City
+ChIJJV7MDh-fj4ARxfff-DzXBWc,Tacos Peralta,37.54188189999999,-122.2902632,4.1,1.0,112.0,4.1,restaurant|food|point_of_interest|establishment,"342 East Hillsdale Boulevard, San Mateo",Foster City
+ChIJ48Tcrh-fj4AR-RXL-AcR8GY,Tacos El Grullo Jalisco,37.54224870000001,-122.2903257,,,,,restaurant|food|point_of_interest|establishment,"495-599 East Hillsdale Boulevard, San Mateo",Foster City
+ChIJ5WcOiEKfj4ARFdIAz60Q_Wc,El sipote food truck,37.5421797,-122.2901768,5.0,,5.0,3.57,restaurant|food|point_of_interest|establishment,"341 East Hillsdale Boulevard, San Mateo",Foster City
+ChIJxatCXaMHjoARJxDAaxQ8dec,Delizioso Italiano,37.544691,-122.2926994,3.5,2.0,2.0,2.59,restaurant|food|point_of_interest|establishment,"1001 Park Place Unit 1, San Mateo",Foster City
+ChIJS_9yQ0Gfj4ARKSjZ5mQRK2c,Sabores Latinos,37.544691,-122.2926994,3.6,,14.0,2.67,restaurant|food|point_of_interest|establishment,"1001 Park Place unit 2, San Mateo",Foster City
+ChIJeR-e53ifj4ARE8W3rPwSJfw,San Mateo Pizza,37.54439,-122.291992,5.0,,1.0,3.51,restaurant|food|point_of_interest|establishment,"1010 Park Place, San Mateo",Foster City
+ChIJOYI5ZGOfj4ARIlNeIha4rSY,Genji Sushi,37.54439,-122.291992,,2.0,,,restaurant|food|point_of_interest|establishment,"1010 Park Place, San Mateo",Foster City
+ChIJ60m6ibCfj4ARyFBJPGQPGU0,Poke House - San Mateo,37.5446603,-122.2916963,4.0,2.0,79.0,3.94,meal_takeaway|restaurant|food|point_of_interest|establishment,"1030 Park Place, San Mateo",Foster City
+ChIJGQ9jzuGej4AR3OtzvOFkgzA,Mendocino Farms,37.54472989999999,-122.2914314,4.5,2.0,821.0,4.73,restaurant|food|point_of_interest|establishment,"1060 Park Place, San Mateo",Foster City
+ChIJD8h4EgCfj4AR6oKCcBTpL4o,The Bird x Super Duper,37.5448455,-122.2911532,,,,,restaurant|food|point_of_interest|establishment,"1100 Park Place Bldg. 2 Suite 20, San Mateo",Foster City
+ChIJOT48RACfj4ARctqvQQ4bVCs,Super Duper Burgers,37.54495319999999,-122.2908103,4.3,1.0,91.0,4.18,restaurant|food|point_of_interest|establishment,"1100 Park Place Building 2 Suite 20, San Mateo",Foster City
+ChIJszt_iyCfj4AROPCcdeLsXes,Hot Wok Cafe,37.54473979999999,-122.285076,3.9,2.0,136.0,4.09,restaurant|food|point_of_interest|establishment,"2960 South Norfolk Street, San Mateo",Foster City
+ChIJJ2VXiyCfj4ARjRXqc3nCVhI,Myung Dong Tofu Cabin,37.5447593,-122.2849202,4.3,1.0,397.0,4.3,restaurant|food|point_of_interest|establishment,"2968 South Norfolk Street, San Mateo",Foster City
+ChIJc_A6giCfj4ARSTgnWgDqLbg,Denny's,37.54545780000001,-122.2853422,3.6,1.0,1306.0,3.6,restaurant|food|point_of_interest|establishment,"2920 South Norfolk Street, San Mateo",Foster City
+ChIJLZ-FlCCfj4ARa-WeUMsA_kE,Pho Little Saigon,37.5445895,-122.2849922,3.8,1.0,243.0,3.8,restaurant|food|point_of_interest|establishment,"2978 South Norfolk Street, San Mateo",Foster City
+ChIJtyXnf-iej4ARgH5vz-MDChE,Apple Fritter,37.55364919999999,-122.2908179,4.5,1.0,1780.0,4.5,restaurant|cafe|food|point_of_interest|establishment,"1901 South Norfolk Street, San Mateo",Foster City
+ChIJ0Q0SS3Sfj4ARi-w_Fpqe0vo,The Burger Den,37.54549889999999,-122.2853038,1.0,2.0,4.0,0.75,restaurant|food|point_of_interest|establishment,"2920 South Norfolk Street, San Mateo",Foster City
+ChIJQZA9hHifj4ARJmulQVDKR5k,Shugetsu,37.5450641,-122.2853184,4.2,2.0,176.0,4.41,restaurant|food|point_of_interest|establishment,"2944 South Norfolk Street, San Mateo",Foster City
+ChIJt7a7Ow6fj4AR-POfdZpZVZw,留湘小聚店 Ping‘s Bistro | San Mateo,37.54490139999999,-122.2852701,4.1,2.0,133.0,4.3,restaurant|food|point_of_interest|establishment,"2946 South Norfolk Street, San Mateo",Foster City
+ChIJsaGAlCCfj4ARS1jRydXqytM,Amigos Grill Cocina Mexicana,37.54470489999999,-122.2848309,4.1,1.0,224.0,4.1,restaurant|food|point_of_interest|establishment,"2974 South Norfolk Street, San Mateo",Foster City
+ChIJjwe1iSCfj4ARGzwn_xd1I9M,Inshou Cafe,37.5451098,-122.28514,4.1,2.0,340.0,4.3,restaurant|food|point_of_interest|establishment,"2942 South Norfolk Street, San Mateo",Foster City
+ChIJoShLt8Sfj4ARs7XSoeedP98,Lobster Chef,37.5450625,-122.2850589,4.5,2.0,30.0,3.73,restaurant|food|point_of_interest|store|establishment,"2948 South Norfolk Street, San Mateo",Foster City
+ChIJOycOZACfj4ARmUbln-ELdJs,Los Carnalitos (Taco Truck),37.54605610000001,-122.2845797,4.6,1.0,8.0,3.33,restaurant|food|point_of_interest|establishment,"2901 South Norfolk Street, San Mateo",Foster City
+ChIJC8tYWACfj4ARP4VH0nrL1Uc,La Carreta,37.5559948,-122.2889661,5.0,,20.0,3.8,restaurant|food|point_of_interest|establishment,"1410 Fashion Island Boulevard, San Mateo",Foster City
+ChIJUbQYn8Sfj4AR4Ewh5cOk788,Little Late Bird,37.5621565,-122.2861219,4.9,,93.0,4.8,cafe|restaurant|food|point_of_interest|store|establishment,"777 Mariners Island Boulevard STE 170, San Mateo",Foster City
+ChIJq5VmdgCfj4ARu3toZ5YKhn4,Taqueria El Chacho,37.558823,-122.2850602,4.1,,37.0,3.33,restaurant|food|point_of_interest|establishment,"2036 Fashion Island Boulevard, San Mateo",Foster City
+ChIJBaWW0kShj4ARpEEotCMsTVQ,Mary Tacos Las Varas Taco Truck,37.4755129,-122.2803583,4.7,,14.0,3.49,restaurant|food|point_of_interest|establishment,"Edmonds Rd &, Crestview Drive, San Carlos",Foster City
+ChIJdf90g0Cfj4ARsiSPrQ0W17Q,Mountain Mike's Pizza,37.527004,-122.284485,4.0,2.0,332.0,4.2,meal_delivery|meal_takeaway|restaurant|food|point_of_interest|establishment,"390 El Camino Real, Belmont",Foster City
+ChIJP8ult0Wfj4ARQLgZVglTLp0,Iberia,37.5225621,-122.27888,4.4,3.0,465.0,4.62,restaurant|food|point_of_interest|establishment,"740 El Camino Real, Belmont",Foster City
+ChIJdea70Eafj4ARxRMke6kI2Ac,McDonald's,37.52489,-122.281833,3.7,1.0,931.0,3.7,cafe|restaurant|food|point_of_interest|store|establishment,"522 El Camino Real, Belmont",Foster City
+ChIJJcorWACfj4ARnoq1ii1Re0A,Victoria's Kitchen,37.5263652,-122.2844138,4.7,2.0,69.0,4.48,restaurant|food|point_of_interest|establishment,"390 El Camino Real ste v, Belmont",Foster City
+ChIJ7aZnqL2fj4ARHmjeRxyafmE,Buri Buri,37.5264373,-122.2819016,2.7,,3.0,1.91,meal_takeaway|restaurant|food|point_of_interest|establishment,"407 Old County Road, Belmont",Foster City
+ChIJwwcwf33tj4ARqZz3zCVCVcE,Hongry Kong,37.5264325,-122.2818584,4.5,2.0,46.0,3.96,restaurant|food|point_of_interest|establishment,"407 Old County Road, Belmont",Foster City
+ChIJhx75uxufj4ARGVbAOGn69g4,Miss Subi,37.52646889999999,-122.2818808,4.5,,10.0,3.29,restaurant|food|point_of_interest|establishment,"407 Old County Road, Belmont",Foster City
+ChIJkQq1ZTOfj4ARatY2gptYvVI,Meryenda,37.5256042,-122.2798768,5.0,2.0,8.0,3.8,restaurant|food|point_of_interest|establishment,"519 Marine View Avenue Unit F, Belmont",Foster City
+ChIJMcAME5ifj4ARq1hDHBhJzYY,TAPP'D by SHMASH'D,37.5235165,-122.2786934,4.7,,20.0,3.57,bar|restaurant|food|point_of_interest|establishment,"786 Old County Road, Belmont",Foster City
+ChIJ1YhgzJ-fj4ARDqunjY15BCc,Food Service Repair Inc,37.5418137,-122.2844306,,,,,bakery|store|restaurant|food|point_of_interest|establishment,"3141 La Selva Street, San Mateo",Foster City
+ChIJSXBk33Gfj4AR12zqfCgB9L8,Antojitos Salvadorenos El Torogoz,37.5439832,-122.2843987,4.8,,12.0,3.53,restaurant|food|point_of_interest|establishment,"2992 East Hillsdale Boulevard, San Mateo",Foster City
+ChIJ0zXSo5afj4ARa-oYUC8sSgI,Pupusería La Casita,37.5450237,-122.2841181,5.0,1.0,20.0,3.8,restaurant|food|point_of_interest|establishment,"2996 South Norfolk Street, San Mateo",Foster City
+ChIJQSnpNTifj4AR7oo-rIfdAvU,Comida Chapina (Food Truck),37.5452804,-122.2844175,4.3,,6.0,3.09,restaurant|food|point_of_interest|establishment,"S Norfolk St &, East Hillsdale Boulevard, San Mateo",Foster City
+ChIJTajsvMSej4ARvyxPrNQw4bc,KBIO Cafe,37.5574853,-122.2816047,4.5,,15.0,3.35,cafe|restaurant|food|point_of_interest|establishment,"1820 Gateway Drive, San Mateo",Foster City
+ChIJ7cL8nMOej4ARvkYRbKH8npc,Pizza Hut Express,37.5585104,-122.2833017,3.6,1.0,74.0,3.32,meal_takeaway|restaurant|food|point_of_interest|establishment,"2220 Bridgepointe Parkway, San Mateo",Foster City
+ChIJq02_m9qfj4ARwdkXtIZk1n0,California Fish Grill,37.5597387,-122.2841756,4.4,2.0,214.0,4.62,restaurant|food|point_of_interest|establishment,"2214 Bridgepointe Parkway, San Mateo",Foster City
+ChIJYVsWbN6fj4ARCYNbSzIZY58,Chick-fil-A Bridgepointe San Mateo In-Line,37.55974140000001,-122.2841299,4.5,,92.0,4.39,restaurant|food|point_of_interest|establishment,"2210 Bridgepointe Parkway, San Mateo",Foster City
+ChIJUSuYArmfj4ARrq1hjNw2KwQ,Lazy Dog Restaurant & Bar,37.56051130000001,-122.2830974,4.2,2.0,1024.0,4.41,bar|restaurant|food|point_of_interest|establishment,"2208 Bridgepointe Parkway, San Mateo",Foster City
+ChIJI3iapFKfj4ARu3R7IzMyRao,Roadtrip Bowls Made by Lazy Dog,37.560525,-122.283111,2.0,,2.0,1.41,restaurant|food|point_of_interest|establishment,"2208 Bridgepointe Parkway Building C6, San Mateo",Foster City
+ChIJv_7wm8Oej4ARzflirOTE7qc,BJ's Restaurant & Brewhouse,37.56086120000001,-122.282872,4.0,2.0,1571.0,4.2,restaurant|bar|food|point_of_interest|establishment,"2206 Bridgepointe Parkway, San Mateo",Foster City
+ChIJbVNuwMaej4AR3IiElVOTSRY,Chipotle Mexican Grill,37.5625402,-122.2806439,3.8,1.0,627.0,3.8,restaurant|food|point_of_interest|establishment,"2019 Chess Drive, Foster City",Foster City
+ChIJC3dM58Oej4ARtSZewKk4DV8,Armadillo Willy's BBQ,37.559909,-122.281241,4.2,2.0,993.0,4.41,restaurant|food|point_of_interest|establishment,"2260 Bridgepointe Parkway, Foster City",Foster City
+ChIJkQRcDcSej4ARZyxaebSQ-K4,Starbucks,37.560907,-122.280367,4.2,2.0,375.0,4.41,cafe|restaurant|food|point_of_interest|store|establishment,"2292 Bridgepointe Parkway, San Mateo",Foster City
+ChIJBUil2sWej4ARwUAgtMR2ET0,Habit Burger & Grill,37.561962,-122.2790947,4.2,1.0,690.0,4.2,restaurant|food|point_of_interest|establishment,"1297 Chess Drive A, Foster City",Foster City
+ChIJBUil2sWej4ARzhUOnf8CKrg,Panera Bread,37.5618933,-122.278677,4.0,2.0,737.0,4.2,cafe|bakery|meal_takeaway|restaurant|food|point_of_interest|store|establishment,"1297 Chess Drive Suite D, Foster City",Foster City
+ChIJu3Acwcaej4ARI56jeTYnbg4,Panda Express,37.56273890000001,-122.2808111,3.8,1.0,493.0,3.8,meal_takeaway|meal_delivery|restaurant|food|point_of_interest|establishment,"2011 Chess Drive, Foster City",Foster City
+ChIJuSQHOxKfj4ARSGeDzMgBmgg,Benihana,37.561673,-122.282119,4.6,3.0,340.0,4.83,restaurant|food|point_of_interest|establishment,"2204 Bridgepointe Parkway, San Mateo",Foster City
+ChIJvXgJvwOfj4ARDkOxqw-ROUA,Smash Shack,37.5622274,-122.2812502,5.0,,1.0,3.51,restaurant|food|point_of_interest|establishment,"2200 Bridgepointe Pkwy, San Mateo, Foster City",Foster City
+ChIJtdbtYAufj4ARifrSMwr2RDg,Wingstop,37.5626284,-122.2807234,3.2,2.0,29.0,2.64,restaurant|food|point_of_interest|establishment,"2015 Chess Drive, San Mateo",Foster City
+ChIJ67_S8Vufj4ARVqe1G2oLPeU,Nick the Greek,37.5626394,-122.2806964,4.0,2.0,63.0,3.73,meal_takeaway|store|restaurant|food|point_of_interest|establishment,"2017 Chess Drive, Foster City",Foster City
+ChIJF5VQdgCfj4ARla0Ubt0V9ac,Birdie’s at Mariners Point,37.57224919999999,-122.2827876,4.3,,3.0,3.05,restaurant|food|point_of_interest|establishment,"2401 East 3rd Avenue, Foster City",Foster City
+ChIJu-0iFFGfj4AR5UuWKaWLRVM,The Iron Gate,37.5175597,-122.2728853,4.5,3.0,639.0,4.73,restaurant|food|point_of_interest|establishment,"1360 El Camino Real, Belmont",Foster City
+ChIJhzwarVqfj4ARWo_yCUHzJd0,Divino Ristorante,37.5195519,-122.2773183,4.6,2.0,350.0,4.83,restaurant|food|point_of_interest|establishment,"968 Ralston Avenue, Belmont",Foster City
+ChIJgxNoTlCfj4ARoqRdPpC4Wb0,Toto's Pizzeria & Restaurant,37.5186982,-122.2743334,4.5,2.0,308.0,4.73,restaurant|food|point_of_interest|establishment,"1250 El Camino Real B, Belmont",Foster City
+ChIJo8wMpVqfj4ARdsF7gRBG8rw,Falafelle,37.51881650000001,-122.2773466,4.8,1.0,691.0,4.8,restaurant|food|point_of_interest|establishment,"1035 Ralston Avenue, Belmont",Foster City
+ChIJ3Wzc81Cfj4ARY1QwuJ1YQ_0,Farm House,37.51748419999999,-122.2750068,4.5,2.0,500.0,4.73,bar|restaurant|food|point_of_interest|establishment,"1301 6th Avenue, Belmont",Foster City
+ChIJ1-5wU0Wfj4ARJHnIz2coCMk,Belmont Deli,37.5196684,-122.2770879,4.8,2.0,128.0,5.04,restaurant|food|point_of_interest|store|establishment,"932 Ralston Avenue, Belmont",Foster City
+ChIJkQaPAVCfj4AR2mBkCuweoKk,Yama Sushi,37.51977759999999,-122.2764832,3.9,2.0,161.0,4.09,meal_delivery|restaurant|food|point_of_interest|establishment,"889 Ralston Avenue, Belmont",Foster City
+ChIJo0zIq1qfj4ARPShwwLZ-bDM,Sushi Monster,37.519427,-122.2768857,4.4,2.0,366.0,4.62,restaurant|food|point_of_interest|establishment,"955 Ralston Avenue, Belmont",Foster City
+ChIJqRUe40-fj4ARbnc8gAJcUUA,Dog Haus Biergarten,37.52011619999999,-122.2759746,4.5,2.0,1212.0,4.73,restaurant|food|point_of_interest|establishment,"1000 El Camino Real, Belmont",Foster City
+ChIJPXiNHlCfj4AR_hzXNsqU0xw,Starbucks,37.5198653,-122.275618,4.2,2.0,259.0,4.41,cafe|restaurant|food|point_of_interest|store|establishment,"1050 A El Camino Real, Belmont",Foster City
+ChIJWU7m_0-fj4ARAg8EfafDHlE,Mr. Pickle's Sandwich Shop,37.5196945,-122.2765614,4.2,1.0,185.0,4.2,restaurant|food|point_of_interest|establishment,"891 Ralston Avenue, Belmont",Foster City
+ChIJ69NpAFGfj4AROfcL_JjqWkE,Thai Tamarind Restaurant,37.518154,-122.273782,4.1,2.0,285.0,4.3,restaurant|food|point_of_interest|establishment,"1316 El Camino Real, Belmont",Foster City
+ChIJ-xrhYgqfj4ARpVZsj1vf-Sg,Ella's Cafe & BBQ,37.5189278,-122.2772267,4.0,2.0,171.0,4.2,restaurant|food|point_of_interest|establishment,"1000 6th Avenue, Belmont",Foster City
+ChIJdeJx4gOfj4ARhEo1vDvZvE0,ZENSHI Handcrafted Sushi,37.5186137,-122.2757614,,,,,restaurant|meal_takeaway|food|point_of_interest|establishment,"1100 El Camino Real, Belmont",Foster City
+ChIJA1o1GFCfj4ARZI3W8OLCSLg,Panda Express,37.51974999999999,-122.275535,3.9,1.0,466.0,3.9,meal_delivery|meal_takeaway|restaurant|food|point_of_interest|establishment,"1050 El Camino Real D, Belmont",Foster City
+ChIJ3VRzOz6fj4ARh5-4uJ_jiYs,Menchie's Frozen Yogurt,37.51883300000001,-122.27442,4.5,1.0,255.0,4.5,restaurant|food|point_of_interest|store|establishment,"1200 El Camino Real Ste A3, Belmont",Foster City
+ChIJcYL6W7efj4ARXoHe0uApKPo,Kiroro Sushi,37.51887789999999,-122.2744717,4.4,2.0,312.0,4.62,meal_takeaway|restaurant|food|point_of_interest|establishment,"1200 El Camino Real, Belmont",Foster City
+ChIJCc4ampOfj4ARpD9URO0b3ck,Sourdough & Co. Belmont,37.5186479,-122.2741837,4.9,,44.0,4.08,restaurant|food|point_of_interest|establishment,"1250 El Camino Real, Belmont",Foster City
+ChIJk772Tbafj4ARBkP3uQ9BPIU,Slice House by Tony Gemignani,37.5198889,-122.275825,4.4,1.0,256.0,4.4,meal_delivery|meal_takeaway|restaurant|food|point_of_interest|establishment,"1000 El Camino Real C, Belmont",Foster City
+ChIJIZyhM1Cfj4AR9QgFYPdBeo4,Marvin Gardens,37.51973199999999,-122.2740215,4.3,1.0,291.0,4.3,bar|restaurant|food|point_of_interest|establishment,"1160 Old County Road, Belmont",Foster City
+ChIJ87-55E6fj4ARbze8EQh0MpM,Koriander Indian Cuisine & Catering,37.52415499999999,-122.273771,4.0,2.0,1089.0,4.2,restaurant|food|point_of_interest|establishment,"520 Masonic Way, Belmont",Foster City
+ChIJ93WewU-fj4ARdkJvBUr4W5I,Wendy's,37.5214217,-122.2753483,3.9,1.0,1068.0,3.9,restaurant|food|point_of_interest|establishment,"698 Ralston Avenue, Belmont",Foster City
+ChIJpw-ShBifj4AR0aDvQcLggMM,eCr Pub,37.5214949,-122.2776677,4.4,1.0,326.0,4.4,bar|restaurant|food|point_of_interest|establishment,"864 El Camino Real, Belmont",Foster City
+ChIJRZKIaQCfj4ARE2Egfp6JUvA,The 4n20,37.5214953,-122.277661,,2.0,,,restaurant|food|point_of_interest|establishment,"864 El Camino Real, Belmont",Foster City
+ChIJaehGqLafj4ARTMuyCsdoypE,Cheung Hing Seafood & Dimsum,37.52186289999999,-122.2747376,4.1,2.0,661.0,4.3,restaurant|food|point_of_interest|establishment,"600 Ralston Avenue, Belmont",Foster City
+ChIJ02NKmvefj4ARA5EyaPsPdR8,Tacos El Grullense C&D #4,37.5217891,-122.2738292,4.2,1.0,244.0,4.2,restaurant|food|point_of_interest|establishment,"575 Ralston Avenue, Belmont",Foster City
+ChIJq7WH-U6fj4ARr67Eagw6jjs,ampm,37.5235278,-122.2733862,3.1,1.0,13.0,2.29,convenience_store|atm|gas_station|supermarket|grocery_or_supermarket|cafe|restaurant|food|finance|point_of_interest|store|establishment,"470 Ralston Avenue, Belmont",Foster City
+ChIJkwMMalGfj4ARCx3-q24lCxc,Sumac Mediterranean Grill,37.5175171,-122.2721917,4.5,2.0,506.0,4.73,bar|cafe|restaurant|food|point_of_interest|store|establishment,"1397 El Camino Real, Belmont",Foster City
+ChIJe1bWC_Cfj4ARb7f57hnmZks,Two Cousins Deli,37.5187637,-122.2719007,4.7,2.0,72.0,4.52,restaurant|food|point_of_interest|store|establishment,"1331 Old County Road, Belmont",Foster City
+ChIJGVneEdqej4AR6iYcqwtaLhQ,ampm,37.55383339999999,-122.2774268,2.2,1.0,23.0,1.69,convenience_store|atm|gas_station|cafe|supermarket|grocery_or_supermarket|finance|restaurant|food|point_of_interest|store|establishment,"880 East Hillsdale Boulevard, Foster City",Foster City
+ChIJpXTlUimfj4ARk7iiKUV13gg,Rickshaw Corner,37.5453971,-122.2716033,4.4,1.0,366.0,4.4,meal_takeaway|restaurant|food|point_of_interest|establishment,"901 Edgewater Boulevard Suite E, Foster City",Foster City
+ChIJs2QUB9Cej4ARoAmWNcjjeDQ,Cafe Savini,37.55815190000001,-122.2759802,4.4,2.0,89.0,4.47,cafe|restaurant|food|point_of_interest|establishment,"950 Tower Lane #1775, Foster City",Foster City
+ChIJ6_wYvKqfj4ARWdlk2bEPnaY,Boar's Head Deli,37.5566183,-122.2761409,4.1,,9.0,2.98,restaurant|food|point_of_interest|establishment,Foster City,Foster City
+ChIJB0Ua-S-fj4ARZCukLR8Yz_4,ZENSHI Handcrafted Sushi,37.55677550000001,-122.2758939,,,,,restaurant|meal_takeaway|food|point_of_interest|establishment,"921 East Hillsdale Boulevard, Foster City",Foster City
+ChIJox_-T_-fj4ART_GA07Fd8-g,Five Guys,37.55721279999999,-122.2755359,3.2,2.0,51.0,2.87,restaurant|food|point_of_interest|establishment,"933 East Hillsdale Boulevard, Foster City",Foster City
+ChIJnzT-_hafj4AROcD0Hlm62f4,MJ Sushi Foster City,37.5573185,-122.2750141,4.2,2.0,120.0,4.41,restaurant|food|point_of_interest|establishment,"977 East Hillsdale Boulevard, Foster City",Foster City
+ChIJ77-vos-ej4ARpb94xO9mtKo,Starbucks,37.56081529999999,-122.2741346,4.2,2.0,503.0,4.41,cafe|restaurant|food|point_of_interest|store|establishment,"1000 Metro Center Boulevard, Foster City",Foster City
+ChIJwW1gEM-ej4ARjnPgk0FNrm0,Costco Food Court,37.5615341,-122.2746422,4.2,1.0,46.0,3.52,meal_takeaway|grocery_or_supermarket|restaurant|food|point_of_interest|store|establishment,"1001 Metro Center Boulevard, Foster City",Foster City
+ChIJb37MOc6ej4AREfR_JIqg1DI,The Bistro - Eat. Drink. Connect.®,37.5602843,-122.2730085,4.1,,7.0,2.96,restaurant|food|point_of_interest|establishment,"550 Shell Boulevard, Foster City",Foster City
+ChIJC17Hqsiej4AR54zuflEh5Ek,The Clubhouse Bistro,37.5622822,-122.2769085,4.1,2.0,82.0,4.07,night_club|bar|restaurant|food|point_of_interest|establishment,"1221 Chess Drive, Foster City",Foster City
+ChIJC17Hqsiej4ARPcpVelhoE4k,Cafe Florian Restaurant,37.5622778,-122.2770389,4.1,,154.0,4.1,restaurant|food|point_of_interest|establishment,"1221 Chess Drive, Foster City",Foster City
+ChIJ0-SErs-ej4AR1iRTjUE-1xk,Chez Xue,37.5606952,-122.2742476,4.3,2.0,537.0,4.51,restaurant|food|point_of_interest|establishment,"1000 Metro Center Boulevard A, Foster City",Foster City
+ChIJRUy4EZKfj4AR_M1IGs3GMwE,Kunugi Noodle,37.5619433,-122.271319,3.5,2.0,8.0,2.66,restaurant|food|point_of_interest|establishment,"Farmers Market, In side, 1010 Metro Center Boulevard #2, Foster City",Foster City
+ChIJl0pQ6_-hj4AR4AiwrZRogKI,Kabul Afghan Cuisine,37.51241,-122.265923,4.6,2.0,1331.0,4.83,restaurant|food|point_of_interest|establishment,"135 El Camino Real, San Carlos",Foster City
+ChIJk2sP5v-hj4AR5TbyN1x3I5s,Jersey Joe's,37.5129714,-122.2665058,4.4,1.0,1228.0,4.4,bar|restaurant|food|point_of_interest|establishment,"21 El Camino Real, San Carlos",Foster City
+ChIJ_cu-CFSfj4ARID77KTIPlHY,St. James Gate,37.516623,-122.270285,4.4,2.0,1077.0,4.62,bar|restaurant|food|point_of_interest|establishment,"1410 Old County Road, Belmont",Foster City
+ChIJVYfuqVafj4ARsjl40gxQnJw,Godfather's Burger Lounge,37.51612550000001,-122.2712085,4.6,2.0,1577.0,4.83,restaurant|food|point_of_interest|establishment,"1500 El Camino Real, Belmont",Foster City
+ChIJbS1asFWfj4AR0JXi0-ezGrM,Ryoshin Sushi,37.5142917,-122.2689824,4.5,2.0,248.0,4.73,restaurant|food|point_of_interest|establishment,"1602 El Camino Real suite c, Belmont",Foster City
+ChIJdZoIwf-hj4ARpQPLV1DzsGM,The Omelette House,37.512035,-122.2671181,4.6,2.0,464.0,4.83,restaurant|food|point_of_interest|establishment,"66 El Camino Real, San Carlos",Foster City
+ChIJT14rgP-hj4AR6BsKjIpU0iM,McDonalds,37.5111552,-122.2658103,3.8,1.0,732.0,3.8,restaurant|food|point_of_interest|establishment,"180 El Camino Real, San Carlos",Foster City
+ChIJGwmmr1Wfj4ARUMI84D0T7jA,Blue Sky Café,37.51441279999999,-122.2682688,4.6,1.0,400.0,4.6,restaurant|food|point_of_interest|establishment,"1625 El Camino Real #9, Belmont",Foster City
+ChIJHZg3KwCij4ARQ8ZNKCo0_-c,Taco Bell,37.5114045,-122.2650395,3.7,1.0,536.0,3.7,meal_takeaway|restaurant|food|point_of_interest|establishment,"259 El Camino Real, San Carlos",Foster City
+ChIJuexp5JSfj4ARW5n8qu5LGkE,Spoon & Fork,37.5162764,-122.2714289,4.5,2.0,169.0,4.73,restaurant|food|point_of_interest|establishment,"1480 El Camino Real, Belmont",Foster City
+ChIJn5HZKwCfj4AR1JI9PBzSNos,MO's deli & cafe,37.514379,-122.269086,4.9,,77.0,4.56,restaurant|meal_takeaway|cafe|food|point_of_interest|store|establishment,"1602 El Camino Real Ste A, Belmont",Foster City
+ChIJWzmSmzKfj4ARHacj3SC3k5Q,JIKAS KITCHEN,37.51690670000001,-122.2692879,3.8,,12.0,2.8,restaurant|food|point_of_interest|establishment,"151 Old County Road, Belmont",Foster City
+ChIJxTysJQChj4AROX2Cxd9DuKA,Paik's Noodle 홍콩반점 - San Carlos,37.5128221,-122.2661943,4.3,2.0,69.0,4.1,restaurant|food|point_of_interest|establishment,"39 El Camino Real, San Carlos",Foster City
+ChIJM79x-Tyhj4AR8ULmcOTxvfQ,Dunkin',37.5109369,-122.2655142,3.6,1.0,308.0,3.6,bakery|meal_takeaway|cafe|restaurant|food|point_of_interest|store|establishment,"240 El Camino Real, San Carlos",Foster City
+ChIJJ_kMvlKfj4ARNx7httlLVzA,El Metate Taqueria,37.5218375,-122.2667839,4.4,1.0,1282.0,4.4,restaurant|food|point_of_interest|establishment,"120 Harbor Boulevard, Belmont",Foster City
+ChIJcXq16lKfj4ARwAQ_r2t9Omk,Little Belmont Cafe,37.521553,-122.2670211,4.6,1.0,305.0,4.6,restaurant|food|point_of_interest|establishment,"232 Harbor Boulevard, Belmont",Foster City
+ChIJXVpEhEyfj4ARIlBnGGuss_w,Hobee's Restaurant,37.526673,-122.2674269,4.4,2.0,527.0,4.62,restaurant|food|point_of_interest|establishment,"1101 Shoreway Road, Belmont",Foster City
+ChIJ6x0WHCyfj4AREfNcpraaJ4s,Waterfront Pizza,37.5440501,-122.2706173,4.3,2.0,1817.0,4.51,restaurant|food|point_of_interest|establishment,"969 Edgewater Boulevard D, Foster City",Foster City
+ChIJw6DBTimfj4AR824v6qKBrH0,Warehouse Buffet,37.5436982,-122.2703909,3.9,2.0,540.0,4.09,bar|restaurant|food|point_of_interest|establishment,"979 Edgewater Boulevard, Foster City",Foster City
+ChIJzUNfmTmfj4ARR0ND87WKvRQ,Nina’s Cafe,37.5443511,-122.2706417,4.7,2.0,55.0,4.27,restaurant|food|point_of_interest|establishment,"969J Edgewater Boulevard, Foster City",Foster City
+ChIJzbpIIiyfj4ARTbY8CZqH50k,Quickly,37.5444133,-122.2706263,4.2,1.0,105.0,4.2,meal_takeaway|restaurant|food|point_of_interest|establishment,"969K Edgewater Boulevard, Foster City",Foster City
+ChIJ-8Hssnifj4AR7gzZHE3eNIA,Ritha Indian Restaurant,37.5445685,-122.2706776,4.2,2.0,238.0,4.41,meal_delivery|meal_takeaway|restaurant|food|point_of_interest|establishment,"939A Edgewater Boulevard, Foster City",Foster City
+ChIJ21UsjdKej4AR43Z9LjkuWyo,Starbucks,37.5592083,-122.2673174,4.3,2.0,246.0,4.51,cafe|restaurant|food|point_of_interest|store|establishment,"780 Alma Lane, Foster City",Foster City
+ChIJn9PMEgCfj4ARJ5bvr5B8I80,Off the Grid,37.5574391,-122.2707208,4.3,,3.0,3.05,restaurant|food|point_of_interest|establishment,"670 Shell Boulevard, Foster City",Foster City
+ChIJE7zFWQCfj4ARE4m1sEVTPKg,Erik’s DeliCafé,37.5591675,-122.2683306,4.6,1.0,16.0,3.44,restaurant|food|point_of_interest|establishment,"711 Thayer Lane, Foster City",Foster City
+ChIJYzJUKuafj4ARaXLgH3mrGik,Mumu Hot Pot,37.55919480000001,-122.2680528,4.5,1.0,234.0,4.5,restaurant|food|point_of_interest|establishment,"1099 Foster Square Lane #135, Foster City",Foster City
+ChIJyyldBTifj4ARVdcgK6doVF0,Toast In Town,37.5589466,-122.267594,4.6,,46.0,3.85,restaurant|food|point_of_interest|establishment,"1100 Foster Square Lane Suite 145, Foster City",Foster City
+ChIJAU8xJHufj4AR7TL-QOc5xf0,Chuan Chim Thai Cuisine,37.55932660000001,-122.2679252,4.5,2.0,192.0,4.73,restaurant|food|point_of_interest|establishment,"1099 Foster Square Lane STE 125, Foster City",Foster City
+ChIJj4VWjUefj4ARzRHHhGocRCM,Sizzling Lunch,37.5593993,-122.2679169,4.0,2.0,85.0,4.01,restaurant|food|point_of_interest|establishment,"1099 Foster Square Lane STE 125, Foster City",Foster City
+ChIJ5XX1Jaifj4AR894A9dc0Oyw,Curry Pizza House Foster City,37.5590617,-122.26751,4.5,2.0,85.0,4.51,meal_takeaway|liquor_store|restaurant|food|point_of_interest|store|establishment,"1100 Foster Square Lane STE 150, Foster City",Foster City
+ChIJ21UsjdKej4AR0yA6_V5UPqo,Falafel Tazah Foster City,37.5591663,-122.2672829,4.3,2.0,236.0,4.51,restaurant|food|point_of_interest|establishment,"780 Alma Lane, Foster City",Foster City
+ChIJiZmnpM6ej4ARudN-V3ybRrM,McDonald's,37.563291,-122.271678,3.8,1.0,1537.0,3.8,cafe|restaurant|food|point_of_interest|store|establishment,"1101 Triton Drive, Foster City",Foster City
+ChIJPYsgLMyej4ARgtYj6UmCzfI,IHOP,37.56265570000001,-122.2705072,4.2,1.0,874.0,4.2,restaurant|food|point_of_interest|establishment,"531 Foster City Boulevard, Foster City",Foster City
+ChIJrR5MCMyej4AR7p9_0Zsv4RQ,Penelope's Coffee and Tea,37.5644603,-122.2702444,4.4,1.0,419.0,4.4,cafe|restaurant|food|point_of_interest|store|establishment,"3 Plaza View Lane, Foster City",Foster City
+ChIJnxnmD8yej4ARR4Lfoz-pxt4,The Sandwich Monkey,37.56433699999999,-122.2702068,4.2,2.0,187.0,4.41,restaurant|food|point_of_interest|establishment,"3 Plaza View Lane, Foster City",Foster City
+ChIJV2dlGMyej4ARb-mj1lKZW4o,Carl’s Jr.,37.5635386,-122.2705129,3.8,1.0,733.0,3.8,restaurant|food|point_of_interest|establishment,"1140 Triton Drive, Foster City",Foster City
+ChIJ8TNWp86ej4ARqKXPIJQYE88,Taco Bell,37.56361709999999,-122.2711171,3.8,1.0,648.0,3.8,meal_takeaway|restaurant|food|point_of_interest|establishment,"1131 Triton Drive, Foster City",Foster City
+ChIJYeEZ4DKfj4AR-rjfG5vy46w,Pardon My Cheesesteak,37.5626382,-122.2704838,1.0,,2.0,0.71,restaurant|food|point_of_interest|establishment,"531 Foster City Boulevard, Foster City",Foster City
+ChIJraT4JOqfj4AR6Nn1Qbx5BBA,Starbird Salads,37.5638691,-122.2709149,4.1,1.0,14.0,3.04,restaurant|food|point_of_interest|establishment,"1141 Triton Drive, Foster City",Foster City
+ChIJo5s3R2Gfj4AREFeCeAFQMe8,Starbird Chicken,37.5638691,-122.2709149,4.3,2.0,867.0,4.51,restaurant|food|point_of_interest|establishment,"1141 Triton Drive, Foster City",Foster City
+ChIJ82VKveefj4AR8tEV6JA-EpE,808 Zone - Asian Pacific Fusion,37.56433699999999,-122.2702068,4.7,2.0,32.0,3.93,restaurant|food|point_of_interest|establishment,"3 Plaza View Lane ste o, Foster City",Foster City
+ChIJiZIkB9Sjj4ARHAWDiFnDQS4,Canyon Inn,37.4726361,-122.2598917,4.6,2.0,607.0,4.83,restaurant|food|point_of_interest|establishment,"587 Canyon Road, Redwood City",Foster City
+ChIJnebZVNGjj4ARdGDE4tdBaMU,Sancho's Taqueria,37.4718936,-122.2596171,4.3,1.0,648.0,4.3,restaurant|food|point_of_interest|establishment,"3205 Oak Knoll Drive, Redwood City",Foster City
+ChIJ1zLZyr-jj4AR0jzVRpWKEEg,Aroma House,37.471297,-122.2596155,4.5,2.0,125.0,4.73,restaurant|food|point_of_interest|establishment,"3215 Oak Knoll Drive C, Redwood City",Foster City
+ChIJ_bDRTNGjj4ARrE7EaFnyyAI,Asya Restaurant,37.47133030000001,-122.2594763,4.1,2.0,70.0,3.92,restaurant|food|point_of_interest|establishment,"3215 Oak Knoll Drive UNIT B, Redwood City",Foster City
+ChIJHxd5UdGjj4ARSU73Grs-iG8,Speederia Pizzeria,37.472073,-122.259383,4.5,1.0,232.0,4.5,meal_takeaway|meal_delivery|restaurant|food|point_of_interest|establishment,"3045, 3201A Oak Knoll Drive, Redwood City",Foster City
+ChIJeU6raQOij4ARbWV1LkIFLpU,Red Hot Chilli Pepper,37.50683360000001,-122.2605466,4.2,2.0,2054.0,4.41,restaurant|food|point_of_interest|establishment,"1125 San Carlos Avenue, San Carlos",Foster City
+ChIJXe3tQgOij4ARyMcZtpQIkXY,Saffron,37.5067422,-122.2606677,4.2,2.0,925.0,4.41,restaurant|food|point_of_interest|establishment,"1143 San Carlos Avenue, San Carlos",Foster City
+ChIJYXR6Zhuij4ARmUVUzx-mQwk,Town,37.5048544,-122.259458,4.5,3.0,2216.0,4.73,bar|restaurant|food|point_of_interest|establishment,"716 Laurel Street, San Carlos",Foster City
+ChIJ_aEGkgGij4ARnpAP3ZsfIEY,CreoLa Bistro,37.50976609999999,-122.26367,4.5,2.0,726.0,4.73,meal_takeaway|restaurant|food|point_of_interest|establishment,"344 El Camino Real, San Carlos",Foster City
+ChIJOUSyqRyij4ARQMIUO76RqPQ,Rangoon Ruby Burmese Cuisine,37.50523999999999,-122.2598256,4.1,2.0,548.0,4.3,restaurant|food|point_of_interest|establishment,"680 Laurel Street, San Carlos",Foster City
+ChIJx842QAOij4ARGMf_PNc-pe8,Starbucks,37.50649499999999,-122.260987,4.0,2.0,288.0,4.2,cafe|restaurant|food|point_of_interest|store|establishment,"1187 San Carlos Avenue, San Carlos",Foster City
+ChIJA1tQPhuij4AR2g4Uzh857wo,Subway,37.5052294,-122.2581134,4.1,1.0,98.0,4.08,restaurant|food|point_of_interest|establishment,"744 El Camino Real, San Carlos",Foster City
+ChIJDcNwchuij4ARneNiXjDR-jc,Spasso,37.504403,-122.2584708,4.5,2.0,465.0,4.73,restaurant|food|point_of_interest|establishment,"769 Laurel Street, San Carlos",Foster City
+ChIJWQuz7QOij4ARoKX2isiAOPI,Emelinas Peruvian Restaurant,37.5092827,-122.2604785,4.4,2.0,618.0,4.62,restaurant|food|point_of_interest|establishment,"1065 Holly Street D, San Carlos",Foster City
+ChIJyymzbDiij4ARsYcY9-o6xZ8,Mountain Mike's Pizza,37.504872,-122.2578007,4.3,2.0,317.0,4.51,meal_takeaway|meal_delivery|restaurant|food|point_of_interest|establishment,"774 El Camino Real, San Carlos",Foster City
+ChIJi_Cg6gOij4ARmaF1FIKcoX0,El Maguey,37.5091805,-122.2606533,4.5,1.0,461.0,4.5,restaurant|food|point_of_interest|establishment,"1065 Holly Street D, San Carlos",Foster City
+ChIJz4xqZhuij4ARUo3IRMYygDo,Sakura San Carlos,37.5045562,-122.2590432,4.3,,292.0,4.3,restaurant|food|point_of_interest|establishment,"744 Laurel Street, San Carlos",Foster City
+ChIJRbMmPxuij4ARgePSKWrVojI,Rita's Italian Ice & Frozen Custard,37.5052436,-122.2582254,4.6,1.0,239.0,4.6,restaurant|food|point_of_interest|store|establishment,"740 El Camino Real, San Carlos",Foster City
+ChIJgR9psAOij4ARXYwulBYaYqo,Shell,37.5082428,-122.2617893,3.3,2.0,61.0,3.06,gas_station|convenience_store|restaurant|food|point_of_interest|store|establishment,"500 El Camino Real, San Carlos",Foster City
+ChIJdYu1chuij4ARujIuEgcV_jE,PRANZI,37.5043069,-122.2583586,4.3,2.0,435.0,4.51,restaurant|food|point_of_interest|establishment,"777 Laurel Street, San Carlos",Foster City
+ChIJbwCMUQOij4AR83_yaWBlV7g,Siamese Kitchen,37.5059313,-122.260277,4.2,2.0,216.0,4.41,restaurant|food|point_of_interest|establishment,"637 Laurel Street, San Carlos",Foster City
+ChIJwds5EwOij4ARMO7_oZ0A3j8,King Chuan Restaurant,37.50673979999999,-122.2612338,4.4,2.0,383.0,4.62,meal_takeaway|meal_delivery|restaurant|food|point_of_interest|establishment,"1188 San Carlos Avenue, San Carlos",Foster City
+ChIJo9TTawOij4ARlZFyNVSlunk,La Corneta Taqueria,37.5067127,-122.2607051,4.4,1.0,350.0,4.4,restaurant|food|point_of_interest|establishment,"1147 San Carlos Avenue, San Carlos",Foster City
+ChIJq0lIbwOij4ARYpsTKk7YkdY,Delizie Cucina & Vino,37.50691489999999,-122.2604396,4.6,2.0,282.0,4.83,restaurant|food|point_of_interest|establishment,"1107 San Carlos Avenue, San Carlos",Foster City
+ChIJYeRadBuij4ARuEPXHiFSDAM,The Cask Wine Bar,37.5041059,-122.2585178,4.5,2.0,329.0,4.73,bar|restaurant|food|point_of_interest|establishment,"782 Laurel Street, San Carlos",Foster City
+ChIJLUZGbwOij4ARmkmMs9xNXAI,Toot Sweet Frozen Yogurt,37.50699669999999,-122.2608952,4.6,1.0,118.0,4.6,restaurant|food|point_of_interest|store|establishment,"1148 San Carlos Avenue, San Carlos",Foster City
+ChIJ1Vs96QOij4ARId40V4rhSik,7-Eleven,37.50956499999999,-122.2611034,3.2,1.0,26.0,2.49,convenience_store|cafe|liquor_store|restaurant|food|point_of_interest|store|establishment,"1080 Holly Street, San Carlos",Foster City
+ChIJDT_rRgOij4ARvmdP6zQID-I,The Olive Crush,37.50576799999999,-122.2600839,4.9,,107.0,4.9,grocery_or_supermarket|restaurant|food|point_of_interest|store|establishment,"653 Laurel Street, San Carlos",Foster City
+ChIJN35FowOjj4ARH_LvQZoF--8,Sirayvah Organic Thai Cuisine,37.5095551,-122.2634163,4.5,2.0,118.0,4.73,restaurant|food|point_of_interest|establishment,"366 El Camino Real, San Carlos",Foster City
+ChIJfw5_xwOij4AR7uUF5ABJ8rA,El Charrito,37.508524,-122.2621095,4.5,1.0,751.0,4.5,restaurant|food|point_of_interest|establishment,"1100 Holly Street, San Carlos",Foster City
+ChIJU1-3rRajj4ARoy2qvBDSLV0,Groovy Goose,37.50619889999999,-122.2613233,4.5,1.0,190.0,4.5,meal_takeaway|bakery|cafe|restaurant|food|point_of_interest|store|establishment,"1221 San Carlos Avenue, San Carlos",Foster City
+ChIJD7eyOAOij4ARU531nDef78Y,Blue Line Pizza,37.5063494,-122.2611775,4.4,2.0,710.0,4.62,bar|restaurant|food|point_of_interest|establishment,"1201 San Carlos Avenue, San Carlos",Foster City
+ChIJqy9n7AOij4ARTLAjf4-3mtk,Pho Vinh Vietnamese Restaurant,37.5091401,-122.2607405,4.2,1.0,339.0,4.2,restaurant|food|point_of_interest|establishment,"1065 Holly Street #A, San Carlos",Foster City
+ChIJ_TOUEVOjj4AR4YPkvp3namU,Tamari Authentic Georgian Cuisine,37.507003,-122.2610108,4.3,2.0,336.0,4.51,restaurant|food|point_of_interest|establishment,"1152 San Carlos Avenue, San Carlos",Foster City
+ChIJw4Q89byjj4AR9b7UxZSum3I,Poke'd Out Fish Bar,37.50644,-122.2608674,4.5,,59.0,3.95,restaurant|food|point_of_interest|establishment,"603 Laurel Street, San Carlos",Foster City
+ChIJreyIpGWjj4ARvsw91mkBEn0,Doppio Zero San Carlos,37.5062529,-122.2606454,4.4,2.0,291.0,4.62,restaurant|food|point_of_interest|establishment,"617 Laurel Street, San Carlos",Foster City
+ChIJQbf0I-ajj4AR13SzhQDrajo,Molly O's,37.5065766,-122.2606365,4.7,2.0,118.0,4.94,restaurant|bar|food|point_of_interest|establishment,"1163 San Carlos Avenue, San Carlos",Foster City
+ChIJn0LJ5LCjj4ARqkorME1qfLc,PYLOS,37.50625,-122.2603982,4.7,2.0,200.0,4.94,restaurant|food|point_of_interest|establishment,"621 Laurel Street, San Carlos",Foster City
+ChIJz3gEGUyjj4ARgLmyoSkYVsc,Jood,37.5059981,-122.2603543,4.6,,110.0,4.6,restaurant|food|point_of_interest|establishment,"635 Laurel Street, San Carlos",Foster City
+ChIJ8Sf6nw-jj4AR1bLIrhg2a4A,Highlands Sports Bar & Grill,37.50563959999999,-122.2603296,4.1,2.0,39.0,3.52,restaurant|bar|food|point_of_interest|establishment,"644 Laurel Street Suite C, San Carlos",Foster City
+ChIJ56KZvzGjj4ARwSYAU6xKEco,Esnaf,37.5068956,-122.2603263,4.7,2.0,146.0,4.94,restaurant|food|point_of_interest|establishment,"1105 San Carlos Avenue, San Carlos",Foster City
+ChIJ786QQaOjj4ARnls1IisX1Vo,Out of the Barrel,37.50769030000001,-122.2604257,4.5,,47.0,3.78,bar|restaurant|food|point_of_interest|establishment,"555 El Camino Real Suite 150, San Carlos",Foster City
+ChIJxdXENyKjj4ARbOiBdmpE9-E,Drakes,37.5070239,-122.2602518,4.3,2.0,387.0,4.51,bar|restaurant|food|point_of_interest|establishment,"1101 San Carlos Avenue, San Carlos",Foster City
+ChIJkxz93AOij4ARI_bQ1BmwLrI,San Carlos Chuck's Donuts,37.5095824,-122.2612466,4.5,1.0,74.0,4.15,bakery|cafe|store|restaurant|food|point_of_interest|establishment,"495 Old County Road, San Carlos",Foster City
+ChIJYbzc32yjj4ARiJ_QHb3zKvs,number5kitchen,37.5056211,-122.2598989,4.6,2.0,108.0,4.83,restaurant|food|point_of_interest|establishment,"663 Laurel Street, San Carlos",Foster City
+ChIJG9AXuw2jj4ARfm85G_Rf97I,Wing Boss,37.5051597,-122.2599164,2.5,,11.0,1.83,restaurant|meal_delivery|meal_takeaway|food|point_of_interest|establishment,"680 Laurel Street, San Carlos",Foster City
+ChIJGXTDiPajj4ARKdArjwl4eek,Dickey's Barbecue Pit,37.5051597,-122.2599164,2.2,2.0,44.0,1.92,restaurant|store|food|point_of_interest|establishment,"680 Laurel Street, San Carlos",Foster City
+ChIJI3zH5wOij4ARlP3DHF4sYwQ,Ramen/Udon,37.50963280000001,-122.2610092,4.0,,9.0,2.91,restaurant|food|point_of_interest|establishment,"1080 Holly Street, San Carlos",Foster City
+ChIJpTY2DACjj4ARjPZ9bq2ReiA,Sen Thai Noodle,37.50554030000001,-122.2597601,4.7,,7.0,3.39,restaurant|food|point_of_interest|establishment,"677B Laurel Street, San Carlos",Foster City
+ChIJef0_iqajj4ARFYa044zH5tY,Impasto by Terun,37.5070855,-122.2596727,4.6,2.0,79.0,4.53,restaurant|food|point_of_interest|establishment,"661 El Camino Real, San Carlos",Foster City
+ChIJgURqeoKjj4ARBo6ogQa5jek,Sunshine HK Cafe,37.5062538,-122.2595176,4.4,2.0,78.0,4.32,restaurant|food|point_of_interest|establishment,"648 El Camino Real, San Carlos",Foster City
+ChIJP8Z1Xbmjj4ARzh-YkIMLtIc,Nick The Greek,37.5047571,-122.259234,4.4,1.0,259.0,4.4,restaurant|food|point_of_interest|establishment,"732 Laurel Street, San Carlos",Foster City
+ChIJVZlkJSyjj4ARaq0ve0KviUA,Nursel Central Asian & Russian Cuisine,37.5077053,-122.259296,4.5,2.0,403.0,4.73,restaurant|food|point_of_interest|establishment,"601 Old County Road, San Carlos",Foster City
+ChIJYf1TUgCjj4ARuJJ5OF4fRUw,Elia,37.50495559999999,-122.2590523,4.5,,57.0,3.92,restaurant|food|point_of_interest|establishment,"727 Laurel Street, San Carlos",Foster City
+ChIJF6b4MACjj4ARngisbbAkNWM,Takumi,37.5048295,-122.2589598,4.3,2.0,12.0,3.32,restaurant|food|point_of_interest|establishment,"741 Laurel Street, San Carlos",Foster City
+ChIJA4uzEgCjj4ARiY62sWiquwE,Bistro Mitte,37.50470159999999,-122.25872,4.4,,222.0,4.4,restaurant|food|point_of_interest|establishment,"749 Laurel Street, San Carlos",Foster City
+ChIJ33nQwQaij4ARGaXcr8UY8j4,In-N-Out Burger,37.5129452,-122.2586092,4.5,1.0,4561.0,4.5,restaurant|food|point_of_interest|establishment,"445 Industrial Road, San Carlos",Foster City
+ChIJ_X6mH6mYj4ARRKmaukmrj9s,Rendezvous Cafe and Catering,37.52034989999999,-122.2581411,4.0,1.0,28.0,3.14,cafe|restaurant|food|point_of_interest|establishment,"350 Twin Dolphin Drive, Redwood City",Foster City
+ChIJWQPjv62Yj4ARxhVnzhBaSSs,Waterside Grill + Lounge,37.5230476,-122.2613165,4.1,2.0,226.0,4.3,restaurant|food|point_of_interest|establishment,"223 Twin Dolphin Drive, Redwood City",Foster City
+ChIJ-YLHWbSYj4ARrgH0lIn6OMs,Bon Appetit 500 Cafe for Employees,37.5306945,-122.2622867,4.0,,21.0,3.05,cafe|restaurant|food|point_of_interest|establishment,"Oracle Building 500, 500 Oracle Parkway, Redwood City",Foster City
+ChIJi_MOb66Yj4ARtBBmEvOrtos,Steve's Cafe & Catering,37.523495,-122.258443,4.7,1.0,105.0,4.7,cafe|restaurant|food|point_of_interest|establishment,"303 Twin Dolphin Drive #110, Redwood City",Foster City
+ChIJm47x8hmij4ARyiM10cY4Yno,The Refuge,37.50188289999999,-122.2553303,4.6,2.0,2011.0,4.83,bar|restaurant|food|point_of_interest|store|establishment,"963 Laurel Street, San Carlos",Foster City
+ChIJT-73tRuij4ARuOKY56IDGiw,Starbucks,37.502941,-122.257122,3.9,2.0,184.0,4.09,cafe|restaurant|food|point_of_interest|store|establishment,"856 Laurel Street, San Carlos",Foster City
+ChIJy4OMMxqij4AREgSnVRom_qQ,Yan's Garden,37.50287,-122.2566507,4.4,2.0,166.0,4.62,meal_delivery|meal_takeaway|restaurant|food|point_of_interest|establishment,"885 Laurel Street, San Carlos",Foster City
+ChIJ2Y7btRuij4ARbjTooOov1HQ,The Crepe Stop,37.5030194,-122.2572166,4.4,1.0,388.0,4.4,restaurant|food|point_of_interest|store|establishment,"852 Laurel Street, San Carlos",Foster City
+ChIJm3KGOhqij4ARctHd8DxwNEQ,Day Break Gourmet Cafe,37.5029755,-122.2562783,3.0,,4.0,2.14,cafe|restaurant|food|point_of_interest|establishment,"1154 Arroyo Avenue, San Carlos",Foster City
+ChIJeyn3rRuij4ARrxYM-mXhavo,Shiki Bistro,37.503561,-122.2573026,4.3,2.0,460.0,4.51,restaurant|food|point_of_interest|establishment,"825 Laurel Street, San Carlos",Foster City
+ChIJI3i-gj2ij4AR6Fb8aT_hZN8,The Sandwich Spot,37.49826789999999,-122.2511427,4.3,1.0,190.0,4.3,meal_takeaway|restaurant|food|point_of_interest|establishment,"1295 Laurel Street, San Carlos",Foster City
+ChIJoYyTMRqij4ARfm7W1012IOM,Broiler Express,37.5028198,-122.2564249,4.4,1.0,514.0,4.4,restaurant|food|point_of_interest|establishment,"895 Laurel Street, San Carlos",Foster City
+ChIJL0xAMxqij4ARw_KvL0mNHDg,888 Ristorante Italiano,37.5026266,-122.2568146,4.5,2.0,106.0,4.73,restaurant|food|point_of_interest|establishment,"888 Laurel Street #3951, San Carlos",Foster City
+ChIJcSl8zBuij4AR92FK-3oZBi0,LuLu's on Laurel Street,37.5027017,-122.2569438,3.8,2.0,150.0,3.99,meal_takeaway|restaurant|food|point_of_interest|establishment,"876 Laurel Street, San Carlos",Foster City
+ChIJVdkp1hmij4ARSUa_dwTD2Rg,Noelani's Island Grill,37.5008217,-122.2540228,4.5,2.0,977.0,4.73,restaurant|food|point_of_interest|establishment,"1037 Laurel Street, San Carlos",Foster City
+ChIJHwcqoxeij4ARGRTvcYnhRKA,Jack in the Box,37.5002242,-122.2526005,3.5,1.0,955.0,3.5,meal_delivery|restaurant|food|point_of_interest|establishment,"1100 El Camino Real, San Carlos",Foster City
+ChIJW7bnwReij4ARYSHjhNcHCrM,New Canton Restaurant,37.4993224,-122.2527494,4.3,2.0,163.0,4.51,restaurant|food|point_of_interest|establishment,"1160 Laurel Street, San Carlos",Foster City
+ChIJ0R5_qJ6jj4ARvA8TdCyp8XY,Owada,37.50256530000001,-122.2567702,4.2,2.0,23.0,3.39,restaurant|food|point_of_interest|establishment,"894 Laurel Street, San Carlos",Foster City
+ChIJ83BpPYGjj4ARi1kYIUkgSV0,Lou's Cafe,37.5024057,-122.2565541,4.7,,79.0,4.4,restaurant|food|point_of_interest|establishment,"902 Laurel Street, San Carlos",Foster City
+ChIJm8slF4ajj4AR37WqCdyy1AE,Rouge Lounge,37.5026124,-122.2567399,5.0,,4.0,3.56,bar|restaurant|food|point_of_interest|establishment,"890 Laurel Street, San Carlos",Foster City
+ChIJDWMbdRuij4ARda-i0Gmyi6Q,West Park Bistro,37.50396359999999,-122.2583575,4.4,2.0,448.0,4.62,bar|restaurant|food|point_of_interest|establishment,"788 Laurel Street, San Carlos",Foster City
+ChIJf5ubpeWjj4AR7f4eOxx8skU,"The Grilled Company, Inc",37.503561,-122.2573026,,,,,restaurant|food|point_of_interest|establishment,"825 Laurel Street, San Carlos",Foster City
+ChIJT_Z7eRyjj4ARYHsoLEJpiNk,Stamp Bar & Grill,37.5043568,-122.2584081,4.3,2.0,216.0,4.51,bar|restaurant|food|point_of_interest|establishment,"773 Laurel Street, San Carlos",Foster City
+ChIJC7x7pi6jj4AR_aFzMazM6wk,Mama Coco Cocina Mexicana,37.5045701,-122.2586595,3.8,2.0,66.0,3.58,restaurant|food|point_of_interest|establishment,"753 Laurel Street, San Carlos",Foster City
+ChIJFyAb1uyjj4ARt5So3lLilQ0,Pizza Guys,37.50459809999999,-122.2577543,4.7,2.0,111.0,4.94,restaurant|food|point_of_interest|establishment,"796 El Camino Real Suite E, San Carlos",Foster City
+ChIJcZjUcBCjj4ARXgUI37I-Ei4,HoangHuan Inc,37.5045297,-122.2573644,,,,,meal_takeaway|restaurant|food|point_of_interest|establishment,"796 El Camino Real, San Carlos",Foster City
+ChIJsWK0pIOjj4ARs8nsqcIwXho,William B.B.Q.,37.49995839999999,-122.2530811,4.6,2.0,82.0,4.57,restaurant|food|point_of_interest|establishment,"1109 Laurel Street, San Carlos",Foster City
+ChIJd8Txf8Ojj4ARzX8-VeI0wjI,Isarn Garden Thai Cuisine,37.5010873,-122.2533032,4.5,2.0,400.0,4.73,restaurant|food|point_of_interest|establishment,"1050 El Camino Real, San Carlos",Foster City
+ChIJ03M8lBeij4ARCMh_cLleOWo,My Breakfast House,37.4997154,-122.2527537,4.5,1.0,369.0,4.5,cafe|restaurant|food|point_of_interest|establishment,"1137 Laurel Street, San Carlos",Foster City
+ChIJcyt_Iwaij4ARPw3Gr0NWYSk,Izzy's on the Peninsula,37.5142105,-122.2537424,4.2,3.0,865.0,4.41,bar|restaurant|food|point_of_interest|establishment,"525 Skyway Road, San Carlos",Foster City
+ChIJnzFA84Cjj4AReqLDLxV3tdQ,Starbucks,37.5138684,-122.2542857,4.3,,99.0,4.29,cafe|store|restaurant|food|point_of_interest|establishment,"505 Skyway Road, San Carlos",Foster City
+ChIJgw41M6aYj4AR9NSBP9wQZfE,Starbucks,37.5227058,-122.2517293,3.9,2.0,339.0,4.09,cafe|store|restaurant|food|point_of_interest|establishment,"Marketplace, 264 Redwood Shores Parkway, Redwood City",Foster City
+ChIJA1D78aWYj4AR68Nb-SoTCIM,Amici's East Coast Pizzeria,37.5218469,-122.251504,4.2,2.0,498.0,4.41,restaurant|food|point_of_interest|establishment,"226 Redwood Shores Parkway, Redwood City",Foster City
+ChIJvQ1c7aWYj4ARhYCUHtYBVio,The Grill House,37.522352,-122.251571,4.3,2.0,596.0,4.51,bar|restaurant|food|point_of_interest|establishment,"246 Redwood Shores Parkway, Redwood City",Foster City
+ChIJpcHMxqmZj4ARY9Yk3JEL4m0,Bon appetite management company,37.5204348,-122.253956,5.0,,2.0,3.53,restaurant|food|point_of_interest|establishment,"201 Redwood Shores Parkway #100, Redwood City",Foster City
+ChIJkfHQ7i-Zj4AR8RanYyimZHQ,Local Kitchens,37.5193597,-122.2516786,4.9,1.0,18.0,3.69,restaurant|food|point_of_interest|establishment,"200 Redwood Shores Parkway, Redwood City",Foster City
+ChIJN5KwGwCZj4AR9Ylea81LFQw,Chipotle Mexican Grill,37.5217612,-122.2517418,3.5,1.0,42.0,2.89,restaurant|food|point_of_interest|establishment,"224 Redwood Shores Parkway, Redwood City",Foster City
+ChIJiSG4TKaYj4ARLeRoG2_zEd4,Falafel Tazah Redwood City,37.522512,-122.2516483,4.4,2.0,260.0,4.62,restaurant|food|point_of_interest|establishment,"256 Redwood Shores Parkway, Redwood City",Foster City
+ChIJ3Smpd42Zj4ARlO84VdmhC7k,Mendocino Farms,37.522212,-122.2515518,4.1,2.0,31.0,3.41,restaurant|food|point_of_interest|establishment,"242 Redwood Shores Parkway, Redwood City",Foster City
+ChIJQcSdssSfj4ARBUjFda1bU84,Wrapped N' Sauced,37.522512,-122.2516483,5.0,2.0,13.0,3.88,restaurant|food|point_of_interest|establishment,"256 Redwood Shores Parkway, Redwood City",Foster City
+ChIJAQAAAE-fj4AREVMRx3KxWZg,Five Guys,37.5220874,-122.2514251,4.4,2.0,256.0,4.62,meal_takeaway|restaurant|food|point_of_interest|establishment,"238 Redwood Shores Parkway, Redwood City",Foster City
+ChIJLwPlfKaYj4AR-dh0vPXZPLM,Otoko Sushi,37.52216050000001,-122.2514202,4.0,2.0,206.0,4.2,restaurant|food|point_of_interest|establishment,"240 Redwood Shores Parkway, Redwood City",Foster City
+ChIJMZAdxbCYj4ARvab868SQ4iI,Mistral Restaurant and Bar,37.529685,-122.2564792,4.4,2.0,673.0,4.62,restaurant|food|point_of_interest|establishment,"370-6 Bridge Parkway, Redwood City",Foster City
+ChIJ8WDdiT2Zj4AR6Ly5f_-5Lo4,The Hollō Cafe,37.5365634,-122.2560834,4.9,,27.0,3.83,restaurant|food|point_of_interest|establishment,"1100 Island Drive suite 150, Redwood City",Foster City
+ChIJj7WBxdeYj4ARD_wYzxfoz80,Tai Wu Restaurant,37.5535473,-122.2569658,4.0,1.0,201.0,4.0,restaurant|food|point_of_interest|establishment,"1080 Foster City Boulevard, Foster City",Foster City
+ChIJEVPBxdeYj4AR4_eJ0x_2tRg,Round Table Pizza,37.5534717,-122.2567622,3.8,2.0,104.0,3.99,meal_delivery|meal_takeaway|restaurant|food|point_of_interest|establishment,"1084 Foster City Boulevard, Foster City",Foster City
+ChIJQ4rvKtaYj4ARBTGefrZrSYg,Soon's Tofu & Korean BBQ,37.5538129,-122.2573218,4.1,2.0,279.0,4.3,store|restaurant|food|point_of_interest|establishment,"1062 Foster City Boulevard, Foster City",Foster City
+ChIJ666FxteYj4AR1GOowL8wYVY,Pho New Saigon,37.553428,-122.2567351,4.0,1.0,216.0,4.0,restaurant|food|point_of_interest|establishment,"1088 Foster City Boulevard, Foster City",Foster City
+ChIJ1cyeC4KZj4ARLqErTunnsfg,Birria tacos y tortas Philly cheese steak (at soons bbq),37.553383,-122.2573248,,,,,store|restaurant|food|point_of_interest|establishment,"1062 Foster City Boulevard, Foster City",Foster City
+ChIJq2k9MdaYj4ARrG9JZP0Rhls,Sweethoney Dessert 杏記甜品店,37.55368850000001,-122.2571953,3.9,1.0,130.0,3.9,cafe|restaurant|food|point_of_interest|establishment,"1066 Foster City Boulevard, Foster City",Foster City
+ChIJ1QYzS0aZj4ARnST3igaZ-Q0,Sunshine Deli,37.5537988,-122.2572994,4.2,,5.0,3.0,store|restaurant|food|point_of_interest|establishment,"1062 Foster City Boulevard, Foster City",Foster City
+ChIJqeAfJQyjj4ARDu9wmhEDBhA,Mountain Mike's Pizza,37.46966759999999,-122.2463934,4.4,2.0,146.0,4.62,meal_takeaway|meal_delivery|restaurant|food|point_of_interest|establishment,"3121 Jefferson Avenue, Redwood City",Foster City
+ChIJO-0JnD6ij4ARsWvFATbNs2o,iGuey Taqueria,37.49651199999999,-122.2480234,4.5,1.0,399.0,4.5,restaurant|food|point_of_interest|establishment,"1494 El Camino Real, San Carlos",Foster City
+ChIJVUAKaV-ej4ARYPOU-_YEHDY,Mints & Honey,37.4961776,-122.2476941,4.5,2.0,631.0,4.73,cafe|restaurant|food|point_of_interest|store|establishment,"1524 El Camino Real, San Carlos",Foster City
+ChIJS24vMjmij4ARvvkYOX9j5K4,Mediterranean Delite,37.4951797,-122.2465973,4.6,1.0,381.0,4.6,restaurant|food|point_of_interest|establishment,"1620 El Camino Real, San Carlos",Foster City
+ChIJrfx9kz2ij4AR60mFS7Addq4,Round Table Pizza,37.49822579999999,-122.2500241,4.1,2.0,172.0,4.3,meal_takeaway|meal_delivery|restaurant|food|point_of_interest|establishment,"1324 El Camino Real, San Carlos",Foster City
+ChIJjdOVKRaij4ARi9rywrJG-tE,Thai Time,37.4988889,-122.2508333,3.9,2.0,13.0,3.03,restaurant|food|point_of_interest|establishment,"1240 El Camino Real, San Carlos",Foster City
+ChIJy1Gi6j2ij4ARDmPT4rdXeaA,"New York pizza, pasta & more",37.4980041,-122.2498017,4.1,2.0,314.0,4.3,meal_takeaway|meal_delivery|restaurant|food|point_of_interest|establishment,"1340 El Camino Real, San Carlos",Foster City
+ChIJLX8tFDmij4ARpUjD3uO5RYg,Johnston's Saltbox,37.4941016,-122.246527,4.7,2.0,1095.0,4.94,bar|restaurant|food|point_of_interest|establishment,"1696 Laurel Street, San Carlos",Foster City
+ChIJy2K-wv-jj4ARQMZ6yOLXoPw,La Hacienda Restaurant,37.4973641,-122.249959,4.3,1.0,158.0,4.3,restaurant|food|point_of_interest|establishment,"1377 Laurel Street, San Carlos",Foster City
+ChIJoeNZl8ijj4ARwlavdRd5gTY,Soko Soko Japanese Cuisine,37.495783,-122.2479701,4.7,,49.0,3.98,restaurant|food|point_of_interest|establishment,"1541 Laurel Street, San Carlos",Foster City
+ChIJAQBs1heij4AR9_db6Wz7QSs,Sushi Kazoku,37.4987453,-122.2516298,4.7,2.0,186.0,4.94,restaurant|food|point_of_interest|establishment,"1201 Laurel Street, San Carlos",Foster City
+ChIJ3Ta9cWKjj4AR_5bQj0NNxF0,Wings Lover,37.4980041,-122.2498017,5.0,,1.0,3.51,restaurant|food|point_of_interest|establishment,"1340 El Camino Real, San Carlos",Foster City
+ChIJf4wGMwCjj4ARLGEqAV2CS6Y,Dumpling & Dough,37.4990488,-122.2519844,4.8,2.0,98.0,5.01,restaurant|food|point_of_interest|establishment,"1195 Laurel Street, San Carlos",Foster City
+ChIJtVlMxBeij4ARW1R2aJ91IMI,Pazzo,37.4992051,-122.2522434,4.6,2.0,385.0,4.83,restaurant|food|point_of_interest|establishment,"1179 Laurel Street, San Carlos",Foster City
+ChIJzSUWDK-jj4ARz8oUeyheR-4,Amazing Wok,37.4947313,-122.2467551,4.1,1.0,57.0,3.57,restaurant|food|point_of_interest|establishment,"1653 1655Laurel St, San Carlos",Foster City
+ChIJY9_wPDmij4AR6OLCjJJ90dM,"The Toss, San Carlos",37.4945396,-122.2466202,4.6,,192.0,4.6,restaurant|food|point_of_interest|establishment,"1673 Laurel Street, San Carlos",Foster City
+ChIJmcHlWDiij4AR4SrH6VPZ2Fk,Carl’s Jr.,37.4935217,-122.2446423,4.0,1.0,373.0,4.0,restaurant|food|point_of_interest|establishment,"1800 El Camino Real, San Carlos",Foster City
+ChIJf0zs7z2ij4ARyPSxI-H0Mow,El Jarochito Truck,37.49855539999999,-122.2488256,4.5,,29.0,3.54,restaurant|food|point_of_interest|establishment,"1335 Old County Road, San Carlos",Foster City
+ChIJUy8tEACjj4ARy8ueTTE9hbc,Tacos grill los González #2,37.4944525,-122.2450564,5.0,,3.0,3.54,restaurant|food|point_of_interest|establishment,"1745 El Camino Real, San Carlos",Foster City
+ChIJJcXIXACjj4ARd937SPTZDVI,Kokorec,37.49427789999999,-122.244857,,,,,restaurant|food|point_of_interest|establishment,"1805 California 82, San Carlos",Foster City
+ChIJ0fXiYQCjj4ARvi54s1I8GQw,Food Factory,37.49435260000001,-122.2448051,5.0,,7.0,3.6,restaurant|food|point_of_interest|establishment,"1805 El Camino Real, San Carlos",Foster City
+ChIJYYtDoxWij4AR7tTuXFG-kDc,Wingstop,37.50237550000001,-122.2461374,3.6,2.0,228.0,3.78,restaurant|food|point_of_interest|establishment,"1135 Industrial Road Suite E, San Carlos",Foster City
+ChIJC1dTIxSij4ARAPufA8MRF9Q,Chipotle Mexican Grill,37.50220849999999,-122.2463726,4.0,1.0,507.0,4.0,restaurant|food|point_of_interest|establishment,"1135 Industrial Road, San Carlos",Foster City
+ChIJj62_yhWij4ARgMVmllpjAq4,Starbucks,37.5021594,-122.2464415,3.9,2.0,365.0,4.09,cafe|restaurant|food|point_of_interest|store|establishment,"1135 Industrial Road, San Carlos",Foster City
+ChIJP2oOEBaij4ARFQJJYUZhgpU,Lucky,37.500294,-122.24925,4.0,,563.0,4.0,grocery_or_supermarket|meal_delivery|supermarket|restaurant|food|point_of_interest|store|establishment,"1133 Old County Road, San Carlos",Foster City
+ChIJv3zNWxaij4ARHhMZmiSwy6M,Kelly’s Deli,37.50078990000001,-122.2499709,4.0,,7.0,2.88,restaurant|food|point_of_interest|establishment,"1125 Old County Road, San Carlos",Foster City
+ChIJ-Xp44nGjj4ARpQy--kuhkuY,The Great Highway,37.5025796,-122.2489809,4.7,,41.0,3.87,casino|restaurant|food|point_of_interest|store|establishment,"1100 Industrial Road STE 14, San Carlos",Foster City
+ChIJs5yt4A-ij4ARlG-aPSpCS1A,Marsha's Lunchbox,37.5081245,-122.2527554,4.5,2.0,61.0,4.17,restaurant|meal_takeaway|food|point_of_interest|store|establishment,"760 Industrial Road, San Carlos",Foster City
+ChIJORNJ9R6jj4ARifDgwd9uP78,Spill the Tea BBQ SC,37.50570580000001,-122.2568367,4.6,2.0,23.0,3.71,restaurant|food|point_of_interest|establishment,"765 Old County Road unit B, San Carlos",Foster City
+ChIJn6yuqwmij4ARrdscqJxK_II,Sky Kitchen,37.51516670000001,-122.2505194,4.5,1.0,547.0,4.5,restaurant|food|point_of_interest|establishment,"620 Airport Way, San Carlos",Foster City
+ChIJAQ4Edw-ij4ARwuGwpNeQ6_4,Blue Oak Brewing Company,37.5103332,-122.2530538,4.8,,416.0,4.8,bar|restaurant|food|point_of_interest|establishment,"815 Cherry Lane, San Carlos",Foster City
+ChIJz2PRbuOjj4ARTgWGyy7g2vI,Salt & Brine,37.5067474,-122.2506431,,,,,restaurant|food|point_of_interest|establishment,"835 Industrial Road, San Carlos",Foster City
+ChIJD3hQ9CSZj4ARIGOdnCaEpAA,Joy Restaurant,37.5634417,-122.2505882,4.2,2.0,345.0,4.41,restaurant|food|point_of_interest|establishment,"1489 Beach Park Boulevard, Foster City",Foster City
+ChIJ0zUtXSSZj4AR4FxutnC97fw,Sweet Basil Thai Cuisine,37.56309090000001,-122.2503833,4.3,2.0,826.0,4.51,restaurant|food|point_of_interest|establishment,"1473 Beach Park Boulevard, Foster City",Foster City
+ChIJpwbKWiSZj4ARjXjoEgUIbq0,Akizu Sushi Bar & Grill,37.56308819999999,-122.249991,4.3,,173.0,4.3,restaurant|food|point_of_interest|establishment,"1457 Beach Park Boulevard, Foster City",Foster City
+ChIJKzv8EySZj4ARt59z6jkbXm0,Kenta Ramen,37.5635504,-122.2506562,4.3,1.0,263.0,4.3,restaurant|food|point_of_interest|store|establishment,"1495 Beach Park Boulevard, Foster City",Foster City
+ChIJ97vvSB6Zj4AR6wwMGV4tjDI,Bellini Bistro,37.56301029999999,-122.2502583,4.7,2.0,129.0,4.94,restaurant|food|point_of_interest|establishment,"1465 Beach Park Boulevard, Foster City",Foster City
+ChIJ04eH1DWZj4ARcuWDQkRr66Y,Dumpling Kitchen - Factory,37.5630889,-122.2500772,4.4,2.0,25.0,3.58,meal_delivery|meal_takeaway|restaurant|food|point_of_interest|establishment,"1459 Beach Park Boulevard, Foster City",Foster City
+ChIJM5VlTMmZj4ARxSGqAOoDhf8,DELÍCIAS De Minas,37.561858,-122.249073,5.0,,1.0,3.51,restaurant|food|point_of_interest|establishment,"1441 Beach Park Boulevard, Foster City",Foster City
+ChIJlc29db-jj4ARHEh1XjV_OYY,Little Caesars Pizza,37.4658591,-122.2415471,3.7,1.0,385.0,3.7,meal_takeaway|meal_delivery|restaurant|food|point_of_interest|establishment,"2193 Roosevelt Avenue, Redwood City",Foster City
+ChIJgRRzCr-jj4AR0KQidei7oK4,Oh Baby Sushi,37.4659847,-122.2410228,4.5,2.0,980.0,4.73,restaurant|food|point_of_interest|establishment,"2139 Roosevelt Avenue, Redwood City",Foster City
+ChIJbxwY3QCjj4AR5Ht18lctD_Q,Big Brother's Burgers,37.466118,-122.241011,4.8,2.0,146.0,5.04,restaurant|food|point_of_interest|establishment,"2137 Roosevelt Avenue, Redwood City",Foster City
+ChIJGQ8REkiij4AR-1OuQ3cr8rg,STACKS Redwood City,37.4913927,-122.2419875,4.2,2.0,1582.0,4.41,restaurant|food|point_of_interest|establishment,"314 El Camino Real, Redwood City",Foster City
+ChIJCzSGVEiij4AR4Ku-TIkjEGc,Starbucks,37.49041,-122.240326,4.0,2.0,280.0,4.2,cafe|store|restaurant|food|point_of_interest|establishment,"490 El Camino Real, Redwood City",Foster City
+ChIJEx-1Bziij4ARVYnYQJmxRcU,KFC,37.49220739999999,-122.2429424,3.2,1.0,350.0,3.2,restaurant|food|point_of_interest|establishment,"204 El Camino Real, Redwood City",Foster City
+ChIJsy7IWEmij4ARMSPxS-uj7zw,Circle K,37.48849619999999,-122.238056,3.3,1.0,20.0,2.51,convenience_store|gas_station|meal_takeaway|store|restaurant|food|point_of_interest|establishment,"602 El Camino Real, Redwood City",Foster City
+ChIJo_HfEUmij4ARTD1tcd8Xfg8,Higuma Japanese Restaurant,37.4895773,-122.2391855,4.6,2.0,452.0,4.83,restaurant|food|point_of_interest|establishment,"540 El Camino Real, Redwood City",Foster City
+ChIJeRwPW0iij4ARspmjcHcAmoQ,Nikko's Mexican Grill,37.4906906,-122.2407984,4.1,2.0,147.0,4.3,restaurant|food|point_of_interest|establishment,"408 El Camino Real, Redwood City",Foster City
+ChIJW5oWRUiij4AR03j1IsWa47o,7-Eleven,37.4907396,-122.2408829,3.1,1.0,28.0,2.43,convenience_store|liquor_store|cafe|store|restaurant|food|point_of_interest|establishment,"400 El Camino Real, Redwood City",Foster City
+ChIJ_21JHFWjj4ARb-KQ1noiyPo,Burma Spice,37.4901861,-122.2403222,4.7,2.0,72.0,4.52,restaurant|food|point_of_interest|establishment,"490 El Camino Real #140, Redwood City",Foster City
+ChIJeZkn-Uiij4AROdXTdPgewpU,Ben Frank's,37.4908839,-122.2399137,4.3,1.0,509.0,4.3,meal_takeaway|restaurant|food|point_of_interest|establishment,"491 El Camino Real, Redwood City",Foster City
+ChIJ2VG1i0Cij4ARD2GpO2HXf3E,Domenico Winery,37.498966,-122.24195,4.7,2.0,323.0,4.94,liquor_store|restaurant|food|point_of_interest|store|establishment,"1697 Industrial Road, San Carlos",Foster City
+ChIJW_UWasejj4AR77Z4HKN7TqQ,Gilly's Kitchen,37.4987855,-122.2454834,4.0,1.0,1.0,2.81,meal_takeaway|restaurant|food|point_of_interest|establishment,"967 Center Street, San Carlos",Foster City
+ChIJoRS9Rkmij4ARUhWTeKPIfbM,Burger King,37.4894954,-122.2381648,3.7,1.0,474.0,3.7,restaurant|food|point_of_interest|establishment,"575 El Camino Real, Redwood City",Foster City
+ChIJG6_WciSjj4ARXjsbsB4_hl4,Ramo’s Food truck,37.4997704,-122.2434998,4.9,,15.0,3.65,store|restaurant|food|point_of_interest|establishment,"1493Industrial Rd, San Carlos",Foster City
+ChIJM2IcyASjj4AR-wQWoTZCVGo,Osteria at Domenico,37.4989835,-122.2419324,4.6,2.0,62.0,4.28,restaurant|bar|food|point_of_interest|establishment,"1697 Industrial Road, San Carlos",Foster City
+ChIJA947woyjj4AR2-NZGET4Clg,Falafel Tazah San Carlos,37.5021201,-122.2463521,4.0,2.0,109.0,4.2,restaurant|food|point_of_interest|establishment,"1135 Industrial Road, San Carlos",Foster City
+ChIJPbWuDxWij4ARm6JUZdnbuDU,San Carlos Marketplace,37.50235099999999,-122.2441328,4.3,,1519.0,4.3,shopping_mall|grocery_or_supermarket|store|restaurant|food|point_of_interest|establishment,"1127 Industrial Road, San Carlos",Foster City
+ChIJ0yO6drKjj4ARAWCffo3MUmY,Genji Sushi,37.48222229999999,-122.2316198,2.5,2.0,2.0,1.85,restaurant|food|point_of_interest|establishment,"1250 Jefferson Avenue, Redwood City",Foster City
+ChIJT-3vsPGjj4ARlp2Q5mTrgnc,Cocina Economica Don Victor de Redwood City,37.4825095,-122.2351398,,,,,restaurant|food|point_of_interest|establishment,"James and, Clinton Street, Redwood City",Foster City
+ChIJZzIe9L2jj4ARut3Qvv3O-s4,Redwood City Sandwich,37.48222229999999,-122.2316198,,,,,restaurant|food|point_of_interest|establishment,"1250 Jefferson Avenue, Redwood City",Foster City
+ChIJRbGed8ijj4ARkbz1PZ4wuMM,Market Cocina,37.48222229999999,-122.2316198,3.4,,5.0,2.43,restaurant|food|point_of_interest|establishment,"1250 Jefferson Avenue, Redwood City",Foster City
+ChIJj5BynF-jj4ARSRTURvKZIGI,Redwood City Pub,37.48222229999999,-122.2316198,,,,,bar|restaurant|food|point_of_interest|establishment,"1250 Jefferson Avenue, Redwood City",Foster City
+ChIJ_V6kIk2ij4ARmonRgzkKIkI,Gourmet Haus Staudt,37.486054,-122.233447,4.7,2.0,1865.0,4.94,restaurant|grocery_or_supermarket|bar|liquor_store|food|point_of_interest|store|establishment,"1532, 2615 Broadway, Redwood City",Foster City
+ChIJh_BM4Uyij4ARNQIT1FTeTgo,Bangkok Bay Thai Cuisine,37.48593699999999,-122.2343583,4.1,2.0,322.0,4.3,restaurant|food|point_of_interest|establishment,"825 El Camino Real, Redwood City",Foster City
+ChIJ05Ol40yij4ARvUw_3nCmvx4,The Hub RWC,37.4863545,-122.2344049,4.4,1.0,253.0,4.4,bar|restaurant|food|point_of_interest|establishment,"2650 Broadway, Redwood City",Foster City
+ChIJg0Iyv7Kjj4AR3fWZ0B-Nhio,Little Madfish,37.4848861,-122.2321222,4.2,2.0,372.0,4.41,restaurant|food|point_of_interest|establishment,"1021 El Camino Real, Redwood City",Foster City
+ChIJM16jGU2ij4ARBWfI6Y1foik,Phở Đông Restaurant,37.4865049,-122.2336336,4.0,2.0,377.0,4.2,restaurant|food|point_of_interest|establishment,"2610 Broadway, Redwood City",Foster City
+ChIJy_6H5Eyij4AR8Wq38iHHktQ,I Dumpling,37.4863668,-122.2346594,4.3,1.0,660.0,4.3,restaurant|food|point_of_interest|establishment,"2660 Broadway, Redwood City",Foster City
+ChIJ99DzPEyij4ARMmbic0aLTuE,Chavez Supermarket,37.4885414,-122.235419,4.0,1.0,387.0,4.0,supermarket|grocery_or_supermarket|finance|restaurant|food|point_of_interest|store|establishment,"775 Arguello Street, Redwood City",Foster City
+ChIJZ3zC1u6jj4ARwN7lwwFR9KY,Ike's Lair of Redwood City,37.4860123,-122.2342689,4.4,1.0,383.0,4.4,meal_takeaway|restaurant|food|point_of_interest|store|establishment,"2655 Broadway, Redwood City",Foster City
+ChIJd2kvv7Kjj4ARcvT7G-rmdg4,Panda Express,37.4849177,-122.2320849,3.2,1.0,476.0,3.2,meal_takeaway|meal_delivery|restaurant|food|point_of_interest|establishment,"1023 El Camino Real, Redwood City",Foster City
+ChIJb8WjWa2jj4ARysjv4ApnPos,Starbucks,37.4851397,-122.2310932,4.0,2.0,269.0,4.2,cafe|restaurant|food|point_of_interest|store|establishment,"1045 El Camino Real, Redwood City",Foster City
+ChIJOaf5XUyij4AR2S5sp3ltmbM,Redwood Bistro,37.4871029,-122.2355938,4.2,1.0,308.0,4.2,meal_takeaway|meal_delivery|restaurant|food|point_of_interest|establishment,"711 El Camino Real, Redwood City",Foster City
+ChIJhfs58Eyij4ARPXy-go9HOqY,La Casita Chilanga,37.4865249,-122.2348861,4.1,2.0,720.0,4.3,restaurant|food|point_of_interest|establishment,"761 El Camino Real, Redwood City",Foster City
+ChIJT88EM0yij4ARijiCHh33D28,840 Wine Bar & Cocktail Lounge,37.4888459,-122.2343235,4.2,2.0,204.0,4.41,night_club|bar|restaurant|food|point_of_interest|establishment,"840 Brewster Avenue, Redwood City",Foster City
+ChIJ_WchZK2jj4ARC7ddVzF9yro,Sequoia Station,37.4843685,-122.2310938,4.1,,2958.0,4.1,shopping_mall|grocery_or_supermarket|restaurant|food|point_of_interest|store|establishment,"1001-1111 El Camino Real, Redwood City",Foster City
+ChIJJ5LAG02ij4AR5q6-JvUK3AE,Kemuri Japanese Barú,37.4864227,-122.2337074,4.4,2.0,611.0,4.62,bar|restaurant|food|point_of_interest|establishment,"2616 Broadway, Redwood City",Foster City
+ChIJacNoWU2ij4ARjNfbxA70ZNE,The Sandwich Spot,37.4865422,-122.2317438,4.5,1.0,1248.0,4.5,bar|restaurant|food|point_of_interest|store|establishment,"2420 Broadway, Redwood City",Foster City
+ChIJcT6CYEyij4ARUkq7skoUerQ,Estampas Peruanas Restaurant,37.4870639,-122.2355139,4.4,2.0,630.0,4.62,restaurant|food|point_of_interest|establishment,"715 El Camino Real, Redwood City",Foster City
+ChIJJzpLrlKij4ARvTXVU0rQHQQ,Broadway Masala Restaurant and Catering,37.4862504,-122.2308509,4.4,2.0,1323.0,4.62,restaurant|food|point_of_interest|establishment,"2397 Broadway, Redwood City",Foster City
+ChIJ19PpgbKjj4ARUxIyK1z1ZOI,Noah's NY Bagels,37.4848696,-122.2309395,3.7,1.0,300.0,3.7,bakery|cafe|restaurant|food|point_of_interest|store|establishment,"1067 El Camino Real, Redwood City",Foster City
+ChIJm5mMq9Cjj4ARh9KF5PZjTAk,Katie's Kitchens,37.4872471,-122.2366457,,,,,restaurant|food|point_of_interest|establishment,"694 El Camino Real, Redwood City",Foster City
+ChIJu9q6H02ij4ARDNMoR0kma7s,Naranjos Taqueria,37.48612109999999,-122.2340691,4.2,1.0,424.0,4.2,restaurant|food|point_of_interest|establishment,"2647 Broadway, Redwood City",Foster City
+ChIJ_xjZnDmjj4ARRsLs25aSpGg,Crouching Tiger Restaurant & Bar,37.4865259,-122.2343235,4.3,2.0,871.0,4.51,restaurant|food|point_of_interest|establishment,"2640 &, 2644 Broadway, Redwood City",Foster City
+ChIJGyGNle-jj4ARdKE-2JbwDNI,Maizz,37.48575810000001,-122.2340797,4.6,2.0,42.0,3.99,restaurant|food|point_of_interest|establishment,"851 El Camino Real, Redwood City",Foster City
+ChIJJ5lrIE2ij4ARNh1db5ccElc,Zadna Grill,37.48612420000001,-122.2340845,4.6,1.0,655.0,4.6,restaurant|food|point_of_interest|establishment,"2653 Broadway, Redwood City",Foster City
+ChIJi_lwH02ij4ARSEaUQwB1TBo,Seoul Kitchen,37.4861028,-122.2339889,4.2,1.0,214.0,4.2,restaurant|food|point_of_interest|establishment,"2639 Broadway, Redwood City",Foster City
+ChIJNcz4IACjj4AR5FEUZIfxrKQ,The Wild Rover,37.4865127,-122.2338138,5.0,,3.0,3.54,bar|restaurant|food|point_of_interest|establishment,"2620 Broadway, Redwood City",Foster City
+ChIJ___roiN2j4ARISJsK9I53tg,Franklin Street Caffe,37.4852268,-122.2309158,4.5,2.0,233.0,4.73,cafe|restaurant|food|point_of_interest|store|establishment,"1053 El Camino Real, Redwood City",Foster City
+ChIJ6-HeYBOjj4AR62bJzRU-S5s,Carnitas El Rincon,37.4847354,-122.2329355,4.3,1.0,288.0,4.3,restaurant|food|point_of_interest|establishment,"999 El Camino Real, Redwood City",Foster City
+ChIJ66TH5IWfj4ARZ6uzTJZ7iAg,Eats Meets West Bowls,37.48711369999999,-122.2329247,4.6,1.0,151.0,4.6,restaurant|food|point_of_interest|establishment,"201 Marshall Street Suite 101, Redwood City",Foster City
+ChIJo6sNubKjj4AR4vbHc_cIv8M,Teatime,37.4845396,-122.2325183,4.4,1.0,118.0,4.4,cafe|store|restaurant|food|point_of_interest|establishment,"1003 El Camino Real, Redwood City",Foster City
+ChIJs272Hf2jj4ARxAWJNKUqj2c,Sushi Shin,37.48655919999999,-122.2320181,4.2,4.0,206.0,4.28,restaurant|food|point_of_interest|establishment,"312 Arguello Street, Redwood City",Foster City
+ChIJg1g4wB-jj4AR-nWI17cGyTA,Sushi Ai,37.4865379,-122.2319512,4.9,,18.0,3.69,restaurant|food|point_of_interest|establishment,"2432 Broadway, Redwood City",Foster City
+ChIJP_pjDYejj4ARb-PeV0FoPts,Mademoiselle Colette,37.4862391,-122.2312881,4.4,3.0,467.0,4.62,bakery|cafe|store|restaurant|food|point_of_interest|establishment,"2401 Broadway, Redwood City",Foster City
+ChIJsylJlrKjj4ARr1kg41loYn0,Subway,37.4851836,-122.230983,3.4,1.0,51.0,2.9,meal_takeaway|restaurant|food|point_of_interest|establishment,"1051 El Camino Real C - 6, Redwood City",Foster City
+ChIJta7rr1Kij4ARbe1Qd_ZFMh4,Bluefin Sushi & Teriyaki Grill,37.486236,-122.2306668,4.5,,56.0,3.91,restaurant|food|point_of_interest|establishment,"2327 Redwood Avenue, Redwood City",Foster City
+ChIJRcUqgEWij4ARyR57zWLExWA,IHOP,37.4954546,-122.2348829,4.0,1.0,1388.0,4.0,restaurant|food|point_of_interest|establishment,"491 Veterans Boulevard, Redwood City",Foster City
+ChIJs2oI9kWij4ARo4SDjWzuuJw,Pizza Hut,37.4939816,-122.2360057,3.9,1.0,350.0,3.9,meal_delivery|meal_takeaway|restaurant|food|point_of_interest|establishment,"600 Whipple Avenue, Redwood City",Foster City
+ChIJgdKoj0Wij4ARIizE89FRgZU,ampm,37.4944895,-122.2352357,3.0,1.0,8.0,2.17,convenience_store|atm|gas_station|cafe|supermarket|grocery_or_supermarket|store|finance|restaurant|food|point_of_interest|establishment,"504 Whipple Avenue, Redwood City",Foster City
+ChIJlfReVKyjj4AR1xZGsWndLhg,Chick-fil-A,37.4941284,-122.2356531,4.3,1.0,1720.0,4.3,restaurant|food|point_of_interest|establishment,"536 Whipple Avenue, Redwood City",Foster City
+ChIJi_bG6iGjj4ARIIiMIOeLjPk,Pardon My Cheesesteak,37.4956668,-122.2349804,,,,,restaurant|food|point_of_interest|establishment,"491 Veterans Boulevard, Redwood City",Foster City
+ChIJW5Yt70-ij4ARzVE2Ri_m6oM,Flaming Dogs Deli,37.4941005,-122.2322019,4.8,1.0,119.0,4.8,store|restaurant|food|point_of_interest|establishment,"465 Convention Way, Redwood City",Foster City
+ChIJO7THLCuZj4ARfvv_Czo16hM,SweetU Cafe & Catering,37.5425554,-122.2320617,4.9,,88.0,4.72,cafe|restaurant|food|point_of_interest|establishment,"1201 Radio Road UNIT 150, Redwood City",Foster City
+ChIJ2wJOX6yjj4ARHXWap7-AdhM,Donato Enoteca,37.484386,-122.226882,4.3,3.0,955.0,4.51,bar|restaurant|food|point_of_interest|establishment,"1041 Middlefield Road, Redwood City",Foster City
+ChIJZ7aTcKyjj4ARkzKUPHGGGrA,Milagros Latin Kitchen,37.4843449,-122.2264771,4.4,2.0,2922.0,4.62,restaurant|food|point_of_interest|establishment,"1099 Middlefield Road, Redwood City",Foster City
+ChIJy8iPL62jj4ARGQQ4BFbCYzM,Chipotle Mexican Grill,37.4858259,-122.228871,3.8,1.0,367.0,3.8,restaurant|food|point_of_interest|establishment,"861 Middlefield Road, Redwood City",Foster City
+ChIJ0xuXpaijj4ARWYILaL_C84U,Thai House Restaurant,37.4784307,-122.2249267,3.7,2.0,86.0,3.72,restaurant|food|point_of_interest|establishment,"2109 1742 El Camino Real, Redwood City",Foster City
+ChIJ-dJh0lKij4ARq29Tj1z9vPw,Quinto Sol,37.4863447,-122.2293094,4.4,2.0,964.0,4.62,bar|restaurant|food|point_of_interest|establishment,"2201 Broadway, Redwood City",Foster City
+ChIJqzz4nq2jj4ARG7FSvw5k2Gs,Habit Burger & Grill,37.48354339999999,-122.2300463,4.3,1.0,845.0,4.3,restaurant|food|point_of_interest|establishment,"1111 El Camino Real, Redwood City",Foster City
+ChIJyVMKSBqij4AR_mUODO7gCmM,Tacos Los Gemelos,37.4792451,-122.2261575,4.4,1.0,591.0,4.4,restaurant|food|point_of_interest|establishment,"1630 El Camino Real #2108, Redwood City",Foster City
+ChIJlW28Lq2jj4ARU9X2vAMROXs,Pizza My Heart,37.4860486,-122.2288978,4.1,1.0,291.0,4.1,meal_takeaway|restaurant|food|point_of_interest|establishment,"831 Middlefield Road, Redwood City",Foster City
+ChIJIVdLka2jj4ARbxdOzyRem7Y,Papa Johns Pizza,37.4826786,-122.2300112,3.5,1.0,168.0,3.5,restaurant|food|point_of_interest|establishment,"1201 El Camino Real, Redwood City",Foster City
+ChIJx1RK6K2jj4AR7gnghChjtMI,Taqueria El Grullense,37.4819585,-122.2300761,3.8,1.0,976.0,3.8,restaurant|food|point_of_interest|store|establishment,"1280 El Camino Real, Redwood City",Foster City
+ChIJA6PxLq2jj4ARGCxwYvmc7ZQ,Vitality Bowls,37.4857889,-122.2286353,3.3,2.0,128.0,3.46,restaurant|food|point_of_interest|establishment,"835 Middlefield Road Suite C, Redwood City",Foster City
+ChIJATbGLK2jj4AR2qj3_ihZskY,Five Guys,37.4863389,-122.2289578,4.1,2.0,405.0,4.3,meal_takeaway|restaurant|food|point_of_interest|establishment,"801 Middlefield Road, Redwood City",Foster City
+ChIJW0q6La2jj4ARfAm-rgZ5HoY,Cinemark Century Redwood Downtown 20 and XD,37.4862595,-122.2286872,4.4,,2839.0,4.4,movie_theater|meal_takeaway|restaurant|food|point_of_interest|establishment,"825 Middlefield Road, Redwood City",Foster City
+ChIJob60Paajj4ARDg8cs1qLxPM,Wendy's,37.4776177,-122.2239666,3.3,1.0,906.0,3.3,restaurant|food|point_of_interest|establishment,"1852 El Camino Real, Redwood City",Foster City
+ChIJf9fmkq6jj4ARjCLo6L3VSQ4,TOGO'S Sandwiches,37.48089040000001,-122.2276282,3.7,1.0,160.0,3.7,meal_takeaway|restaurant|food|point_of_interest|store|establishment,"1501 El Camino Real, Redwood City",Foster City
+ChIJg7FskLmjj4ARNZj386lXa9o,ZENSHI Handcrafted Sushi,37.4847198,-122.2304231,,,,,restaurant|meal_takeaway|food|point_of_interest|establishment,"1071 El Camino Real, Redwood City",Foster City
+ChIJh-3gF62jj4AR4Zj7E6DoJ3M,CRU Wine Bar & Shop,37.4852387,-122.2300416,4.5,2.0,222.0,4.73,bar|cafe|restaurant|food|point_of_interest|store|establishment,"900B Middlefield Road, Redwood City",Foster City
+ChIJF1bmK8Sjj4ARw0HRA7w1zro,Hidden Tap And Barrel Redwood City,37.4851521,-122.2296119,4.7,,38.0,3.83,bar|night_club|restaurant|food|point_of_interest|establishment,"900 Middlefield Road Ste A, Redwood City",Foster City
+ChIJkTLcv6ijj4ARyWdgH3uAcCI,McDonald's,37.479261,-122.224261,3.6,1.0,1460.0,3.6,cafe|restaurant|food|point_of_interest|store|establishment,"185 Chestnut Street, Redwood City",Foster City
+ChIJg-AAogKjj4AR79FomnvHMn4,Curry Pizza House Redwood City,37.4853852,-122.2298622,4.2,2.0,130.0,4.41,restaurant|food|point_of_interest|establishment,"900 Middlefield Road Ste A, Redwood City",Foster City
+ChIJyapdsaijj4ARhpqS7egwGDc,La Cueva Del Peludo,37.4787685,-122.2252928,3.6,,10.0,2.63,restaurant|food|point_of_interest|establishment,United States,Foster City
+ChIJjVWYnXmjj4ARR3i_L0kG1-U,Limón Redwood City,37.4854023,-122.2288281,4.1,2.0,71.0,3.93,restaurant|food|point_of_interest|establishment,"885 Middlefield Road space j, Redwood City",Foster City
+ChIJaa71jD2jj4ARSF2dbJfhOXY,Shiki Express,37.48355999999999,-122.2266112,3.5,1.0,2.0,2.47,meal_takeaway|restaurant|food|point_of_interest|establishment,"1020 Main Street, Redwood City",Foster City
+ChIJm7imNa2jj4ARgupdlZ3gQ24,Go Fish Poke Bar,37.486003,-122.2298436,4.5,2.0,631.0,4.73,bar|restaurant|food|point_of_interest|establishment,"823 Hamilton Street, Redwood City",Foster City
+ChIJP0gMtKyjj4ARZUDVtINsnm4,Vesta,37.4867992,-122.2267885,4.6,2.0,1863.0,4.83,restaurant|food|point_of_interest|establishment,"2022 Broadway, Redwood City",Foster City
+ChIJ0erYxVOij4ARL7SN0fmfWkE,In-N-Out Burger,37.490585,-122.22786,4.5,1.0,4368.0,4.5,restaurant|food|point_of_interest|establishment,"949 Veterans Boulevard, Redwood City",Foster City
+ChIJt59d0lKij4ARsMDGLWQjKJY,Sakura Teppanyaki and Sushi,37.4867404,-122.22894,4.2,2.0,739.0,4.41,restaurant|food|point_of_interest|establishment,"2198 Broadway, Redwood City",Foster City
+ChIJ1yx9yKyjj4ARbA11yMYftT4,ROCKN WRAPS,37.4864152,-122.2272472,4.3,1.0,416.0,4.3,restaurant|food|point_of_interest|establishment,"2053 Broadway B, Redwood City",Foster City
+ChIJkwr5tayjj4ARkXakMZrJOYo,LV Mar Tapas & Cocktails,37.4868371,-122.2270622,4.3,3.0,980.0,4.51,bar|restaurant|food|point_of_interest|establishment,"2042 Broadway, Redwood City",Foster City
+ChIJe9nejlOij4AR7PxuVmCdP-0,Carl’s Jr.,37.4904186,-122.2262621,3.9,1.0,680.0,3.9,restaurant|food|point_of_interest|establishment,"1001 Veterans Boulevard, Redwood City",Foster City
+ChIJSfS5NlKij4ARTFMDXhzT3eY,Homeskillet | Redwood City,37.4902833,-122.2289086,4.5,1.0,419.0,4.5,restaurant|food|point_of_interest|establishment,"820 A Veterans Boulevard, Redwood City",Foster City
+ChIJgfgcMVKij4ARHBYTWZDH6UA,Chef Chen's,37.4902359,-122.2288809,4.2,1.0,156.0,4.2,restaurant|food|point_of_interest|establishment,"820 Veterans Boulevard, Redwood City",Foster City
+ChIJK_dRm6yjj4ARVkvgwklFI6w,Angelicas,37.4854458,-122.2259079,4.4,2.0,1168.0,4.62,bar|restaurant|food|point_of_interest|establishment,"863 Main Street, Redwood City",Foster City
+ChIJzyKHtqyjj4ARM2PMk8_m4IM,Vino Santo,37.4867159,-122.2268908,4.5,2.0,305.0,4.73,restaurant|food|point_of_interest|establishment,"2030 Broadway, Redwood City",Foster City
+ChIJfQQy06yjj4AR5K2Xz5XI4Kk,Margaritas Mexican Restaurant,37.4866791,-122.2280244,4.0,2.0,583.0,4.2,restaurant|food|point_of_interest|establishment,"2098 Broadway, Redwood City",Foster City
+ChIJfeQC06yjj4ARV47a4dPtR4E,Talk of Broadway,37.4867139,-122.2279297,4.5,1.0,397.0,4.5,restaurant|food|point_of_interest|establishment,"2096 Broadway, Redwood City",Foster City
+ChIJ1V0-86ujj4ARKP1O3gOikF8,Tacos El Grullense #1,37.48401270000001,-122.225122,4.3,1.0,1728.0,4.3,restaurant|food|point_of_interest|establishment,"1243 Middlefield Road, Redwood City",Foster City
+ChIJgbOVjlSij4ARyltAAeSrQgc,Starbucks,37.490422,-122.2251091,4.1,2.0,309.0,4.3,cafe|restaurant|food|point_of_interest|store|establishment,"400 Walnut Street, Redwood City",Foster City
+ChIJAagpj1Sij4ARfPW_0Ic-iSY,Erik's DeliCafé,37.49049429999999,-122.2250384,4.4,1.0,238.0,4.4,meal_takeaway|restaurant|food|point_of_interest|store|establishment,"400 Walnut Street, Redwood City",Foster City
+ChIJiw8y9FSij4ARsHIw72Sk6to,Taco Bell,37.4901857,-122.2240952,3.7,1.0,660.0,3.7,meal_takeaway|restaurant|food|point_of_interest|establishment,"1103 Veterans Boulevard, Redwood City",Foster City
+ChIJXSBPMQCjj4ARxqgzkr8BeZs,Taco Real Food Truck,37.4922262,-122.2292351,5.0,,6.0,3.59,restaurant|food|point_of_interest|establishment,"301 Brewster Avenue, Redwood City",Foster City
+ChIJbYSCUPejj4ARJgB17So9pwk,LA FONDA DE LOS CARNALITOS,37.49031540000001,-122.2290248,4.6,2.0,338.0,4.83,restaurant|food|point_of_interest|establishment,"820 Veterans Boulevard ste b, Redwood City",Foster City
+ChIJ617NLqajj4ARGc1OWKkKyM8,Harry's Hofbrau,37.4778737,-122.2231767,4.5,2.0,3042.0,4.73,restaurant|food|point_of_interest|establishment,"1909 El Camino Real, Redwood City",Foster City
+ChIJSVUCSqajj4ARw2r6rmXixZQ,Subway,37.4768487,-122.2234382,4.1,1.0,112.0,4.1,meal_takeaway|restaurant|food|point_of_interest|establishment,"1926 El Camino Real, Redwood City",Foster City
+ChIJgUW5N6ajj4AR1qAI3T9m6LQ,Starbucks,37.47735,-122.2234583,4.1,2.0,487.0,4.3,cafe|restaurant|food|point_of_interest|store|establishment,"1900 El Camino Real, Redwood City",Foster City
+ChIJ8fec666jj4ARsa0kEd7xZSw,Wingstop,37.476946,-122.2235886,3.7,2.0,339.0,3.89,restaurant|food|point_of_interest|establishment,"1918 El Camino Real #1922, Redwood City",Foster City
+ChIJq2a82wejj4AR2NFxr-QycZA,Burger King,37.4804679,-122.2185642,3.6,1.0,647.0,3.6,restaurant|food|point_of_interest|establishment,"2102 Middlefield Road, Redwood City",Foster City
+ChIJlZEbtqmjj4ARud3IPh6IZ8s,ampm,37.4817739,-122.2214238,2.9,1.0,7.0,2.09,convenience_store|atm|gas_station|cafe|supermarket|grocery_or_supermarket|store|finance|restaurant|food|point_of_interest|establishment,"1700 Middlefield Road, Redwood City",Foster City
+ChIJ29b-jqijj4ARmKOUF57P0c8,Panaderia & Restaurante Guatemalteca,37.4794266,-122.2234212,3.8,1.0,325.0,3.8,restaurant|food|point_of_interest|establishment,"1509 Main Street, Redwood City",Foster City
+ChIJXcuL0Yijj4ARJnn-fKjONuc,Chick-fil-A Delivery,37.47907000000001,-122.2231,3.3,,36.0,2.67,restaurant|food|point_of_interest|establishment,"1531 Main Street, Redwood City",Foster City
+ChIJCVI9Z6-jj4ARoiq2AaDsci8,Koi Palace,37.4789253,-122.2230872,4.0,1.0,2.0,2.82,meal_takeaway|restaurant|food|point_of_interest|establishment,"1531 Main Street, Redwood City",Foster City
+ChIJ7X1zETOjj4AR1Pr7AMjN9RQ,Pokeworks,37.4789253,-122.2230872,3.0,,5.0,2.15,restaurant|food|point_of_interest|establishment,"1531 Main Street Unit #8, Redwood City",Foster City
+ChIJb30ZblCjj4ARe1twrgc49sM,Rooster & Rice,37.4789253,-122.2230872,3.2,1.0,9.0,2.33,restaurant|meal_delivery|meal_takeaway|food|point_of_interest|establishment,"1531 Main Street #5, Redwood City",Foster City
+ChIJXyko_IWjj4AR2uIvR40CjKs,YiFang Fruit Tea,37.4789253,-122.2230872,3.0,,2.0,2.12,restaurant|food|point_of_interest|establishment,"1531 Main Street Unit #6, Redwood City",Foster City
+ChIJ763STIOjj4ARKCSDaTcOnjM,Aria Korean Street Food,37.4789253,-122.2230872,3.4,1.0,19.0,2.57,meal_takeaway|restaurant|food|point_of_interest|establishment,"1531 Main Street Unit #3, Redwood City",Foster City
+ChIJgVM0leSjj4ARll-PNatSG8k,Famous Desserts by The Cheesecake Factory (Located in DoorDash Kitchens),37.4789253,-122.2230872,5.0,,4.0,3.56,meal_takeaway|bakery|store|restaurant|food|point_of_interest|establishment,"1531 Main Street, Redwood City",Foster City
+ChIJMzIGJ3ijj4ARPXBiipSzE_A,DoorDash Kitchens,37.4789253,-122.2230872,3.6,,109.0,3.6,restaurant|meal_delivery|food|point_of_interest|establishment,"1531 Main Street, Redwood City",Foster City
+ChIJwYL-H6ujj4ARS7ZReMWhm9M,La Viga Seafood & Cocina Mexicana,37.4869692,-122.2228876,4.4,2.0,1263.0,4.62,restaurant|food|point_of_interest|establishment,"1772 Broadway, Redwood City",Foster City
+ChIJURgV8lSij4ARu1EVAQ0_b0E,Subway,37.4902968,-122.2237229,3.6,1.0,94.0,3.54,meal_takeaway|restaurant|food|point_of_interest|establishment,"1105 Veterans Boulevard, Redwood City",Foster City
+ChIJP-i6Iaujj4ARZANvuhslxqQ,AhiSushi Steakhouse,37.4870395,-122.2230871,4.4,2.0,293.0,4.62,bar|restaurant|food|point_of_interest|establishment,"1784 Broadway, Redwood City",Foster City
+ChIJcxrpNVSij4ARvJcoGoNc5F8,L&L Hawaiian Barbecue,37.49126950000001,-122.224739,4.2,1.0,314.0,4.2,restaurant|food|point_of_interest|establishment,"324 Walnut Street, Redwood City",Foster City
+ChIJFV-g0lOij4ARSm4EoUYiUQA,Shack Mobile,37.4908318,-122.2283691,5.0,,1.0,3.51,restaurant|food|point_of_interest|establishment,"851 Veterans Boulevard, Redwood City",Foster City
+ChIJqe-dRoKjj4ARBDgJVI1x_DY,Supreme Crab Buffet,37.4907112,-122.2264633,4.0,2.0,675.0,4.2,bar|meal_delivery|restaurant|food|point_of_interest|establishment,"373 Main Street, Redwood City",Foster City
+ChIJFTvkPVSij4ARGg_haHovZak,Quickly,37.4917634,-122.2243167,4.1,1.0,150.0,4.1,restaurant|food|point_of_interest|establishment,"300 Walnut Street, Redwood City",Foster City
+ChIJAXoUoF-jj4ARvAJZexfL5mY,Coupa Cafe - Marston,37.4878393,-122.2261795,4.2,2.0,215.0,4.41,cafe|store|restaurant|food|point_of_interest|establishment,"695 Main Street, Redwood City",Foster City
+ChIJR2o1ICWjj4ARAb-fP-ODKFw,Nagai Edomae Sushi,37.4868033,-122.2276971,4.6,,29.0,3.62,restaurant|food|point_of_interest|establishment,"2074 Broadway, Redwood City",Foster City
+ChIJu2z3_K-kj4AR56nmZskIkg4,Shiok! Singapore Kitchen,37.4777766,-122.21146,4.1,2.0,499.0,4.3,restaurant|food|point_of_interest|establishment,"426 Macarthur Avenue, Redwood City",Foster City
+ChIJU2tZVAqjj4ARPY0Y8nplYek,Chuck E. Cheese,37.4745005,-122.2164481,3.9,2.0,457.0,4.09,restaurant|food|point_of_interest|establishment,"2541-43 El Camino Real, Redwood City",Foster City
+ChIJ6RsTQQqjj4ARNWbNU-DVH_o,US Chinese Food,37.4737578,-122.2184405,4.1,1.0,564.0,4.1,restaurant|food|point_of_interest|establishment,"2490 El Camino Real, Redwood City",Foster City
+ChIJdxVs-wijj4AR5oJF9lCwg0Y,Costco Food Court,37.4786721,-122.2162136,3.4,1.0,39.0,2.78,meal_takeaway|restaurant|food|point_of_interest|establishment,"2300 Middlefield Road, Redwood City",Foster City
+ChIJXTVJKwyjj4ARvII7xttPFEA,Capelo's Barbecue,37.4770957,-122.211542,4.6,2.0,609.0,4.83,restaurant|food|point_of_interest|establishment,"2655 Middlefield Road, Redwood City",Foster City
+ChIJ14k8QQujj4ARySMHnj8LaEc,Taco Bell,37.4722879,-122.2155306,3.9,1.0,672.0,3.9,meal_takeaway|restaurant|food|point_of_interest|establishment,"2693 El Camino Real, Redwood City",Foster City
+ChIJjXE7Bqqjj4ARFFHezJG42fE,Apatzingan Taqueria,37.4833925,-122.2123232,3.9,2.0,200.0,4.09,restaurant|food|point_of_interest|establishment,"2391 Spring Street, Redwood City",Foster City
+ChIJ1ahxvwijj4ARfg2fwTxoX2Y,Tacos El Grullense E & E,37.4798073,-122.2155053,4.1,1.0,1003.0,4.1,restaurant|food|point_of_interest|establishment,"2401 Middlefield Road, Redwood City",Foster City
+ChIJuVzWLAqjj4AR0LnAeTq9jo4,Woodside Central,37.4741392,-122.216669,4.3,,2320.0,4.3,shopping_mall|grocery_or_supermarket|restaurant|food|point_of_interest|store|establishment,"2501-2545 El Camino Real, Redwood City",Foster City
+ChIJE-Tqfxijj4ARPXkT813RsuY,Nekter Juice Bar,37.479274,-122.2206663,1.5,2.0,15.0,1.17,cafe|restaurant|food|point_of_interest|establishment,"1531 Main Street, Redwood City",Foster City
+ChIJDfyF0aqjj4ARYDGcEv7_ws4,El Paisa by Los Alegres Taco Truck,37.4806364,-122.2185005,4.7,2.0,54.0,4.25,restaurant|food|point_of_interest|establishment,"2021 Middlefield Road, Redwood City",Foster City
+ChIJNyiNsQmjj4ARtkhwshrGcWw,P Azul Sea food food truck,37.4759107,-122.2203795,4.9,,8.0,3.55,restaurant|food|point_of_interest|establishment,"2215 El Camino Real, Redwood City",Foster City
+ChIJVTfBT7-jj4ARz-mCfj-_umE,TACOS Y MARISCOS EL GORDO,37.4758041,-122.2204491,5.0,2.0,21.0,4.01,restaurant|food|point_of_interest|establishment,"2215 El Camino Real, Redwood City",Foster City
+ChIJxUp5dgCjj4ARg_UOh-1Ktq8,Bay Area Cheesesteak,37.4759048,-122.2186015,,,,,restaurant|food|point_of_interest|establishment,"67 Charter Street, Redwood City",Foster City
+ChIJeRp5XgCjj4ART7xf6UJSgps,Coronado Mexican Food,37.47566090000001,-122.2188478,3.7,,6.0,2.66,restaurant|food|point_of_interest|establishment,"51 Charter Street, Redwood City",Foster City
+ChIJ42RwtYGjj4ARQQe5Ni8vGrU,El Gustazzo Pupusas,37.4753948,-122.2188849,5.0,,9.0,3.63,restaurant|food|point_of_interest|establishment,"42 Charter Street, Redwood City",Foster City
+ChIJjxxP1Qujj4AR921RUKB1ZOg,Pizza Hut Express,37.4756522,-122.2170496,3.1,1.0,9.0,2.25,meal_takeaway|restaurant|food|point_of_interest|establishment,"2485 El Camino Real, Redwood City",Foster City
+ChIJ1ahxvwijj4ARHa3tkj7VbSo,El Grullense Grill and Seafood,37.4738863,-122.2168651,4.1,2.0,563.0,4.3,restaurant|food|point_of_interest|establishment,"2525 El Camino Real, Redwood City",Foster City
+ChIJW9X6gSKjj4ARJctbKrSW7S4,Sushinaloa,37.4788519,-122.214288,4.5,,355.0,4.5,restaurant|food|point_of_interest|establishment,"2505 Middlefield Road, Redwood City",Foster City
+ChIJxfXgfqyjj4ARsh35OJHl38M,Ranzan,37.4847073,-122.2259909,4.7,4.0,133.0,4.79,restaurant|food|point_of_interest|establishment,"921 Main Street, Redwood City",Foster City
+ChIJFc5cO0ijj4AR8rwSdUFyBQI,Tacos El Zurdo Estilo Sinaloa,37.4732531,-122.2168813,5.0,,6.0,3.59,restaurant|food|point_of_interest|establishment,"2561 El Camino Real, Redwood City",Foster City
+ChIJz-OpPD2jj4ARC7E1taPWjW4,Mariscos El Sanignacense,37.4732531,-122.2168813,4.3,2.0,97.0,4.47,restaurant|food|point_of_interest|establishment,"2561 El Camino Real, Redwood City",Foster City
+ChIJRYt9gsSjj4ARndqVO7vpmmw,Brochette Dumpling and Grill,37.4847848,-122.2259684,4.5,,150.0,4.5,restaurant|food|point_of_interest|establishment,"917 Main Street, Redwood City",Foster City
+ChIJWwc6JK2jj4ARG10bkrc-8ok,Ghostwood Kitchen,37.4848492,-122.2258798,4.2,2.0,77.0,4.11,restaurant|bar|food|point_of_interest|establishment,"911 Main Street, Redwood City",Foster City
+ChIJGc59LVajj4ARvOPgtG6gabc,Pronto Pizza,37.47285919999999,-122.2171916,4.6,2.0,94.0,4.74,restaurant|food|point_of_interest|establishment,"2560 El Camino Real, Redwood City",Foster City
+ChIJ4e-b4QOjj4ARYLOQfKAv6po,Denny's,37.4867287,-122.2146814,3.8,1.0,1625.0,3.8,restaurant|food|point_of_interest|establishment,"1201 Broadway, Redwood City",Foster City
+ChIJVzocQwGjj4ARooCDDHRozIo,Jack in the Box,37.486867,-122.2150871,3.6,1.0,825.0,3.6,meal_delivery|restaurant|food|point_of_interest|establishment,"1205 Broadway, Redwood City",Foster City
+ChIJd5bM7Kqjj4ARoPSMYxsrc6c,7-Eleven,37.4873287,-122.2214026,2.7,1.0,21.0,2.06,convenience_store|liquor_store|cafe|restaurant|food|point_of_interest|store|establishment,"1700 Broadway, Redwood City",Foster City
+ChIJnfcRRACjj4AR7rb5P5g2z8M,Fire Hibachi,37.48726,-122.220829,3.8,2.0,12.0,2.94,restaurant|food|point_of_interest|establishment,"1690 Broadway, Redwood City",Foster City
+ChIJff-9GKujj4AR1AyW_FEUK3w,Taza Deli & Cafe,37.4868887,-122.2232977,4.8,2.0,94.0,4.95,restaurant|food|point_of_interest|establishment,"1796 Broadway, Redwood City",Foster City
+ChIJt8N3Iqujj4ARya7o02pTQ6s,Las Chiquitas,37.4869215,-122.2233796,4.6,1.0,273.0,4.6,restaurant|food|point_of_interest|establishment,"1798 Broadway, Redwood City",Foster City
+ChIJQdECus6jj4ARXGalCpzrKUA,Rio piaxtla food,37.48645539999999,-122.2255009,4.2,1.0,23.0,3.23,restaurant|food|point_of_interest|establishment,"1991 Broadway, Redwood City",Foster City
+ChIJj1wCff6ij4ARV3ViYm1JNNE,Tortas Mexican Food,37.49293189999999,-122.2148953,4.4,,12.0,3.24,restaurant|food|point_of_interest|establishment,"350-382 Blomquist Street, Redwood City",Foster City
+ChIJgycuT0qjj4ARSXGzPXlqVdo,Coffeebar,37.4868143,-122.2266776,4.3,1.0,400.0,4.3,bakery|cafe|meal_takeaway|restaurant|food|point_of_interest|store|establishment,"2020 Broadway, Redwood City",Foster City
+ChIJr2NdfgCjj4AREe9K7DWv6Bw,Nick The Greek | Redwood City,37.48673100000001,-122.2269535,4.4,1.0,663.0,4.4,restaurant|food|point_of_interest|establishment,"2034 Broadway, Redwood City",Foster City
+ChIJC-G0YwCjj4ARP09zw8NaMJM,BAO,37.48678849999999,-122.2272539,4.5,2.0,76.0,4.38,restaurant|food|point_of_interest|establishment,"2050 Broadway, Redwood City",Foster City
+ChIJeXNiHs-jj4ARmQN_Xuuww0I,MAZRA,37.4864235,-122.2268549,4.7,2.0,811.0,4.94,restaurant|food|point_of_interest|establishment,"2021 Broadway, Redwood City",Foster City
+ChIJd6l_wRKjj4AReSHqIm_I6F4,Zareen's Restaurant & Catering,37.4864509,-122.2270514,4.6,2.0,1437.0,4.83,restaurant|food|point_of_interest|establishment,"2039 Broadway, Redwood City",Foster City
+ChIJC-SVJiajj4ARDt4B4vYXM9s,Alhambra Irish House,37.4859807,-122.2261374,4.5,2.0,331.0,4.73,bar|restaurant|food|point_of_interest|establishment,"831 Main Street, Redwood City",Foster City
+ChIJX01HMAOjj4ARTuxM7OF5vHA,The Vegan Lasagna Garden,37.4867735,-122.227617,4.3,2.0,13.0,3.34,restaurant|food|point_of_interest|establishment,"Inside “Broadway Sandwich, 2070 Broadway, Redwood City",Foster City
+ChIJCXNdTJmjj4ARBfxJjJHiZA0,Broadway Sandwich Market,37.4866913,-122.2276172,4.5,1.0,37.0,3.65,restaurant|food|point_of_interest|establishment,"2070 Broadway, Redwood City",Foster City
+ChIJ11VpjVqjj4ARQAAmO_M9WUI,Pizzeria Cardamomo,37.4864533,-122.2272457,4.7,,144.0,4.7,restaurant|food|point_of_interest|establishment,"2053A Broadway, Redwood City",Foster City
+ChIJeQxLIEWjj4ARbniukhYcvxc,Nomadic Kitchen,37.486778,-122.2277863,4.9,2.0,190.0,5.15,restaurant|food|point_of_interest|establishment,"2086 Broadway, Redwood City",Foster City
+ChIJpxx8ZDijj4ARDiVcOvt0znY,Kasa Indian Eatery,37.486778,-122.2277863,3.7,2.0,204.0,3.89,restaurant|food|point_of_interest|establishment,"Located inside Kasa, 2086 Broadway A, Redwood City",Foster City
+ChIJ2xFWvayjj4ARqsNvgp0M5DI,La Maja Empanada,37.4859806,-122.2264146,4.3,1.0,143.0,4.3,cafe|bar|restaurant|food|point_of_interest|establishment,"822 Main Street, Redwood City",Foster City
+ChIJKeLAZXCjj4ARy7-DiwnTNzA,Vons Chicken,37.4867706,-122.2278764,4.4,2.0,170.0,4.62,restaurant|food|point_of_interest|establishment,"2090 Broadway, Redwood City",Foster City
+ChIJy-Sp0qyjj4AR4DkmHEtjM3M,May’s Vietnamese Restaurant,37.48671599999999,-122.2278171,4.0,1.0,237.0,4.0,restaurant|food|point_of_interest|establishment,"2088 Broadway, Redwood City",Foster City
+ChIJIalIghKjj4ARNGsh_pzxYBQ,The Meltdown,37.4867321,-122.2147347,3.7,2.0,20.0,2.95,restaurant|food|point_of_interest|establishment,"1201 Broadway, Redwood City",Foster City
+ChIJ67E0Uyqjj4AR1HCza23n34s,Varam Indian Restaurant & Catering,37.4867389,-122.2287584,4.6,2.0,443.0,4.83,restaurant|food|point_of_interest|establishment,"2120 Broadway, Redwood City",Foster City
+ChIJU8G0dACjj4ARMnqxulOPkhY,Ocean Oyster Bar and Grill,37.486372,-122.228432,4.1,,42.0,3.39,restaurant|food|point_of_interest|establishment,"2107 Broadway, Redwood City",Foster City
+ChIJp9_H3Kyjj4ARTvXmQwGc5fI,Pasha Mediterranean & Hookah Lounge,37.485759,-122.2278527,4.1,2.0,1689.0,4.3,restaurant|food|point_of_interest|establishment,"837 Jefferson Avenue, Redwood City",Foster City
+ChIJ-esTlrKjj4ARHb6ps9Zsx5E,CRUST Sourdough Deli (Redwood City),37.5008615,-122.2152447,4.9,,27.0,3.83,restaurant|food|point_of_interest|establishment,"701 Chesapeake Drive, Redwood City",Foster City
+ChIJ-y8SHTCjj4ARrKkGwONBpIE,Pioneer Seafoods,37.503899,-122.2135252,4.6,,91.0,4.48,restaurant|food|point_of_interest|establishment,"459 Seaport Court F Dock, Redwood City",Foster City
+ChIJmzkpU9ijj4ARDMtPfifnzuU,The Blue Fish Kitchen,37.5038656,-122.2133399,4.1,,22.0,3.14,restaurant|food|point_of_interest|establishment,"Public fishing pier, Redwood City",Foster City
+ChIJCR_1j6ijj4ARlPx_MxY5j8s,BluReverie Catamaran,37.5028786,-122.211914,5.0,,14.0,3.71,travel_agency|lodging|restaurant|food|point_of_interest|establishment,"439 Seaport Ct Dock B, Redwood City",Foster City
+ChIJoQJJAwC9j4ARyElbCLK0CUY,Pico's BBQ,37.50366759999999,-122.2121809,4.8,,15.0,3.58,restaurant|food|point_of_interest|establishment,"459 Seaport Court, Redwood City",Foster City
+ChIJU9-FP7Cjj4AR881CwScIUGk,Gourmet Gyros & kebabs,37.4849599,-122.2124545,4.5,2.0,254.0,4.73,restaurant|food|point_of_interest|establishment,"2300 Bay Road, Redwood City",Foster City
+ChIJ5T9ANQCjj4ARHs0pHE5JRfU,Pollos Asados ll,37.485169,-122.211631,5.0,,1.0,3.51,restaurant|food|point_of_interest|establishment,"2307 Bay Road, Redwood City",Foster City
+ChIJ9X8c_5ajj4ARybUvuGF9iUg,Bay Burgers,37.4823815,-122.2089637,5.0,1.0,19.0,3.78,restaurant|food|point_of_interest|establishment,"2634 Spring Street, Redwood City",Foster City
+ChIJRUHuUBCjj4AR9zcbzFaFtco,Tacos El Grullo,37.48182459999999,-122.2063227,4.3,1.0,157.0,4.3,restaurant|food|point_of_interest|establishment,"2798 Spring Street, Redwood City",Foster City
+ChIJR7FZdQCjj4AR95nTIsEHwJw,Cardinal Cafe,37.4848415,-122.204339,5.0,,4.0,3.56,restaurant|food|point_of_interest|establishment,"505 Broadway, Redwood City",Foster City
+ChIJXwyeVNOjj4ARs-ULbRXMixE,Chicken with Rice,37.4777766,-122.21146,,,,,meal_takeaway|restaurant|food|point_of_interest|establishment,"426 Macarthur Avenue, Redwood City",Foster City
+ChIJPU9xjkWjj4ARHsLQKsZhBls,Cultured Cuisine,37.4777766,-122.21146,2.7,2.0,3.0,2.01,restaurant|food|point_of_interest|establishment,"426 Macarthur Avenue, Redwood City",Foster City
+ChIJqW3NftCjj4ARyOyYlb_iMUY,Asian Bentos,37.4777766,-122.21146,5.0,2.0,1.0,3.69,restaurant|food|point_of_interest|establishment,"426 Macarthur Avenue, Redwood City",Foster City
+ChIJhbwsCQCjj4AR55Z5CY1VY58,Cheverepa,37.4777766,-122.21146,3.7,2.0,3.0,2.75,restaurant|food|point_of_interest|establishment,"426 Macarthur Avenue, Redwood City",Foster City
+ChIJHUIVZQCjj4ARWmxjy-npDiM,Masa Mediterranean,37.4777766,-122.21146,,1.0,,,restaurant|food|point_of_interest|establishment,"426 Macarthur Avenue, Redwood City",Foster City
+ChIJyxdqYMajj4ARRnAZy3oMuqU,Chicken Strips and Dips,37.47776089999999,-122.2114472,5.0,2.0,3.0,3.72,meal_takeaway|restaurant|food|point_of_interest|establishment,"426 Macarthur Avenue, Redwood City",Foster City
+ChIJJfonCGWjj4ARleaZij2ZPjA,Redwood City Eats,37.47776089999999,-122.2114472,4.7,,70.0,4.28,restaurant|food|point_of_interest|establishment,"426 Macarthur Avenue, Redwood City",Foster City
+ChIJNXgranejj4ARJvK6WBg63n4,Taiwanese Eats,37.47776089999999,-122.2114472,4.1,2.0,68.0,3.89,restaurant|food|point_of_interest|establishment,"426 Macarthur Avenue, Redwood City",Foster City
+ChIJO0dKfqyjj4ARACzh-ssi3TI,FeastPeace,37.4808881,-122.2029577,5.0,,1.0,3.51,meal_delivery|store|restaurant|food|point_of_interest|establishment,"2992 Spring Street, Redwood City",Foster City
+ChIJs9do5MOjj4ARQloE0wlZ-bU,Falafel and things,37.4838132,-122.2035152,4.8,1.0,254.0,4.8,restaurant|food|point_of_interest|establishment,"2855 Bay Road, Redwood City",Foster City
+ChIJEUWb_9-jj4AR60Fg_lVlxak,The Empanadas King,37.4808879,-122.2029575,4.4,1.0,88.0,4.24,bakery|meal_delivery|meal_takeaway|store|restaurant|food|point_of_interest|establishment,"2992 Spring Street suite d, Redwood City",Foster City
+ChIJM7ikDBajj4ARAsUg0DvUvmA,7-Eleven,37.4813555,-122.1991038,3.2,1.0,43.0,2.65,convenience_store|liquor_store|cafe|store|restaurant|food|point_of_interest|establishment,"895 Fifth Avenue, Redwood City",Foster City
+ChIJ8zlCyxWjj4ARJLjdcDokinY,El Grullense E&E,37.4798944,-122.2001294,4.2,1.0,346.0,4.2,meal_takeaway|restaurant|food|point_of_interest|establishment,"795 Fifth Avenue, Redwood City",Foster City
+ChIJW_xz3RWjj4AR4ie8zErIWHA,Cipotes Restaurant,37.48084100000001,-122.1987135,3.6,1.0,606.0,3.6,restaurant|food|point_of_interest|establishment,"828 Fifth Avenue, Redwood City",Foster City
+ChIJLYItE-uij4ARz9JAkieGiL4,Pacific Shores Cafe,37.5120951,-122.2012466,3.7,1.0,24.0,2.86,restaurant|food|point_of_interest|establishment,"1200 Seaport Boulevard, Redwood City",Foster City
+ChIJw_cuWTmjj4ARdK0RGgPiOJc,Hurrica Restaurant & Bar,37.5136432,-122.1960476,4.7,2.0,352.0,4.94,restaurant|bar|food|point_of_interest|establishment,"150 Northpoint Court, Redwood City",Foster City
+ChIJASk4I0ejj4AROs2Mfcl5WAk,Bay International Food,37.4873901,-122.1893264,5.0,,1.0,3.51,restaurant|food|point_of_interest|establishment,"3519 Haven Avenue, Menlo Park",Foster City

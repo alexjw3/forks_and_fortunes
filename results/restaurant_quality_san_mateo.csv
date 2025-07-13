@@ -1,0 +1,803 @@
+place_id,name,lat,lng,rating,price_level,user_ratings_total,quality_score,types,vicinity,city
+ChIJiWN7JkQLj4ARfe0bzQO7OOM,Cameron's Pub & Restaurant,37.44719790000001,-122.4290945,4.3,2.0,1272.0,4.51,bar|restaurant|food|point_of_interest|establishment,"1410 Cabrillo Highway South, Half Moon Bay",San Mateo
+ChIJ82zmjbR0j4ARcFHRkDc0AmI,Pasta Moon,37.4578344,-122.4297811,4.5,3.0,1332.0,4.73,bar|restaurant|food|point_of_interest|establishment,"845 Main Street, Half Moon Bay",San Mateo
+ChIJIzR3gEwLj4ARMZ7pCl0eASY,Sacrilege Brewery + Kitchen,37.460925,-122.4298694,4.4,2.0,644.0,4.62,bar|restaurant|food|point_of_interest|establishment,"730 Main Street, Half Moon Bay",San Mateo
+ChIJz3G2VWELj4ARumKBLF0Eqbk,Blue Dragon Pho,37.4617355,-122.4292503,4.8,,71.0,4.38,restaurant|food|point_of_interest|establishment,"643 Main Street, Half Moon Bay",San Mateo
+ChIJEe0lb7R0j4ARVBWtpy7ynsk,It's Italia,37.464424,-122.428775,4.5,2.0,809.0,4.73,bar|restaurant|food|point_of_interest|establishment,"401 Main Street, Half Moon Bay",San Mateo
+ChIJC2BGmbR0j4ARDzFKggJ8v8E,Cantina @ San Benito House,37.4648228,-122.4293609,4.5,2.0,888.0,4.73,restaurant|bar|food|point_of_interest|establishment,"356 Main Street, Half Moon Bay",San Mateo
+ChIJyXg_RCZ2j4ARQQmO6L1u12o,Fattoria e Mare,37.4655616,-122.4287194,4.2,2.0,497.0,4.41,parking|bar|restaurant|food|point_of_interest|establishment,"315 Main Street, Half Moon Bay",San Mateo
+ChIJkRplZrR0j4ARYMRYVzCK0EU,Verrazzano Pizza,37.4666658,-122.4284097,4.4,1.0,211.0,4.4,meal_delivery|meal_takeaway|restaurant|food|point_of_interest|establishment,"20 Stone Pine Road Suite D, Half Moon Bay",San Mateo
+ChIJ9yrIZ7R0j4ARFbQCh95auVU,Monsoon Himalayan Cuisine,37.4666658,-122.4284097,4.5,2.0,571.0,4.73,restaurant|food|point_of_interest|establishment,"20 Stone Pine Road STE B, Half Moon Bay",San Mateo
+ChIJxRPWUbN0j4ARUvqbq5mVlzI,Spice Me Thai Cuisine,37.4635503,-122.4304498,4.3,2.0,409.0,4.51,restaurant|food|point_of_interest|establishment,"500 Purissima Street, Half Moon Bay",San Mateo
+ChIJCSJ2XrR0j4AR9yXAhrj6ZOU,China House,37.4665377,-122.4287564,3.8,,173.0,3.8,meal_delivery|bar|restaurant|food|point_of_interest|establishment,"20 Stone Pine Road Suite C, Half Moon Bay",San Mateo
+ChIJCSJ2XrR0j4ARYI9JCLNUnkw,Shiki Japanese Cuisine,37.4666667,-122.4283333,4.3,2.0,328.0,4.51,restaurant|food|point_of_interest|establishment,"20 Stone Pine Road, Half Moon Bay",San Mateo
+ChIJfY_BorR0j4ARG2JivG_bpho,Sushi On Main Street,37.4645955,-122.4294871,4.2,2.0,376.0,4.41,bar|restaurant|food|point_of_interest|establishment,"696 Mill Street, Half Moon Bay",San Mateo
+ChIJCSJ2XrR0j4ARbigQrG_pgqw,Half Moon Bay Coffee Co,37.4665682,-122.4287474,4.1,1.0,986.0,4.1,cafe|restaurant|food|point_of_interest|store|establishment,"20 Stone Pine Road a, Half Moon Bay",San Mateo
+ChIJZXQup0wLj4ARZNw6CtDdJU0,Moonside Bakery & Cafe,37.4623983,-122.4296484,4.1,2.0,549.0,4.3,bakery|restaurant|food|point_of_interest|store|establishment,"604 Main Street, Half Moon Bay",San Mateo
+ChIJLWd6A7R0j4ARTm6zDRzm3Uw,Flying Fish & Grill,37.46789289999999,-122.4291618,4.2,2.0,1472.0,4.41,restaurant|food|point_of_interest|establishment,"211 San Mateo Road, Half Moon Bay",San Mateo
+ChIJEdRhW7R0j4AR5Rx4IjO0sds,Jersey Joe's Coastside,37.4664501,-122.4277846,4.5,2.0,750.0,4.73,restaurant|food|point_of_interest|establishment,"40 Stone Pine Road, Half Moon Bay",San Mateo
+ChIJxzbeq7R0j4ARho1-zXRImc8,Cunha's Country Store,37.4637992,-122.4294383,4.3,2.0,218.0,4.51,convenience_store|liquor_store|cafe|grocery_or_supermarket|restaurant|food|point_of_interest|store|establishment,"448 Main Street, Half Moon Bay",San Mateo
+ChIJRcZsUUsLj4ARREDaPVlswZU,Nano's,37.4631563,-122.4290924,4.0,,208.0,4.0,cafe|meal_takeaway|restaurant|food|point_of_interest|store|establishment,"523 Main Street, Half Moon Bay",San Mateo
+ChIJhWejV0ALj4ARutdDBk4xri4,Johnny’s Half Moon Bay,37.4627167,-122.4291286,4.5,2.0,208.0,4.73,restaurant|food|point_of_interest|establishment,"547 Main Street, Half Moon Bay",San Mateo
+ChIJpy18oxN1j4AR8TEf2rsqPlY,Ciya Mediterranean Cuisine,37.4643988,-122.4292691,4.8,2.0,852.0,5.04,restaurant|food|point_of_interest|establishment,"408 Main Street, Half Moon Bay",San Mateo
+ChIJMxIvmbR0j4ARPipJOoAFR_s,San Benito Deli,37.46487559999999,-122.4292156,4.7,1.0,265.0,4.7,restaurant|food|point_of_interest|store|establishment,"356 Main Street, Half Moon Bay",San Mateo
+ChIJpRCVS7N0j4AR_ZY6Wb-vBRM,Spanishtown Mexican Restaurant,37.46321349999999,-122.4309116,4.2,2.0,317.0,4.41,restaurant|food|point_of_interest|establishment,"515 Church Street, Half Moon Bay",San Mateo
+ChIJVVUVX0sLj4ARCiA-F5V50ng,La Piazza,37.4625533,-122.4298592,5.0,,4.0,3.56,restaurant|food|point_of_interest|establishment,"604 Main Street, Half Moon Bay",San Mateo
+ChIJbzLDJEd1j4ARlZDrYTFZ80Q,Full Hearts Arcade and Eats,37.465319,-122.429516,4.7,2.0,44.0,4.11,restaurant|food|point_of_interest|establishment,"328 Main Street #101, Half Moon Bay",San Mateo
+ChIJN_rEtEwLj4ARLT7ovJ5gBBU,Cafe Capistrano,37.46293060000001,-122.4310028,4.6,2.0,613.0,4.83,cafe|restaurant|food|point_of_interest|establishment,"523 Church Street, Half Moon Bay",San Mateo
+ChIJP4mr-rN0j4AR375mS_TXJnM,The Fisherman's Taverna,37.4673889,-122.4303784,4.1,2.0,641.0,4.3,restaurant|food|point_of_interest|establishment,"99 San Mateo Road unit b, Half Moon Bay",San Mateo
+ChIJ-S_7ZrF0j4ARkuPZq9ouLGA,Straw Hat Pizza,37.46816630000001,-122.4313278,4.2,2.0,186.0,4.41,meal_delivery|restaurant|food|point_of_interest|establishment,"186 San Mateo Road, Half Moon Bay",San Mateo
+ChIJc2Nx_7N0j4ARL_yhkRuUICw,The Happy Taco Taqueria,37.4682078,-122.4313511,4.2,1.0,407.0,4.2,restaurant|food|point_of_interest|establishment,"184 San Mateo Road, Half Moon Bay",San Mateo
+ChIJcdvyXrF0j4ARUocN01E4aw0,7-Eleven,37.4681605,-122.4309093,2.5,1.0,49.0,2.12,convenience_store|liquor_store|cafe|store|restaurant|food|point_of_interest|establishment,"196 San Mateo Road, Half Moon Bay",San Mateo
+ChIJ1fXfm5R1j4ARHakjU5dQpi8,North Beach Pizza Express,37.46966520000001,-122.4314387,4.9,1.0,27.0,3.83,meal_delivery|meal_takeaway|restaurant|food|point_of_interest|establishment,"101 Main Street A, Half Moon Bay",San Mateo
+ChIJLaLEtuh1j4ARBGBQhB07mRM,Crystal Springs Golf Course,37.55747499999999,-122.3816219,4.0,,322.0,4.0,bar|restaurant|food|health|point_of_interest|establishment,"6650 Golf Course Drive, Burlingame",San Mateo
+ChIJRcppuo11j4ARblxp8WzdrSE,The Reservoir Pub & Grill,37.5576792,-122.3820747,,,,,restaurant|food|point_of_interest|establishment,"6650 Golf Course Drive, Burlingame",San Mateo
+ChIJq2Lo6SR2j4ARZiFdFBGLo9w,Broadway Grill,37.5848886,-122.3658926,4.4,3.0,539.0,4.62,bar|restaurant|food|point_of_interest|establishment,"1400 Broadway, Burlingame",San Mateo
+ChIJDVVK5CR2j4ARgPE-lTYlOWc,Broadway Prime,37.5853618,-122.3654883,4.3,3.0,632.0,4.51,restaurant|food|point_of_interest|establishment,"1316 Broadway, Burlingame",San Mateo
+ChIJQeCH7yR2j4ARUbr89ybs_w8,Cafe Figaro,37.585413,-122.36569,4.5,2.0,330.0,4.73,bar|restaurant|food|point_of_interest|establishment,"1318 Broadway, Burlingame",San Mateo
+ChIJqfq09yR2j4ARZNC9Jan_MZs,Shabu House,37.5855389,-122.3646944,4.4,2.0,388.0,4.62,restaurant|food|point_of_interest|establishment,"1150 Paloma Avenue, Burlingame",San Mateo
+ChIJq6vw5CR2j4ARP1LVGHioYOM,Subway,37.5854576,-122.3654668,3.8,1.0,133.0,3.8,meal_takeaway|restaurant|food|point_of_interest|establishment,"1308 Broadway, Burlingame",San Mateo
+ChIJy-qn4iR2j4ARubCFxpW4lh0,Starbucks,37.5859008,-122.3651705,4.0,2.0,406.0,4.2,cafe|restaurant|food|point_of_interest|store|establishment,"1230 Broadway, Burlingame",San Mateo
+ChIJabgbACV2j4ARD2wh28Cgs6Y,Village Host Pizza & Grill,37.58604400000001,-122.364574,4.2,2.0,341.0,4.41,meal_delivery|restaurant|food|point_of_interest|establishment,"1201 Broadway, Burlingame",San Mateo
+ChIJ7xbkqSV2j4ARMmIU5GRzkWs,Bonne Sante Broadway,37.5846293,-122.3658061,4.5,1.0,193.0,4.5,meal_takeaway|restaurant|food|point_of_interest|establishment,"1431 Broadway, Burlingame",San Mateo
+ChIJkxrB_yR2j4ARArTT1P_8Ou0,Ristorante Rocca,37.58601639999999,-122.3646821,4.5,2.0,552.0,4.73,bar|restaurant|food|point_of_interest|establishment,"1205 Broadway, Burlingame",San Mateo
+ChIJr6t18iR2j4ARAxZG3SeWvfs,Cafe Capuchino,37.584843,-122.3654139,4.9,1.0,156.0,4.9,cafe|restaurant|food|point_of_interest|store|establishment,"1158 Capuchino Avenue, Burlingame",San Mateo
+ChIJa3BqASV2j4AR0Z5qgwuefME,Young Can Wok Chinese Bistro,37.5862695,-122.3648867,4.1,2.0,211.0,4.3,restaurant|food|point_of_interest|establishment,"1200 Broadway, Burlingame",San Mateo
+ChIJofaR7yR2j4ARuKNI4uVDOKU,Behan's An Irish Pub,37.58522780000001,-122.3653139,4.4,1.0,290.0,4.4,bar|restaurant|food|point_of_interest|establishment,"1327 Broadway, Burlingame",San Mateo
+ChIJTTER7SR2j4ARt_v48U0Kbyo,Que SeRaw SeRaw,37.5848337,-122.3653863,4.7,2.0,77.0,4.59,meal_takeaway|restaurant|food|point_of_interest|establishment,"1160 Capuchino Avenue, Burlingame",San Mateo
+ChIJ8Ule_iR2j4ARa3XRKhoN3lU,il Piccolo Caffe,37.5858833,-122.3648127,4.5,1.0,304.0,4.5,cafe|restaurant|food|point_of_interest|store|establishment,"1219 Broadway, Burlingame",San Mateo
+ChIJOxX-qLx3j4AR_Wksr1A1aPE,Plucky's Cafe,37.58513,-122.3657303,4.7,,123.0,4.7,restaurant|cafe|food|point_of_interest|establishment,"1352 Broadway, Burlingame",San Mateo
+ChIJCx-t2IF3j4AR9hpvNAjkTwY,Centro Pizza,37.5851844,-122.3656736,4.6,2.0,289.0,4.83,restaurant|food|point_of_interest|establishment,"1326 Broadway, Burlingame",San Mateo
+ChIJL35i5iR2j4AR99unW3trc6g,Sky Ramen,37.5853217,-122.3657004,4.1,2.0,114.0,4.3,restaurant|food|point_of_interest|establishment,"1320 Broadway, Burlingame",San Mateo
+ChIJORjJh2d3j4ARPJK8q1uPWXM,Himali Bistro,37.5855556,-122.365,4.9,,172.0,4.9,restaurant|food|point_of_interest|establishment,"1251 Broadway, Burlingame",San Mateo
+ChIJW5G6riV2j4ARpecjQWBW1OU,Royal Donut Cafe,37.58651949999999,-122.3641293,4.5,1.0,461.0,4.5,bakery|cafe|restaurant|food|point_of_interest|store|establishment,"1165 Broadway, Burlingame",San Mateo
+ChIJ9TBrXgB3j4AR8NdHIsecCpw,Shabu Club,37.5856216,-122.3646392,4.5,,8.0,3.26,restaurant|food|point_of_interest|establishment,"1150 Paloma Avenue, Burlingame",San Mateo
+ChIJndyPICp3j4ARaCUaOEoQ0OU,Sweet Citrus Burlingame,37.5857907,-122.3653364,4.7,2.0,24.0,3.81,restaurant|food|point_of_interest|establishment,"1236 Broadway, Burlingame",San Mateo
+ChIJDYmqBax3j4ARH3z-fDQTfpI,Broadway Kebab & Gyros,37.5858739,-122.3652479,4.7,2.0,163.0,4.94,restaurant|food|point_of_interest|establishment,"1232 Broadway, Burlingame",San Mateo
+ChIJO2sKxnx3j4ARpniKb67Ix2Q,Bistro Arancini,37.585844,-122.3647056,4.7,2.0,59.0,4.33,restaurant|food|point_of_interest|establishment,"1219 Broadway, Burlingame",San Mateo
+ChIJd14KIfV3j4ARlAEUohNRoQg,Curry Hyuga,37.5861843,-122.3649388,4.7,2.0,473.0,4.94,restaurant|food|point_of_interest|establishment,"1204 Broadway, Burlingame",San Mateo
+ChIJ0Tmb71F3j4ARtbbnJId6hC0,Jayli’s Cocina,37.5863038,-122.3642615,4.5,2.0,23.0,3.63,restaurant|food|point_of_interest|establishment,"1199 Broadway Suite 2, Burlingame",San Mateo
+ChIJj93oSJl3j4ARunOR_4JIHyw,Mediterranean Pizza and Gyros,37.58632749999999,-122.3642851,4.7,2.0,275.0,4.94,restaurant|food|point_of_interest|establishment,"1199 Broadway, Burlingame",San Mateo
+ChIJbeJAtwN3j4ARjIcILBbWNcM,Fuumi,37.5864504,-122.364746,4.4,2.0,152.0,4.62,restaurant|food|point_of_interest|establishment,"1190 Broadway, Burlingame",San Mateo
+ChIJQ_g-XSl3j4ARdAA4LYj7ZIg,Pulpo Restaurant & Wine Bar,37.5864835,-122.3645924,4.4,2.0,134.0,4.62,bar|restaurant|food|point_of_interest|establishment,"1184 Broadway, Burlingame",San Mateo
+ChIJD1hlWPGdj4ARnx5LiyOUYnc,Stella,37.5772454,-122.3492036,4.4,3.0,575.0,4.62,restaurant|food|point_of_interest|establishment,"1448 Burlingame Avenue, Burlingame",San Mateo
+ChIJq7QoI_Gdj4AR2mo3R1T66k0,Sapore Italiano Ristorante,37.5770038,-122.3491073,4.3,2.0,599.0,4.51,meal_takeaway|restaurant|food|point_of_interest|establishment,"1447 Burlingame Avenue, Burlingame",San Mateo
+ChIJ7U0IaPGdj4ARLM_Tglutr7Q,Barracuda Japanese Restaurant,37.5783369,-122.3490101,4.1,2.0,230.0,4.3,bar|restaurant|food|point_of_interest|establishment,"347 Primrose Road, Burlingame",San Mateo
+ChIJV-z5IfGdj4ARWuykkidQUGk,Rise Pizzeria,37.5769297,-122.3491792,4.4,2.0,577.0,4.62,restaurant|food|point_of_interest|establishment,"1451 Burlingame Avenue, Burlingame",San Mateo
+ChIJl5DGPfGdj4ARO23eOTbXagc,Pizzeria Delfina,37.5773187,-122.3490987,4.4,2.0,815.0,4.62,bar|restaurant|food|point_of_interest|establishment,"1444 Burlingame Avenue, Burlingame",San Mateo
+ChIJi2qSIfGdj4ARhA6S8HTi2_A,Panda Express,37.5768874,-122.3492321,3.9,1.0,439.0,3.9,meal_delivery|meal_takeaway|restaurant|food|point_of_interest|establishment,"1453 Burlingame Avenue, Burlingame",San Mateo
+ChIJyTbSawydj4ARmC9sozt31wQ,ZENSHI Handcrafted Sushi,37.5772168,-122.350384,,,,,restaurant|meal_takeaway|food|point_of_interest|establishment,"1477 Chapin Avenue, Burlingame",San Mateo
+ChIJ6aPNyfSdj4AROZpGeQ99Cgs,Hanabi Ramen and Japanese Curry,37.5824033,-122.3518959,4.6,2.0,629.0,4.83,restaurant|food|point_of_interest|establishment,"723 California Drive, Burlingame",San Mateo
+ChIJS61xWPGdj4ARtjQ_yit3l8E,Chouchou French Bistro,37.5787343,-122.3495982,4.2,,64.0,3.75,restaurant|food|point_of_interest|establishment,"401 Primrose Road, Burlingame",San Mateo
+ChIJefXFTACdj4ARQlA2vGf2AXk,ACAN,37.5781705,-122.3489647,5.0,,8.0,3.62,bar|restaurant|food|point_of_interest|establishment,"339 Primrose Road, Burlingame",San Mateo
+ChIJj2yyE_Gdj4ARW78PDfzi8-4,Alana's Cafe,37.5777061,-122.3485619,4.5,2.0,549.0,4.73,cafe|restaurant|food|point_of_interest|establishment,"1408 Burlingame Avenue, Burlingame",San Mateo
+ChIJSxp0RfCdj4AR-qT7eTk1510,Five Guys,37.5766966,-122.3470996,4.2,2.0,540.0,4.41,meal_takeaway|restaurant|food|point_of_interest|establishment,"203 Primrose Road, Burlingame",San Mateo
+ChIJG_UZdvGdj4ARZ3xlQKgMTSM,Crepevine Restaurants,37.5784598,-122.347563,4.5,2.0,2028.0,4.73,restaurant|food|point_of_interest|establishment,"1310 Burlingame Avenue, Burlingame",San Mateo
+ChIJ6QI8VfCdj4ARVw83lkffb4A,Pizza My Heart,37.5770889,-122.3475056,4.3,1.0,399.0,4.3,meal_takeaway|restaurant|food|point_of_interest|establishment,"235 Primrose Road, Burlingame",San Mateo
+ChIJI7FkUPCdj4ARYqyVbY1njeE,Ike's Love & Sandwiches,37.57659719999999,-122.3469417,4.2,2.0,325.0,4.41,meal_takeaway|meal_delivery|restaurant|food|point_of_interest|establishment,"1400 Howard Avenue, Burlingame",San Mateo
+ChIJ-eJEC_Gdj4ARqgsDnel8P3c,Asian Box,37.5776941,-122.3481089,4.1,1.0,268.0,4.1,restaurant|food|point_of_interest|establishment,"1401 Burlingame Avenue, Burlingame",San Mateo
+ChIJz9pJNPCdj4ARi7EwE_6OT1c,Oyster Boy Fish House,37.5772629,-122.3459709,4.2,,6.0,3.02,restaurant|food|point_of_interest|establishment,"1300 Howard Avenue, Burlingame",San Mateo
+ChIJo4mAInudj4ARfBZWtua6lkk,ZENSHI Handcrafted Sushi,37.5764333,-122.348304,,,,,restaurant|meal_takeaway|food|point_of_interest|establishment,"1450 Howard Avenue, Burlingame",San Mateo
+ChIJ0S5UF_Gdj4ARrPuY3r7Z-yY,Rasoi Restaurant & Lounge,37.57728879999999,-122.3486586,4.2,2.0,631.0,4.41,restaurant|food|point_of_interest|establishment,"1425 Burlingame Avenue, Burlingame",San Mateo
+ChIJ_5A2dNidj4ARCPcTAiyWG6s,Palmetto Superfoods - Burlingame,37.5768328,-122.347347,4.4,1.0,123.0,4.4,restaurant|food|point_of_interest|store|establishment,"225 Primrose Road, Burlingame",San Mateo
+ChIJ45ZB6_Gdj4ARJDuklX8gUXk,Cafe Cherimoya,37.5776125,-122.3482331,4.4,1.0,109.0,4.4,restaurant|food|point_of_interest|establishment,"1407 Burlingame Avenue, Burlingame",San Mateo
+ChIJRXdXdfGdj4AR5Os-G3Wld1Y,Mediterranean Kebab,37.57831580000001,-122.3476746,4.4,2.0,872.0,4.62,restaurant|food|point_of_interest|establishment,"1318 Burlingame Avenue, Burlingame",San Mateo
+ChIJXSwMTU6dj4AR8jC5y1F01_Q,Masala Desi Cafe - Burlingame,37.5780938,-122.3486515,4.3,2.0,305.0,4.51,cafe|restaurant|food|point_of_interest|store|establishment,"321 Primrose Road, Burlingame",San Mateo
+ChIJG6jeC_Gdj4ARv195CmDimAo,JOE & THE JUICE,37.5777529,-122.347801,3.6,2.0,210.0,3.78,meal_takeaway|cafe|restaurant|food|point_of_interest|store|establishment,"1395 Burlingame Avenue Street, Burlingame",San Mateo
+ChIJ4yAec_Gdj4AR0xmQ_i0_EbA,Caffe Central,37.57813229999999,-122.3481776,4.4,2.0,671.0,4.62,restaurant|cafe|food|point_of_interest|establishment,"1380 Burlingame Avenue, Burlingame",San Mateo
+ChIJTbRINPCdj4ARVQZDEDbvsNQ,Park & Howard Bistro,37.5772815,-122.3459614,4.5,,258.0,4.5,restaurant|food|point_of_interest|establishment,"1300 Howard Avenue, Burlingame",San Mateo
+ChIJTTgiNfCdj4ARxr6K9Uv8XI0,Rasa - Burlingame,37.5774089,-122.3460472,4.3,3.0,1682.0,4.51,restaurant|food|point_of_interest|establishment,"209 Park Road, Burlingame",San Mateo
+ChIJpbQ1-bSdj4AR67PYXBSlVGM,Capri Lasagneria,37.5775317,-122.3462102,4.7,2.0,84.0,4.7,restaurant|food|point_of_interest|establishment,"231 Park Road, Burlingame",San Mateo
+ChIJT03rQeWdj4ARBIswVlxA1oM,Tacos Al Vapor Michoacan,37.5748656,-122.3432491,4.2,,305.0,4.2,restaurant|food|point_of_interest|establishment,"1 Park Road, Burlingame",San Mateo
+ChIJxyMCLPKdj4ARCOZkwvPLG1c,Il Fornaio,37.579933,-122.347116,4.3,2.0,1249.0,4.51,restaurant|food|point_of_interest|establishment,"327 Lorton Avenue, Burlingame",San Mateo
+ChIJj2pBJfKdj4AR4qXVqaOjAJY,Stacks,37.5802157,-122.3469846,4.4,2.0,1381.0,4.62,restaurant|food|point_of_interest|establishment,"361 California Drive, Burlingame",San Mateo
+ChIJz_ye9vGdj4ARoBGsAmTo-ys,Flights Restaurant By Alex Hult - Burlingame,37.5797044,-122.3456551,4.0,3.0,690.0,4.2,restaurant|bar|food|point_of_interest|establishment,"1100 Burlingame Avenue, Burlingame",San Mateo
+ChIJiahRlPGdj4ARJjeUd2mmutU,Mingalaba Restaurant,37.5788556,-122.3464861,4.3,2.0,1206.0,4.51,restaurant|food|point_of_interest|establishment,"1213 Burlingame Avenue, Burlingame",San Mateo
+ChIJbaUbkfGdj4AR6fN-d_gjBOE,Copenhagen Bakery & Cafe,37.5790611,-122.3466333,4.4,2.0,1469.0,4.62,bakery|cafe|store|restaurant|food|point_of_interest|establishment,"1216 Burlingame Avenue, Burlingame",San Mateo
+ChIJ75cJIO6dj4AR1bqt-XFNtDA,SAKAE Sushi,37.57912779999999,-122.3446278,4.4,2.0,360.0,4.62,restaurant|food|point_of_interest|establishment,"243 California Drive, Burlingame",San Mateo
+ChIJIdu1H-6dj4AREVQ9qxFkn8k,Christie's,37.5791009,-122.3447168,4.5,1.0,491.0,4.5,restaurant|food|point_of_interest|establishment,"245 California Drive, Burlingame",San Mateo
+ChIJC_Wb6fGdj4ARccrYARYUlsM,Trapeze Restaurant,37.5789776,-122.3456688,4.4,2.0,332.0,4.62,restaurant|food|point_of_interest|establishment,"266 Lorton Avenue, Burlingame",San Mateo
+ChIJKUxY8fGdj4ARzMgsgdkCFlk,Blue Line Pizza,37.57962329999999,-122.3457987,4.4,2.0,720.0,4.62,bar|restaurant|food|point_of_interest|establishment,"1108 Burlingame Avenue, Burlingame",San Mateo
+ChIJV4om8_Gdj4ARaKVKFBV_L7Q,Starbucks,37.5794516,-122.346146,4.1,2.0,488.0,4.3,cafe|store|restaurant|food|point_of_interest|establishment,"1160 Lorton Avenue, Burlingame",San Mateo
+ChIJ9fMJf_Gdj4ARbfmd9QthUW0,Leland Tea Company - Burlingame,37.57902970000001,-122.3474149,4.6,,164.0,4.6,cafe|restaurant|food|point_of_interest|establishment,"1223 Donnelly Avenue, Burlingame",San Mateo
+ChIJS5o03fGdj4ARhG9sFLcI5-g,Farm & Vine American Bistro,37.5787439,-122.3454622,4.4,2.0,305.0,4.62,restaurant|food|point_of_interest|establishment,"248 Lorton Avenue, Burlingame",San Mateo
+ChIJv0hH8PGdj4ARvHkSMaWAuhs,Deja vu Juice Bar,37.57945369999999,-122.3455379,4.4,2.0,111.0,4.62,meal_takeaway|store|restaurant|food|point_of_interest|establishment,"1109 Burlingame Avenue, Burlingame",San Mateo
+ChIJU0mV-vGdj4ARTvs5m0l5JYc,Limón,37.5795444,-122.3454031,4.4,2.0,2318.0,4.62,restaurant|food|point_of_interest|establishment,"1101 Burlingame Avenue, Burlingame",San Mateo
+ChIJh6F2L-6dj4ARpfXQhnR_NWI,Tea Plus Noodles House,37.5783853,-122.3443612,4.2,2.0,137.0,4.41,restaurant|food|point_of_interest|establishment,"1100 Howard Avenue ste D, Burlingame",San Mateo
+ChIJW3ii8PGdj4AR1x1zsySJ93k,La Corneta Taqueria,37.5792406,-122.3459085,4.2,1.0,918.0,4.2,restaurant|food|point_of_interest|establishment,"1123 Burlingame Avenue, Burlingame",San Mateo
+ChIJP2Uqw_Gdj4ARx2LPjRVSfU4,Paddy Flynn's,37.5786919,-122.3454287,4.3,1.0,204.0,4.3,bar|restaurant|food|point_of_interest|establishment,"246 Lorton Avenue, Burlingame",San Mateo
+ChIJoYObMe6dj4ARiutMipkwFMo,Tomokazu Japanese Cuisine,37.5783411,-122.34382,4.2,2.0,341.0,4.41,restaurant|food|point_of_interest|establishment,"1101 Howard Avenue, Burlingame",San Mateo
+ChIJTw8ywjCdj4ARTc2cAghHatk,Truffle Poké Bar,37.5797019,-122.3475726,4.0,2.0,22.0,3.22,restaurant|food|point_of_interest|establishment,"1212 Donnelly Avenue, Burlingame",San Mateo
+ChIJk4HvGi-dj4AR0ojgJrnLKLQ,Twelvemonth,37.5798503,-122.3464763,4.4,,352.0,4.4,restaurant|bakery|bar|store|food|point_of_interest|establishment,"330 Lorton Avenue, Burlingame",San Mateo
+ChIJmfS6WKKdj4ARmJK7r9oRPWE,SaltYard Restaurant and Bar,37.5797334,-122.3463108,4.3,2.0,535.0,4.51,restaurant|food|point_of_interest|establishment,"322 Lorton Avenue, Burlingame",San Mateo
+ChIJrQZi2s2dj4ARFy25NRXMix0,Mochiko Mochi Pizza (Closed),37.5789081,-122.3460332,4.2,2.0,21.0,3.36,restaurant|food|point_of_interest|establishment,"283 Lorton Avenue, Burlingame",San Mateo
+ChIJg5xCC1Gdj4ARoMzsrfs2AxE,Urban Kitchen,37.57948189999999,-122.3461381,4.8,2.0,380.0,5.04,restaurant|food|point_of_interest|establishment,"1152 Burlingame Avenue, Burlingame",San Mateo
+ChIJ06ZpNFudj4ARkoxiMPVjriM,Dumpling Kitchen & Bar,37.5791577,-122.3459344,4.7,2.0,55.0,4.27,restaurant|food|point_of_interest|establishment,"1125 Burlingame Avenue, Burlingame",San Mateo
+ChIJH-bjmi-dj4AR17X2m877L20,Mediterranean Kitchen Burlingame,37.57903429999999,-122.3458177,4.6,2.0,494.0,4.83,restaurant|food|point_of_interest|establishment,"270 Lorton Avenue, Burlingame",San Mateo
+ChIJoakpq36dj4ARWtt7W9Ing5E,Caffe Stellato,37.5795558,-122.3459057,4.7,1.0,170.0,4.7,store|restaurant|food|point_of_interest|establishment,"1112 Burlingame Avenue, Burlingame",San Mateo
+ChIJN-fFVaOdj4AR9PCZYAk8aD4,Tuna Kahuna,37.57926309999999,-122.3457952,4.7,1.0,363.0,4.7,bar|restaurant|food|point_of_interest|establishment,"1117 Burlingame Avenue, Burlingame",San Mateo
+ChIJIV9OtQCdj4ARKiA1bDi2I5A,Lotus Falafel and Shawarma - Burlingame,37.5795091,-122.3455252,4.7,2.0,108.0,4.94,restaurant|food|point_of_interest|establishment,"1107 Burlingame Avenue, Burlingame",San Mateo
+ChIJIdNAKRydj4ARtMj7FdThMcA,Mykonos,37.5785759,-122.3451344,4.6,2.0,832.0,4.83,bar|restaurant|food|point_of_interest|establishment,"226 Lorton Avenue, Burlingame",San Mateo
+ChIJ6_DtMu6dj4ARUOUIMrYrL4s,Coconut Bay Thai Restaurant,37.5782333,-122.3439706,4.3,2.0,524.0,4.51,restaurant|food|point_of_interest|establishment,"1107 Howard Avenue, Burlingame",San Mateo
+ChIJI9BsyQydj4ARgDTLchiSq28,El Quetzal comida Guatemalteca,37.5793908,-122.3440748,4.4,,55.0,3.81,restaurant|food|point_of_interest|establishment,"216 California Drive, Burlingame",San Mateo
+ChIJP8ZRyCV2j4ARfqQbhMi2gHE,Mokutanya,37.5869891,-122.3631169,4.2,3.0,941.0,4.41,restaurant|food|point_of_interest|establishment,"1155 California Drive, Burlingame",San Mateo
+ChIJy00E44mdj4AR99aRw38wQZw,7-Eleven,37.5870523,-122.3558838,2.6,1.0,38.0,2.12,convenience_store|liquor_store|cafe|restaurant|food|point_of_interest|store|establishment,"975 Rollins Road, Burlingame",San Mateo
+ChIJiYoH-4idj4ARlr9MWyW8vg4,Gabriel & Daniel's Mexican Grill,37.5901242,-122.3528633,4.7,1.0,417.0,4.7,restaurant|food|point_of_interest|establishment,"250 Anza Boulevard, Burlingame",San Mateo
+ChIJA8gg0Yidj4ARgPypyVcf6rI,37 North,37.5906189,-122.3510039,4.1,2.0,164.0,4.3,restaurant|food|point_of_interest|establishment,"835 Airport Boulevard, Burlingame",San Mateo
+ChIJu64dBI-dj4ARPtbsrwFK2VM,Tap & Tavern,37.5914205,-122.3480166,3.8,2.0,122.0,3.99,bar|restaurant|food|point_of_interest|establishment,"150 Anza Boulevard, Burlingame",San Mateo
+ChIJm5HKKSZ2j4ARdqUtcDBPwxk,West Bay Café,37.5902765,-122.3596811,3.5,,139.0,3.5,bar|restaurant|food|point_of_interest|establishment,"1177 Airport Boulevard, Burlingame",San Mateo
+ChIJQSxYoSV2j4ARlgCVyTXyfrc,Yangon,37.5870881,-122.3641562,4.5,2.0,245.0,4.73,restaurant|food|point_of_interest|establishment,"1136 Broadway, Burlingame",San Mateo
+ChIJN2ifh5Sdj4ARSGtJq3FanRE,Topgolf Burlingame,37.589547,-122.3552829,3.9,2.0,244.0,4.09,restaurant|food|point_of_interest|establishment,"258 Anza Boulevard, Burlingame",San Mateo
+ChIJxVY3wSV2j4ARhhR0g-Xi2iI,Maverick Jack's,37.5876087,-122.363061,4.4,2.0,730.0,4.62,restaurant|food|point_of_interest|establishment,"1190 California Drive, Burlingame",San Mateo
+ChIJ6eT1eKp3j4ARtqja3C5FJGQ,Society Restaurant & Hookah Lounge,37.58717169999999,-122.3641191,4.7,2.0,103.0,4.94,restaurant|food|point_of_interest|establishment,"1130 Broadway, Burlingame",San Mateo
+ChIJJQ0wDMifj4ARJH4RAlBBVkQ,Rainbow Pizza,37.52118060000001,-122.3372234,4.6,2.0,532.0,4.83,restaurant|food|point_of_interest|establishment,"112 De Anza Boulevard, San Mateo",San Mateo
+ChIJW6HjCMifj4AROO6-1u_rVkk,Starbucks,37.5212054,-122.3373408,4.0,2.0,182.0,4.2,cafe|restaurant|food|point_of_interest|store|establishment,"Crystal Springs Shopping Center, 111 De Anza Boulevard, San Mateo",San Mateo
+ChIJw5XHiMifj4ARPKqzyYwc8kw,Wakuriya,37.5213139,-122.3367444,4.7,4.0,193.0,4.79,restaurant|food|point_of_interest|establishment,"115 De Anza Boulevard, San Mateo",San Mateo
+ChIJOfR9l8ifj4ARrySgX1RoFIw,Lily's Crêperie,37.52103109999999,-122.3373667,4.3,1.0,125.0,4.3,cafe|meal_takeaway|restaurant|food|point_of_interest|store|establishment,"108 De Anza Boulevard, San Mateo",San Mateo
+ChIJDyIcll2fj4ARX9E-0E54zzI,ZENSHI Handcrafted Sushi,37.5208288,-122.3377874,,,,,restaurant|meal_takeaway|food|point_of_interest|establishment,"100 De Anza Boulevard, San Mateo",San Mateo
+ChIJz1gRjsifj4AR9Fq5_CAqEmw,Neal's Coffee Shop,37.5213907,-122.336832,4.3,2.0,285.0,4.51,cafe|restaurant|food|point_of_interest|establishment,"114 De Anza Boulevard, San Mateo",San Mateo
+ChIJXSQlDMifj4ARCQiDUvrmeKM,Little Hunan Restaurant,37.5211704,-122.3365337,4.5,1.0,63.0,4.0,restaurant|food|point_of_interest|establishment,"120 De Anza Boulevard, San Mateo",San Mateo
+ChIJUeMTJoifj4ARPCq6MwzU2lw,Sourdough & Co,37.52124939999999,-122.3364909,4.5,1.0,57.0,3.92,restaurant|food|point_of_interest|establishment,"119 De Anza Boulevard, San Mateo",San Mateo
+ChIJERZ2ZWWdj4ARCAAjBDaa2_Q,Mateo Pizza Restaurant,37.5764971,-122.3383265,5.0,2.0,302.0,5.25,meal_delivery|meal_takeaway|restaurant|food|point_of_interest|establishment,"851 North San Mateo Drive, San Mateo",San Mateo
+ChIJwYo8l5Gdj4ARzYTiPg7X3JI,"Kincaid's Fish, Chop & Steakhouse",37.591771,-122.3429228,4.3,3.0,2038.0,4.51,restaurant|food|point_of_interest|establishment,"60 Bayview Place, Burlingame",San Mateo
+ChIJq1D09o2dj4AR_04c1q-RrCg,Fire|Vine Grill & Bar & Windows On The Bay,37.58993900000001,-122.343013,3.7,,69.0,3.36,bar|restaurant|food|point_of_interest|establishment,"600 Airport Boulevard, Burlingame",San Mateo
+ChIJc4Dk0JOdj4AR4zyrPfgtCe8,Waterfront Cafe,37.5904397,-122.3413736,5.0,,8.0,3.62,restaurant|food|point_of_interest|establishment,"500 Airport Boulevard, Burlingame",San Mateo
+ChIJy02gQtidj4ARgH2eZWz8tyQ,Tacos Junior's,37.5758871,-122.3368849,2.5,,2.0,1.76,restaurant|food|point_of_interest|establishment,San Mateo,San Mateo
+ChIJebivUd6dj4ARiE0uLvcQlXg,Taqueria Los Primos #2,37.572881,-122.3310357,4.2,1.0,132.0,4.2,restaurant|food|point_of_interest|establishment,"376 North Ellsworth Avenue, San Mateo",San Mateo
+ChIJ68Vvr0ydj4ARDrbmnB5DlC0,Panther Brazilian Açai,37.571253,-122.3310591,4.9,,29.0,3.86,restaurant|food|point_of_interest|establishment,"300 North San Mateo Drive, San Mateo",San Mateo
+ChIJkYbPmeidj4AR-JfvQZ-F2LI,Minako Organic-ish Japanese Cuisine,37.57825270000001,-122.3374565,4.7,,121.0,4.7,restaurant|food|point_of_interest|establishment,"360 Peninsula Avenue, San Mateo",San Mateo
+ChIJeWbWm96dj4ARQOT3ncihZ_Q,Andy’s Tacos Jalisco Food Truck,37.57831929999999,-122.3369969,4.6,1.0,35.0,3.7,restaurant|food|point_of_interest|establishment,"400 Peninsula Avenue, San Mateo",San Mateo
+ChIJi3DsR-idj4ARYhSvmuHVNmQ,Celia's,37.5798006,-122.3350557,4.3,2.0,971.0,4.51,restaurant|food|point_of_interest|establishment,"504 Peninsula Avenue, San Mateo",San Mateo
+ChIJUYxhGOidj4ARrPzVbgjYJms,Wingstop,37.5800111,-122.3329109,3.5,2.0,188.0,3.68,restaurant|food|point_of_interest|establishment,"858 North Delaware Street, San Mateo",San Mateo
+ChIJI7NivpmAhYARCjKNBbDoezw,Starbucks,37.5798132,-122.3333547,3.7,2.0,394.0,3.89,cafe|restaurant|food|point_of_interest|store|establishment,"842 North Delaware Street, San Mateo",San Mateo
+ChIJka36GOidj4ARmos5zm8NQ5k,Round Table Pizza,37.5798516,-122.3332688,4.0,2.0,179.0,4.2,meal_delivery|meal_takeaway|restaurant|food|point_of_interest|establishment,"844 North Delaware Street, San Mateo",San Mateo
+ChIJXfy5KtSdj4ARGeV59JOwm-k,Dosa Express,37.57995810000001,-122.3347764,4.6,,289.0,4.6,restaurant|food|point_of_interest|establishment,"514 Peninsula Avenue, San Mateo",San Mateo
+ChIJS5FpLCyfj4ARYZD9u8Dh0Po,Tasty Sinaloa food truck,37.5797898,-122.3334205,4.5,2.0,8.0,3.42,restaurant|food|point_of_interest|establishment,"842 North Delaware Street, San Mateo",San Mateo
+ChIJUUIAHOidj4ARQg42BkBJ_RI,Subway,37.5798903,-122.3331116,3.1,1.0,80.0,2.91,meal_takeaway|restaurant|food|point_of_interest|establishment,"852 North Delaware Street, San Mateo",San Mateo
+ChIJN6x96hadj4AR7ZVrIZVCt4s,Totoro Ramen,37.57999869999999,-122.3331174,4.6,2.0,298.0,4.83,restaurant|food|point_of_interest|establishment,"856 North Delaware Street, San Mateo",San Mateo
+ChIJh1Pinbedj4ARfPkf5TbAlbI,Golden Boy Pizza,37.5862903,-122.3333892,4.7,2.0,300.0,4.94,meal_takeaway|restaurant|food|point_of_interest|establishment,"1119 North Amphlett Boulevard, San Mateo",San Mateo
+ChIJcSNm1sGdj4ARp19r8dgKWYY,Hot Wok Bistro,37.585788,-122.333264,4.6,1.0,564.0,4.6,restaurant|food|point_of_interest|establishment,"1012 Howard Avenue, San Mateo",San Mateo
+ChIJrQxCoJKdj4AR1Tmf4lRpJdU,Bonjour Bakehouse,37.5859511,-122.3335587,4.8,2.0,150.0,5.04,bakery|cafe|restaurant|food|point_of_interest|store|establishment,"1007 Howard Avenue, San Mateo",San Mateo
+ChIJC6tbMnidj4AR1sSiIM4OfEQ,Totoro Bento,37.58008709999999,-122.3329101,,1.0,,,meal_takeaway|restaurant|food|point_of_interest|establishment,"856 North Delaware Street, San Mateo",San Mateo
+ChIJZ5SgpcKgj4ARtMTdMA2HKYw,The Mountain House,37.438208,-122.3225765,4.6,3.0,608.0,4.83,restaurant|food|point_of_interest|establishment,"13808 Skyline Boulevard, Woodside",San Mateo
+ChIJd9gXrEyej4ARlgypLDshq5w,Subway,37.5341004,-122.327048,3.1,1.0,55.0,2.68,meal_takeaway|restaurant|food|point_of_interest|establishment,"1308 West Hillsdale Boulevard, San Mateo",San Mateo
+ChIJXw30qUyej4ARLerDE_pTX3A,Celia's Mexican Restaurant,37.5330796,-122.3286071,4.2,2.0,510.0,4.41,bar|restaurant|food|point_of_interest|establishment,"Laurelwood Shopping Center, 3190 Campus Drive, San Mateo",San Mateo
+ChIJMwymS7Ofj4ARz4KhyQKQdWs,Round Table Pizza,37.53409439999999,-122.3269933,4.2,2.0,147.0,4.41,meal_takeaway|meal_delivery|restaurant|food|point_of_interest|establishment,"1304 West Hillsdale Boulevard, San Mateo",San Mateo
+ChIJtVqBTLOfj4ARQa3Ui7oZCSQ,Shiki Japanese Restaurant,37.5340343,-122.3273911,4.4,2.0,147.0,4.62,restaurant|food|point_of_interest|establishment,"1332 West Hillsdale Boulevard, San Mateo",San Mateo
+ChIJvdanoEyej4ARdulLFkKHOJk,Toa Yuen Restaurant,37.5337507,-122.3284457,4.3,1.0,53.0,3.69,restaurant|food|point_of_interest|establishment,"3170 Campus Drive, San Mateo",San Mateo
+ChIJ51llI8Sfj4AR3U6RBSjFVeg,Sal's Burgers,37.5339434,-122.3285659,4.7,2.0,249.0,4.94,restaurant|food|point_of_interest|establishment,"3158 Campus Drive, San Mateo",San Mateo
+ChIJhRbrQQ2fj4ARczAdwL2uJao,Bagel Box And Coffee,37.5337463,-122.3279017,4.5,1.0,56.0,3.91,bakery|cafe|restaurant|food|point_of_interest|store|establishment,"3174 Campus Drive, San Mateo",San Mateo
+ChIJsegTsX-fj4ARBGUV3a1Mntw,Nick The Greek,37.5335357,-122.3274522,4.5,1.0,247.0,4.5,restaurant|food|point_of_interest|establishment,"1324 West Hillsdale Boulevard, San Mateo",San Mateo
+ChIJEZSWcoqfj4ARRh1KStl4i3s,Brothers Cafe,37.5340474,-122.3275585,4.6,2.0,175.0,4.83,cafe|restaurant|food|point_of_interest|store|establishment,"1338 West Hillsdale Boulevard, San Mateo",San Mateo
+ChIJicQ9lQifj4ARvl0C0FPjldo,ZENSHI Handcrafted Sushi,37.5339385,-122.3258978,,,,,restaurant|meal_takeaway|food|point_of_interest|establishment,"1218 West Hillsdale Boulevard, San Mateo",San Mateo
+ChIJOWymJtWYj4ARenbrS8PUIJ8,Tokie's Downtown,37.5625665,-122.3243596,4.5,2.0,281.0,4.73,restaurant|food|point_of_interest|establishment,"34 East 4th Avenue, San Mateo",San Mateo
+ChIJVaPxJnCej4ARyxiB9Tt2tG8,Starbucks,37.562897,-122.323927,3.9,2.0,480.0,4.09,cafe|restaurant|food|point_of_interest|store|establishment,"54 East 4th Avenue, San Mateo",San Mateo
+ChIJeYxGt3Gej4ARWlGEOdBa0LE,Hotaru Restaurant,37.56351539999999,-122.3254897,4.3,2.0,524.0,4.51,restaurant|food|point_of_interest|establishment,"33 East 3rd Avenue #4010, San Mateo",San Mateo
+ChIJS0FdLG6ej4ARU0tzmGLEWXU,Cafe 400,37.561844,-122.32528,3.7,1.0,3.0,2.62,meal_delivery|meal_takeaway|restaurant|food|point_of_interest|establishment,"400 South El Camino Real, San Mateo",San Mateo
+ChIJV8071G-ej4ARS87L6PupHas,Earthbar,37.56226509999999,-122.3248947,3.1,2.0,12.0,2.4,restaurant|food|point_of_interest|establishment,"Inside Equinox, 4 East 4th Avenue, San Mateo",San Mateo
+ChIJI2THxnGej4ARZ8lUgarD0UU,sweetgreen,37.563364,-122.3259359,4.3,2.0,422.0,4.51,meal_takeaway|restaurant|food|point_of_interest|establishment,"1 East 3rd Avenue, San Mateo",San Mateo
+ChIJF30YMHCej4ARLb3Fac_ayNQ,noodleosophy,37.5631531,-122.3241503,4.3,2.0,487.0,4.51,meal_takeaway|restaurant|food|point_of_interest|establishment,"41 East 4th Avenue, San Mateo",San Mateo
+ChIJEdn_l--fj4ARsZH4930Vj_I,Rin-Tei,37.5640166,-122.3274256,4.4,2.0,137.0,4.62,restaurant|food|point_of_interest|establishment,"104 South El Camino Real, San Mateo",San Mateo
+ChIJjepZJnCej4ARSdvGEZ7KNFo,Noah's NY Bagels,37.56283569999999,-122.3239768,3.9,1.0,277.0,3.9,bakery|cafe|restaurant|food|point_of_interest|store|establishment,"50 East 4th Avenue, San Mateo",San Mateo
+ChIJ7yCNNyufj4AR4t1ACpzILO4,Izakaya Fusion Grill Keitan,37.5635769,-122.3254684,4.6,1.0,381.0,4.6,restaurant|food|point_of_interest|establishment,"35 East 3rd Avenue, San Mateo",San Mateo
+ChIJ9WHlHACfj4ARfU8L1ZrFfvo,Taste of Shaxian,37.56269299999999,-122.324269,4.5,2.0,366.0,4.73,restaurant|food|point_of_interest|establishment,"38 East 4th Avenue, San Mateo",San Mateo
+ChIJo4A_XH2fj4ARoAznX-J-MA0,Simple Salads,37.5635857,-122.3249584,,,,,restaurant|food|point_of_interest|establishment,"50 East 3rd Avenue, San Mateo",San Mateo
+ChIJrxRrfQCfj4ARwdjfmcm2a7Y,Pasta Everyday,37.56356,-122.3248987,,,,,restaurant|food|point_of_interest|establishment,"50 East 3rd Avenue, San Mateo",San Mateo
+ChIJZUNdeQCfj4ARG4pWI72Ya-E,Lobster Burger,37.56356,-122.3248987,,,,,restaurant|food|point_of_interest|establishment,"50 East 3rd Avenue, San Mateo",San Mateo
+ChIJLRZtRwCfj4ARTRFI49IhOrg,RHD Sandwiches,37.56356,-122.3248987,,,,,restaurant|food|point_of_interest|establishment,"50 East 3rd Avenue, San Mateo",San Mateo
+ChIJbb55ZQCfj4ARU7AUEkjN2Es,Sushirrito,37.56356,-122.3248987,5.0,,4.0,3.56,meal_takeaway|restaurant|food|point_of_interest|establishment,"50 East 3rd Avenue, San Mateo",San Mateo
+ChIJRTWR2O6fj4ARAqPsTcQX5Hk,Colander Kitchens,37.56356,-122.3248987,5.0,,2.0,3.53,restaurant|food|point_of_interest|establishment,"50 East 3rd Avenue, San Mateo",San Mateo
+ChIJIbbVHQCfj4ARJ9di5OOqcx8,Nice Pizza,37.56356,-122.3248987,5.0,,1.0,3.51,restaurant|food|point_of_interest|establishment,"50 East 3rd Avenue, San Mateo",San Mateo
+ChIJq_C-UQCfj4ARcooL1Uuuhn8,Simple Salads,37.563649,-122.3249729,5.0,,1.0,3.51,restaurant|food|point_of_interest|establishment,"50 East 3rd Avenue, San Mateo",San Mateo
+ChIJhQui2UCfj4AR_W3tStG_No8,猛男汉堡Macho Burger San Mateo,37.563226,-122.3243012,4.1,1.0,49.0,3.47,meal_takeaway|restaurant|food|point_of_interest|establishment,"41 East 4th Avenue, San Mateo",San Mateo
+ChIJBUJUEvufj4AR3Ms-AQad6AU,Foreigner Cafe,37.56374660000001,-122.3247235,4.4,2.0,718.0,4.62,restaurant|food|point_of_interest|establishment,"60 East 3rd Avenue Ste 108, San Mateo",San Mateo
+ChIJd3dEm3Cej4ARl8USef836uE,Cinemark Century San Mateo 12,37.5663339,-122.3223532,4.4,,1840.0,4.4,movie_theater|meal_takeaway|restaurant|food|point_of_interest|establishment,"320 2nd Avenue, San Mateo",San Mateo
+ChIJFbeGuHCej4ARWLQmzwIx9Xc,Curry Up Now,37.56681,-122.32364,4.1,2.0,1286.0,4.3,restaurant|food|point_of_interest|establishment,"129 South B Street, San Mateo",San Mateo
+ChIJSS6QeHCej4ARAssTIDcQIiU,B Street & Vine,37.565168,-122.322333,4.4,2.0,630.0,4.62,restaurant|food|point_of_interest|establishment,"320 South B Street, San Mateo",San Mateo
+ChIJ01Fn83Cej4ARB9X33o7q96k,"Happy Lamb Hot Pot, San Mateo 快乐小羊",37.565509,-122.3235506,4.3,2.0,781.0,4.51,bar|restaurant|food|point_of_interest|establishment,"215 South Ellsworth Avenue, San Mateo",San Mateo
+ChIJmUm103Cej4AROlDvaAdcuKk,O'Neills Irish Pub,37.5671074,-122.3244377,4.3,1.0,394.0,4.3,bar|night_club|restaurant|food|point_of_interest|establishment,"34 South B Street, San Mateo",San Mateo
+ChIJsRSv03Cej4ARF2eZmKCM258,Joy Sushi,37.5672346,-122.3244971,4.2,2.0,366.0,4.41,restaurant|food|point_of_interest|establishment,"30 South B Street, San Mateo",San Mateo
+ChIJwbQzTXCej4AR6AiUPmWLsAY,Amici's East Coast Pizzeria,37.5640816,-122.3248565,4.2,2.0,331.0,4.41,restaurant|food|point_of_interest|establishment,"69 East 3rd Avenue, San Mateo",San Mateo
+ChIJ9WyHNXCej4ARr47XTsNUA_Q,Porterhouse,37.56629220000001,-122.3235978,4.5,3.0,597.0,4.73,bar|night_club|restaurant|food|point_of_interest|establishment,"164 South B Street, San Mateo",San Mateo
+ChIJdYnq7nCej4ARB-6vA0482oU,Bay Watch San Mateo,37.5660306,-122.3240158,4.3,2.0,594.0,4.51,restaurant|food|point_of_interest|establishment,"201 2nd Avenue, San Mateo",San Mateo
+ChIJcUAq7XCej4ARXAQVeV53NVI,Izakaya Mai,37.5659546,-122.3234899,4.2,2.0,576.0,4.41,restaurant|food|point_of_interest|establishment,"212 2nd Avenue, San Mateo",San Mateo
+ChIJCeDDEXCej4ARCMv4Lie2nj8,Pizza My Heart,37.5637701,-122.3227003,4.3,1.0,314.0,4.3,meal_delivery|meal_takeaway|restaurant|food|point_of_interest|establishment,"140 East 4th Avenue, San Mateo",San Mateo
+ChIJ3xfY7XCej4ARxv7jAZpvKII,Himawari,37.5658194,-122.3237602,4.4,2.0,860.0,4.62,restaurant|food|point_of_interest|establishment,"202 2nd Avenue, San Mateo",San Mateo
+ChIJHezl03aej4AR1R9NtvewBWg,Sushi Maruyama,37.5673286,-122.3253401,4.7,3.0,432.0,4.94,restaurant|food|point_of_interest|establishment,"279 Baldwin Avenue, San Mateo",San Mateo
+ChIJJaVySXCej4ARuJfHPtKWwbE,Clay Oven Cuisine of India,37.5637012,-122.3243109,3.5,2.0,425.0,3.68,meal_takeaway|restaurant|food|point_of_interest|establishment,"78 East 3rd Avenue, San Mateo",San Mateo
+ChIJrZNMK3eej4ARRHSOh0uJpP0,Wursthall,37.567287,-122.324631,4.4,2.0,2134.0,4.62,bar|restaurant|food|point_of_interest|establishment,"310 Baldwin Avenue, San Mateo",San Mateo
+ChIJ39pZ9naej4ARh1YP9Q7b6yw,La Piñata,37.56916,-122.3258757,4.1,1.0,741.0,4.1,restaurant|food|point_of_interest|establishment,"120 North B Street, San Mateo",San Mateo
+ChIJJ5RD_Eh2j4ARJXCwvPBwjQY,Jeffrey's Hamburgers,37.56707600000001,-122.3242925,4.5,1.0,712.0,4.5,restaurant|food|point_of_interest|establishment,"42 South B Street, San Mateo",San Mateo
+ChIJg-Kn0nCej4ARnjelgmVofko,Poke Island CreAsian Kitchen,37.5673694,-122.3242184,4.4,2.0,48.0,3.9,restaurant|food|point_of_interest|establishment,"43 South B Street, San Mateo",San Mateo
+ChIJp6yImXCej4ARwQ0kgVjz25w,Dash Japanese Tapas and Sushi,37.56588380000001,-122.3236271,4.5,2.0,451.0,4.73,restaurant|food|point_of_interest|establishment,"204A 2nd Avenue, San Mateo",San Mateo
+ChIJ6zDxjXCej4AROgj36_xUWgM,Bonchon San Mateo,37.56598,-122.3230912,4.3,2.0,453.0,4.51,meal_takeaway|restaurant|food|point_of_interest|establishment,"220 South B Street, San Mateo",San Mateo
+ChIJV_JyhqD1UocRck6StTwWwfA,Central Park Bistro,37.5642295,-122.3228201,4.4,2.0,376.0,4.62,restaurant|food|point_of_interest|establishment,"181 East 4th Avenue, San Mateo",San Mateo
+ChIJbQOaZ3Cej4ARpMxBFKP_K3A,San Mateo Prime,37.5646972,-122.3233489,4.3,3.0,221.0,4.51,bar|restaurant|food|point_of_interest|establishment,"174 East 3rd Avenue, San Mateo",San Mateo
+ChIJxd8KkXCej4ARzj6lIWQL8sg,New York Pizza,37.5661232,-122.3228954,4.3,1.0,271.0,4.3,meal_takeaway|meal_delivery|restaurant|food|point_of_interest|establishment,"219 South B Street, San Mateo",San Mateo
+ChIJb-BteXCej4ARhYpP7JyS9cA,Avocado Toast,37.5652151,-122.3225527,4.3,2.0,215.0,4.51,restaurant|food|point_of_interest|establishment,"226 East 3rd Avenue, San Mateo",San Mateo
+ChIJY5OlhXCej4ARTewMKKVfI2Q,Pacific Catch,37.56592439999999,-122.3226601,4.3,2.0,1238.0,4.51,restaurant|food|point_of_interest|establishment,"243 South B Street, San Mateo",San Mateo
+ChIJrTqCc3Cej4ARB1BoBxdHsFw,Gyu-Kaku Japanese BBQ,37.56455,-122.322491,4.3,2.0,1165.0,4.51,restaurant|food|point_of_interest|establishment,"329 South Ellsworth Avenue, San Mateo",San Mateo
+ChIJOTbfdHCej4ARIab_uDLZJr0,M sandwiches Cafe San Mateo,37.5644733,-122.3222723,4.6,1.0,228.0,4.6,meal_takeaway|restaurant|food|point_of_interest|establishment,"205 East 4th Avenue, San Mateo",San Mateo
+ChIJZ9Q8J3eej4AROFxbodDBg_c,La Cumbre Taqueria SM,37.5681007,-122.3247005,3.9,1.0,379.0,3.9,restaurant|food|point_of_interest|establishment,"28 North B Street, San Mateo",San Mateo
+ChIJje0i-naej4ARp6AWebONsrs,Peninsula Italian American Social Club,37.5689475,-122.3257731,4.6,,156.0,4.6,restaurant|food|point_of_interest|establishment,"100 North B Street, San Mateo",San Mateo
+ChIJxcN5mHCej4AR0zc2K2taXe0,Beard Papa's,37.5666832,-122.3229048,4.2,1.0,148.0,4.2,bakery|restaurant|food|point_of_interest|store|establishment,"365 2nd Avenue, San Mateo",San Mateo
+ChIJZXkHDnCej4ARpm_A2IsQwfc,Domino's Pizza,37.5641179,-122.3229262,3.5,1.0,303.0,3.5,meal_takeaway|meal_delivery|restaurant|food|point_of_interest|establishment,"169 East 4th Avenue, San Mateo",San Mateo
+ChIJ_1RlW3Cej4ARYvnkPAEcS-o,Vespucci Ristorante Italiano,37.5646619,-122.3239574,4.7,2.0,358.0,4.94,restaurant|food|point_of_interest|establishment,"147 East 3rd Avenue, San Mateo",San Mateo
+ChIJaR-uSHCej4ARkc7lUlOBado,L&L Hawaiian Barbecue,37.5640748,-122.3242398,3.6,1.0,211.0,3.6,restaurant|food|point_of_interest|establishment,"94 East 3rd Avenue, San Mateo",San Mateo
+ChIJ3-_dDXCej4ARKIbU9TPugzQ,Thonglor Thai Bistro,37.5641598,-122.3228988,4.2,2.0,201.0,4.41,restaurant|food|point_of_interest|establishment,"173 East 4th Avenue, San Mateo",San Mateo
+ChIJURwyuHCej4ARNI5aGNVMHrs,Dessert Republic Cafe,37.5669537,-122.3233401,4.1,1.0,274.0,4.1,restaurant|food|point_of_interest|establishment,"138 Main Street, San Mateo",San Mateo
+ChIJI3OEonCej4AREArcgWBdvb0,Cold Stone Creamery,37.5667859,-122.3228142,3.9,2.0,129.0,4.09,bakery|store|restaurant|food|point_of_interest|establishment,"375 2nd Avenue, San Mateo",San Mateo
+ChIJ5VNLDnCej4ARf6DmmGYOkxg,Hummus Mediterranean Kitchen,37.56384750000001,-122.322638,4.3,2.0,817.0,4.51,restaurant|food|point_of_interest|establishment,"150 East 4th Avenue, San Mateo",San Mateo
+ChIJHzu5W3Cej4ARJHzDBzqYyqk,Shabuway,37.5646142,-122.3239277,4.1,2.0,210.0,4.3,restaurant|food|point_of_interest|establishment,"145 East 3rd Avenue, San Mateo",San Mateo
+ChIJZe2ninaej4AR0VJDQPRwrYU,Taqueria Los Primos #1,37.5690917,-122.3263861,4.5,1.0,316.0,4.5,restaurant|food|point_of_interest|establishment,"85 North B Street #4, San Mateo",San Mateo
+ChIJT5eL6Xyfj4ARd__EqjMZhNo,Udon Mugizo - San Mateo,37.5641058,-122.3248129,4.6,,48.0,3.88,restaurant|food|point_of_interest|establishment,"73 East 3rd Avenue, San Mateo",San Mateo
+ChIJDc_SPM2fj4AR3I0cYL0JLcc,MalaTown Express 自选麻辣烫,37.5641626,-122.3247797,4.9,,890.0,4.9,restaurant|food|point_of_interest|establishment,"77 East 3rd Avenue, San Mateo",San Mateo
+ChIJ7-LfZrKfj4ARPrfz9A-zPoE,Pupuseria El Salvador ( el rinconcito catracho),37.56907299999999,-122.3263005,4.4,,47.0,3.7,restaurant|food|point_of_interest|establishment,"85 North B Street #2, San Mateo",San Mateo
+ChIJA6M4a22fj4ARtjCESKxU3rU,Pupuseria Valle de Jiboa,37.56907299999999,-122.3263005,5.0,,2.0,3.53,restaurant|food|point_of_interest|establishment,"85 North B Street #2, San Mateo",San Mateo
+ChIJX2k39Xaej4AR5_WO8JtwpSs,El Rinconsito Catracho,37.56907299999999,-122.3263005,3.8,2.0,52.0,3.42,restaurant|food|point_of_interest|establishment,"85 North B Street #2, San Mateo",San Mateo
+ChIJ3TudkFifj4AR1-KkklUy_3U,Taquería las pencas #2,37.5684654,-122.325765,4.5,2.0,88.0,4.55,restaurant|food|point_of_interest|establishment,"45 North B Street, San Mateo",San Mateo
+ChIJ5T8k8Haej4ARTLyt_sT27nU,Snacks Antojitos Mexicanos,37.56829140000001,-122.3255695,4.2,1.0,146.0,4.2,restaurant|food|point_of_interest|store|establishment,"31 North B Street, San Mateo",San Mateo
+ChIJtWCv92Gdj4ARkHZ2M8VrClg,Antojitos Guatemaltecos Reve,37.5730458,-122.3246252,4.0,,7.0,2.88,restaurant|food|point_of_interest|establishment,"714 Monte Diablo Avenue, San Mateo",San Mateo
+ChIJKfn1kpKfj4ARJ-KC-Uwze98,Ox 9 Lanzhou Handpulled Noodles,37.5676478,-122.3244765,4.6,2.0,368.0,4.83,restaurant|food|point_of_interest|establishment,"11 South B Street, San Mateo",San Mateo
+ChIJ2_leLACfj4ARcIbrTHNN09Y,Taqueria El Tigre,37.5714603,-122.3233293,5.0,,1.0,3.51,restaurant|food|point_of_interest|establishment,"50 North Eldorado Street, San Mateo",San Mateo
+ChIJxR111XCej4ARJQ8p2BIO_NA,Byte Kitchen,37.56707559999999,-122.3248422,5.0,,1.0,3.51,restaurant|food|point_of_interest|establishment,"5 South Ellsworth Avenue, San Mateo",San Mateo
+ChIJswaXkbifj4ARBk__2-6HPTU,Rise Woodfire Pizza & Rotisserie,37.5680359,-122.3241065,4.4,3.0,514.0,4.62,bar|restaurant|food|point_of_interest|establishment,"2 North B Street, San Mateo",San Mateo
+ChIJp03kQ7ydj4AR2pYN31_FjTc,Taqueria Ixpalino Sinaloa,37.5735756,-122.3236944,5.0,,6.0,3.59,restaurant|food|point_of_interest|establishment,"800 Monte Diablo Avenue, San Mateo",San Mateo
+ChIJo7Mrvsefj4ARdKXp3_Yoeo0,MY Dumpling,37.5668209,-122.3241557,4.7,,151.0,4.7,restaurant|food|point_of_interest|establishment,"100 South B Street, San Mateo",San Mateo
+ChIJoRzWonufj4ARgwyltSJXaP4,Kajiken,37.5666911,-122.3239936,4.5,2.0,562.0,4.73,restaurant|food|point_of_interest|establishment,"112 South B Street, San Mateo",San Mateo
+ChIJ2_xn6N-fj4ARhiafxUTWz5Y,Curry Pizza House San Mateo,37.5667635,-122.3236109,4.9,2.0,161.0,5.15,liquor_store|meal_takeaway|store|restaurant|food|point_of_interest|establishment,"135 South B Street, San Mateo",San Mateo
+ChIJ4euZB4efj4ARE0P348sbYyc,Zhangliang Malatang,37.5667431,-122.3233958,4.3,1.0,141.0,4.3,restaurant|food|point_of_interest|establishment,"139 South B Street, San Mateo",San Mateo
+ChIJi3ON7WSfj4ARZKGwlPuBTDo,Koja Kitchen,37.56642619999999,-122.3236403,3.3,2.0,50.0,2.95,restaurant|food|point_of_interest|establishment,"150 South B Street, San Mateo",San Mateo
+ChIJlZciNwCfj4ARoQRaOS3XOQ4,Fish With You 鱼你在一起下饭酸菜鱼,37.5664339,-122.3236324,4.3,2.0,138.0,4.51,restaurant|food|point_of_interest|establishment,"150 South B Street, San Mateo",San Mateo
+ChIJt2p0sJWfj4ARAnNW1EHwWbo,Mountain Mike's Pizza,37.5664,-122.3235727,4.3,2.0,63.0,4.01,meal_delivery|meal_takeaway|restaurant|food|point_of_interest|establishment,"154 South B Street, San Mateo",San Mateo
+ChIJJ359_7Sfj4ARJZnEW4YwpzM,Daeho kalbijjim & beef soup,37.5660399,-122.3238253,4.5,2.0,481.0,4.73,restaurant|food|point_of_interest|establishment,"213 2nd Avenue, San Mateo",San Mateo
+ChIJTWuhuaKdj4ARZTCofuVb3E8,Tacos El Sabor De Mi Pueblo (food truck),37.5783583,-122.3254771,4.6,1.0,24.0,3.55,restaurant|food|point_of_interest|establishment,"448 North Humboldt Street, San Mateo",San Mateo
+ChIJ6zi6hsadj4ARXuUri5vx2A0,Par 3 and Villa Vista at Poplar Creek,37.58665029999999,-122.3252121,4.5,3.0,353.0,4.73,restaurant|food|point_of_interest|establishment,"1700 Coyote Point Drive, San Mateo",San Mateo
+ChIJQRzbpVqej4ARlQ1GvYX4fAs,Cafe 2k,37.544614,-122.3213032,4.6,1.0,23.0,3.54,cafe|restaurant|food|point_of_interest|establishment,"2000 Alameda de las Pulgas, San Mateo",San Mateo
+ChIJc3R6j16ej4ARSX5Uq0eROqI,All Spice,37.5528778,-122.3156444,4.7,4.0,346.0,4.79,restaurant|food|point_of_interest|establishment,"1602 South El Camino Real, San Mateo",San Mateo
+ChIJeQrn3l2ej4AREPcVZgheeOk,McDonald's,37.5539469,-122.3163956,3.8,1.0,1561.0,3.8,cafe|store|restaurant|food|point_of_interest|establishment,"1420 El Camino Real, San Mateo",San Mateo
+ChIJAVwgd16ej4ARkmcr_le3cKU,Mr Pickle's Sandwich Shop,37.5537631,-122.3162092,4.1,1.0,159.0,4.1,store|restaurant|food|point_of_interest|establishment,"1432 El Camino Real, San Mateo",San Mateo
+ChIJkbgjNQCfj4ARz-TbgafEZOI,Taste and Glory,37.55572360000001,-122.3182586,4.5,2.0,165.0,4.73,restaurant|food|point_of_interest|establishment,"1208 South El Camino Real, San Mateo",San Mateo
+ChIJu9fnfEGfj4AReN6R333JaPA,La Casa de Los Huevos,37.555591,-122.3180814,4.6,2.0,125.0,4.83,restaurant|food|point_of_interest|establishment,"1214 South El Camino Real, San Mateo",San Mateo
+ChIJ-wp0Z2eej4ARc_LvawPcMHg,Truffle Poké Bar,37.5552602,-122.3177616,4.3,2.0,413.0,4.51,restaurant|food|point_of_interest|establishment,"1234 South El Camino Real, San Mateo",San Mateo
+ChIJK0lqulCfj4ARSUuGMqbxZHE,Mariscos el pariente #2,37.55810870000001,-122.3216293,4.9,,9.0,3.56,restaurant|food|point_of_interest|establishment,"908 South El Camino Real, San Mateo",San Mateo
+ChIJRex2iSmfj4ARL7p5mMxjlbA,Monchi's Red Tacos,37.55466009999999,-122.3171807,4.2,,16.0,3.14,restaurant|food|point_of_interest|establishment,"1300 South El Camino Real, San Mateo",San Mateo
+ChIJgWEBd16ej4ARwB83tMxbRYQ,Charm Thai Eatery,37.5538694,-122.3161694,4.4,2.0,472.0,4.62,restaurant|food|point_of_interest|establishment,"1428 South El Camino Real, San Mateo",San Mateo
+ChIJqfWFNp-fj4AR0Ba2ssfGdFI,Skyfall American Cuisine,37.5537809,-122.3160814,,,,,restaurant|food|point_of_interest|establishment,"1502 South El Camino Real, San Mateo",San Mateo
+ChIJo0jyGB-fj4ARcu4tnBtr6Js,Sushilito Boy,37.55313900000001,-122.3154685,,,,,restaurant|food|point_of_interest|establishment,"1600 South El Camino Real, San Mateo",San Mateo
+ChIJHQ-1AmWej4AR1QryXVCTOi8,Espetus San Mateo,37.56229860000001,-122.3192993,4.6,4.0,2512.0,4.69,bar|restaurant|food|point_of_interest|establishment,"710 South B Street, San Mateo",San Mateo
+ChIJe_K0-WSej4ARodOC4dXyLbI,Ramen Dojo,37.5621775,-122.318578,4.4,2.0,1304.0,4.62,restaurant|food|point_of_interest|establishment,"805 South B Street, San Mateo",San Mateo
+ChIJ7-Nx72Sej4ARlS3NrCI6zZI,Sibby's Cupcakery,37.562836,-122.318554,4.7,,129.0,4.7,bakery|home_goods_store|meal_takeaway|store|restaurant|food|point_of_interest|establishment,"716 South Railroad Avenue, San Mateo",San Mateo
+ChIJfRMInHqej4AR-4NtZnaL4q0,Pancho Villa Taqueria,37.56498390000001,-122.32166,4.2,1.0,2093.0,4.2,meal_delivery|restaurant|food|point_of_interest|establishment,"365 South B Street, San Mateo",San Mateo
+ChIJp5jfy3qej4ARVlOWBNuy_eg,Ravioli House,37.56410880000001,-122.3204674,4.7,2.0,380.0,4.94,store|restaurant|food|point_of_interest|establishment,"505 South B Street, San Mateo",San Mateo
+ChIJ-wRqZmSej4ARSNYRjsH5aEc,Ramen Parlor,37.56177020000001,-122.3176162,4.4,2.0,875.0,4.62,restaurant|food|point_of_interest|establishment,"901 South B Street, San Mateo",San Mateo
+ChIJrYr2l3qej4AR_RjxY_WLHlg,Tomatina,37.5647325,-122.3213106,4.2,2.0,547.0,4.41,restaurant|food|point_of_interest|store|establishment,"401 South B Street, San Mateo",San Mateo
+ChIJIyz_kHqej4AR7iP5Z0yDksM,Sushi Yoshizumi,37.5651899,-122.3212369,4.8,4.0,250.0,4.9,restaurant|food|point_of_interest|establishment,"325 East 4th Avenue, San Mateo",San Mateo
+ChIJzxQm-2Sej4ARd4DGD1s_-YI,Charlie's Taqueria,37.5624087,-122.3187689,4.5,1.0,554.0,4.5,restaurant|food|point_of_interest|establishment,"725 South B Street, San Mateo",San Mateo
+ChIJJUdl6f6fj4AR4IHK3vp6U6k,Tang Bar San Mateo,37.562983,-122.3237478,4.2,2.0,152.0,4.41,restaurant|food|point_of_interest|establishment,"62 East 4th Avenue, San Mateo",San Mateo
+ChIJmQba6BWfj4ARsGyybmBYOxA,Taishoken Ramen,37.5633138,-122.3241043,4.5,2.0,1213.0,4.73,restaurant|food|point_of_interest|establishment,"47 East 4th Avenue, San Mateo",San Mateo
+ChIJr7UjFGOfj4AR61GzS550UU4,Superstar Dim Sum & Seafood Restaurant,37.5632484,-122.3232186,3.8,2.0,29.0,3.14,restaurant|food|point_of_interest|establishment,"88 East 4th Avenue, San Mateo",San Mateo
+ChIJI8hXPHCej4ARmURyGovdOmk,Kaz Teriyaki Grill,37.5635279,-122.3236454,4.4,,345.0,4.4,meal_takeaway|restaurant|food|point_of_interest|establishment,"71 East 4th Avenue, San Mateo",San Mateo
+ChIJf3TeNXqej4ARHSJlhq8OcMw,Little Caesars Pizza,37.56756599999999,-122.319624,3.7,1.0,320.0,3.7,meal_delivery|meal_takeaway|restaurant|food|point_of_interest|establishment,"615 East 3rd Avenue, San Mateo",San Mateo
+ChIJi1zXD3qej4ARz_SZHSId8Zc,Kokko,37.5677306,-122.3214944,4.5,2.0,623.0,4.73,restaurant|food|point_of_interest|establishment,"509 2nd Avenue, San Mateo",San Mateo
+ChIJI9eeaXqej4ARVJcDscRCXtI,Takahashi Market,37.5670239,-122.3207761,4.7,,794.0,4.7,grocery_or_supermarket|restaurant|food|point_of_interest|store|establishment,"221 South Claremont Street, San Mateo",San Mateo
+ChIJr8PZQ3qej4AR6vAxzA92KEY,Jack in the Box,37.5670879,-122.3205288,3.5,1.0,1182.0,3.5,meal_delivery|restaurant|food|point_of_interest|establishment,"555 East 3rd Avenue, San Mateo",San Mateo
+ChIJeWdT-3qej4ARnKss-7xSdK0,Taco Bell,37.56582219999999,-122.3196687,4.0,1.0,587.0,4.0,meal_takeaway|restaurant|food|point_of_interest|establishment,"500 East 4th Avenue, San Mateo",San Mateo
+ChIJY2e9Znqej4ARyqMxMoKLZvI,Saigon City Restaurant,37.566384,-122.320984,4.3,1.0,403.0,4.3,restaurant|food|point_of_interest|establishment,"418 East 3rd Avenue, San Mateo",San Mateo
+ChIJ99ikTXqej4ARGoh_VO6JCWY,7-Eleven,37.5669516,-122.3194765,2.3,1.0,41.0,1.89,convenience_store|cafe|liquor_store|restaurant|food|point_of_interest|store|establishment,"600 East 3rd Avenue, San Mateo",San Mateo
+ChIJY2V3mXqej4AR-nm6ZMkV3XM,Izakaya Ginji,37.56493889999999,-122.3215667,4.4,2.0,596.0,4.62,bar|restaurant|food|point_of_interest|establishment,"301 East 4th Avenue E, San Mateo",San Mateo
+ChIJcwqGotCdj4ARb4F6T3SC9L8,330 Bistro Bar & Grill,37.5789512,-122.3215359,3.0,,29.0,2.36,bar|restaurant|food|point_of_interest|establishment,"330 North Bayshore Boulevard, San Mateo",San Mateo
+ChIJQbNcA9adj4ARmcSDBfrEoOU,El Palenque Taqueria,37.5746444,-122.3169944,4.5,1.0,635.0,4.5,restaurant|food|point_of_interest|establishment,"15 North Kingston Street, San Mateo",San Mateo
+ChIJ3SH8Znqej4ARUMkudLM5pJE,Fuji Sukiyaki,37.566401,-122.320825,4.3,2.0,405.0,4.51,restaurant|food|point_of_interest|establishment,"428 East 3rd Avenue, San Mateo",San Mateo
+ChIJE-U74-Ofj4ARcdJ5z6TZJGE,EL QUETZAL (COMIDA GUATEMALTECA),37.5763576,-122.3207829,3.9,,15.0,2.91,restaurant|food|point_of_interest|establishment,"211 North Amphlett Boulevard, San Mateo",San Mateo
+ChIJlX9G8yF3j4AR_pSVnsp4H30,Taquizas Taco Truck,37.5761146,-122.3205393,4.0,,4.0,2.85,restaurant|food|point_of_interest|establishment,"201 North Amphlett Boulevard, San Mateo",San Mateo
+ChIJxyjrMZadj4AR6-EYjcTmpBs,Mariscos El Ajoyano,37.57471170000001,-122.3169886,4.0,2.0,34.0,3.37,restaurant|food|point_of_interest|establishment,"19 North Kingston Street, San Mateo",San Mateo
+ChIJkYUIAtadj4ARkgmjqEpxzvk,Primas Market,37.5744792,-122.3168666,4.3,,9.0,3.13,supermarket|grocery_or_supermarket|restaurant|food|point_of_interest|store|establishment,"3A North Kingston Street, San Mateo",San Mateo
+ChIJizmDgi-fj4ARUFmM9f_j4ko,Mariscos Y Taqueria Ixpalino Sinaloa,37.5745114,-122.3167765,4.4,,87.0,4.23,restaurant|food|point_of_interest|establishment,"3a North Kingston Street, San Mateo",San Mateo
+ChIJvcCxDgCdj4ARLOahu9rttOM,Grand Harbor Restuarant,37.5838588,-122.3168636,,,,,restaurant|food|point_of_interest|establishment,"1429 Old Bayshore Highway, Burlingame",San Mateo
+ChIJC9ir5_eej4ARSXbY44ty6Po,Heidi's Pies Restaurant,37.54899169999999,-122.3102553,4.2,1.0,1695.0,4.2,cafe|restaurant|food|point_of_interest|establishment,"1941 South El Camino Real, San Mateo",San Mateo
+ChIJ2VGpcliej4ARL6SrI46lA4I,Santa Ramen,37.5487118,-122.3114518,4.3,1.0,683.0,4.3,restaurant|food|point_of_interest|establishment,"1944 South El Camino Real, San Mateo",San Mateo
+ChIJg1CHCViej4ARakPttIGBCi8,Seapot,37.54853190000001,-122.3108829,4.3,2.0,865.0,4.51,restaurant|food|point_of_interest|establishment,"1952 South El Camino Real, San Mateo",San Mateo
+ChIJL3smLP-ej4ARgQN_9BVPdJc,Fortune Star | Chinese Restaurant (#1 Mandarin Style),37.5433296,-122.3084696,4.0,2.0,89.0,4.06,restaurant|food|point_of_interest|establishment,"173 West 25th Avenue, San Mateo",San Mateo
+ChIJVWjBMv-ej4ARSMCgAcSHQ0E,La Lanterna Ristorante,37.5434922,-122.3087981,4.4,2.0,276.0,4.62,restaurant|food|point_of_interest|establishment,"180 West 25th Avenue, San Mateo",San Mateo
+ChIJCzbe2Viej4ARxdm0aQzctUo,Jack's Restaurant & Bar,37.5510775,-122.3134434,4.4,2.0,2076.0,4.62,restaurant|food|point_of_interest|establishment,"1750 South El Camino Real, San Mateo",San Mateo
+ChIJYfk37veej4AR_Y__HVrKHFU,Taco Bell,37.5485958,-122.3097642,4.0,1.0,904.0,4.0,meal_takeaway|restaurant|food|point_of_interest|establishment,"1975 South El Camino Real, San Mateo",San Mateo
+ChIJIe6VLP-ej4ARL27Gwj9FFGc,The Noodle Shop,37.5436252,-122.308418,4.3,1.0,289.0,4.3,restaurant|food|point_of_interest|establishment,"164 West 25th Avenue, San Mateo",San Mateo
+ChIJTV5S5-Ofj4ARcKTVvNe9Z7E,Curry & Kabab - San Mateo,37.5493592,-122.3105966,4.3,2.0,445.0,4.51,meal_takeaway|meal_delivery|restaurant|food|point_of_interest|establishment,"1923 South El Camino Real, San Mateo",San Mateo
+ChIJtVBa0viej4ARVQZlZFwYlQI,PJ's Pizza Co.,37.5435826,-122.3084494,4.7,2.0,256.0,4.94,restaurant|food|point_of_interest|establishment,"168 West 25th Avenue, San Mateo",San Mateo
+ChIJfZwk1GCfj4ARGTJ1yrjaMq8,Chai Yo Thai Cuisine,37.5472306,-122.3090022,4.6,,110.0,4.6,restaurant|food|point_of_interest|establishment,"2116 South El Camino Real, San Mateo",San Mateo
+ChIJIZkmW1efj4ARGs8mWdao6n8,MB's Place,37.55225890000001,-122.3146568,5.0,2.0,1.0,3.69,restaurant|food|point_of_interest|establishment,"21 Borel Avenue, San Mateo",San Mateo
+ChIJMf6g2V6ej4AR3_TVlwUfy-A,Starbucks,37.552243,-122.31386,4.0,2.0,335.0,4.2,cafe|restaurant|food|point_of_interest|store|establishment,"1701 South El Camino Real, San Mateo",San Mateo
+ChIJHwExAV-ej4ARTtO8nKuvAy8,El Sinaloense Mexican Restaurant,37.55373069999999,-122.3133779,4.3,2.0,788.0,4.51,bar|restaurant|food|point_of_interest|establishment,"1622 Palm Avenue, San Mateo",San Mateo
+ChIJx04Wg1-ej4ARhIxqOdSsqVw,Nob Hill Pizza and Popcorn,37.554888,-122.3116156,5.0,,4.0,3.56,restaurant|food|point_of_interest|establishment,"155 South Boulevard, San Mateo",San Mateo
+ChIJtexa8l6ej4AREIXNZySKm5g,Camila's Tacos (Food Truck),37.55306169999999,-122.3147892,4.6,,49.0,3.9,restaurant|food|point_of_interest|establishment,"1601 South El Camino Real, San Mateo",San Mateo
+ChIJ06nLGwCfj4AR-MnK7x2Gt7s,The Burger,37.5540042,-122.3154649,5.0,1.0,50.0,4.25,restaurant|food|point_of_interest|establishment,"1501 South El Camino Real, San Mateo",San Mateo
+ChIJD9Xrd5afj4ARihG07ICbWn0,ZENSHI Handcrafted Sushi,37.553107,-122.313716,,,,,restaurant|meal_takeaway|food|point_of_interest|establishment,"1655 El Camino Real, San Mateo",San Mateo
+ChIJzz8qMdufj4ARgm3yJ0jB-14,SSB Kitchen,37.5540415,-122.312821,,,,,restaurant|food|point_of_interest|establishment,"109 South Boulevard, San Mateo",San Mateo
+ChIJkdufYMqfj4ARRzWEPAMY5T8,Noma Sushi,37.5546691,-122.310951,4.4,2.0,150.0,4.62,restaurant|food|point_of_interest|establishment,"152 South Boulevard, San Mateo",San Mateo
+ChIJ-7aII_iej4ARV_TT46jMcrQ,Daiki Sushi,37.5477929,-122.30893,4.0,2.0,398.0,4.2,restaurant|food|point_of_interest|establishment,"2075 South El Camino Real, San Mateo",San Mateo
+ChIJP7SzgWOej4ARm8ksqOCHTCw,Golden 9th Deli & Market,37.5626473,-122.3162735,4.5,1.0,63.0,4.0,restaurant|food|point_of_interest|store|establishment,"500 9th Avenue, San Mateo",San Mateo
+ChIJL62tToeej4ARGIeXV2uPqBs,Subway,37.5710062,-122.310255,3.3,1.0,91.0,3.21,meal_takeaway|restaurant|food|point_of_interest|establishment,"530 South Norfolk Street, San Mateo",San Mateo
+ChIJy-fcrYCej4ARYkqWqiQ_Sxc,Tabla Indian Restaurant - San Mateo,37.5715569,-122.3107186,4.1,2.0,974.0,4.3,restaurant|food|point_of_interest|establishment,"450 South Norfolk Street, San Mateo",San Mateo
+ChIJwRwXQIeej4ARW7apZkKr0vg,Maria's Restaurant,37.5707498,-122.3094834,4.1,,363.0,4.1,restaurant|food|point_of_interest|establishment,"1452 Cary Avenue, San Mateo",San Mateo
+ChIJoQ1NTYeej4ARiwuJUtApyNk,Round Table Pizza,37.5716089,-122.3109077,4.1,2.0,130.0,4.3,meal_takeaway|meal_delivery|restaurant|food|point_of_interest|establishment,"430 South Norfolk Street, San Mateo",San Mateo
+ChIJ96g6P4eej4ARKIor0cbehBU,Aldo's Pizza,37.5709114,-122.3092081,4.4,2.0,244.0,4.62,meal_delivery|restaurant|food|point_of_interest|establishment,"600 South Norfolk Street, San Mateo",San Mateo
+ChIJrzidLPmej4ARioxd87uGxKk,Tannourine Restaurant,37.54384359999999,-122.3074614,4.4,2.0,319.0,4.62,restaurant|food|point_of_interest|establishment,"120 West 25th Avenue, San Mateo",San Mateo
+ChIJ1abXTPmej4ARcbHKZmE-yaI,Cobani Gyro & Kebab,37.5442923,-122.306095,4.4,2.0,947.0,4.62,restaurant|food|point_of_interest|establishment,"8 West 25th Avenue, San Mateo",San Mateo
+ChIJHVNe1fiej4ARCCA1SWQivTw,Kobeya,37.5437365,-122.3078976,4.4,1.0,161.0,4.4,restaurant|food|point_of_interest|establishment,"140 West 25th Avenue, San Mateo",San Mateo
+ChIJLZhr0v6ej4ARAP-hT1EdtdY,LUCETI'S on 25th,37.54362939999999,-122.3072381,4.3,2.0,233.0,4.51,restaurant|food|point_of_interest|establishment,"109 West 25th Avenue, San Mateo",San Mateo
+ChIJufORWYCfj4ARWtwBIoWzmAg,Del Oro Taqueria Mexican Grill,37.5435056,-122.3077137,4.1,2.0,81.0,4.06,restaurant|food|point_of_interest|establishment,"127 West 25th Avenue, San Mateo",San Mateo
+ChIJ3VUJ3tKfj4ARIKA9t6cIdzE,小香牛骨米粉Hunan Mifen San Mateo,37.5434577,-122.3076048,4.4,2.0,76.0,4.29,restaurant|food|point_of_interest|establishment,"123 West 25th Avenue, San Mateo",San Mateo
+ChIJT1h6HgCfj4ARgnzghvthQ78,李面请 大碗刀削面 Li's Knife Cut Noodle,37.54355090000001,-122.3076066,4.7,,42.0,3.88,restaurant|food|point_of_interest|establishment,"121 West 25th Avenue, San Mateo",San Mateo
+ChIJe1hpqKGfj4ARWBFCgo71nII,人间烟火小酒馆（Dynasty BBQ),37.5436791,-122.3071561,4.6,2.0,367.0,4.83,restaurant|food|point_of_interest|establishment,"105 West 25th Avenue, San Mateo",San Mateo
+ChIJKZz8LPmej4ARBbVMIQuCtnk,Furagu Sushi,37.54388240000001,-122.307341,4.4,2.0,170.0,4.62,restaurant|food|point_of_interest|establishment,"116 West 25th Avenue, San Mateo",San Mateo
+ChIJhVAUTsyfj4ARDeeBUOsZ2JQ,Prime BBQ,37.5437503,-122.3065682,4.8,2.0,1365.0,5.04,restaurant|food|point_of_interest|establishment,"33 West 25th Avenue, San Mateo",San Mateo
+ChIJP3N8lZufj4AR8UMuiSn9ZpA,Pressed Juicery,37.53864429999999,-122.302141,3.6,2.0,27.0,2.95,restaurant|food|point_of_interest|health|store|establishment,"44 West Sailer Drive Space KO2A, San Mateo",San Mateo
+ChIJ07ZqjBWfj4ARvQvro39bpdI,The Refuge (San Mateo),37.5379766,-122.3019319,4.5,2.0,370.0,4.73,meal_delivery|bar|restaurant|food|point_of_interest|store|establishment,"66 31st Avenue, San Mateo",San Mateo
+ChIJN3f1GkCfj4ARUaKFCbughQQ,Jayli’s Cocina,37.54155799999999,-122.3031779,4.7,1.0,52.0,4.02,restaurant|food|point_of_interest|establishment,"28th Ave, South El Camino Real, San Mateo",San Mateo
+ChIJaftroqafj4ARP2AjcD1UhoQ,Palette Tea Garden & Dim Sum 彩苑,37.5386697,-122.3018257,4.0,2.0,1161.0,4.2,restaurant|food|point_of_interest|establishment,"48 Hillsdale Mall, San Mateo",San Mateo
+ChIJT-x_Pbyfj4ARWOx5qh3aANw,Sapporo Rock & Roll Sushi,37.5444223,-122.3060196,4.6,,337.0,4.6,restaurant|food|point_of_interest|establishment,"2456 South El Camino Real, San Mateo",San Mateo
+ChIJkwaiUvmej4ARclO6_O7RvpY,Chef Zhao Bistro,37.5445109,-122.3060999,4.1,2.0,295.0,4.3,restaurant|food|point_of_interest|establishment,"2450 South El Camino Real, San Mateo",San Mateo
+ChIJq94M2I6fj4AR-K0QJJZ0SwU,KURO-OBI by IPPUDO,37.5382867,-122.3016897,3.3,2.0,134.0,3.46,restaurant|food|point_of_interest|establishment,"Hillsdale Shopping Center Zone H (Upper Level, 60 East 31st Avenue, San Mateo",San Mateo
+ChIJPwJWe3Cej4AR2tUwdkF4nL8,Sushi Edomata,37.5449107,-122.3047612,4.6,3.0,969.0,4.83,restaurant|food|point_of_interest|establishment,"38 East 25th Avenue, San Mateo",San Mateo
+ChIJ_Winrv2ej4AR2Rr3gBdksFg,Subway,37.5426589,-122.3028114,4.0,1.0,133.0,4.0,meal_takeaway|restaurant|food|point_of_interest|establishment,"2727 South El Camino Real Suite C, San Mateo",San Mateo
+ChIJgbqC-_uej4AR9hgwImYJcIc,The Swingin' Door,37.545086,-122.3045991,4.3,1.0,863.0,4.3,bar|night_club|restaurant|food|point_of_interest|establishment,"106 East 25th Avenue, San Mateo",San Mateo
+ChIJJzUYqv6ej4ARdP1wPGk7IUA,Oceanic Restaurant,37.54432930000001,-122.3051831,4.2,2.0,160.0,4.41,meal_delivery|restaurant|food|point_of_interest|establishment,"2507 South El Camino Real, San Mateo",San Mateo
+ChIJ3yb8APmej4ARLbgxXT1Iis8,Pho Element,37.5460099,-122.3077309,4.4,1.0,909.0,4.4,restaurant|food|point_of_interest|establishment,"2216 South El Camino Real, San Mateo",San Mateo
+ChIJYYxHV_mej4ARPMAgsqWIHoQ,Little Shanghai Restaurant,37.5449941,-122.3053605,4.2,1.0,584.0,4.2,restaurant|food|point_of_interest|establishment,"17 East 25th Avenue, San Mateo",San Mateo
+ChIJJZ-QAPmej4ARs-KLOLdk_-M,Seniore's Pizza,37.5460941,-122.307817,4.3,2.0,256.0,4.51,meal_takeaway|restaurant|food|point_of_interest|establishment,"2210 South El Camino Real, San Mateo",San Mateo
+ChIJ14-fBvmej4ARrGESAkmSw-I,Silver House,37.54591749999999,-122.3076096,4.1,2.0,281.0,4.3,restaurant|food|point_of_interest|establishment,"2224 South El Camino Real, San Mateo",San Mateo
+ChIJkS2XdP2ej4AR7aAFdP5cDcM,Burger King,37.5418711,-122.3020135,3.8,1.0,784.0,3.8,restaurant|food|point_of_interest|establishment,"2817 South El Camino Real, San Mateo",San Mateo
+ChIJ7e-JFfmej4AROyDsovvnp_U,La Fonda de San Mateo,37.545231,-122.306842,4.4,2.0,266.0,4.62,restaurant|food|point_of_interest|establishment,"2310 South El Camino Real, San Mateo",San Mateo
+ChIJveGSE_mej4ARI3Np6OdTKcg,Silver Lake Seafood Restaurant,37.5456995,-122.3066989,4.4,1.0,186.0,4.4,restaurant|food|point_of_interest|establishment,"2291 South El Camino Real, San Mateo",San Mateo
+ChIJx5v3UiCfj4AR5nLeVzTzZXI,Dosa Box,37.5477207,-122.3083157,5.0,,4.0,3.56,restaurant|food|point_of_interest|establishment,"66 21st Avenue, San Mateo",San Mateo
+ChIJbaKmySifj4ARz3VXd1tWphY,Morning Cafe,37.5477207,-122.3083157,5.0,,11.0,3.67,restaurant|food|point_of_interest|establishment,"66 21st Avenue, San Mateo",San Mateo
+ChIJl3GG6Lyfj4ARm0BRMW1ZRas,Village Sandwich,37.5477207,-122.3083157,4.3,,6.0,3.09,restaurant|food|point_of_interest|establishment,"66 21st Avenue k15, San Mateo",San Mateo
+ChIJDydqE5Cfj4ARpj4isq4NcJo,XENiA Mediterranean Kitchen,37.5477207,-122.3083157,3.2,2.0,5.0,2.4,restaurant|food|point_of_interest|establishment,"66 21st Avenue, San Mateo",San Mateo
+ChIJ91G1hYGfj4ARq9cpilAzffw,Bibimmate,37.5477207,-122.3083157,4.8,,9.0,3.49,restaurant|food|point_of_interest|establishment,"66 21st Avenue, San Mateo",San Mateo
+ChIJAVykI5-fj4ARNjVQ0dcBgH4,Wukong Express,37.5477207,-122.3083157,5.0,1.0,8.0,3.62,restaurant|food|point_of_interest|establishment,"66 21st Avenue, San Mateo",San Mateo
+ChIJUaM_glufj4ARj-lKjbX5WjU,Wings To Go San Mateo,37.5477207,-122.3083157,,,,,restaurant|food|point_of_interest|establishment,"66 21st Avenue, San Mateo",San Mateo
+ChIJiZQybSCfj4ARUQYiq9JS-yE,Palmita,37.5477207,-122.3083157,4.8,,12.0,3.53,meal_delivery|restaurant|food|point_of_interest|establishment,"66 21st Avenue, San Mateo",San Mateo
+ChIJM4bVPCCfj4ARuWhne1x88Ok,Big Daddy's Hawaiian BBQ (San Mateo),37.5477207,-122.3083157,4.1,1.0,34.0,3.29,restaurant|food|point_of_interest|establishment,"66 21st Avenue, San Mateo",San Mateo
+ChIJhbZZu16fj4ARiLShPmLv89A,Serene Light Kitchen,37.5477207,-122.3083157,5.0,2.0,1.0,3.69,restaurant|food|point_of_interest|establishment,"66 21st Avenue, San Mateo",San Mateo
+ChIJZflyZxKfj4ARdolOkRYVAlw,The Backhouse,37.5477207,-122.3083157,4.8,,16.0,3.59,restaurant|food|point_of_interest|establishment,"66 21st Avenue, San Mateo",San Mateo
+ChIJlXnPSM2fj4ARURqKnm2MieY,Umami Express,37.5477207,-122.3083157,3.5,2.0,8.0,2.66,meal_delivery|restaurant|food|point_of_interest|establishment,"66 21st Avenue, San Mateo",San Mateo
+ChIJjbclDl2fj4ARJM5RW_eIb_E,Dippd donuts,37.5477207,-122.3083157,5.0,,3.0,3.54,restaurant|food|point_of_interest|establishment,"66 21st Avenue, San Mateo",San Mateo
+ChIJN9ugXvefj4AR0V_Cg_q2o6o,HOM Korean Kitchen,37.5477207,-122.3083157,5.0,2.0,1.0,3.69,restaurant|food|point_of_interest|establishment,"66 21st Avenue, San Mateo",San Mateo
+ChIJ0yl849qfj4ARBW-6IyGZpsU,lulubowls (Hawaiian-Inspired Bowls- San Mateo),37.5477207,-122.3083157,3.9,2.0,15.0,3.05,restaurant|food|point_of_interest|establishment,"66 21st Avenue, San Mateo",San Mateo
+ChIJhftVc3Ofj4ARx1r7g4SLa4I,Ben's Fast Food,37.5477207,-122.3083157,4.1,1.0,36.0,3.31,meal_delivery|restaurant|food|point_of_interest|establishment,"66 21st Avenue, San Mateo",San Mateo
+ChIJ_1FZcjWfj4AR_aOo4ejXS1Q,Panela De Barro,37.5477207,-122.3083157,1.0,,1.0,0.7,restaurant|food|point_of_interest|establishment,"66 21st Avenue, San Mateo",San Mateo
+ChIJBXkQpxWfj4ARJhFur0towwE,San Mateo Food Mall,37.5477207,-122.3083157,4.5,,60.0,3.96,restaurant|food|point_of_interest|establishment,"66 21st Avenue, San Mateo",San Mateo
+ChIJjfuGQvKfj4AR8pVedHV87sA,Ramen & Donburi & Curry,37.5477207,-122.3083157,1.0,2.0,1.0,0.74,restaurant|food|point_of_interest|establishment,"66 21st Avenue, San Mateo",San Mateo
+ChIJ0xuuKCOfj4ARsCiMailnXtU,moonbowls (Healthy Korean Bowls- San Mateo),37.5477207,-122.3083157,3.9,2.0,55.0,3.54,restaurant|food|point_of_interest|establishment,"66 21st Avenue, San Mateo",San Mateo
+ChIJw3U02Rifj4ARGSl3CJM0SX0,Sara's Kitchen,37.5477207,-122.3083157,5.0,,9.0,3.63,meal_takeaway|restaurant|food|point_of_interest|establishment,"66 21st Avenue, San Mateo",San Mateo
+ChIJ68EDlvqfj4ARGC2jMqsSWwM,Wings Circle,37.5477207,-122.3083157,4.9,,27.0,3.83,restaurant|meal_takeaway|food|point_of_interest|establishment,"66 21st Avenue, San Mateo",San Mateo
+ChIJ7VEHR9Ofj4AR6AEUKzk2Y38,Cooking Papa San Mateo,37.5477207,-122.3083157,5.0,1.0,25.0,3.87,restaurant|food|point_of_interest|establishment,"66 21st Avenue, San Mateo",San Mateo
+ChIJ--eOAFqfj4ARxm0wIxmzQ-Q,Batea Colombian cuisine,37.5477542,-122.3083229,,,,,restaurant|food|point_of_interest|establishment,"66 21st Avenue, San Mateo",San Mateo
+ChIJ1esUKH2fj4ARhW87pT6IjxY,Spice Junction,37.5455653,-122.3065329,4.2,1.0,29.0,3.31,restaurant|food|point_of_interest|establishment,"2299 South El Camino Real, San Mateo",San Mateo
+ChIJZVLGdNCfj4ARFVjKUqI0GS0,Spices LLC,37.5455653,-122.3065329,,,,,restaurant|food|point_of_interest|establishment,"2299 South El Camino Real, San Mateo",San Mateo
+ChIJJbGJdumfj4ARHqzFGHMnOfs,S El Camino Taqueria,37.54529589999999,-122.3062684,4.7,2.0,34.0,3.96,restaurant|food|point_of_interest|establishment,"2317 South El Camino Real, San Mateo",San Mateo
+ChIJkW6H4Wufj4ARjp0Xecw40QM,Beach Hut Deli,37.5544939,-122.3066124,4.5,2.0,190.0,4.73,restaurant|bar|food|point_of_interest|establishment,"1798 South Delaware Street, San Mateo",San Mateo
+ChIJtbljcgCfj4ARDa74ZABf3tQ,Taquizas Mariscos Y Taqueria Ixpalino Sinaloa,37.55377590000001,-122.3053585,5.0,,6.0,3.59,restaurant|food|point_of_interest|establishment,"South Delaware Street &, Concar Drive, San Mateo",San Mateo
+ChIJUUoh_hmfj4ARhQw2XfMXZQk,Pantry Family Restaurant,37.5532264,-122.3050689,4.2,1.0,714.0,4.2,restaurant|food|point_of_interest|establishment,"1855 South Delaware Street, San Mateo",San Mateo
+ChIJSd1l2POej4ARpB-qWOPYDNw,7-Eleven,37.55471740000001,-122.3031432,3.5,1.0,39.0,2.86,convenience_store|liquor_store|cafe|restaurant|food|point_of_interest|store|establishment,"678 Concar Drive, San Mateo",San Mateo
+ChIJkUR07V2fj4AR7gvfwL9kCVs,Suavecito Birria & Tacos,37.5640882,-122.3073516,4.6,1.0,341.0,4.6,restaurant|food|point_of_interest|establishment,"1100 South Amphlett Boulevard, San Mateo",San Mateo
+ChIJOycVaoeej4AR81z6tkuorXM,America's House,37.57062439999999,-122.3096135,4.0,2.0,365.0,4.2,restaurant|food|point_of_interest|establishment,"1440 Cary Avenue, San Mateo",San Mateo
+ChIJr53DR4eej4ARzRknJcDEGSU,Golden Wok Bistro,37.570842,-122.310058,4.1,1.0,134.0,4.1,restaurant|food|point_of_interest|establishment,"570 South Norfolk Street, San Mateo",San Mateo
+ChIJv8E7TYeej4ARi-YP0JM5La8,Ay Caray Taqueria,37.5713523,-122.3104597,4.0,1.0,118.0,4.0,restaurant|food|point_of_interest|establishment,"478 South Norfolk Street, San Mateo",San Mateo
+ChIJx8O6A4yfj4ARFEU7GNNsjXs,George Lopez Tacos,37.5676765,-122.3112388,2.0,,4.0,1.42,restaurant|food|point_of_interest|establishment,"724 South Amphlett Boulevard, San Mateo",San Mateo
+ChIJO9AWmmGfj4ARqA9ba6ucHsE,BentoSprout,37.56773,-122.3111927,4.7,3.0,17.0,3.71,restaurant|food|point_of_interest|establishment,"724 South Amphlett Boulevard, San Mateo",San Mateo
+ChIJUwAoqHuej4AR_nF_loM446w,Tacos Al Vapor Nueva Italia,37.5666712,-122.3184689,4.3,1.0,255.0,4.3,restaurant|food|point_of_interest|establishment,"602 B East 4th Avenue, San Mateo",San Mateo
+ChIJSQJ_CHuej4ARezc8vH_W3Mc,Al Carbon Pollos a la Brasa,37.566596,-122.31857,4.0,2.0,259.0,4.2,restaurant|food|point_of_interest|establishment,"602 East 4th Avenue C, San Mateo",San Mateo
+ChIJUw8fO22fj4ARwrT7AEyvd1w,Krispy Krunchy Chicken,37.56687439999999,-122.3192245,3.4,1.0,15.0,2.53,restaurant|food|point_of_interest|establishment,"609 East 4th Avenue, San Mateo",San Mateo
+ChIJ9wyeTXqej4ARYxWWs4z7o3s,New Wing Fat Chinese Restaurant,37.5671134,-122.3194072,4.3,,74.0,3.96,restaurant|food|point_of_interest|establishment,"640 East 3rd Avenue, San Mateo",San Mateo
+ChIJSbNQLACfj4ARHwEmIccZF7Y,Comida china,37.5672147,-122.3194234,,,,,restaurant|food|point_of_interest|establishment,"668 East 3rd Avenue, San Mateo",San Mateo
+ChIJQ6_pTHqej4ARsN5gHPirK9Y,Zen Noodle Bar,37.5672573,-122.319404,4.2,1.0,243.0,4.2,restaurant|food|point_of_interest|establishment,"668 East 3rd Avenue, San Mateo",San Mateo
+ChIJy1qOG0mfj4ARoMXfcvc2RQQ,Onigilly - San Mateo,37.5673086,-122.3193939,4.6,2.0,91.0,4.7,restaurant|food|point_of_interest|establishment,"670 East 3rd Avenue, San Mateo",San Mateo
+ChIJjxM6V4eej4ARJx7k-ijXwqs,Chavez Supermarket,37.5712359,-122.3104021,4.1,,960.0,4.1,supermarket|grocery_or_supermarket|bakery|finance|restaurant|food|point_of_interest|store|establishment,"500 South Norfolk Street, San Mateo",San Mateo
+ChIJ-39bhJCfj4ARzNqpvLgUYJo,Shore-Vu Club,37.5708389,-122.3099127,,,,,bar|restaurant|food|point_of_interest|establishment,"596 South Norfolk Street, San Mateo",San Mateo
+ChIJm6Faboyfj4ARX1JwveIgJf4,Hermedia Restaurant,37.5705679,-122.3097024,3.7,,3.0,2.62,restaurant|food|point_of_interest|establishment,"1424 Cary Avenue, San Mateo",San Mateo
+ChIJ14OHaoeej4ARQa1Xvrjqfoo,Harry's Shoreview Deli,37.5706827,-122.3095481,4.1,,20.0,3.12,restaurant|food|point_of_interest|store|establishment,"1446 Cary Avenue, San Mateo",San Mateo
+ChIJQ3nmZgCfj4ARI1GGQvh0jmc,"Tamales ""Oaxaqueños""",37.5718403,-122.3094972,,,,,restaurant|food|point_of_interest|establishment,"501 South Norfolk Street, San Mateo",San Mateo
+ChIJA2-SPwCfj4ARjGXicDBWIiw,Pollo Campesino Food Truck,37.5684889,-122.3186006,,,,,restaurant|food|point_of_interest|establishment,"101 East 3rd Avenue, San Mateo",San Mateo
+ChIJmzr6Snqej4ARKnXwd1B3-lM,Ike's Place,37.56745550000001,-122.3193179,4.6,1.0,466.0,4.6,meal_takeaway|restaurant|food|point_of_interest|establishment,"680 East 3rd Avenue, San Mateo",San Mateo
+ChIJTeZ4mJ2fj4AR61fU165t5F0,Eterna Primavera,37.5676564,-122.3196758,4.5,,8.0,3.26,restaurant|food|point_of_interest|establishment,"615 East 3rd Avenue Suite D, San Mateo",San Mateo
+ChIJcVvclg6jj4ARUhTZvdFIKyk,La Chapina Restaurant,37.5677413,-122.3203125,4.0,2.0,303.0,4.2,restaurant|food|point_of_interest|establishment,"215 South Delaware Street, San Mateo",San Mateo
+ChIJ1dqUT7Kfj4ARJjWhF4JuDFI,Edi's Quesabirrias & Tacos,37.56657649999999,-122.3205504,4.8,1.0,17.0,3.6,restaurant|food|point_of_interest|establishment,"500 East 3rd Avenue, San Mateo",San Mateo
+ChIJAQDMY3qej4AR6lq7DZvwIyQ,KFC,37.56613979999999,-122.3210929,1.0,1.0,1.0,0.7,restaurant|food|point_of_interest|establishment,"406 East 3rd Avenue, San Mateo",San Mateo
+ChIJZVmzny-fj4ARbPQCXM9oYnk,ZENSHI Handcrafted Sushi,37.5122419,-122.2956033,,,,,restaurant|meal_takeaway|food|point_of_interest|establishment,"2100 Ralston Avenue, Belmont",San Mateo
+ChIJWV4bIgOfj4AR8nlVhuFMcT4,Paul Martin's American Grill,37.5383607,-122.3008326,4.0,2.0,898.0,4.2,restaurant|food|point_of_interest|establishment,"101 Hillsdale Shopping Center, San Mateo",San Mateo
+ChIJgyRbEgOfj4AR8ilzv4qcOqA,The Cheesecake Factory,37.5364894,-122.2990469,4.0,2.0,2384.0,4.2,restaurant|bakery|meal_takeaway|food|point_of_interest|store|establishment,"398 Hillsdale Shopping Center, San Mateo",San Mateo
+ChIJdYut3AKfj4ARJXG4MCjaQuc,California Pizza Kitchen,37.5379144,-122.3012126,4.0,2.0,738.0,4.2,meal_takeaway|bar|meal_delivery|restaurant|food|point_of_interest|store|establishment,"100 31st Avenue, San Mateo",San Mateo
+ChIJAzQzRAOfj4ARRVKCVgqgASY,Mrs. Fields,37.5367349,-122.2997466,3.8,2.0,15.0,2.97,bakery|cafe|restaurant|food|point_of_interest|store|establishment,"453 West Sailer Drive, San Mateo",San Mateo
+ChIJY_lmSQOfj4ARPkrCcGFV0QU,Marketplace Café,37.5374271,-122.3013765,4.3,2.0,61.0,3.99,restaurant|food|point_of_interest|establishment,"130 Hillsdale Shopping Center, San Mateo",San Mateo
+ChIJkTQUbxqfj4ARnwE0LebF5Gg,Fernando's Méxican Restaurant,37.53365030000001,-122.2956476,4.3,2.0,441.0,4.51,restaurant|food|point_of_interest|establishment,"63 37th Avenue, San Mateo",San Mateo
+ChIJdYut3AKfj4ARu1CHrOPgZwg,Andersen Bakery,37.53717959999999,-122.3009773,4.2,2.0,243.0,4.41,bakery|cafe|restaurant|food|point_of_interest|store|establishment,"Hillsdale Mall, 198 East Sailer Drive, San Mateo",San Mateo
+ChIJdYut3AKfj4ARfeuU_SD7PVg,Starbucks,37.5376737,-122.3001834,4.0,2.0,553.0,4.2,cafe|restaurant|food|point_of_interest|store|establishment,"157 Hillsdale Mall, San Mateo",San Mateo
+ChIJXdykGfafj4ARCuaIwit3KZ4,YAYOI Hillsdale,37.5366304,-122.299239,4.0,2.0,314.0,4.2,restaurant|food|point_of_interest|establishment,"389 Hillsdale Mall, San Mateo",San Mateo
+ChIJdYut3AKfj4AR3_ezAKyBINg,Wetzel's Pretzels,37.5380646,-122.3012504,3.9,1.0,40.0,3.2,bakery|restaurant|food|point_of_interest|store|establishment,"60 31st Avenue Space #1040, San Mateo",San Mateo
+ChIJoyk2-Gyfj4AR75KHuhEKtt4,Tacos El Grullense C&D,37.53821919999999,-122.3014531,3.4,2.0,82.0,3.38,restaurant|food|point_of_interest|establishment,"60 31st Avenue, San Mateo",San Mateo
+ChIJGWeNXdmfj4ARF0E7Px9I1Ac,Sarku Japan,37.5381943,-122.3013844,2.9,1.0,62.0,2.57,restaurant|food|point_of_interest|establishment,"60 31st Ave Hillsdale Shopping Center, San Mateo",San Mateo
+ChIJma5mbxqfj4ARgg-PlO8L6Cw,Sole Ristorante Italiano,37.5336708,-122.295804,4.6,2.0,367.0,4.83,restaurant|food|point_of_interest|establishment,"69 37th Avenue, San Mateo",San Mateo
+ChIJl9Y9w0Sfj4AR19hlcQzOkUQ,Panda Express,37.538356,-122.3013731,3.1,1.0,100.0,3.1,meal_takeaway|meal_delivery|restaurant|food|point_of_interest|establishment,"74 Hillsdale Mall, San Mateo",San Mateo
+ChIJncNNGV2fj4ARU81wLeAPvrY,Shake Shack Hillsdale,37.5384903,-122.3013795,3.9,2.0,798.0,4.09,meal_takeaway|restaurant|food|point_of_interest|establishment,"33 Hillsdale Shopping Center, San Mateo",San Mateo
+ChIJnTCnsWafj4ARYZHCfRdX8AI,Blue Whale Poke Bar and Grill,37.5386362,-122.3015052,3.7,2.0,121.0,3.89,restaurant|food|point_of_interest|establishment,"70 Hillsdale Shopping Center, San Mateo",San Mateo
+ChIJX3rgaxqfj4ARTDV4zC6uL8c,Yuzu,37.5342006,-122.2955589,4.5,2.0,249.0,4.73,restaurant|food|point_of_interest|establishment,"54 37th Avenue, San Mateo",San Mateo
+ChIJ__3YvAKfj4ARV1pq8xK3ggQ,Jersey Mike's Subs,37.5403822,-122.3008713,4.2,1.0,289.0,4.2,meal_takeaway|restaurant|food|point_of_interest|store|establishment,"2925 South El Camino Real, San Mateo",San Mateo
+ChIJbUWR7Zafj4ARMYECIC0Iey0,Pinstripes,37.5391123,-122.3014859,4.3,2.0,816.0,4.51,restaurant|bowling_alley|bar|food|point_of_interest|establishment,"36 Hillsdale Mall, San Mateo",San Mateo
+ChIJx8042Qafj4ARPEMbdQDvnMM,Mikiya Wagyu Shabu House | San Mateo,37.5389006,-122.3011658,4.6,1.0,89.0,4.45,restaurant|food|point_of_interest|establishment,"68 Hillsdale Mall, San Mateo",San Mateo
+ChIJ1afTrWmfj4ARwm1KRh3G_E0,Cinépolis Luxury Cinemas San Mateo,37.5393591,-122.3010707,4.0,,1008.0,4.0,movie_theater|bar|restaurant|food|point_of_interest|establishment,"Parking lot, 8 Hillsdale Mall, 60 31st Avenue, San Mateo",San Mateo
+ChIJNXD9Wmefj4ARw5k3-lRu9I8,Flores San Mateo,37.5392379,-122.3007421,4.0,2.0,135.0,4.2,restaurant|food|point_of_interest|establishment,"4 Hillsdale Mall, San Mateo",San Mateo
+ChIJQa5tEVyfj4ARPT1f3Fn7yBI,Slices Pizza,37.5410559,-122.2979796,3.9,2.0,51.0,3.49,restaurant|food|point_of_interest|establishment,"3035 South Delaware Street #C, San Mateo",San Mateo
+ChIJmUsD8Puej4ARjrL6z1BUv0I,Bizza (San Mateo),37.5452999,-122.3044137,4.6,2.0,96.0,4.77,restaurant|food|point_of_interest|establishment,"116 East 25th Avenue, San Mateo",San Mateo
+ChIJ_3bHZ_Cej4ARhqJ6zf6UOwY,Dulzura Café,37.5514934,-122.3018415,4.5,,111.0,4.5,bakery|cafe|restaurant|food|point_of_interest|store|establishment,"709 Bermuda Drive, San Mateo",San Mateo
+ChIJ9fPayfufj4ARUa9MNxlDVts,Los Triki Takos Mariscos y Tacos,37.553291,-122.3024425,4.9,1.0,21.0,3.74,restaurant|food|point_of_interest|establishment,"1880 South Grant Street, San Mateo",San Mateo
+ChIJYVjELGSfj4ARdh9CreBa7z4,Village Host Pizza & Grill - Belmont,37.5113718,-122.2935946,4.2,2.0,303.0,4.41,restaurant|food|point_of_interest|establishment,"1017 Alameda de las Pulgas, Belmont",San Mateo
+ChIJiYH4tmafj4ARLq0rUScULKU,Subway,37.5110269,-122.2930325,2.5,1.0,68.0,2.26,meal_takeaway|restaurant|food|point_of_interest|establishment,"1073 Alameda de las Pulgas, Belmont",San Mateo
+ChIJT4wJdyKfj4ARfY7yALUVxk8,Jiro Cafe & Bakery,37.5101876,-122.2937892,4.8,1.0,59.0,4.21,bakery|cafe|restaurant|food|point_of_interest|store|establishment,"1094 Alameda de las Pulgas, Belmont",San Mateo
+ChIJicGBqGafj4AR5pZvrjNvqfs,Gin Mon Chinese Restaurant,37.51083779999999,-122.2930184,4.3,,178.0,4.3,restaurant|food|point_of_interest|establishment,"1079 Alameda de las Pulgas, Belmont",San Mateo
+ChIJc_E4p2afj4AR6zCZ2bV1P4g,Starbucks,37.5110768,-122.293121,4.0,2.0,192.0,4.2,cafe|restaurant|food|point_of_interest|store|establishment,"1071 Alameda de las Pulgas, Belmont",San Mateo
+ChIJYzU5e2afj4ARf3o2-O0IUfg,Vivace Ristorante,37.51263280000001,-122.2930673,4.4,3.0,525.0,4.62,restaurant|food|point_of_interest|establishment,"1910 Ralston Avenue, Belmont",San Mateo
+ChIJh-Tmh2afj4ARmj-JlEdP-9g,Cafe Bliss,37.5121674,-122.2930812,4.5,2.0,191.0,4.73,cafe|restaurant|food|point_of_interest|establishment,"2039 Ralston Avenue, Belmont",San Mateo
+ChIJTWyOeWafj4AR1GCqyNGiqT0,Lorenzo's Sandwich Shop,37.5127458,-122.2934164,4.7,1.0,206.0,4.7,meal_takeaway|restaurant|food|point_of_interest|establishment,"911 Villa Avenue, Belmont",San Mateo
+ChIJ3RIWKGSfj4ARD-Qjdggg7aU,Coyote's Mexican Cafe,37.5116885,-122.293623,4.2,1.0,191.0,4.2,restaurant|food|point_of_interest|establishment,"1003 1/2 Alameda de las Pulgas, Belmont",San Mateo
+ChIJx995siSfj4ARUvrkptK2TDk,Sushi Kuu,37.511622,-122.293839,4.6,2.0,71.0,4.41,restaurant|food|point_of_interest|establishment,"1001 Alameda de las Pulgas, Belmont",San Mateo
+ChIJh6WBQNqfj4ARNcZkArVKcZY,Capo Mediterranean Kitchen,37.5125012,-122.2941415,4.8,2.0,305.0,5.04,restaurant|food|point_of_interest|establishment,"2040 Ralston Avenue, Belmont",San Mateo
+ChIJG1dkCQCfj4ARUqNN2d1m1wU,Amara,37.5117003,-122.2930713,4.6,,64.0,4.1,restaurant|food|point_of_interest|establishment,"1015 Alameda de las Pulgas, Belmont",San Mateo
+ChIJQ_iGyRWfj4ARP6QUoj8Aves,Bel Mateo Bowl,37.5282392,-122.2904835,4.4,,1181.0,4.4,bowling_alley|bar|meal_takeaway|restaurant|food|point_of_interest|establishment,"4330 Olympic Avenue, San Mateo",San Mateo
+ChIJpyQtSRefj4ARys-69XLWhl4,Subway,37.5329643,-122.2934487,3.1,1.0,46.0,2.6,meal_takeaway|restaurant|food|point_of_interest|establishment,"3880 South El Camino Real, San Mateo",San Mateo
+ChIJ7TKz_xmfj4ARtQgGqsBFIBQ,Maverick Jack's San Mateo,37.5321712,-122.2919116,4.5,2.0,1177.0,4.73,restaurant|food|point_of_interest|establishment,"4000 South El Camino Real, San Mateo",San Mateo
+ChIJwdQE_hmfj4ARhnRXauveN9M,Cuban Kitchen,37.5337991,-122.2934504,4.7,2.0,1016.0,4.94,restaurant|food|point_of_interest|establishment,"3799 South El Camino Real, San Mateo",San Mateo
+ChIJ7-dJixWfj4ARtYi2zjHRQyo,Papa Johns Pizza,37.5291886,-122.288336,3.1,1.0,138.0,3.1,restaurant|food|point_of_interest|establishment,"9 43rd Avenue, San Mateo",San Mateo
+ChIJzwMJvxWfj4ARDUm3gCvCTo4,Round Table Pizza,37.528775,-122.289544,4.3,2.0,279.0,4.51,meal_delivery|meal_takeaway|restaurant|food|point_of_interest|establishment,"61 43rd Avenue, San Mateo",San Mateo
+ChIJ7RmhEwCfj4ARNc-STe7KpKs,YAKSI PIZZA,37.5337858,-122.295383,,3.0,,,restaurant|food|point_of_interest|establishment,"33 37th Avenue, San Mateo",San Mateo
+ChIJiax_PhKfj4ARzL3GtanZl9g,Amazonia Acai,37.5337542,-122.2949415,5.0,,3.0,3.54,restaurant|food|point_of_interest|establishment,"26 King Court, San Mateo",San Mateo
+ChIJ26FUmEafj4ARONOzjbN8zg8,Mariscos de Sinaloa (Lupe's food truck from Salinas),37.5338024,-122.293466,5.0,,1.0,3.51,restaurant|food|point_of_interest|establishment,"3799 South El Camino Real, San Mateo",San Mateo
+ChIJKxkjF6Ofj4ARtVLjMzmHer0,Latin Flavor Cuisine Food Truck / Honduras,37.5333901,-122.2929001,5.0,,3.0,3.54,restaurant|food|point_of_interest|establishment,"3825 South El Camino Real, San Mateo",San Mateo
+ChIJ217FsiuLUocR11lZFFoqKZ4,Tokemoana's,37.5320841,-122.2918246,4.6,2.0,156.0,4.83,restaurant|food|point_of_interest|establishment,"4000 South El Camino Real Unit B, San Mateo",San Mateo
+ChIJgwpfriyfj4ARvDFTsH7jZYU,Cheung Hing,37.5301075,-122.290466,3.7,2.0,332.0,3.89,restaurant|food|point_of_interest|establishment,"40 42nd Avenue, San Mateo",San Mateo
+ChIJc8JISACfj4ARpxD6dtUFFf8,Kodawari Japanese Cuisine,37.5301715,-122.2902986,,,,,restaurant|food|point_of_interest|establishment,"32 42nd Avenue, San Mateo",San Mateo
+ChIJUe_zq-Kfj4ARlcEKx1YUpeo,ZENSHI Handcrafted Sushi,37.529227,-122.2899332,,,,,restaurant|meal_takeaway|food|point_of_interest|establishment,"49 42nd Avenue, San Mateo",San Mateo
+ChIJdUQYkhWfj4ARvv8mWDJD5xY,Taquería Los Moreno,37.528971,-122.288851,4.5,1.0,295.0,4.5,restaurant|food|point_of_interest|establishment,"37 43rd Avenue, San Mateo",San Mateo
+ChIJD4nz7OGej4AR1KYksg-xRIo,Starbucks,37.5447142,-122.2928244,4.3,2.0,190.0,4.51,cafe|restaurant|food|point_of_interest|store|establishment,"Jefferson at Bay Meadows, 1391 Saratoga Drive, San Mateo",San Mateo
+ChIJi3qh7OGej4ARkHFqMZ-ZO44,Tastee Grill,37.544691,-122.2926994,4.2,1.0,402.0,4.2,restaurant|food|point_of_interest|establishment,"1001 Park Place, San Mateo",San Mateo
+ChIJ1Y7oOkCfj4AR84UxeQWgh0c,La Ronda Restaurant Peruvian Cuisine,37.54106019999999,-122.2910781,4.7,2.0,144.0,4.94,restaurant|food|point_of_interest|establishment,"224 East Hillsdale Boulevard, San Mateo",San Mateo
+ChIJJV7MDh-fj4ARxfff-DzXBWc,Tacos Peralta,37.54188189999999,-122.2902632,4.1,1.0,112.0,4.1,restaurant|food|point_of_interest|establishment,"342 East Hillsdale Boulevard, San Mateo",San Mateo
+ChIJ48Tcrh-fj4AR-RXL-AcR8GY,Tacos El Grullo Jalisco,37.54224870000001,-122.2903257,,,,,restaurant|food|point_of_interest|establishment,"495-599 East Hillsdale Boulevard, San Mateo",San Mateo
+ChIJ5WcOiEKfj4ARFdIAz60Q_Wc,El sipote food truck,37.5421797,-122.2901768,5.0,,5.0,3.57,restaurant|food|point_of_interest|establishment,"341 East Hillsdale Boulevard, San Mateo",San Mateo
+ChIJxatCXaMHjoARJxDAaxQ8dec,Delizioso Italiano,37.544691,-122.2926994,3.5,2.0,2.0,2.59,restaurant|food|point_of_interest|establishment,"1001 Park Place Unit 1, San Mateo",San Mateo
+ChIJS_9yQ0Gfj4ARKSjZ5mQRK2c,Sabores Latinos,37.544691,-122.2926994,3.6,,14.0,2.67,restaurant|food|point_of_interest|establishment,"1001 Park Place unit 2, San Mateo",San Mateo
+ChIJU3OawOGej4ARUKHj1NBTLTg,Chipotle Mexican Grill,37.5446906,-122.2914827,3.7,1.0,432.0,3.7,restaurant|food|point_of_interest|establishment,"1050 Park Place, San Mateo",San Mateo
+ChIJrVSfz-Gej4ARAl58ICzAWDM,Shiki Japanese Restaurant,37.5445308,-122.2913897,4.0,2.0,138.0,4.2,restaurant|food|point_of_interest|establishment,"1040 Park Place, San Mateo",San Mateo
+ChIJeR-e53ifj4ARE8W3rPwSJfw,San Mateo Pizza,37.54439,-122.291992,5.0,,1.0,3.51,restaurant|food|point_of_interest|establishment,"1010 Park Place, San Mateo",San Mateo
+ChIJOYI5ZGOfj4ARIlNeIha4rSY,Genji Sushi,37.54439,-122.291992,,2.0,,,restaurant|food|point_of_interest|establishment,"1010 Park Place, San Mateo",San Mateo
+ChIJ60m6ibCfj4ARyFBJPGQPGU0,Poke House - San Mateo,37.5446603,-122.2916963,4.0,2.0,79.0,3.94,meal_takeaway|restaurant|food|point_of_interest|establishment,"1030 Park Place, San Mateo",San Mateo
+ChIJGQ9jzuGej4AR3OtzvOFkgzA,Mendocino Farms,37.54472989999999,-122.2914314,4.5,2.0,821.0,4.73,restaurant|food|point_of_interest|establishment,"1060 Park Place, San Mateo",San Mateo
+ChIJ41e3keiej4ARQwNuOXtHWOk,Round Table Pizza,37.5543785,-122.2939806,4.3,2.0,141.0,4.51,meal_delivery|meal_takeaway|restaurant|food|point_of_interest|establishment,"1852 South Norfolk Street, San Mateo",San Mateo
+ChIJ7aaXC2JrMhURA_Vtk2mC82E,La's Cafe,37.5526378,-122.2927186,4.5,,6.0,3.23,cafe|restaurant|food|point_of_interest|store|establishment,"1900 South Norfolk Street # 126, San Mateo",San Mateo
+ChIJtyXnf-iej4ARgH5vz-MDChE,Apple Fritter,37.55364919999999,-122.2908179,4.5,1.0,1780.0,4.5,restaurant|cafe|food|point_of_interest|establishment,"1901 South Norfolk Street, San Mateo",San Mateo
+ChIJC8tYWACfj4ARP4VH0nrL1Uc,La Carreta,37.5559948,-122.2889661,5.0,,20.0,3.8,restaurant|food|point_of_interest|establishment,"1410 Fashion Island Boulevard, San Mateo",San Mateo
+ChIJPVFwnz-fj4ARzKTQU-WDneY,Shalizaar,37.52763940000001,-122.2855469,4.2,2.0,1331.0,4.41,restaurant|food|point_of_interest|establishment,"300 El Camino Real, Belmont",San Mateo
+ChIJdf90g0Cfj4ARsiSPrQ0W17Q,Mountain Mike's Pizza,37.527004,-122.284485,4.0,2.0,332.0,4.2,meal_takeaway|meal_delivery|restaurant|food|point_of_interest|establishment,"390 El Camino Real, Belmont",San Mateo
+ChIJc9G4yj-fj4ARyWUWpPasRuE,Bay Area Boxing,37.5285229,-122.2866689,5.0,,127.0,5.0,gym|restaurant|food|health|point_of_interest|establishment,"210 El Camino Real, Belmont",San Mateo
+ChIJJRmUeRafj4ARQs7iBA7Y80Y,Peking Alley,37.5293993,-122.2879767,4.3,1.0,325.0,4.3,restaurant|food|point_of_interest|establishment,"4300 South El Camino Real, San Mateo",San Mateo
+ChIJwwcwf33tj4ARqZz3zCVCVcE,Hongry Kong,37.5264325,-122.2818584,4.5,2.0,46.0,3.96,restaurant|food|point_of_interest|establishment,"407 Old County Road, Belmont",San Mateo
+ChIJdea70Eafj4ARxRMke6kI2Ac,McDonald's,37.52489,-122.281833,3.7,1.0,931.0,3.7,cafe|restaurant|food|point_of_interest|store|establishment,"522 El Camino Real, Belmont",San Mateo
+ChIJj_rGBD6fj4AR2yxHbCg-99Y,Guadalajara Grill,37.5310685,-122.287394,4.3,1.0,617.0,4.3,restaurant|food|point_of_interest|establishment,"19 Laurie Meadows Drive, San Mateo",San Mateo
+ChIJQ9Z4p4mfj4ARszif035j1cA,Calibur Express,37.5269075,-122.2847944,3.0,,3.0,2.13,restaurant|food|point_of_interest|establishment,"390 El Camino Real Suite E, Belmont",San Mateo
+ChIJ--r7Y9Wfj4ARwo3dSJxZFsY,Good Eats,37.5269199,-122.2847612,4.1,2.0,23.0,3.31,restaurant|food|point_of_interest|establishment,"390 El Camino Real Suite E, Belmont",San Mateo
+ChIJJcorWACfj4ARnoq1ii1Re0A,Victoria's Kitchen,37.5263652,-122.2844138,4.7,2.0,69.0,4.48,restaurant|food|point_of_interest|establishment,"390 El Camino Real ste v, Belmont",San Mateo
+ChIJp02X4T2fj4ARn_wFNB-PWU0,7-Eleven,37.5310342,-122.2873195,3.3,1.0,32.0,2.63,convenience_store|liquor_store|cafe|restaurant|food|point_of_interest|store|establishment,"11 Laurie Meadows Drive, San Mateo",San Mateo
+ChIJr_RGipGfj4ARhmhhx_Txxpw,Town of dumpling,37.5311026,-122.2875853,4.5,1.0,178.0,4.5,restaurant|food|point_of_interest|establishment,"29 Laurie Meadows Drive, San Mateo",San Mateo
+ChIJ7aZnqL2fj4ARHmjeRxyafmE,Buri Buri,37.5264373,-122.2819016,2.7,,3.0,1.91,meal_takeaway|restaurant|food|point_of_interest|establishment,"407 Old County Road, Belmont",San Mateo
+ChIJhx75uxufj4ARGVbAOGn69g4,Miss Subi,37.52646889999999,-122.2818808,4.5,,10.0,3.29,restaurant|food|point_of_interest|establishment,"407 Old County Road, Belmont",San Mateo
+ChIJD8h4EgCfj4AR6oKCcBTpL4o,The Bird x Super Duper,37.5448455,-122.2911532,,,,,restaurant|food|point_of_interest|establishment,"1100 Park Place Bldg. 2 Suite 20, San Mateo",San Mateo
+ChIJOT48RACfj4ARctqvQQ4bVCs,Super Duper Burgers,37.54495319999999,-122.2908103,4.3,1.0,91.0,4.18,restaurant|food|point_of_interest|establishment,"1100 Park Place Building 2 Suite 20, San Mateo",San Mateo
+ChIJszt_iyCfj4AROPCcdeLsXes,Hot Wok Cafe,37.54473979999999,-122.285076,3.9,2.0,136.0,4.09,restaurant|food|point_of_interest|establishment,"2960 South Norfolk Street, San Mateo",San Mateo
+ChIJJ2VXiyCfj4ARjRXqc3nCVhI,Myung Dong Tofu Cabin,37.5447593,-122.2849202,4.3,1.0,397.0,4.3,restaurant|food|point_of_interest|establishment,"2968 South Norfolk Street, San Mateo",San Mateo
+ChIJc_A6giCfj4ARSTgnWgDqLbg,Denny's,37.54545780000001,-122.2853422,3.6,1.0,1306.0,3.6,restaurant|food|point_of_interest|establishment,"2920 South Norfolk Street, San Mateo",San Mateo
+ChIJLZ-FlCCfj4ARa-WeUMsA_kE,Pho Little Saigon,37.5445895,-122.2849922,3.8,1.0,243.0,3.8,restaurant|food|point_of_interest|establishment,"2978 South Norfolk Street, San Mateo",San Mateo
+ChIJsaGAlCCfj4ARS1jRydXqytM,Amigos Grill Cocina Mexicana,37.54470489999999,-122.2848309,4.1,1.0,224.0,4.1,restaurant|food|point_of_interest|establishment,"2974 South Norfolk Street, San Mateo",San Mateo
+ChIJQZA9hHifj4ARJmulQVDKR5k,Shugetsu,37.5450641,-122.2853184,4.2,2.0,176.0,4.41,restaurant|food|point_of_interest|establishment,"2944 South Norfolk Street, San Mateo",San Mateo
+ChIJt7a7Ow6fj4AR-POfdZpZVZw,留湘小聚店 Ping‘s Bistro | San Mateo,37.54490139999999,-122.2852701,4.1,2.0,133.0,4.3,restaurant|food|point_of_interest|establishment,"2946 South Norfolk Street, San Mateo",San Mateo
+ChIJ0Q0SS3Sfj4ARi-w_Fpqe0vo,The Burger Den,37.54549889999999,-122.2853038,1.0,2.0,4.0,0.75,restaurant|food|point_of_interest|establishment,"2920 South Norfolk Street, San Mateo",San Mateo
+ChIJjwe1iSCfj4ARGzwn_xd1I9M,Inshou Cafe,37.5451098,-122.28514,4.1,2.0,340.0,4.3,restaurant|food|point_of_interest|establishment,"2942 South Norfolk Street, San Mateo",San Mateo
+ChIJoShLt8Sfj4ARs7XSoeedP98,Lobster Chef,37.5450625,-122.2850589,4.5,2.0,30.0,3.73,restaurant|food|point_of_interest|store|establishment,"2948 South Norfolk Street, San Mateo",San Mateo
+ChIJSXBk33Gfj4AR12zqfCgB9L8,Antojitos Salvadorenos El Torogoz,37.5439832,-122.2843987,4.8,,12.0,3.53,restaurant|food|point_of_interest|establishment,"2992 East Hillsdale Boulevard, San Mateo",San Mateo
+ChIJQSnpNTifj4AR7oo-rIfdAvU,Comida Chapina (Food Truck),37.5452804,-122.2844175,4.3,,6.0,3.09,restaurant|food|point_of_interest|establishment,"S Norfolk St &, East Hillsdale Boulevard, San Mateo",San Mateo
+ChIJOycOZACfj4ARmUbln-ELdJs,Los Carnalitos (Taco Truck),37.54605610000001,-122.2845797,4.6,1.0,8.0,3.33,restaurant|food|point_of_interest|establishment,"2901 South Norfolk Street, San Mateo",San Mateo
+ChIJ0zXSo5afj4ARa-oYUC8sSgI,Pupusería La Casita,37.5450237,-122.2841181,5.0,1.0,20.0,3.8,restaurant|food|point_of_interest|establishment,"2996 South Norfolk Street, San Mateo",San Mateo
+ChIJ1YhgzJ-fj4ARDqunjY15BCc,Food Service Repair Inc,37.5418137,-122.2844306,,,,,bakery|restaurant|food|point_of_interest|store|establishment,"3141 La Selva Street, San Mateo",San Mateo
+ChIJv_7wm8Oej4ARzflirOTE7qc,BJ's Restaurant & Brewhouse,37.56086120000001,-122.282872,4.0,2.0,1571.0,4.2,restaurant|bar|food|point_of_interest|establishment,"2206 Bridgepointe Parkway, San Mateo",San Mateo
+ChIJTajsvMSej4ARvyxPrNQw4bc,KBIO Cafe,37.5574853,-122.2816047,4.5,,15.0,3.35,cafe|restaurant|food|point_of_interest|establishment,"1820 Gateway Drive, San Mateo",San Mateo
+ChIJq5VmdgCfj4ARu3toZ5YKhn4,Taqueria El Chacho,37.558823,-122.2850602,4.1,,37.0,3.33,restaurant|food|point_of_interest|establishment,"2036 Fashion Island Boulevard, San Mateo",San Mateo
+ChIJUbQYn8Sfj4AR4Ewh5cOk788,Little Late Bird,37.5621565,-122.2861219,4.9,,93.0,4.8,cafe|restaurant|food|point_of_interest|store|establishment,"777 Mariners Island Boulevard STE 170, San Mateo",San Mateo
+ChIJq02_m9qfj4ARwdkXtIZk1n0,California Fish Grill,37.5597387,-122.2841756,4.4,2.0,214.0,4.62,restaurant|food|point_of_interest|establishment,"2214 Bridgepointe Parkway, San Mateo",San Mateo
+ChIJYVsWbN6fj4ARCYNbSzIZY58,Chick-fil-A Bridgepointe San Mateo In-Line,37.55974140000001,-122.2841299,4.5,,92.0,4.39,restaurant|food|point_of_interest|establishment,"2210 Bridgepointe Parkway, San Mateo",San Mateo
+ChIJ7cL8nMOej4ARvkYRbKH8npc,Pizza Hut Express,37.5585104,-122.2833017,3.6,1.0,74.0,3.32,meal_takeaway|restaurant|food|point_of_interest|establishment,"2220 Bridgepointe Parkway, San Mateo",San Mateo
+ChIJI3iapFKfj4ARu3R7IzMyRao,Roadtrip Bowls Made by Lazy Dog,37.560525,-122.283111,2.0,,2.0,1.41,restaurant|food|point_of_interest|establishment,"2208 Bridgepointe Parkway Building C6, San Mateo",San Mateo
+ChIJUSuYArmfj4ARrq1hjNw2KwQ,Lazy Dog Restaurant & Bar,37.56051130000001,-122.2830974,4.2,2.0,1024.0,4.41,bar|restaurant|food|point_of_interest|establishment,"2208 Bridgepointe Parkway, San Mateo",San Mateo
+ChIJuSQHOxKfj4ARSGeDzMgBmgg,Benihana,37.561673,-122.282119,4.6,3.0,340.0,4.83,restaurant|food|point_of_interest|establishment,"2204 Bridgepointe Parkway, San Mateo",San Mateo
+ChIJF5VQdgCfj4ARla0Ubt0V9ac,Birdie’s at Mariners Point,37.57224919999999,-122.2827876,4.3,,3.0,3.05,restaurant|food|point_of_interest|establishment,"2401 East 3rd Avenue, Foster City",San Mateo
+ChIJBaWW0kShj4ARpEEotCMsTVQ,Mary Tacos Las Varas Taco Truck,37.4755129,-122.2803583,4.7,,14.0,3.49,restaurant|food|point_of_interest|establishment,"Edmonds Rd &, Crestview Drive, San Carlos",San Mateo
+ChIJhzwarVqfj4ARWo_yCUHzJd0,Divino Ristorante,37.5195519,-122.2773183,4.6,2.0,350.0,4.83,restaurant|food|point_of_interest|establishment,"968 Ralston Avenue, Belmont",San Mateo
+ChIJo8wMpVqfj4ARdsF7gRBG8rw,Falafelle,37.51881650000001,-122.2773466,4.8,1.0,691.0,4.8,restaurant|food|point_of_interest|establishment,"1035 Ralston Avenue, Belmont",San Mateo
+ChIJ1-5wU0Wfj4ARJHnIz2coCMk,Belmont Deli,37.5196684,-122.2770879,4.8,2.0,128.0,5.04,restaurant|food|point_of_interest|store|establishment,"932 Ralston Avenue, Belmont",San Mateo
+ChIJP8ult0Wfj4ARQLgZVglTLp0,Iberia,37.5225621,-122.27888,4.4,3.0,465.0,4.62,restaurant|food|point_of_interest|establishment,"740 El Camino Real, Belmont",San Mateo
+ChIJkQaPAVCfj4AR2mBkCuweoKk,Yama Sushi,37.51977759999999,-122.2764832,3.9,2.0,161.0,4.09,meal_delivery|restaurant|food|point_of_interest|establishment,"889 Ralston Avenue, Belmont",San Mateo
+ChIJqRUe40-fj4ARbnc8gAJcUUA,Dog Haus Biergarten,37.52011619999999,-122.2759746,4.5,2.0,1212.0,4.73,restaurant|food|point_of_interest|establishment,"1000 El Camino Real, Belmont",San Mateo
+ChIJo0zIq1qfj4ARPShwwLZ-bDM,Sushi Monster,37.519427,-122.2768857,4.4,2.0,366.0,4.62,restaurant|food|point_of_interest|establishment,"955 Ralston Avenue, Belmont",San Mateo
+ChIJ3Wzc81Cfj4ARY1QwuJ1YQ_0,Farm House,37.51748419999999,-122.2750068,4.5,2.0,500.0,4.73,bar|restaurant|food|point_of_interest|establishment,"1301 6th Avenue, Belmont",San Mateo
+ChIJPXiNHlCfj4AR_hzXNsqU0xw,Starbucks,37.5198653,-122.275618,4.2,2.0,259.0,4.41,cafe|restaurant|food|point_of_interest|store|establishment,"1050 A El Camino Real, Belmont",San Mateo
+ChIJWU7m_0-fj4ARAg8EfafDHlE,Mr. Pickle's Sandwich Shop,37.5196945,-122.2765614,4.2,1.0,185.0,4.2,restaurant|food|point_of_interest|establishment,"891 Ralston Avenue, Belmont",San Mateo
+ChIJ-xrhYgqfj4ARpVZsj1vf-Sg,Ella's Cafe & BBQ,37.5189278,-122.2772267,4.0,2.0,171.0,4.2,restaurant|food|point_of_interest|establishment,"1000 6th Avenue, Belmont",San Mateo
+ChIJpw-ShBifj4AR0aDvQcLggMM,eCr Pub,37.5214949,-122.2776677,4.4,1.0,326.0,4.4,bar|restaurant|food|point_of_interest|establishment,"864 El Camino Real, Belmont",San Mateo
+ChIJRZKIaQCfj4ARE2Egfp6JUvA,The 4n20,37.5214953,-122.277661,,2.0,,,restaurant|food|point_of_interest|establishment,"864 El Camino Real, Belmont",San Mateo
+ChIJA1o1GFCfj4ARZI3W8OLCSLg,Panda Express,37.51974999999999,-122.275535,3.9,1.0,466.0,3.9,meal_delivery|meal_takeaway|restaurant|food|point_of_interest|establishment,"1050 El Camino Real D, Belmont",San Mateo
+ChIJdeJx4gOfj4ARhEo1vDvZvE0,ZENSHI Handcrafted Sushi,37.5186137,-122.2757614,,,,,restaurant|meal_takeaway|food|point_of_interest|establishment,"1100 El Camino Real, Belmont",San Mateo
+ChIJk772Tbafj4ARBkP3uQ9BPIU,Slice House by Tony Gemignani,37.5198889,-122.275825,4.4,1.0,256.0,4.4,meal_delivery|meal_takeaway|restaurant|food|point_of_interest|establishment,"1000 El Camino Real C, Belmont",San Mateo
+ChIJMcAME5ifj4ARq1hDHBhJzYY,TAPP'D by SHMASH'D,37.5235165,-122.2786934,4.7,,20.0,3.57,bar|restaurant|food|point_of_interest|establishment,"786 Old County Road, Belmont",San Mateo
+ChIJ93WewU-fj4ARdkJvBUr4W5I,Wendy's,37.5214217,-122.2753483,3.9,1.0,1068.0,3.9,restaurant|food|point_of_interest|establishment,"698 Ralston Avenue, Belmont",San Mateo
+ChIJkQq1ZTOfj4ARatY2gptYvVI,Meryenda,37.5256042,-122.2798768,5.0,2.0,8.0,3.8,restaurant|food|point_of_interest|establishment,"519 Marine View Avenue Unit F, Belmont",San Mateo
+ChIJaehGqLafj4ARTMuyCsdoypE,Cheung Hing Seafood & Dimsum,37.52186289999999,-122.2747376,4.1,2.0,661.0,4.3,restaurant|food|point_of_interest|establishment,"600 Ralston Avenue, Belmont",San Mateo
+ChIJGVneEdqej4AR6iYcqwtaLhQ,ampm,37.55383339999999,-122.2774268,2.2,1.0,23.0,1.69,convenience_store|atm|gas_station|supermarket|grocery_or_supermarket|cafe|restaurant|food|finance|point_of_interest|store|establishment,"880 East Hillsdale Boulevard, Foster City",San Mateo
+ChIJbVNuwMaej4AR3IiElVOTSRY,Chipotle Mexican Grill,37.5625402,-122.2806439,3.8,1.0,627.0,3.8,restaurant|food|point_of_interest|establishment,"2019 Chess Drive, Foster City",San Mateo
+ChIJC3dM58Oej4ARtSZewKk4DV8,Armadillo Willy's BBQ,37.559909,-122.281241,4.2,2.0,993.0,4.41,restaurant|food|point_of_interest|establishment,"2260 Bridgepointe Parkway, Foster City",San Mateo
+ChIJkQRcDcSej4ARZyxaebSQ-K4,Starbucks,37.560907,-122.280367,4.2,2.0,375.0,4.41,cafe|store|restaurant|food|point_of_interest|establishment,"2292 Bridgepointe Parkway, San Mateo",San Mateo
+ChIJBUil2sWej4ARwUAgtMR2ET0,Habit Burger & Grill,37.561962,-122.2790947,4.2,1.0,690.0,4.2,restaurant|food|point_of_interest|establishment,"1297 Chess Drive A, Foster City",San Mateo
+ChIJBUil2sWej4ARzhUOnf8CKrg,Panera Bread,37.5618933,-122.278677,4.0,2.0,737.0,4.2,cafe|bakery|meal_takeaway|store|restaurant|food|point_of_interest|establishment,"1297 Chess Drive Suite D, Foster City",San Mateo
+ChIJu3Acwcaej4ARI56jeTYnbg4,Panda Express,37.56273890000001,-122.2808111,3.8,1.0,493.0,3.8,meal_delivery|meal_takeaway|restaurant|food|point_of_interest|establishment,"2011 Chess Drive, Foster City",San Mateo
+ChIJC17Hqsiej4AR54zuflEh5Ek,The Clubhouse Bistro,37.5622822,-122.2769085,4.1,2.0,82.0,4.07,night_club|bar|restaurant|food|point_of_interest|establishment,"1221 Chess Drive, Foster City",San Mateo
+ChIJs2QUB9Cej4ARoAmWNcjjeDQ,Cafe Savini,37.55815190000001,-122.2759802,4.4,2.0,89.0,4.47,cafe|restaurant|food|point_of_interest|establishment,"950 Tower Lane #1775, Foster City",San Mateo
+ChIJvXgJvwOfj4ARDkOxqw-ROUA,Smash Shack,37.5622274,-122.2812502,5.0,,1.0,3.51,restaurant|food|point_of_interest|establishment,"2200 Bridgepointe Pkwy, San Mateo, Foster City",San Mateo
+ChIJtdbtYAufj4ARifrSMwr2RDg,Wingstop,37.5626284,-122.2807234,3.2,2.0,29.0,2.64,restaurant|food|point_of_interest|establishment,"2015 Chess Drive, San Mateo",San Mateo
+ChIJ67_S8Vufj4ARVqe1G2oLPeU,Nick the Greek,37.5626394,-122.2806964,4.0,2.0,63.0,3.73,meal_takeaway|restaurant|food|point_of_interest|store|establishment,"2017 Chess Drive, Foster City",San Mateo
+ChIJ6_wYvKqfj4ARWdlk2bEPnaY,Boar's Head Deli,37.5566183,-122.2761409,4.1,,9.0,2.98,restaurant|food|point_of_interest|establishment,Foster City,San Mateo
+ChIJC17Hqsiej4ARPcpVelhoE4k,Cafe Florian Restaurant,37.5622778,-122.2770389,4.1,,154.0,4.1,restaurant|food|point_of_interest|establishment,"1221 Chess Drive, Foster City",San Mateo
+ChIJB0Ua-S-fj4ARZCukLR8Yz_4,ZENSHI Handcrafted Sushi,37.55677550000001,-122.2758939,,,,,restaurant|meal_takeaway|food|point_of_interest|establishment,"921 East Hillsdale Boulevard, Foster City",San Mateo
+ChIJox_-T_-fj4ART_GA07Fd8-g,Five Guys,37.55721279999999,-122.2755359,3.2,2.0,51.0,2.87,restaurant|food|point_of_interest|establishment,"933 East Hillsdale Boulevard, Foster City",San Mateo
+ChIJnzT-_hafj4AROcD0Hlm62f4,MJ Sushi Foster City,37.5573185,-122.2750141,4.2,2.0,120.0,4.41,restaurant|food|point_of_interest|establishment,"977 East Hillsdale Boulevard, Foster City",San Mateo
+ChIJu-0iFFGfj4AR5UuWKaWLRVM,The Iron Gate,37.5175597,-122.2728853,4.5,3.0,639.0,4.73,restaurant|food|point_of_interest|establishment,"1360 El Camino Real, Belmont",San Mateo
+ChIJVYfuqVafj4ARsjl40gxQnJw,Godfather's Burger Lounge,37.51612550000001,-122.2712085,4.6,2.0,1577.0,4.83,restaurant|food|point_of_interest|establishment,"1500 El Camino Real, Belmont",San Mateo
+ChIJbS1asFWfj4AR0JXi0-ezGrM,Ryoshin Sushi,37.5142917,-122.2689824,4.5,2.0,248.0,4.73,restaurant|food|point_of_interest|establishment,"1602 El Camino Real suite c, Belmont",San Mateo
+ChIJ69NpAFGfj4AROfcL_JjqWkE,Thai Tamarind Restaurant,37.518154,-122.273782,4.1,2.0,285.0,4.3,restaurant|food|point_of_interest|establishment,"1316 El Camino Real, Belmont",San Mateo
+ChIJuexp5JSfj4ARW5n8qu5LGkE,Spoon & Fork,37.5162764,-122.2714289,4.5,2.0,169.0,4.73,restaurant|food|point_of_interest|establishment,"1480 El Camino Real, Belmont",San Mateo
+ChIJn5HZKwCfj4AR1JI9PBzSNos,MO's deli & cafe,37.514379,-122.269086,4.9,,77.0,4.56,restaurant|cafe|meal_takeaway|food|point_of_interest|store|establishment,"1602 El Camino Real Ste A, Belmont",San Mateo
+ChIJkwMMalGfj4ARCx3-q24lCxc,Sumac Mediterranean Grill,37.5175171,-122.2721917,4.5,2.0,506.0,4.73,cafe|bar|restaurant|food|point_of_interest|store|establishment,"1397 El Camino Real, Belmont",San Mateo
+ChIJIZyhM1Cfj4AR9QgFYPdBeo4,Marvin Gardens,37.51973199999999,-122.2740215,4.3,1.0,291.0,4.3,bar|restaurant|food|point_of_interest|establishment,"1160 Old County Road, Belmont",San Mateo
+ChIJgxNoTlCfj4ARoqRdPpC4Wb0,Toto's Pizzeria & Restaurant,37.5186982,-122.2743334,4.5,2.0,308.0,4.73,restaurant|food|point_of_interest|establishment,"1250 El Camino Real B, Belmont",San Mateo
+ChIJ_cu-CFSfj4ARID77KTIPlHY,St. James Gate,37.516623,-122.270285,4.4,2.0,1077.0,4.62,bar|restaurant|food|point_of_interest|establishment,"1410 Old County Road, Belmont",San Mateo
+ChIJ87-55E6fj4ARbze8EQh0MpM,Koriander Indian Cuisine & Catering,37.52415499999999,-122.273771,4.0,2.0,1089.0,4.2,restaurant|food|point_of_interest|establishment,"520 Masonic Way, Belmont",San Mateo
+ChIJ3VRzOz6fj4ARh5-4uJ_jiYs,Menchie's Frozen Yogurt,37.51883300000001,-122.27442,4.5,1.0,255.0,4.5,restaurant|food|point_of_interest|store|establishment,"1200 El Camino Real Ste A3, Belmont",San Mateo
+ChIJcYL6W7efj4ARXoHe0uApKPo,Kiroro Sushi,37.51887789999999,-122.2744717,4.4,2.0,312.0,4.62,meal_takeaway|restaurant|food|point_of_interest|establishment,"1200 El Camino Real, Belmont",San Mateo
+ChIJCc4ampOfj4ARpD9URO0b3ck,Sourdough & Co. Belmont,37.5186479,-122.2741837,4.9,,44.0,4.08,restaurant|food|point_of_interest|establishment,"1250 El Camino Real, Belmont",San Mateo
+ChIJe1bWC_Cfj4ARb7f57hnmZks,Two Cousins Deli,37.5187637,-122.2719007,4.7,2.0,72.0,4.52,restaurant|food|point_of_interest|store|establishment,"1331 Old County Road, Belmont",San Mateo
+ChIJ02NKmvefj4ARA5EyaPsPdR8,Tacos El Grullense C&D #4,37.5217891,-122.2738292,4.2,1.0,245.0,4.2,restaurant|food|point_of_interest|establishment,"575 Ralston Avenue, Belmont",San Mateo
+ChIJWzmSmzKfj4ARHacj3SC3k5Q,JIKAS KITCHEN,37.51690670000001,-122.2692879,3.8,,12.0,2.8,restaurant|food|point_of_interest|establishment,"151 Old County Road, Belmont",San Mateo
+ChIJq7WH-U6fj4ARr67Eagw6jjs,ampm,37.5235278,-122.2733862,3.1,1.0,13.0,2.29,convenience_store|atm|gas_station|supermarket|grocery_or_supermarket|cafe|restaurant|food|finance|point_of_interest|store|establishment,"470 Ralston Avenue, Belmont",San Mateo
+ChIJGwmmr1Wfj4ARUMI84D0T7jA,Blue Sky Café,37.51441279999999,-122.2682688,4.6,1.0,400.0,4.6,restaurant|food|point_of_interest|establishment,"1625 El Camino Real #9, Belmont",San Mateo
+ChIJ6x0WHCyfj4AREfNcpraaJ4s,Waterfront Pizza,37.5440501,-122.2706173,4.3,2.0,1817.0,4.51,restaurant|food|point_of_interest|establishment,"969 Edgewater Boulevard D, Foster City",San Mateo
+ChIJw6DBTimfj4AR824v6qKBrH0,Warehouse Buffet,37.5436982,-122.2703909,3.9,2.0,540.0,4.09,bar|restaurant|food|point_of_interest|establishment,"979 Edgewater Boulevard, Foster City",San Mateo
+ChIJpXTlUimfj4ARk7iiKUV13gg,Rickshaw Corner,37.5453971,-122.2716033,4.4,1.0,366.0,4.4,meal_takeaway|restaurant|food|point_of_interest|establishment,"901 Edgewater Boulevard Suite E, Foster City",San Mateo
+ChIJ-8Hssnifj4AR7gzZHE3eNIA,Ritha Indian Restaurant,37.5445685,-122.2706776,4.2,2.0,238.0,4.41,meal_delivery|meal_takeaway|restaurant|food|point_of_interest|establishment,"939A Edgewater Boulevard, Foster City",San Mateo
+ChIJzUNfmTmfj4ARR0ND87WKvRQ,Nina’s Cafe,37.5443511,-122.2706417,4.7,2.0,55.0,4.27,restaurant|food|point_of_interest|establishment,"969J Edgewater Boulevard, Foster City",San Mateo
+ChIJzbpIIiyfj4ARTbY8CZqH50k,Quickly,37.5444133,-122.2706263,4.2,1.0,105.0,4.2,meal_takeaway|restaurant|food|point_of_interest|establishment,"969K Edgewater Boulevard, Foster City",San Mateo
+ChIJiZmnpM6ej4ARudN-V3ybRrM,McDonald's,37.563291,-122.271678,3.8,1.0,1537.0,3.8,cafe|restaurant|food|point_of_interest|store|establishment,"1101 Triton Drive, Foster City",San Mateo
+ChIJ77-vos-ej4ARpb94xO9mtKo,Starbucks,37.56081529999999,-122.2741346,4.2,2.0,503.0,4.41,cafe|restaurant|food|point_of_interest|store|establishment,"1000 Metro Center Boulevard, Foster City",San Mateo
+ChIJPYsgLMyej4ARgtYj6UmCzfI,IHOP,37.56265570000001,-122.2705072,4.2,1.0,874.0,4.2,restaurant|food|point_of_interest|establishment,"531 Foster City Boulevard, Foster City",San Mateo
+ChIJwW1gEM-ej4ARjnPgk0FNrm0,Costco Food Court,37.5615341,-122.2746422,4.2,1.0,46.0,3.52,grocery_or_supermarket|meal_takeaway|restaurant|food|point_of_interest|store|establishment,"1001 Metro Center Boulevard, Foster City",San Mateo
+ChIJb37MOc6ej4AREfR_JIqg1DI,The Bistro - Eat. Drink. Connect.®,37.5602843,-122.2730085,4.1,,7.0,2.96,restaurant|food|point_of_interest|establishment,"550 Shell Boulevard, Foster City",San Mateo
+ChIJ0-SErs-ej4AR1iRTjUE-1xk,Chez Xue,37.5606952,-122.2742476,4.3,2.0,537.0,4.51,restaurant|food|point_of_interest|establishment,"1000 Metro Center Boulevard A, Foster City",San Mateo
+ChIJn9PMEgCfj4ARJ5bvr5B8I80,Off the Grid,37.5574391,-122.2707208,4.3,,3.0,3.05,restaurant|food|point_of_interest|establishment,"670 Shell Boulevard, Foster City",San Mateo
+ChIJRUy4EZKfj4AR_M1IGs3GMwE,Kunugi Noodle,37.5619433,-122.271319,3.5,2.0,8.0,2.66,restaurant|food|point_of_interest|establishment,"Farmers Market, In side, 1010 Metro Center Boulevard #2, Foster City",San Mateo
+ChIJ8TNWp86ej4ARqKXPIJQYE88,Taco Bell,37.56361709999999,-122.2711171,3.8,1.0,648.0,3.8,meal_takeaway|restaurant|food|point_of_interest|establishment,"1131 Triton Drive, Foster City",San Mateo
+ChIJYeEZ4DKfj4AR-rjfG5vy46w,Pardon My Cheesesteak,37.5626382,-122.2704838,1.0,,2.0,0.71,restaurant|food|point_of_interest|establishment,"531 Foster City Boulevard, Foster City",San Mateo
+ChIJV2dlGMyej4ARb-mj1lKZW4o,Carl’s Jr.,37.5635386,-122.2705129,3.8,1.0,733.0,3.8,restaurant|food|point_of_interest|establishment,"1140 Triton Drive, Foster City",San Mateo
+ChIJE7zFWQCfj4ARE4m1sEVTPKg,Erik’s DeliCafé,37.5591675,-122.2683306,4.6,1.0,16.0,3.44,restaurant|food|point_of_interest|establishment,"711 Thayer Lane, Foster City",San Mateo
+ChIJYzJUKuafj4ARaXLgH3mrGik,Mumu Hot Pot,37.55919480000001,-122.2680528,4.5,1.0,234.0,4.5,restaurant|food|point_of_interest|establishment,"1099 Foster Square Lane #135, Foster City",San Mateo
+ChIJraT4JOqfj4AR6Nn1Qbx5BBA,Starbird Salads,37.5638691,-122.2709149,4.1,1.0,14.0,3.04,restaurant|food|point_of_interest|establishment,"1141 Triton Drive, Foster City",San Mateo
+ChIJo5s3R2Gfj4AREFeCeAFQMe8,Starbird Chicken,37.5638691,-122.2709149,4.3,2.0,867.0,4.51,restaurant|food|point_of_interest|establishment,"1141 Triton Drive, Foster City",San Mateo
+ChIJAU8xJHufj4AR7TL-QOc5xf0,Chuan Chim Thai Cuisine,37.55932660000001,-122.2679252,4.5,2.0,192.0,4.73,restaurant|food|point_of_interest|establishment,"1099 Foster Square Lane STE 125, Foster City",San Mateo
+ChIJj4VWjUefj4ARzRHHhGocRCM,Sizzling Lunch,37.5593993,-122.2679169,4.0,2.0,85.0,4.01,restaurant|food|point_of_interest|establishment,"1099 Foster Square Lane STE 125, Foster City",San Mateo
+ChIJrR5MCMyej4AR7p9_0Zsv4RQ,Penelope's Coffee and Tea,37.5644603,-122.2702444,4.4,1.0,419.0,4.4,cafe|restaurant|food|point_of_interest|store|establishment,"3 Plaza View Lane, Foster City",San Mateo
+ChIJnxnmD8yej4ARR4Lfoz-pxt4,The Sandwich Monkey,37.56433699999999,-122.2702068,4.2,2.0,187.0,4.41,restaurant|food|point_of_interest|establishment,"3 Plaza View Lane, Foster City",San Mateo
+ChIJ82VKveefj4AR8tEV6JA-EpE,808 Zone - Asian Pacific Fusion,37.56433699999999,-122.2702068,4.7,2.0,32.0,3.93,restaurant|food|point_of_interest|establishment,"3 Plaza View Lane ste o, Foster City",San Mateo
+ChIJp5p9DVihj4ARtJaM_HPxJ0Q,The Grove at Cañada College,37.4474445,-122.2660947,4.1,,39.0,3.35,restaurant|food|point_of_interest|establishment,"The Loop Road, Woodside",San Mateo
+ChIJl0pQ6_-hj4AR4AiwrZRogKI,Kabul Afghan Cuisine,37.51241,-122.265923,4.6,2.0,1331.0,4.83,restaurant|food|point_of_interest|establishment,"135 El Camino Real, San Carlos",San Mateo
+ChIJ_aEGkgGij4ARnpAP3ZsfIEY,CreoLa Bistro,37.50976609999999,-122.26367,4.5,2.0,726.0,4.73,meal_takeaway|restaurant|food|point_of_interest|establishment,"344 El Camino Real, San Carlos",San Mateo
+ChIJk2sP5v-hj4AR5TbyN1x3I5s,Jersey Joe's,37.5129714,-122.2665058,4.4,1.0,1228.0,4.4,bar|restaurant|food|point_of_interest|establishment,"21 El Camino Real, San Carlos",San Mateo
+ChIJHZg3KwCij4ARQ8ZNKCo0_-c,Taco Bell,37.5114045,-122.2650395,3.7,1.0,536.0,3.7,meal_takeaway|restaurant|food|point_of_interest|establishment,"259 El Camino Real, San Carlos",San Mateo
+ChIJT14rgP-hj4AR6BsKjIpU0iM,McDonalds,37.5111552,-122.2658103,3.8,1.0,732.0,3.8,restaurant|food|point_of_interest|establishment,"180 El Camino Real, San Carlos",San Mateo
+ChIJdZoIwf-hj4ARpQPLV1DzsGM,The Omelette House,37.512035,-122.2671181,4.6,2.0,464.0,4.83,restaurant|food|point_of_interest|establishment,"66 El Camino Real, San Carlos",San Mateo
+ChIJM79x-Tyhj4AR8ULmcOTxvfQ,Dunkin',37.5109369,-122.2655142,3.6,1.0,308.0,3.6,bakery|cafe|meal_takeaway|restaurant|food|point_of_interest|store|establishment,"240 El Camino Real, San Carlos",San Mateo
+ChIJxTysJQChj4AROX2Cxd9DuKA,Paik's Noodle 홍콩반점 - San Carlos,37.5128221,-122.2661943,4.3,2.0,69.0,4.1,restaurant|food|point_of_interest|establishment,"39 El Camino Real, San Carlos",San Mateo
+ChIJgR9psAOij4ARXYwulBYaYqo,Shell,37.5082428,-122.2617893,3.3,2.0,61.0,3.06,gas_station|convenience_store|restaurant|food|point_of_interest|store|establishment,"500 El Camino Real, San Carlos",San Mateo
+ChIJN35FowOjj4ARH_LvQZoF--8,Sirayvah Organic Thai Cuisine,37.5095551,-122.2634163,4.5,2.0,118.0,4.73,restaurant|food|point_of_interest|establishment,"366 El Camino Real, San Carlos",San Mateo
+ChIJfw5_xwOij4AR7uUF5ABJ8rA,El Charrito,37.508524,-122.2621095,4.5,1.0,751.0,4.5,restaurant|food|point_of_interest|establishment,"1100 Holly Street, San Carlos",San Mateo
+ChIJ1Vs96QOij4ARId40V4rhSik,7-Eleven,37.50956499999999,-122.2611034,3.2,1.0,26.0,2.49,convenience_store|liquor_store|cafe|restaurant|food|point_of_interest|store|establishment,"1080 Holly Street, San Carlos",San Mateo
+ChIJkxz93AOij4ARI_bQ1BmwLrI,San Carlos Chuck's Donuts,37.5095824,-122.2612466,4.5,1.0,74.0,4.15,bakery|cafe|restaurant|food|point_of_interest|store|establishment,"495 Old County Road, San Carlos",San Mateo
+ChIJI3zH5wOij4ARlP3DHF4sYwQ,Ramen/Udon,37.50963280000001,-122.2610092,4.0,,9.0,2.91,restaurant|food|point_of_interest|establishment,"1080 Holly Street, San Carlos",San Mateo
+ChIJJ_kMvlKfj4ARNx7httlLVzA,El Metate Taqueria,37.5218375,-122.2667839,4.4,1.0,1282.0,4.4,restaurant|food|point_of_interest|establishment,"120 Harbor Boulevard, Belmont",San Mateo
+ChIJcXq16lKfj4ARwAQ_r2t9Omk,Little Belmont Cafe,37.521553,-122.2670211,4.6,1.0,305.0,4.6,restaurant|food|point_of_interest|establishment,"232 Harbor Boulevard, Belmont",San Mateo
+ChIJXVpEhEyfj4ARIlBnGGuss_w,Hobee's Restaurant,37.526673,-122.2674269,4.4,2.0,527.0,4.62,restaurant|food|point_of_interest|establishment,"1101 Shoreway Road, Belmont",San Mateo
+ChIJWQPjv62Yj4ARxhVnzhBaSSs,Waterside Grill + Lounge,37.5230476,-122.2613165,4.1,2.0,226.0,4.3,restaurant|food|point_of_interest|establishment,"223 Twin Dolphin Drive, Redwood City",San Mateo
+ChIJ-YLHWbSYj4ARrgH0lIn6OMs,Bon Appetit 500 Cafe for Employees,37.5306945,-122.2622867,4.0,,21.0,3.05,cafe|restaurant|food|point_of_interest|establishment,"Oracle Building 500, 500 Oracle Parkway, Redwood City",San Mateo
+ChIJyyldBTifj4ARVdcgK6doVF0,Toast In Town,37.5589466,-122.267594,4.6,,46.0,3.85,restaurant|food|point_of_interest|establishment,"1100 Foster Square Lane Suite 145, Foster City",San Mateo
+ChIJ5XX1Jaifj4AR894A9dc0Oyw,Curry Pizza House Foster City,37.5590617,-122.26751,4.5,2.0,85.0,4.51,liquor_store|meal_takeaway|restaurant|food|point_of_interest|store|establishment,"1100 Foster Square Lane STE 150, Foster City",San Mateo
+ChIJ21UsjdKej4AR43Z9LjkuWyo,Starbucks,37.5592083,-122.2673174,4.3,2.0,246.0,4.51,cafe|restaurant|food|point_of_interest|store|establishment,"780 Alma Lane, Foster City",San Mateo
+ChIJ21UsjdKej4AR0yA6_V5UPqo,Falafel Tazah Foster City,37.5591663,-122.2672829,4.3,2.0,236.0,4.51,restaurant|food|point_of_interest|establishment,"780 Alma Lane, Foster City",San Mateo
+ChIJs3uv7H-vj4AR3FtuDCNG_8g,Buck’s Restaurant,37.4297052,-122.2551199,4.4,2.0,1837.0,4.62,restaurant|food|point_of_interest|establishment,"3062 Woodside Road, Woodside",San Mateo
+ChIJ-QNOuhqkj4AR4g3RK6FZpog,The Village Bakery & Cafe,37.4297175,-122.2550168,4.3,2.0,809.0,4.51,bakery|cafe|restaurant|food|point_of_interest|store|establishment,"3052 Woodside Road, Woodside",San Mateo
+ChIJiZIkB9Sjj4ARHAWDiFnDQS4,Canyon Inn,37.4726361,-122.2598917,4.6,2.0,607.0,4.83,restaurant|food|point_of_interest|establishment,"587 Canyon Road, Redwood City",San Mateo
+ChIJnebZVNGjj4ARdGDE4tdBaMU,Sancho's Taqueria,37.4718936,-122.2596171,4.3,1.0,648.0,4.3,restaurant|food|point_of_interest|establishment,"3205 Oak Knoll Drive, Redwood City",San Mateo
+ChIJ1zLZyr-jj4AR0jzVRpWKEEg,Aroma House,37.471297,-122.2596155,4.5,2.0,125.0,4.73,restaurant|food|point_of_interest|establishment,"3215 Oak Knoll Drive C, Redwood City",San Mateo
+ChIJ_bDRTNGjj4ARrE7EaFnyyAI,Asya Restaurant,37.47133030000001,-122.2594763,4.1,2.0,70.0,3.92,restaurant|food|point_of_interest|establishment,"3215 Oak Knoll Drive UNIT B, Redwood City",San Mateo
+ChIJHxd5UdGjj4ARSU73Grs-iG8,Speederia Pizzeria,37.472073,-122.259383,4.5,1.0,232.0,4.5,meal_takeaway|meal_delivery|restaurant|food|point_of_interest|establishment,"3045, 3201A Oak Knoll Drive, Redwood City",San Mateo
+ChIJT-73tRuij4ARuOKY56IDGiw,Starbucks,37.502941,-122.257122,3.9,2.0,184.0,4.09,cafe|store|restaurant|food|point_of_interest|establishment,"856 Laurel Street, San Carlos",San Mateo
+ChIJ2Y7btRuij4ARbjTooOov1HQ,The Crepe Stop,37.5030194,-122.2572166,4.4,1.0,388.0,4.4,store|restaurant|food|point_of_interest|establishment,"852 Laurel Street, San Carlos",San Mateo
+ChIJcSl8zBuij4AR92FK-3oZBi0,LuLu's on Laurel Street,37.5027017,-122.2569438,3.8,2.0,150.0,3.99,meal_takeaway|restaurant|food|point_of_interest|establishment,"876 Laurel Street, San Carlos",San Mateo
+ChIJL0xAMxqij4ARw_KvL0mNHDg,888 Ristorante Italiano,37.5026266,-122.2568146,4.5,2.0,106.0,4.73,restaurant|food|point_of_interest|establishment,"888 Laurel Street #3951, San Carlos",San Mateo
+ChIJ0R5_qJ6jj4ARvA8TdCyp8XY,Owada,37.50256530000001,-122.2567702,4.2,2.0,23.0,3.39,restaurant|food|point_of_interest|establishment,"894 Laurel Street, San Carlos",San Mateo
+ChIJ83BpPYGjj4ARi1kYIUkgSV0,Lou's Cafe,37.5024057,-122.2565541,4.7,,79.0,4.4,restaurant|food|point_of_interest|establishment,"902 Laurel Street, San Carlos",San Mateo
+ChIJm8slF4ajj4AR37WqCdyy1AE,Rouge Lounge,37.5026124,-122.2567399,5.0,,4.0,3.56,bar|restaurant|food|point_of_interest|establishment,"890 Laurel Street, San Carlos",San Mateo
+ChIJeU6raQOij4ARbWV1LkIFLpU,Red Hot Chilli Pepper,37.50683360000001,-122.2605466,4.2,2.0,2054.0,4.41,restaurant|food|point_of_interest|establishment,"1125 San Carlos Avenue, San Carlos",San Mateo
+ChIJYXR6Zhuij4ARmUVUzx-mQwk,Town,37.5048544,-122.259458,4.5,3.0,2216.0,4.73,bar|restaurant|food|point_of_interest|establishment,"716 Laurel Street, San Carlos",San Mateo
+ChIJXe3tQgOij4ARyMcZtpQIkXY,Saffron,37.5067422,-122.2606677,4.2,2.0,925.0,4.41,restaurant|food|point_of_interest|establishment,"1143 San Carlos Avenue, San Carlos",San Mateo
+ChIJm47x8hmij4ARyiM10cY4Yno,The Refuge,37.50188289999999,-122.2553303,4.6,2.0,2011.0,4.83,bar|restaurant|food|point_of_interest|store|establishment,"963 Laurel Street, San Carlos",San Mateo
+ChIJA1tQPhuij4AR2g4Uzh857wo,Subway,37.5052294,-122.2581134,4.1,1.0,98.0,4.08,restaurant|food|point_of_interest|establishment,"744 El Camino Real, San Carlos",San Mateo
+ChIJOUSyqRyij4ARQMIUO76RqPQ,Rangoon Ruby Burmese Cuisine,37.50523999999999,-122.2598256,4.1,2.0,548.0,4.3,restaurant|food|point_of_interest|establishment,"680 Laurel Street, San Carlos",San Mateo
+ChIJx842QAOij4ARGMf_PNc-pe8,Starbucks,37.50649499999999,-122.260987,4.0,2.0,288.0,4.2,cafe|restaurant|food|point_of_interest|store|establishment,"1187 San Carlos Avenue, San Carlos",San Mateo
+ChIJyymzbDiij4ARsYcY9-o6xZ8,Mountain Mike's Pizza,37.504872,-122.2578007,4.3,2.0,317.0,4.51,meal_takeaway|meal_delivery|restaurant|food|point_of_interest|establishment,"774 El Camino Real, San Carlos",San Mateo
+ChIJy4OMMxqij4AREgSnVRom_qQ,Yan's Garden,37.50287,-122.2566507,4.4,2.0,166.0,4.62,meal_takeaway|meal_delivery|restaurant|food|point_of_interest|establishment,"885 Laurel Street, San Carlos",San Mateo
+ChIJDcNwchuij4ARneNiXjDR-jc,Spasso,37.504403,-122.2584708,4.5,2.0,465.0,4.73,restaurant|food|point_of_interest|establishment,"769 Laurel Street, San Carlos",San Mateo
+ChIJWQuz7QOij4ARoKX2isiAOPI,Emelinas Peruvian Restaurant,37.5092827,-122.2604785,4.4,2.0,618.0,4.62,restaurant|food|point_of_interest|establishment,"1065 Holly Street D, San Carlos",San Mateo
+ChIJz4xqZhuij4ARUo3IRMYygDo,Sakura San Carlos,37.5045562,-122.2590432,4.3,,292.0,4.3,restaurant|food|point_of_interest|establishment,"744 Laurel Street, San Carlos",San Mateo
+ChIJdYu1chuij4ARujIuEgcV_jE,PRANZI,37.5043069,-122.2583586,4.3,2.0,435.0,4.51,restaurant|food|point_of_interest|establishment,"777 Laurel Street, San Carlos",San Mateo
+ChIJRbMmPxuij4ARgePSKWrVojI,Rita's Italian Ice & Frozen Custard,37.5052436,-122.2582254,4.6,1.0,239.0,4.6,restaurant|food|point_of_interest|store|establishment,"740 El Camino Real, San Carlos",San Mateo
+ChIJm3KGOhqij4ARctHd8DxwNEQ,Day Break Gourmet Cafe,37.5029755,-122.2562783,3.0,,4.0,2.14,cafe|restaurant|food|point_of_interest|establishment,"1154 Arroyo Avenue, San Carlos",San Mateo
+ChIJi_Cg6gOij4ARmaF1FIKcoX0,El Maguey,37.5091805,-122.2606533,4.5,1.0,461.0,4.5,restaurant|food|point_of_interest|establishment,"1065 Holly Street D, San Carlos",San Mateo
+ChIJYeRadBuij4ARuEPXHiFSDAM,The Cask Wine Bar,37.5041059,-122.2585178,4.5,2.0,329.0,4.73,bar|restaurant|food|point_of_interest|establishment,"782 Laurel Street, San Carlos",San Mateo
+ChIJbwCMUQOij4AR83_yaWBlV7g,Siamese Kitchen,37.5059313,-122.260277,4.2,2.0,216.0,4.41,restaurant|food|point_of_interest|establishment,"637 Laurel Street, San Carlos",San Mateo
+ChIJeyn3rRuij4ARrxYM-mXhavo,Shiki Bistro,37.503561,-122.2573026,4.3,2.0,460.0,4.51,restaurant|food|point_of_interest|establishment,"825 Laurel Street, San Carlos",San Mateo
+ChIJwds5EwOij4ARMO7_oZ0A3j8,King Chuan Restaurant,37.50673979999999,-122.2612338,4.4,2.0,383.0,4.62,meal_delivery|meal_takeaway|restaurant|food|point_of_interest|establishment,"1188 San Carlos Avenue, San Carlos",San Mateo
+ChIJq0lIbwOij4ARYpsTKk7YkdY,Delizie Cucina & Vino,37.50691489999999,-122.2604396,4.6,2.0,282.0,4.83,restaurant|food|point_of_interest|establishment,"1107 San Carlos Avenue, San Carlos",San Mateo
+ChIJo9TTawOij4ARlZFyNVSlunk,La Corneta Taqueria,37.5067127,-122.2607051,4.4,1.0,350.0,4.4,restaurant|food|point_of_interest|establishment,"1147 San Carlos Avenue, San Carlos",San Mateo
+ChIJoYyTMRqij4ARfm7W1012IOM,Broiler Express,37.5028198,-122.2564249,4.4,1.0,514.0,4.4,restaurant|food|point_of_interest|establishment,"895 Laurel Street, San Carlos",San Mateo
+ChIJDT_rRgOij4ARvmdP6zQID-I,The Olive Crush,37.50576799999999,-122.2600839,4.9,,107.0,4.9,grocery_or_supermarket|store|restaurant|food|point_of_interest|establishment,"653 Laurel Street, San Carlos",San Mateo
+ChIJLUZGbwOij4ARmkmMs9xNXAI,Toot Sweet Frozen Yogurt,37.50699669999999,-122.2608952,4.6,1.0,118.0,4.6,store|restaurant|food|point_of_interest|establishment,"1148 San Carlos Avenue, San Carlos",San Mateo
+ChIJqy9n7AOij4ARTLAjf4-3mtk,Pho Vinh Vietnamese Restaurant,37.5091401,-122.2607405,4.2,1.0,339.0,4.2,restaurant|food|point_of_interest|establishment,"1065 Holly Street #A, San Carlos",San Mateo
+ChIJU1-3rRajj4ARoy2qvBDSLV0,Groovy Goose,37.50619889999999,-122.2613233,4.5,1.0,190.0,4.5,bakery|cafe|meal_takeaway|store|restaurant|food|point_of_interest|establishment,"1221 San Carlos Avenue, San Carlos",San Mateo
+ChIJD7eyOAOij4ARU531nDef78Y,Blue Line Pizza,37.5063494,-122.2611775,4.4,2.0,710.0,4.62,bar|restaurant|food|point_of_interest|establishment,"1201 San Carlos Avenue, San Carlos",San Mateo
+ChIJ8Sf6nw-jj4AR1bLIrhg2a4A,Highlands Sports Bar & Grill,37.50563959999999,-122.2603296,4.1,2.0,39.0,3.52,restaurant|bar|food|point_of_interest|establishment,"644 Laurel Street Suite C, San Carlos",San Mateo
+ChIJw4Q89byjj4AR9b7UxZSum3I,Poke'd Out Fish Bar,37.50644,-122.2608674,4.5,,59.0,3.95,restaurant|food|point_of_interest|establishment,"603 Laurel Street, San Carlos",San Mateo
+ChIJreyIpGWjj4ARvsw91mkBEn0,Doppio Zero San Carlos,37.5062529,-122.2606454,4.4,2.0,291.0,4.62,restaurant|food|point_of_interest|establishment,"617 Laurel Street, San Carlos",San Mateo
+ChIJG9AXuw2jj4ARfm85G_Rf97I,Wing Boss,37.5051597,-122.2599164,2.5,,11.0,1.83,restaurant|meal_takeaway|meal_delivery|food|point_of_interest|establishment,"680 Laurel Street, San Carlos",San Mateo
+ChIJGXTDiPajj4ARKdArjwl4eek,Dickey's Barbecue Pit,37.5051597,-122.2599164,2.2,2.0,44.0,1.92,restaurant|food|point_of_interest|store|establishment,"680 Laurel Street, San Carlos",San Mateo
+ChIJz3gEGUyjj4ARgLmyoSkYVsc,Jood,37.5059981,-122.2603543,4.6,,110.0,4.6,restaurant|food|point_of_interest|establishment,"635 Laurel Street, San Carlos",San Mateo
+ChIJn0LJ5LCjj4ARqkorME1qfLc,PYLOS,37.50625,-122.2603982,4.7,2.0,200.0,4.94,restaurant|food|point_of_interest|establishment,"621 Laurel Street, San Carlos",San Mateo
+ChIJQbf0I-ajj4AR13SzhQDrajo,Molly O's,37.5065766,-122.2606365,4.7,2.0,118.0,4.94,restaurant|bar|food|point_of_interest|establishment,"1163 San Carlos Avenue, San Carlos",San Mateo
+ChIJYbzc32yjj4ARiJ_QHb3zKvs,number5kitchen,37.5056211,-122.2598989,4.6,2.0,108.0,4.83,restaurant|food|point_of_interest|establishment,"663 Laurel Street, San Carlos",San Mateo
+ChIJ_TOUEVOjj4AR4YPkvp3namU,Tamari Authentic Georgian Cuisine,37.507003,-122.2610108,4.3,2.0,336.0,4.51,restaurant|food|point_of_interest|establishment,"1152 San Carlos Avenue, San Carlos",San Mateo
+ChIJpTY2DACjj4ARjPZ9bq2ReiA,Sen Thai Noodle,37.50554030000001,-122.2597601,4.7,,7.0,3.39,restaurant|food|point_of_interest|establishment,"677B Laurel Street, San Carlos",San Mateo
+ChIJP8Z1Xbmjj4ARzh-YkIMLtIc,Nick The Greek,37.5047571,-122.259234,4.4,1.0,259.0,4.4,restaurant|food|point_of_interest|establishment,"732 Laurel Street, San Carlos",San Mateo
+ChIJ56KZvzGjj4ARwSYAU6xKEco,Esnaf,37.5068956,-122.2603263,4.7,2.0,146.0,4.94,restaurant|food|point_of_interest|establishment,"1105 San Carlos Avenue, San Carlos",San Mateo
+ChIJYf1TUgCjj4ARuJJ5OF4fRUw,Elia,37.50495559999999,-122.2590523,4.5,,57.0,3.92,restaurant|food|point_of_interest|establishment,"727 Laurel Street, San Carlos",San Mateo
+ChIJF6b4MACjj4ARngisbbAkNWM,Takumi,37.5048295,-122.2589598,4.3,2.0,12.0,3.32,restaurant|food|point_of_interest|establishment,"741 Laurel Street, San Carlos",San Mateo
+ChIJxdXENyKjj4ARbOiBdmpE9-E,Drakes,37.5070239,-122.2602518,4.3,2.0,387.0,4.51,bar|restaurant|food|point_of_interest|establishment,"1101 San Carlos Avenue, San Carlos",San Mateo
+ChIJgURqeoKjj4ARBo6ogQa5jek,Sunshine HK Cafe,37.5062538,-122.2595176,4.4,2.0,78.0,4.32,restaurant|food|point_of_interest|establishment,"648 El Camino Real, San Carlos",San Mateo
+ChIJA4uzEgCjj4ARiY62sWiquwE,Bistro Mitte,37.50470159999999,-122.25872,4.4,,222.0,4.4,restaurant|food|point_of_interest|establishment,"749 Laurel Street, San Carlos",San Mateo
+ChIJC7x7pi6jj4AR_aFzMazM6wk,Mama Coco Cocina Mexicana,37.5045701,-122.2586595,3.8,2.0,66.0,3.58,restaurant|food|point_of_interest|establishment,"753 Laurel Street, San Carlos",San Mateo
+ChIJT_Z7eRyjj4ARYHsoLEJpiNk,Stamp Bar & Grill,37.5043568,-122.2584081,4.3,2.0,216.0,4.51,bar|restaurant|food|point_of_interest|establishment,"773 Laurel Street, San Carlos",San Mateo
+ChIJDWMbdRuij4ARda-i0Gmyi6Q,West Park Bistro,37.50396359999999,-122.2583575,4.4,2.0,448.0,4.62,bar|restaurant|food|point_of_interest|establishment,"788 Laurel Street, San Carlos",San Mateo
+ChIJ33nQwQaij4ARGaXcr8UY8j4,In-N-Out Burger,37.5129452,-122.2586092,4.5,1.0,4561.0,4.5,restaurant|food|point_of_interest|establishment,"445 Industrial Road, San Carlos",San Mateo
+ChIJ786QQaOjj4ARnls1IisX1Vo,Out of the Barrel,37.50769030000001,-122.2604257,4.5,,47.0,3.78,bar|restaurant|food|point_of_interest|establishment,"555 El Camino Real Suite 150, San Carlos",San Mateo
+ChIJVZlkJSyjj4ARaq0ve0KviUA,Nursel Central Asian & Russian Cuisine,37.5077053,-122.259296,4.5,2.0,403.0,4.73,restaurant|food|point_of_interest|establishment,"601 Old County Road, San Carlos",San Mateo
+ChIJef0_iqajj4ARFYa044zH5tY,Impasto by Terun,37.5070855,-122.2596727,4.6,2.0,79.0,4.53,restaurant|food|point_of_interest|establishment,"661 El Camino Real, San Carlos",San Mateo
+ChIJ_X6mH6mYj4ARRKmaukmrj9s,Rendezvous Cafe and Catering,37.52034989999999,-122.2581411,4.0,1.0,28.0,3.14,cafe|restaurant|food|point_of_interest|establishment,"350 Twin Dolphin Drive, Redwood City",San Mateo
+ChIJi_MOb66Yj4ARtBBmEvOrtos,Steve's Cafe & Catering,37.523495,-122.258443,4.7,1.0,105.0,4.7,cafe|restaurant|food|point_of_interest|establishment,"303 Twin Dolphin Drive #110, Redwood City",San Mateo
+ChIJMZAdxbCYj4ARvab868SQ4iI,Mistral Restaurant and Bar,37.529685,-122.2564792,4.4,2.0,673.0,4.62,restaurant|food|point_of_interest|establishment,"370-6 Bridge Parkway, Redwood City",San Mateo
+ChIJ8WDdiT2Zj4AR6Ly5f_-5Lo4,The Hollō Cafe,37.5365634,-122.2560834,4.9,,27.0,3.83,restaurant|food|point_of_interest|establishment,"1100 Island Drive suite 150, Redwood City",San Mateo
+ChIJj7WBxdeYj4ARD_wYzxfoz80,Tai Wu Restaurant,37.5535473,-122.2569658,4.0,1.0,201.0,4.0,restaurant|food|point_of_interest|establishment,"1080 Foster City Boulevard, Foster City",San Mateo
+ChIJEVPBxdeYj4AR4_eJ0x_2tRg,Round Table Pizza,37.5534717,-122.2567622,3.8,2.0,104.0,3.99,meal_takeaway|meal_delivery|restaurant|food|point_of_interest|establishment,"1084 Foster City Boulevard, Foster City",San Mateo
+ChIJQ4rvKtaYj4ARBTGefrZrSYg,Soon's Tofu & Korean BBQ,37.5538129,-122.2573218,4.1,2.0,279.0,4.3,restaurant|food|point_of_interest|store|establishment,"1062 Foster City Boulevard, Foster City",San Mateo
+ChIJ666FxteYj4AR1GOowL8wYVY,Pho New Saigon,37.553428,-122.2567351,4.0,1.0,216.0,4.0,restaurant|food|point_of_interest|establishment,"1088 Foster City Boulevard, Foster City",San Mateo
+ChIJ1cyeC4KZj4ARLqErTunnsfg,Birria tacos y tortas Philly cheese steak (at soons bbq),37.553383,-122.2573248,,,,,restaurant|food|point_of_interest|store|establishment,"1062 Foster City Boulevard, Foster City",San Mateo
+ChIJ1QYzS0aZj4ARnST3igaZ-Q0,Sunshine Deli,37.5537988,-122.2572994,4.2,,5.0,3.0,restaurant|food|point_of_interest|store|establishment,"1062 Foster City Boulevard, Foster City",San Mateo
+ChIJq2k9MdaYj4ARrG9JZP0Rhls,Sweethoney Dessert 杏記甜品店,37.55368850000001,-122.2571953,3.9,1.0,130.0,3.9,cafe|restaurant|food|point_of_interest|establishment,"1066 Foster City Boulevard, Foster City",San Mateo
+ChIJG1kW_BCkj4AR8ZZ326YvxPU,The Village Pub,37.4289581,-122.2515746,4.6,4.0,1210.0,4.69,bar|meal_takeaway|restaurant|food|point_of_interest|establishment,"2967 Woodside Road, Woodside",San Mateo
+ChIJ39n9YxCkj4AR-mWML7oK7HI,The Firehouse Bistro,37.4289132,-122.2525831,4.6,2.0,72.0,4.42,bar|restaurant|food|point_of_interest|establishment,"2991 Woodside Road, Woodside",San Mateo
+ChIJI3i-gj2ij4AR6Fb8aT_hZN8,The Sandwich Spot,37.49826789999999,-122.2511427,4.3,1.0,190.0,4.3,meal_takeaway|restaurant|food|point_of_interest|establishment,"1295 Laurel Street, San Carlos",San Mateo
+ChIJO-0JnD6ij4ARsWvFATbNs2o,iGuey Taqueria,37.49651199999999,-122.2480234,4.5,1.0,399.0,4.5,restaurant|food|point_of_interest|establishment,"1494 El Camino Real, San Carlos",San Mateo
+ChIJrfx9kz2ij4AR60mFS7Addq4,Round Table Pizza,37.49822579999999,-122.2500241,4.1,2.0,172.0,4.3,meal_takeaway|meal_delivery|restaurant|food|point_of_interest|establishment,"1324 El Camino Real, San Carlos",San Mateo
+ChIJjdOVKRaij4ARi9rywrJG-tE,Thai Time,37.4988889,-122.2508333,3.9,2.0,13.0,3.03,restaurant|food|point_of_interest|establishment,"1240 El Camino Real, San Carlos",San Mateo
+ChIJHwcqoxeij4ARGRTvcYnhRKA,Jack in the Box,37.5002242,-122.2526005,3.5,1.0,955.0,3.5,meal_delivery|restaurant|food|point_of_interest|establishment,"1100 El Camino Real, San Carlos",San Mateo
+ChIJVUAKaV-ej4ARYPOU-_YEHDY,Mints & Honey,37.4961776,-122.2476941,4.5,2.0,631.0,4.73,cafe|restaurant|food|point_of_interest|store|establishment,"1524 El Camino Real, San Carlos",San Mateo
+ChIJW7bnwReij4ARYSHjhNcHCrM,New Canton Restaurant,37.4993224,-122.2527494,4.3,2.0,163.0,4.51,restaurant|food|point_of_interest|establishment,"1160 Laurel Street, San Carlos",San Mateo
+ChIJy1Gi6j2ij4ARDmPT4rdXeaA,"New York pizza, pasta & more",37.4980041,-122.2498017,4.1,2.0,314.0,4.3,meal_takeaway|meal_delivery|restaurant|food|point_of_interest|establishment,"1340 El Camino Real, San Carlos",San Mateo
+ChIJP2oOEBaij4ARFQJJYUZhgpU,Lucky,37.500294,-122.24925,4.0,,563.0,4.0,grocery_or_supermarket|supermarket|meal_delivery|restaurant|food|point_of_interest|store|establishment,"1133 Old County Road, San Carlos",San Mateo
+ChIJVdkp1hmij4ARSUa_dwTD2Rg,Noelani's Island Grill,37.5008217,-122.2540228,4.5,2.0,977.0,4.73,restaurant|food|point_of_interest|establishment,"1037 Laurel Street, San Carlos",San Mateo
+ChIJsWK0pIOjj4ARs8nsqcIwXho,William B.B.Q.,37.49995839999999,-122.2530811,4.6,2.0,82.0,4.57,restaurant|food|point_of_interest|establishment,"1109 Laurel Street, San Carlos",San Mateo
+ChIJ03M8lBeij4ARCMh_cLleOWo,My Breakfast House,37.4997154,-122.2527537,4.5,1.0,369.0,4.5,cafe|restaurant|food|point_of_interest|establishment,"1137 Laurel Street, San Carlos",San Mateo
+ChIJtVlMxBeij4ARW1R2aJ91IMI,Pazzo,37.4992051,-122.2522434,4.6,2.0,385.0,4.83,restaurant|food|point_of_interest|establishment,"1179 Laurel Street, San Carlos",San Mateo
+ChIJf4wGMwCjj4ARLGEqAV2CS6Y,Dumpling & Dough,37.4990488,-122.2519844,4.8,2.0,98.0,5.01,restaurant|food|point_of_interest|establishment,"1195 Laurel Street, San Carlos",San Mateo
+ChIJAQBs1heij4AR9_db6Wz7QSs,Sushi Kazoku,37.4987453,-122.2516298,4.7,2.0,186.0,4.94,restaurant|food|point_of_interest|establishment,"1201 Laurel Street, San Carlos",San Mateo
+ChIJd8Txf8Ojj4ARzX8-VeI0wjI,Isarn Garden Thai Cuisine,37.5010873,-122.2533032,4.5,2.0,400.0,4.73,restaurant|food|point_of_interest|establishment,"1050 El Camino Real, San Carlos",San Mateo
+ChIJf5ubpeWjj4AR7f4eOxx8skU,"The Grilled Company, Inc",37.503561,-122.2573026,,,,,restaurant|food|point_of_interest|establishment,"825 Laurel Street, San Carlos",San Mateo
+ChIJy2K-wv-jj4ARQMZ6yOLXoPw,La Hacienda Restaurant,37.4973641,-122.249959,4.3,1.0,158.0,4.3,restaurant|food|point_of_interest|establishment,"1377 Laurel Street, San Carlos",San Mateo
+ChIJ3Ta9cWKjj4AR_5bQj0NNxF0,Wings Lover,37.4980041,-122.2498017,5.0,,1.0,3.51,restaurant|food|point_of_interest|establishment,"1340 El Camino Real, San Carlos",San Mateo
+ChIJcZjUcBCjj4ARXgUI37I-Ei4,HoangHuan Inc,37.5045297,-122.2573644,,,,,meal_takeaway|restaurant|food|point_of_interest|establishment,"796 El Camino Real, San Carlos",San Mateo
+ChIJFyAb1uyjj4ARt5So3lLilQ0,Pizza Guys,37.50459809999999,-122.2577543,4.7,2.0,111.0,4.94,restaurant|food|point_of_interest|establishment,"796 El Camino Real Suite E, San Carlos",San Mateo
+ChIJv3zNWxaij4ARHhMZmiSwy6M,Kelly’s Deli,37.50078990000001,-122.2499709,4.0,,7.0,2.88,restaurant|food|point_of_interest|establishment,"1125 Old County Road, San Carlos",San Mateo
+ChIJf0zs7z2ij4ARyPSxI-H0Mow,El Jarochito Truck,37.49855539999999,-122.2488256,4.5,,29.0,3.54,restaurant|food|point_of_interest|establishment,"1335 Old County Road, San Carlos",San Mateo
+ChIJoeNZl8ijj4ARwlavdRd5gTY,Soko Soko Japanese Cuisine,37.495783,-122.2479701,4.7,,49.0,3.98,restaurant|food|point_of_interest|establishment,"1541 Laurel Street, San Carlos",San Mateo
+ChIJORNJ9R6jj4ARifDgwd9uP78,Spill the Tea BBQ SC,37.50570580000001,-122.2568367,4.6,2.0,23.0,3.71,restaurant|food|point_of_interest|establishment,"765 Old County Road unit B, San Carlos",San Mateo
+ChIJs5yt4A-ij4ARlG-aPSpCS1A,Marsha's Lunchbox,37.5081245,-122.2527554,4.5,2.0,61.0,4.17,restaurant|meal_takeaway|store|food|point_of_interest|establishment,"760 Industrial Road, San Carlos",San Mateo
+ChIJcyt_Iwaij4ARPw3Gr0NWYSk,Izzy's on the Peninsula,37.5142105,-122.2537424,4.2,3.0,865.0,4.41,bar|restaurant|food|point_of_interest|establishment,"525 Skyway Road, San Carlos",San Mateo
+ChIJn6yuqwmij4ARrdscqJxK_II,Sky Kitchen,37.51516670000001,-122.2505194,4.5,1.0,547.0,4.5,restaurant|food|point_of_interest|establishment,"620 Airport Way, San Carlos",San Mateo
+ChIJAQ4Edw-ij4ARwuGwpNeQ6_4,Blue Oak Brewing Company,37.5103332,-122.2530538,4.8,,416.0,4.8,bar|restaurant|food|point_of_interest|establishment,"815 Cherry Lane, San Carlos",San Mateo
+ChIJgw41M6aYj4AR9NSBP9wQZfE,Starbucks,37.5227058,-122.2517293,3.9,2.0,339.0,4.09,cafe|restaurant|food|point_of_interest|store|establishment,"Marketplace, 264 Redwood Shores Parkway, Redwood City",San Mateo
+ChIJA1D78aWYj4AR68Nb-SoTCIM,Amici's East Coast Pizzeria,37.5218469,-122.251504,4.2,2.0,498.0,4.41,restaurant|food|point_of_interest|establishment,"226 Redwood Shores Parkway, Redwood City",San Mateo
+ChIJvQ1c7aWYj4ARhYCUHtYBVio,The Grill House,37.522352,-122.251571,4.3,2.0,596.0,4.51,bar|restaurant|food|point_of_interest|establishment,"246 Redwood Shores Parkway, Redwood City",San Mateo
+ChIJnzFA84Cjj4AReqLDLxV3tdQ,Starbucks,37.5138684,-122.2542857,4.3,,99.0,4.29,cafe|restaurant|food|point_of_interest|store|establishment,"505 Skyway Road, San Carlos",San Mateo
+ChIJpcHMxqmZj4ARY9Yk3JEL4m0,Bon appetite management company,37.5204348,-122.253956,5.0,,2.0,3.53,restaurant|food|point_of_interest|establishment,"201 Redwood Shores Parkway #100, Redwood City",San Mateo
+ChIJkfHQ7i-Zj4AR8RanYyimZHQ,Local Kitchens,37.5193597,-122.2516786,4.9,1.0,18.0,3.69,restaurant|food|point_of_interest|establishment,"200 Redwood Shores Parkway, Redwood City",San Mateo
+ChIJiSG4TKaYj4ARLeRoG2_zEd4,Falafel Tazah Redwood City,37.522512,-122.2516483,4.4,2.0,260.0,4.62,restaurant|food|point_of_interest|establishment,"256 Redwood Shores Parkway, Redwood City",San Mateo
+ChIJN5KwGwCZj4AR9Ylea81LFQw,Chipotle Mexican Grill,37.5217612,-122.2517418,3.5,1.0,42.0,2.89,restaurant|food|point_of_interest|establishment,"224 Redwood Shores Parkway, Redwood City",San Mateo
+ChIJAQAAAE-fj4AREVMRx3KxWZg,Five Guys,37.5220874,-122.2514251,4.4,2.0,256.0,4.62,meal_takeaway|restaurant|food|point_of_interest|establishment,"238 Redwood Shores Parkway, Redwood City",San Mateo
+ChIJ3Smpd42Zj4ARlO84VdmhC7k,Mendocino Farms,37.522212,-122.2515518,4.1,2.0,31.0,3.41,restaurant|food|point_of_interest|establishment,"242 Redwood Shores Parkway, Redwood City",San Mateo
+ChIJLwPlfKaYj4AR-dh0vPXZPLM,Otoko Sushi,37.52216050000001,-122.2514202,4.0,2.0,206.0,4.2,restaurant|food|point_of_interest|establishment,"240 Redwood Shores Parkway, Redwood City",San Mateo
+ChIJQcSdssSfj4ARBUjFda1bU84,Wrapped N' Sauced,37.522512,-122.2516483,5.0,2.0,13.0,3.88,restaurant|food|point_of_interest|establishment,"256 Redwood Shores Parkway, Redwood City",San Mateo
+ChIJD3hQ9CSZj4ARIGOdnCaEpAA,Joy Restaurant,37.5634417,-122.2505882,4.2,2.0,345.0,4.41,restaurant|food|point_of_interest|establishment,"1489 Beach Park Boulevard, Foster City",San Mateo
+ChIJ0zUtXSSZj4AR4FxutnC97fw,Sweet Basil Thai Cuisine,37.56309090000001,-122.2503833,4.3,2.0,826.0,4.51,restaurant|food|point_of_interest|establishment,"1473 Beach Park Boulevard, Foster City",San Mateo
+ChIJpwbKWiSZj4ARjXjoEgUIbq0,Akizu Sushi Bar & Grill,37.56308819999999,-122.249991,4.3,,173.0,4.3,restaurant|food|point_of_interest|establishment,"1457 Beach Park Boulevard, Foster City",San Mateo
+ChIJKzv8EySZj4ARt59z6jkbXm0,Kenta Ramen,37.5635504,-122.2506562,4.3,1.0,263.0,4.3,restaurant|food|point_of_interest|store|establishment,"1495 Beach Park Boulevard, Foster City",San Mateo
+ChIJ97vvSB6Zj4AR6wwMGV4tjDI,Bellini Bistro,37.56301029999999,-122.2502583,4.7,2.0,129.0,4.94,restaurant|food|point_of_interest|establishment,"1465 Beach Park Boulevard, Foster City",San Mateo
+ChIJM5VlTMmZj4ARxSGqAOoDhf8,DELÍCIAS De Minas,37.561858,-122.249073,5.0,,1.0,3.51,restaurant|food|point_of_interest|establishment,"1441 Beach Park Boulevard, Foster City",San Mateo
+ChIJ04eH1DWZj4ARcuWDQkRr66Y,Dumpling Kitchen - Factory,37.5630889,-122.2500772,4.4,2.0,25.0,3.58,meal_takeaway|meal_delivery|restaurant|food|point_of_interest|establishment,"1459 Beach Park Boulevard, Foster City",San Mateo
+ChIJlc29db-jj4ARHEh1XjV_OYY,Little Caesars Pizza,37.4658591,-122.2415471,3.7,1.0,385.0,3.7,meal_delivery|meal_takeaway|restaurant|food|point_of_interest|establishment,"2193 Roosevelt Avenue, Redwood City",San Mateo
+ChIJqeAfJQyjj4ARDu9wmhEDBhA,Mountain Mike's Pizza,37.46966759999999,-122.2463934,4.4,2.0,146.0,4.62,meal_delivery|meal_takeaway|restaurant|food|point_of_interest|establishment,"3121 Jefferson Avenue, Redwood City",San Mateo
+ChIJGQ8REkiij4AR-1OuQ3cr8rg,STACKS Redwood City,37.4913927,-122.2419875,4.2,2.0,1582.0,4.41,restaurant|food|point_of_interest|establishment,"314 El Camino Real, Redwood City",San Mateo
+ChIJEx-1Bziij4ARVYnYQJmxRcU,KFC,37.49220739999999,-122.2429424,3.2,1.0,350.0,3.2,restaurant|food|point_of_interest|establishment,"204 El Camino Real, Redwood City",San Mateo
+ChIJS24vMjmij4ARvvkYOX9j5K4,Mediterranean Delite,37.4951797,-122.2465973,4.6,1.0,381.0,4.6,restaurant|food|point_of_interest|establishment,"1620 El Camino Real, San Carlos",San Mateo
+ChIJmcHlWDiij4AR4SrH6VPZ2Fk,Carl’s Jr.,37.4935217,-122.2446423,4.0,1.0,373.0,4.0,restaurant|food|point_of_interest|establishment,"1800 El Camino Real, San Carlos",San Mateo
+ChIJLX8tFDmij4ARpUjD3uO5RYg,Johnston's Saltbox,37.4941016,-122.246527,4.7,2.0,1095.0,4.94,bar|restaurant|food|point_of_interest|establishment,"1696 Laurel Street, San Carlos",San Mateo
+ChIJY9_wPDmij4AR6OLCjJJ90dM,"The Toss, San Carlos",37.4945396,-122.2466202,4.6,,192.0,4.6,restaurant|food|point_of_interest|establishment,"1673 Laurel Street, San Carlos",San Mateo
+ChIJzSUWDK-jj4ARz8oUeyheR-4,Amazing Wok,37.4947313,-122.2467551,4.1,1.0,57.0,3.57,restaurant|food|point_of_interest|establishment,"1653 1655Laurel St, San Carlos",San Mateo
+ChIJUy8tEACjj4ARy8ueTTE9hbc,Tacos grill los González #2,37.4944525,-122.2450564,5.0,,3.0,3.54,restaurant|food|point_of_interest|establishment,"1745 El Camino Real, San Carlos",San Mateo
+ChIJJcXIXACjj4ARd937SPTZDVI,Kokorec,37.49427789999999,-122.244857,,,,,restaurant|food|point_of_interest|establishment,"1805 California 82, San Carlos",San Mateo
+ChIJ0fXiYQCjj4ARvi54s1I8GQw,Food Factory,37.49435260000001,-122.2448051,5.0,,7.0,3.6,restaurant|food|point_of_interest|establishment,"1805 El Camino Real, San Carlos",San Mateo
+ChIJeRwPW0iij4ARspmjcHcAmoQ,Nikko's Mexican Grill,37.4906906,-122.2407984,4.1,2.0,147.0,4.3,restaurant|food|point_of_interest|establishment,"408 El Camino Real, Redwood City",San Mateo
+ChIJW5oWRUiij4AR03j1IsWa47o,7-Eleven,37.4907396,-122.2408829,3.1,1.0,28.0,2.43,convenience_store|liquor_store|cafe|restaurant|food|point_of_interest|store|establishment,"400 El Camino Real, Redwood City",San Mateo
+ChIJYYtDoxWij4AR7tTuXFG-kDc,Wingstop,37.50237550000001,-122.2461374,3.6,2.0,228.0,3.78,restaurant|food|point_of_interest|establishment,"1135 Industrial Road Suite E, San Carlos",San Mateo
+ChIJC1dTIxSij4ARAPufA8MRF9Q,Chipotle Mexican Grill,37.50220849999999,-122.2463726,4.0,1.0,507.0,4.0,restaurant|food|point_of_interest|establishment,"1135 Industrial Road, San Carlos",San Mateo
+ChIJ2VG1i0Cij4ARD2GpO2HXf3E,Domenico Winery,37.498966,-122.24195,4.7,2.0,323.0,4.94,liquor_store|restaurant|food|point_of_interest|store|establishment,"1697 Industrial Road, San Carlos",San Mateo
+ChIJj62_yhWij4ARgMVmllpjAq4,Starbucks,37.5021594,-122.2464415,3.9,2.0,365.0,4.09,cafe|restaurant|food|point_of_interest|store|establishment,"1135 Industrial Road, San Carlos",San Mateo
+ChIJW_UWasejj4AR77Z4HKN7TqQ,Gilly's Kitchen,37.4987855,-122.2454834,4.0,1.0,1.0,2.81,meal_takeaway|restaurant|food|point_of_interest|establishment,"967 Center Street, San Carlos",San Mateo
+ChIJ-Xp44nGjj4ARpQy--kuhkuY,The Great Highway,37.5025796,-122.2489809,4.7,,41.0,3.87,casino|restaurant|food|point_of_interest|store|establishment,"1100 Industrial Road STE 14, San Carlos",San Mateo
+ChIJA947woyjj4AR2-NZGET4Clg,Falafel Tazah San Carlos,37.5021201,-122.2463521,4.0,2.0,109.0,4.2,restaurant|food|point_of_interest|establishment,"1135 Industrial Road, San Carlos",San Mateo
+ChIJG6_WciSjj4ARXjsbsB4_hl4,Ramo’s Food truck,37.4997704,-122.2434998,4.9,,15.0,3.65,store|restaurant|food|point_of_interest|establishment,"1493Industrial Rd, San Carlos",San Mateo
+ChIJM2IcyASjj4AR-wQWoTZCVGo,Osteria at Domenico,37.4989835,-122.2419324,4.6,2.0,62.0,4.28,restaurant|bar|food|point_of_interest|establishment,"1697 Industrial Road, San Carlos",San Mateo
+ChIJPbWuDxWij4ARm6JUZdnbuDU,San Carlos Marketplace,37.50235099999999,-122.2441328,4.3,,1519.0,4.3,shopping_mall|grocery_or_supermarket|restaurant|food|point_of_interest|store|establishment,"1127 Industrial Road, San Carlos",San Mateo
+ChIJz2PRbuOjj4ARTgWGyy7g2vI,Salt & Brine,37.5067474,-122.2506431,,,,,restaurant|food|point_of_interest|establishment,"835 Industrial Road, San Carlos",San Mateo
+ChIJgRRzCr-jj4AR0KQidei7oK4,Oh Baby Sushi,37.4659847,-122.2410228,4.5,2.0,980.0,4.73,restaurant|food|point_of_interest|establishment,"2139 Roosevelt Avenue, Redwood City",San Mateo
+ChIJbxwY3QCjj4AR5Ht18lctD_Q,Big Brother's Burgers,37.466118,-122.241011,4.8,2.0,146.0,5.04,restaurant|food|point_of_interest|establishment,"2137 Roosevelt Avenue, Redwood City",San Mateo
+ChIJh_BM4Uyij4ARNQIT1FTeTgo,Bangkok Bay Thai Cuisine,37.48593699999999,-122.2343583,4.1,2.0,322.0,4.3,restaurant|food|point_of_interest|establishment,"825 El Camino Real, Redwood City",San Mateo
+ChIJCzSGVEiij4AR4Ku-TIkjEGc,Starbucks,37.49041,-122.240326,4.0,2.0,280.0,4.2,cafe|restaurant|food|point_of_interest|store|establishment,"490 El Camino Real, Redwood City",San Mateo
+ChIJy_6H5Eyij4AR8Wq38iHHktQ,I Dumpling,37.4863668,-122.2346594,4.3,1.0,660.0,4.3,restaurant|food|point_of_interest|establishment,"2660 Broadway, Redwood City",San Mateo
+ChIJsy7IWEmij4ARMSPxS-uj7zw,Circle K,37.48849619999999,-122.238056,3.3,1.0,20.0,2.51,convenience_store|gas_station|meal_takeaway|restaurant|food|point_of_interest|store|establishment,"602 El Camino Real, Redwood City",San Mateo
+ChIJOaf5XUyij4AR2S5sp3ltmbM,Redwood Bistro,37.4871029,-122.2355938,4.2,1.0,308.0,4.2,meal_delivery|meal_takeaway|restaurant|food|point_of_interest|establishment,"711 El Camino Real, Redwood City",San Mateo
+ChIJhfs58Eyij4ARPXy-go9HOqY,La Casita Chilanga,37.4865249,-122.2348861,4.1,2.0,720.0,4.3,restaurant|food|point_of_interest|establishment,"761 El Camino Real, Redwood City",San Mateo
+ChIJo_HfEUmij4ARTD1tcd8Xfg8,Higuma Japanese Restaurant,37.4895773,-122.2391855,4.6,2.0,452.0,4.83,restaurant|food|point_of_interest|establishment,"540 El Camino Real, Redwood City",San Mateo
+ChIJcT6CYEyij4ARUkq7skoUerQ,Estampas Peruanas Restaurant,37.4870639,-122.2355139,4.4,2.0,630.0,4.62,restaurant|food|point_of_interest|establishment,"715 El Camino Real, Redwood City",San Mateo
+ChIJoRS9Rkmij4ARUhWTeKPIfbM,Burger King,37.4894954,-122.2381648,3.7,1.0,474.0,3.7,restaurant|food|point_of_interest|establishment,"575 El Camino Real, Redwood City",San Mateo
+ChIJm5mMq9Cjj4ARh9KF5PZjTAk,Katie's Kitchens,37.4872471,-122.2366457,,,,,restaurant|food|point_of_interest|establishment,"694 El Camino Real, Redwood City",San Mateo
+ChIJ_21JHFWjj4ARb-KQ1noiyPo,Burma Spice,37.4901861,-122.2403222,4.7,2.0,72.0,4.52,restaurant|food|point_of_interest|establishment,"490 El Camino Real #140, Redwood City",San Mateo
+ChIJT-3vsPGjj4ARlp2Q5mTrgnc,Cocina Economica Don Victor de Redwood City,37.4825095,-122.2351398,,,,,restaurant|food|point_of_interest|establishment,"James and, Clinton Street, Redwood City",San Mateo
+ChIJeZkn-Uiij4AROdXTdPgewpU,Ben Frank's,37.4908839,-122.2399137,4.3,1.0,509.0,4.3,meal_takeaway|restaurant|food|point_of_interest|establishment,"491 El Camino Real, Redwood City",San Mateo
+ChIJ99DzPEyij4ARMmbic0aLTuE,Chavez Supermarket,37.4885414,-122.235419,4.0,1.0,387.0,4.0,supermarket|grocery_or_supermarket|finance|restaurant|food|point_of_interest|store|establishment,"775 Arguello Street, Redwood City",San Mateo
+ChIJs2oI9kWij4ARo4SDjWzuuJw,Pizza Hut,37.4939816,-122.2360057,3.9,1.0,350.0,3.9,meal_delivery|meal_takeaway|restaurant|food|point_of_interest|establishment,"600 Whipple Avenue, Redwood City",San Mateo
+ChIJT88EM0yij4ARijiCHh33D28,840 Wine Bar & Cocktail Lounge,37.4888459,-122.2343235,4.2,2.0,204.0,4.41,bar|night_club|restaurant|food|point_of_interest|establishment,"840 Brewster Avenue, Redwood City",San Mateo
+ChIJlfReVKyjj4AR1xZGsWndLhg,Chick-fil-A,37.4941284,-122.2356531,4.3,1.0,1720.0,4.3,restaurant|food|point_of_interest|establishment,"536 Whipple Avenue, Redwood City",San Mateo
+ChIJRcUqgEWij4ARyR57zWLExWA,IHOP,37.4954546,-122.2348829,4.0,1.0,1388.0,4.0,restaurant|food|point_of_interest|establishment,"491 Veterans Boulevard, Redwood City",San Mateo
+ChIJgdKoj0Wij4ARIizE89FRgZU,ampm,37.4944895,-122.2352357,3.0,1.0,8.0,2.17,convenience_store|atm|gas_station|cafe|supermarket|grocery_or_supermarket|store|finance|restaurant|food|point_of_interest|establishment,"504 Whipple Avenue, Redwood City",San Mateo
+ChIJi_bG6iGjj4ARIIiMIOeLjPk,Pardon My Cheesesteak,37.4956668,-122.2349804,,,,,restaurant|food|point_of_interest|establishment,"491 Veterans Boulevard, Redwood City",San Mateo

@@ -1,0 +1,311 @@
+place_id,name,lat,lng,rating,price_level,user_ratings_total,quality_score,types,vicinity,city
+ChIJt8dAXemkj4ARXDrSoUeLfh0,Dutch Goose,37.4320471,-122.2015788,4.3,1.0,1454.0,4.3,bar|restaurant|food|point_of_interest|establishment,"3567 Alameda de las Pulgas, Menlo Park",Menlo Park
+ChIJCZfXbumkj4AR1p2me3o8urg,Flea Street,37.4318449,-122.2011183,4.5,4.0,431.0,4.59,restaurant|food|point_of_interest|establishment,"3607 Alameda de las Pulgas, Menlo Park",Menlo Park
+ChIJn8Cf4uukj4ARJ3Z-8BqZ5EI,Lulu's on the Alameda,37.4322851,-122.202136,4.1,1.0,407.0,4.1,restaurant|food|point_of_interest|establishment,"3539 Alameda de las Pulgas, Menlo Park",Menlo Park
+ChIJgfjkWemkj4ARcjnuZBHmt9w,Avanti Pizza Fresh Pasta,37.431895,-122.20236,4.1,1.0,207.0,4.1,restaurant|food|point_of_interest|establishment,"3536 Alameda de las Pulgas #4, Menlo Park",Menlo Park
+ChIJlexF--ukj4ARHrF17Uxv5jI,Lutticken's,37.43244139999999,-122.2024388,4.3,1.0,196.0,4.3,bar|restaurant|food|point_of_interest|establishment,"3535 Alameda de las Pulgas, Menlo Park",Menlo Park
+ChIJX78UQ-mkj4ARRUtM_dZIp0w,Starbucks,37.4316641,-122.2019432,3.9,2.0,213.0,4.09,cafe|restaurant|food|point_of_interest|store|establishment,"3590 Alameda de las Pulgas, Menlo Park",Menlo Park
+ChIJq6CCdl-jj4ARjkoQDdcOsDE,Celia's,37.4595368,-122.1943375,4.2,2.0,859.0,4.41,restaurant|food|point_of_interest|establishment,"1850 El Camino Real, Menlo Park",Menlo Park
+ChIJGfS9j8Ojj4ARM4NPR0cGzMI,Mademoiselle Colette,37.4631854,-122.1969313,4.7,,24.0,3.63,bakery|cafe|restaurant|food|point_of_interest|store|establishment,"2 Dinkelspiel Station Lane Patio, Atherton",Menlo Park
+ChIJDcpuW2mjj4AR2H18vpzJt8U,Pizza Hut,37.4705847,-122.2015929,3.8,1.0,229.0,3.8,meal_delivery|meal_takeaway|restaurant|food|point_of_interest|establishment,"3415 Middlefield Road, Menlo Park",Menlo Park
+ChIJwTmN9myjj4AR9pRALapam3c,Hometown Noodle Restaurant,37.47243159999999,-122.204733,4.0,1.0,362.0,4.0,restaurant|food|point_of_interest|establishment,"3151 Middlefield Road, Redwood City",Menlo Park
+ChIJx-Kb5nGjj4ARcvsUYmWS2TA,Jack in the Box,37.4676054,-122.2090642,3.5,1.0,685.0,3.5,meal_delivery|restaurant|food|point_of_interest|establishment,"3199 El Camino Real, Redwood City",Menlo Park
+ChIJ3diSZWyjj4ARnIvP4WJNZfY,Mexcal Taqueria,37.4719321,-122.2039819,4.5,1.0,253.0,4.5,restaurant|food|point_of_interest|establishment,"3215 Middlefield Road, Menlo Park",Menlo Park
+ChIJ334KkXOjj4ARrzZ7_kMWQ7c,Palo Alto Auxiliary,37.4687534,-122.2134204,,,,,restaurant|food|point_of_interest|establishment,"61 Renato Court # 16, Redwood City",Menlo Park
+ChIJZXIJX2yjj4ARB4En0symZQM,Taqueria Gonzalez,37.4721559,-122.2048351,4.5,2.0,279.0,4.73,restaurant|food|point_of_interest|establishment,"3194 Middlefield Road, Redwood City",Menlo Park
+ChIJre18DG6jj4ARgCEz_CQIXdc,Domino's Pizza,37.4685964,-122.2073825,3.3,1.0,328.0,3.3,meal_delivery|meal_takeaway|restaurant|food|point_of_interest|establishment,"100 Fifth Avenue, Redwood City",Menlo Park
+ChIJ2f6HIW6jj4ARypWhxp6NZ78,Chavez Supermarket,37.4675751,-122.2079394,4.1,,760.0,4.1,atm|grocery_or_supermarket|finance|restaurant|food|point_of_interest|store|establishment,"46 Fifth Avenue, Redwood City",Menlo Park
+ChIJxW7o92ujj4ARtKaaUtmG0HY,Las Parrillas Restaurant,37.4706668,-122.2032935,3.9,2.0,195.0,4.09,restaurant|food|point_of_interest|establishment,"3284 Middlefield Road, Menlo Park",Menlo Park
+ChIJfeOQA26jj4ARPgitgF7IA3g,La Roca Restaurant,37.4683069,-122.2085021,4.2,,75.0,3.88,restaurant|food|point_of_interest|establishment,"55 Fifth Avenue unit b, Redwood City",Menlo Park
+ChIJy2WW3W2jj4ARZUjZtDtwkNk,La Quinta Plaza,37.4694757,-122.2071596,5.0,,5.0,3.57,restaurant|food|point_of_interest|establishment,"171 Fifth Avenue # 106, Redwood City",Menlo Park
+ChIJS_vu2_Sjj4ARBPbjEHLkE1Q,La Quinta Pizza,37.4694384,-122.2073944,4.7,1.0,178.0,4.7,restaurant|food|point_of_interest|establishment,"151 Fifth Avenue STE B, Redwood City",Menlo Park
+ChIJN6lxI3Kjj4ARtyvHC8OJ__k,Selby's,37.4685773,-122.210373,4.4,4.0,419.0,4.49,restaurant|food|point_of_interest|establishment,"3001 El Camino Real, Redwood City",Menlo Park
+ChIJMdOU_mujj4ARbA_kUvfzDFM,Tacos El Jarochito,37.4706982,-122.2027965,4.4,1.0,132.0,4.4,restaurant|food|point_of_interest|establishment,"3360 Middlefield Road, Menlo Park",Menlo Park
+ChIJ3da_5Gujj4ARVIB1crpdgq4,Tacos el Fogon,37.4709584,-122.2021862,4.3,,153.0,4.3,restaurant|food|point_of_interest|establishment,"3387 Middlefield Road, Menlo Park",Menlo Park
+ChIJLbOUwdyjj4ARPPOmQ0iXy0Q,TacosLosGemelos#2,37.4717643,-122.2044241,4.4,,14.0,3.26,restaurant|food|point_of_interest|establishment,"3200 Middlefield Road, Menlo Park",Menlo Park
+ChIJVbEYve-jj4AR77rV9jAOcec,Los Carnalitos Food Truck,37.4693397,-122.2112908,4.6,2.0,486.0,4.83,restaurant|food|point_of_interest|establishment,"2907 El Camino Real, Redwood City",Menlo Park
+ChIJbS9puHijj4ARKhaZa0O_hQQ,Comalito,37.4725612,-122.2048114,4.9,1.0,54.0,4.22,restaurant|food|point_of_interest|establishment,"3143 Middlefield Road, Redwood City",Menlo Park
+ChIJleds8Gyjj4AR4mL7j3IqKHQ,Paleteria Los Manguitos,37.47274110000001,-122.205068,4.4,1.0,283.0,4.4,restaurant|food|point_of_interest|store|establishment,"3133 Middlefield Road, Redwood City",Menlo Park
+ChIJp0_WIACjj4ARHeBcHGRiFtA,Eskina Breakfast & Lunch,37.4733851,-122.2058547,4.9,2.0,164.0,5.15,cafe|restaurant|food|point_of_interest|establishment,"3101 Middlefield Road, Redwood City",Menlo Park
+ChIJA7pOfFujj4AR8vokupz09J4,Shawarma Palace,37.4733853,-122.2058548,4.4,1.0,62.0,3.9,restaurant|food|point_of_interest|establishment,"3101 Middlefield Road, Redwood City",Menlo Park
+ChIJx1Q6S22jj4ARsVXqjIlZQtI,Tacos El Grullense E&E,37.4737417,-122.2073611,4.1,1.0,667.0,4.1,restaurant|food|point_of_interest|establishment,"3018 Middlefield Road, Redwood City",Menlo Park
+ChIJ685Yfd-jj4ARlbSP4u1v_18,El Guanaco Salvadorean & Mexican Restaurant,37.4740412,-122.2080151,3.6,,21.0,2.75,restaurant|food|point_of_interest|establishment,"2950 B, 2950 Middlefield Road, Redwood City",Menlo Park
+ChIJt3ryQ0qjj4ARbmOQRFWiSsk,Carnitas El Rincon,37.4740412,-122.2080151,4.1,1.0,49.0,3.47,restaurant|food|point_of_interest|establishment,"2950 Middlefield Road, Redwood City",Menlo Park
+ChIJPd8zEN6kj4ARNd9OfWmHyaU,Starbucks,37.423559,-122.197718,4.1,2.0,335.0,4.3,cafe|restaurant|food|point_of_interest|store|establishment,"325 Sharon Park Drive, Menlo Park",Menlo Park
+ChIJPd8zEN6kj4ARpm5JaBuWH3M,El Cerrito,37.42380879999999,-122.1965054,4.5,2.0,431.0,4.73,restaurant|food|point_of_interest|establishment,"325 Sharon Park Drive B4, Menlo Park",Menlo Park
+ChIJRUujGd6kj4ARMaazxxHifUE,Eric's Gourmet,37.4239117,-122.1966525,3.5,1.0,43.0,2.9,meal_takeaway|restaurant|food|point_of_interest|store|establishment,"325 Sharon Park Drive, Menlo Park",Menlo Park
+ChIJy6oKPhSlj4ARNSJmSFve4Vk,MJ Menlo Park INC,37.42401540000001,-122.1965772,4.8,2.0,46.0,4.22,restaurant|food|point_of_interest|establishment,"325 Sharon Park Drive Ste A2, Menlo Park",Menlo Park
+ChIJp1uWC0mlj4ARsNiuJAYb5Zk,Drunken Monk,37.4565375,-122.1883738,4.1,2.0,139.0,4.3,restaurant|food|point_of_interest|establishment,"1438 El Camino Real, Menlo Park",Menlo Park
+ChIJ_-T3GD-lj4ARuK5KmNgcQBQ,Oak + Violet,37.4561654,-122.1875838,4.3,,305.0,4.3,restaurant|food|point_of_interest|establishment,"1400 El Camino Real, Menlo Park",Menlo Park
+ChIJ99zFYROjj4ARGCIsm3bqEGA,kicks Sports and Grill,37.47660550000001,-122.2024648,5.0,1.0,10.0,3.65,restaurant|food|point_of_interest|establishment,"3151 Edison Way, Redwood City",Menlo Park
+ChIJ9adooRKjj4ARGeiaWeRdeJ8,El Grullense II,37.4744444,-122.2083333,4.3,1.0,224.0,4.3,restaurant|food|point_of_interest|establishment,"2940 Middlefield Road, Redwood City",Menlo Park
+ChIJKRXoZxujj4AR1ClW0emP4qw,Dickey's Barbecue Pit,37.4765397,-122.20114,3.1,2.0,55.0,2.82,restaurant|food|point_of_interest|store|establishment,"604 Fifth Avenue Suite A and B, Redwood City",Menlo Park
+ChIJf5oo9k-jj4ARWPwuLUhW2vs,Wing Boss,37.4765115,-122.20137,2.5,3.0,13.0,1.94,restaurant|meal_takeaway|food|point_of_interest|establishment,"604 Fifth Avenue, Redwood City",Menlo Park
+ChIJoQsWL-ujj4ARblhiFq7R0zU,Tacos MariLu Food Truck,37.4765304,-122.2044462,4.3,1.0,6.0,3.09,restaurant|food|point_of_interest|establishment,"3151 Edison Way, Redwood City",Menlo Park
+ChIJsdCloRKjj4ARew1tmjc1B3Y,La Casita Chilanga,37.47455429999999,-122.208513,4.5,2.0,724.0,4.73,restaurant|food|point_of_interest|establishment,"2928 Middlefield Road, Redwood City",Menlo Park
+ChIJ8zlCyxWjj4ARJLjdcDokinY,El Grullense E&E,37.4798944,-122.2001294,4.2,1.0,346.0,4.2,meal_takeaway|restaurant|food|point_of_interest|establishment,"795 Fifth Avenue, Redwood City",Menlo Park
+ChIJMQ3Jlc6jj4AR26p7uGgScKw,Taqueria Arroyo,37.475543,-122.2074767,,,,,restaurant|food|point_of_interest|establishment,"2930 Flood Avenue, Redwood City",Menlo Park
+ChIJW_xz3RWjj4AR4ie8zErIWHA,Cipotes Restaurant,37.48084100000001,-122.1987135,3.6,1.0,606.0,3.6,restaurant|food|point_of_interest|establishment,"828 Fifth Avenue, Redwood City",Menlo Park
+ChIJjaTui1Kjj4AR9tSzmaQDjGo,Tacos y Ceviche El Atoron,37.4751446,-122.2086025,,,,,restaurant|food|point_of_interest|establishment,"2903 Middlefield Road, Redwood City",Menlo Park
+ChIJN9urM66kj4ARTUoR3reRw2g,Subway,37.4506619,-122.1851727,3.7,1.0,94.0,3.63,meal_takeaway|restaurant|food|point_of_interest|establishment,"809 Santa Cruz Avenue, Menlo Park",Menlo Park
+ChIJXTqVn7qkj4ARa3-Bikh4S9c,Amici's East Coast Pizzeria,37.4503135,-122.1859112,4.2,2.0,525.0,4.41,restaurant|food|point_of_interest|establishment,"880 Santa Cruz Avenue, Menlo Park",Menlo Park
+ChIJ2wlgDrCkj4ARMheNOnjl6wc,Mademoiselle Colette,37.4508806,-122.1853833,4.5,3.0,693.0,4.73,bakery|cafe|restaurant|food|point_of_interest|store|establishment,"816 Santa Cruz Avenue, Menlo Park",Menlo Park
+ChIJ2aR2-6-kj4ARCRsRgFybxcc,Coffeebar,37.452,-122.1855,4.4,2.0,940.0,4.62,bakery|meal_takeaway|cafe|restaurant|food|point_of_interest|store|establishment,"1149 Chestnut Street, Menlo Park",Menlo Park
+ChIJKRo4cbCkj4ARTAlpAXF8f7s,The Posh Bagel (Menlo Park),37.4501611,-122.1856063,4.0,1.0,202.0,4.0,bakery|restaurant|food|point_of_interest|store|establishment,"869 Santa Cruz Avenue, Menlo Park",Menlo Park
+ChIJ43doM-ulj4ARDDU_2YFai1c,ZENSHI Handcrafted Sushi,37.4491818,-122.185159,,,,,restaurant|meal_takeaway|food|point_of_interest|establishment,"1010 University Drive, Menlo Park",Menlo Park
+ChIJYfJCcSqlj4ARm2v5HkfMSv0,Camper,37.4499958,-122.1861014,4.4,2.0,434.0,4.62,restaurant|food|point_of_interest|establishment,"898 Santa Cruz Avenue, Menlo Park",Menlo Park
+ChIJB0d75rK9j4AR-sgYVBDrIgs,LeVant dessert,37.4507691,-122.1856357,4.4,2.0,166.0,4.62,bakery|cafe|restaurant|food|point_of_interest|store|establishment,"842 Santa Cruz Avenue, Menlo Park",Menlo Park
+ChIJeRPhbgClj4AR9sW9Tqbu0Qs,"yeobo, darling",37.4504806,-122.1851368,4.9,,16.0,3.67,restaurant|food|point_of_interest|establishment,"827 Santa Cruz Avenue, Menlo Park",Menlo Park
+ChIJVVXqDrCkj4ARLM2HcoPKxmY,Roma,37.4508844,-122.1855027,4.1,2.0,270.0,4.3,restaurant|food|point_of_interest|establishment,"820 Santa Cruz Avenue, Menlo Park",Menlo Park
+ChIJJa7UG7Ckj4ARWTVwwBUhWU0,Bagel Street Cafe,37.4513695,-122.1849418,4.4,1.0,178.0,4.4,bakery|cafe|restaurant|food|point_of_interest|store|establishment,"746 Santa Cruz Avenue, Menlo Park",Menlo Park
+ChIJ__-UGrCkj4ARFiZnv8KczUg,Clark's Oyster Bar- Menlo Park,37.4512731,-122.1851479,3.8,,27.0,2.97,restaurant|food|point_of_interest|establishment,"780 Santa Cruz Avenue, Menlo Park",Menlo Park
+ChIJx03r9yilj4ARHXLc1aMnESk,Mrs Khan Uyghur Cuisine,37.4520916,-122.1845493,4.3,2.0,222.0,4.51,restaurant|food|point_of_interest|establishment,"712 Santa Cruz Avenue, Menlo Park",Menlo Park
+ChIJ6ciMyq-kj4ARRLEgxqtHAjQ,STACKS Menlo Park,37.45345599999999,-122.183247,4.3,2.0,1284.0,4.51,restaurant|food|point_of_interest|establishment,"600 Santa Cruz Avenue, Menlo Park",Menlo Park
+ChIJo4971K-kj4AReyDUlK6mSI0,Left Bank,37.452656,-122.1833172,4.2,3.0,1137.0,4.41,bar|restaurant|food|point_of_interest|establishment,"635 Santa Cruz Avenue, Menlo Park",Menlo Park
+ChIJJ0dW5KWkj4AREKzj85yKGhw,FEY Restaurant,37.4556584,-122.1868502,4.0,2.0,502.0,4.2,meal_delivery|restaurant|food|point_of_interest|establishment,"1368 El Camino Real, Menlo Park",Menlo Park
+ChIJmcQI2K-kj4ARygry3P5HdhU,Starbucks,37.452214,-122.183867,3.9,2.0,253.0,4.09,cafe|restaurant|food|point_of_interest|store|establishment,"643-693 Santa Cruz Avenue, Menlo Park",Menlo Park
+ChIJiRDbtq-kj4ARtq3vEYcFmvw,Sultana Mediterranean,37.4537158,-122.1836108,4.5,2.0,659.0,4.73,restaurant|food|point_of_interest|establishment,"1149 El Camino Real, Menlo Park",Menlo Park
+ChIJgyJtva-kj4ARRAkjcifHwv0,Lotus Restaurant,37.4537353,-122.1844533,4.3,1.0,287.0,4.3,restaurant|food|point_of_interest|establishment,"625 Oak Grove Avenue Unit B, Menlo Park",Menlo Park
+ChIJiQTY0LGkj4ARaKrhEgWBgHk,Chef Kwan's,37.452247,-122.182585,3.9,2.0,273.0,4.09,restaurant|food|point_of_interest|establishment,"630 Menlo Avenue, Menlo Park",Menlo Park
+ChIJyX5Cna-kj4ARFVEhKvEn--w,Round Table Pizza,37.4543529,-122.185026,4.2,2.0,367.0,4.41,meal_takeaway|meal_delivery|restaurant|food|point_of_interest|establishment,"1225 El Camino Real, Menlo Park",Menlo Park
+ChIJK5fHMa6kj4AR8DZJff2k-MQ,Trellis Restaurant,37.45324610000001,-122.182664,4.3,2.0,260.0,4.51,restaurant|food|point_of_interest|establishment,"1077 El Camino Real, Menlo Park",Menlo Park
+ChIJPTPS1q-kj4ARMuL955Oc-tI,Bistro Vida,37.4524799,-122.1834076,4.4,2.0,460.0,4.62,restaurant|food|point_of_interest|establishment,"641 Santa Cruz Avenue, Menlo Park",Menlo Park
+ChIJE1BxNq6kj4ARm-YgnncZtO4,British Bankers Club,37.45372909999999,-122.1826871,4.3,2.0,394.0,4.51,restaurant|bar|food|point_of_interest|establishment,"555 Santa Cruz Avenue, Menlo Park",Menlo Park
+ChIJQaUX9rGkj4AR0094cczM7es,Jeffrey's Hamburgers,37.4525122,-122.1802369,4.5,2.0,1448.0,4.73,restaurant|food|point_of_interest|establishment,"888 El Camino Real, Menlo Park",Menlo Park
+ChIJ4_hc4a6kj4ARrAZhq2MG_bo,7-Eleven,37.4557638,-122.182934,2.8,1.0,35.0,2.25,convenience_store|liquor_store|cafe|restaurant|food|point_of_interest|store|establishment,"525 Oak Grove Avenue, Menlo Park",Menlo Park
+ChIJ3RNyM66kj4ARFCWUS_Jt3jg,Kyosho,37.4532773,-122.1829578,4.5,4.0,371.0,4.59,restaurant|food|point_of_interest|establishment,"605 Santa Cruz Avenue, Menlo Park",Menlo Park
+ChIJrbqcMa6kj4ARYORVCGFGaI0,Mama Coco Cocina Mexicana,37.4532544,-122.1827867,4.3,2.0,367.0,4.51,restaurant|food|point_of_interest|establishment,"1081 El Camino Real, Menlo Park",Menlo Park
+ChIJARB2O66kj4ARF-HVDDNeV7c,Cafe Borrone,37.4537501,-122.1823053,4.4,2.0,2151.0,4.62,cafe|restaurant|food|point_of_interest|establishment,"1010 El Camino Real, Menlo Park",Menlo Park
+ChIJPbMu7rGkj4ARhNZdO83g59k,Octopus Japanese Restaurant,37.452292,-122.1810132,4.4,2.0,181.0,4.62,restaurant|food|point_of_interest|establishment,"925 El Camino Real, Menlo Park",Menlo Park
+ChIJ1x4tlq-kj4ARmtMkYWUFaV8,La Stanza Cucina Italiana,37.4535769,-122.1845604,4.5,2.0,310.0,4.73,restaurant|food|point_of_interest|establishment,"651 Oak Grove Avenue Suite H, Menlo Park",Menlo Park
+ChIJ2ZJ7s6-kj4ARGO385nDTuaY,McDonald's,37.4539272,-122.183154,3.7,1.0,911.0,3.7,cafe|restaurant|food|point_of_interest|store|establishment,"1100 El Camino Real, Menlo Park",Menlo Park
+ChIJ_Wq7za-kj4AR2NguTYVeu84,Cold Stone Creamery,37.4530032,-122.1830461,4.0,2.0,118.0,4.2,bakery|restaurant|food|point_of_interest|store|establishment,"611 Santa Cruz Avenue, Menlo Park",Menlo Park
+ChIJJ-I5z6-kj4ARIr0WLwxDekM,Menlo Cafe,37.4531213,-122.1837179,4.2,1.0,94.0,4.12,cafe|restaurant|food|point_of_interest|store|establishment,"620 Santa Cruz Avenue, Menlo Park",Menlo Park
+ChIJPRbE4q6kj4ARvgfhVpQQ-Wc,J & J Hawaiian BBQ,37.45566499999999,-122.1827078,4.2,1.0,655.0,4.2,restaurant|food|point_of_interest|establishment,"1170 Alma Street, Menlo Park",Menlo Park
+ChIJpxhC6celj4AR03xbVWGitgU,Hirotaka Sushi,37.4555862,-122.1864197,4.5,2.0,50.0,4.02,restaurant|food|point_of_interest|establishment,"1328 El Camino Real, Menlo Park",Menlo Park
+ChIJe1sdKlKlj4ARrLC-zqz7wHo,Burma Love,37.4554175,-122.1862363,4.2,2.0,162.0,4.41,restaurant|food|point_of_interest|establishment,"1302 El Camino Real, Menlo Park",Menlo Park
+ChIJC4JvtdKlj4ARf747hSEVuyo,Che Fico Parco Menlo,37.4553276,-122.1857749,4.0,2.0,132.0,4.2,restaurant|food|point_of_interest|establishment,"1302 El Camino Real, Menlo Park",Menlo Park
+ChIJiTFlmqalj4AR8JK5BSsP7uk,Proper Food,37.4550313,-122.185385,4.3,,15.0,3.2,restaurant|food|point_of_interest|establishment,"1300 El Camino Real, Menlo Park",Menlo Park
+ChIJpw1PZ4Olj4AR8fsc3070UDA,Robin Menlo Park,37.45503499999999,-122.1853835,4.7,,102.0,4.7,restaurant|food|point_of_interest|establishment,"1300 El Camino Real Suite C, Menlo Park",Menlo Park
+ChIJXfHxRFKlj4AR7ku_2dpX27c,Jason Cafe,37.4548782,-122.1849956,4.5,2.0,126.0,4.73,restaurant|food|point_of_interest|establishment,"1246 El Camino Real, Menlo Park",Menlo Park
+ChIJt0ZDhbelj4ARogAJ04UK6Y4,Springline - The Offices (South),37.4553544,-122.1853121,4.7,,3.0,3.33,restaurant|food|point_of_interest|establishment,"1300 El Camino Real, Menlo Park",Menlo Park
+ChIJ-_yAHQClj4AR4G8J6Gda_NE,Bubbelah,37.4557547,-122.1854195,4.5,,2.0,3.18,restaurant|food|point_of_interest|establishment,"1300 El Camino Real Suite A, Menlo Park",Menlo Park
+ChIJ9c2m3eelj4ARXFWyLXrjbDo,Tilak Indian and Nepalese Cuisine,37.4521978,-122.1837068,4.5,2.0,235.0,4.73,restaurant|food|point_of_interest|establishment,"683 Santa Cruz Avenue, Menlo Park",Menlo Park
+ChIJdRIQVbKlj4ARR7BFLYsQ1rc,Mr. Green Bubble | Menlo Park,37.453325,-122.1835405,4.2,1.0,132.0,4.2,meal_takeaway|restaurant|food|point_of_interest|store|establishment,"604 Santa Cruz Avenue, Menlo Park",Menlo Park
+ChIJA424LSylj4ARlVqdsr_STh4,Mac'n Cheese Shop Menlo Park,37.45266729999999,-122.1833631,3.0,,3.0,2.13,meal_takeaway|restaurant|food|point_of_interest|establishment,"635 Santa Cruz Avenue, Menlo Park",Menlo Park
+ChIJLylwScmlj4ARj_Cu5p52tuc,Son & Garden,37.4550286,-122.1835962,4.3,2.0,549.0,4.51,restaurant|food|point_of_interest|establishment,"1195 Merrill Street, Menlo Park",Menlo Park
+ChIJnemarm-lj4AR0SbnSCF4Czk,Farmhouse Kitchen Thai Cuisine,37.4549056,-122.1834202,4.4,1.0,1253.0,4.4,restaurant|food|point_of_interest|establishment,"1165 Merrill Street, Menlo Park",Menlo Park
+ChIJq6r6AK-kj4AR2S_J3xr_5ew,iMenuToGo,37.45486489999999,-122.1833409,,,,,restaurant|food|point_of_interest|establishment,"1165 Merrill Street, Menlo Park",Menlo Park
+ChIJG9rCFfKlj4ARIBaOF4i5_M8,The Mandarin,37.453024,-122.1822457,4.3,2.0,165.0,4.51,restaurant|food|point_of_interest|establishment,"1029 El Camino Real, Menlo Park",Menlo Park
+ChIJyyp24eClj4ARq9LeAXdUlFE,Mountain Mike's Pizza,37.4528284,-122.1820794,4.2,2.0,160.0,4.41,meal_delivery|meal_takeaway|restaurant|food|point_of_interest|establishment,"1001 El Camino Real, Menlo Park",Menlo Park
+ChIJzeMWMVKlj4ARlDbb3WjiFZ0,Mami Cheli's,37.4525801,-122.1815592,4.3,1.0,256.0,4.3,restaurant|food|point_of_interest|establishment,"989 El Camino Real Ste B, Menlo Park",Menlo Park
+ChIJlyfNd0ijj4ARMMPsRV-Th0c,Starbucks,37.47861899999999,-122.186086,3.9,2.0,692.0,4.09,cafe|restaurant|food|point_of_interest|store|establishment,"Marsh Manor, 995 Marsh Road, Redwood City",Menlo Park
+ChIJF_y_20ejj4AR9R7-uYnJtOM,Freewheel Brewing Company - Best Brewery and Restaurant in Redwood City,37.4782969,-122.1870338,4.6,2.0,441.0,4.83,bar|restaurant|food|point_of_interest|establishment,"3736 Florence Street, Redwood City",Menlo Park
+ChIJ1_3qwUejj4ARR2LFfqhuGCo,Los Gallos Taqueria,37.4783394,-122.187192,4.2,1.0,684.0,4.2,restaurant|food|point_of_interest|establishment,"3726 Florence Street, Redwood City",Menlo Park
+ChIJQbl1wUejj4ARJ83XFomeFhw,Marsh Manor Shopping Center,37.4784065,-122.1871231,4.3,,720.0,4.3,shopping_mall|grocery_or_supermarket|restaurant|food|point_of_interest|store|establishment,"3700 Florence Street, Redwood City",Menlo Park
+ChIJM2JWkk6jj4ARniMrOcsXTnw,State of Mind Public House and Pizzeria,37.47826269999999,-122.1874204,4.6,1.0,117.0,4.6,restaurant|food|point_of_interest|establishment,"3710 Florence Street, Redwood City",Menlo Park
+ChIJAdkuPWqjj4ARRdQMSi_gRAE,Lavender 'n Cream,37.47828159999999,-122.1872289,4.3,2.0,100.0,4.51,bakery|cafe|restaurant|food|point_of_interest|store|establishment,"3716 Florence Street, Redwood City",Menlo Park
+ChIJEd_m3i27j4ARpK8gpI1kGlM,Feast and Floral,37.4783751,-122.1865098,5.0,,26.0,3.89,restaurant|florist|bar|food|point_of_interest|store|establishment,"3770 Florence Street, Redwood City",Menlo Park
+ChIJHbZpJ9Wkj4ARV6nV6sSjBcA,Coupa Cafe - Y2E2,37.42833329999999,-122.1755556,4.1,2.0,306.0,4.3,cafe|store|restaurant|food|point_of_interest|establishment,"473 Via Ortega, Stanford",Menlo Park
+ChIJc-KUEdOkj4ARdvJTa-mR1JM,Beckman Bistro,37.4318753,-122.1763953,4.3,1.0,112.0,4.3,cafe|restaurant|food|point_of_interest|establishment,"279 Campus Drive W, Stanford",Menlo Park
+ChIJW6n8VCu7j4ARUfRs20MkcpA,Greenfish Cafe,37.43099290000001,-122.174685,4.1,1.0,239.0,4.1,restaurant|food|point_of_interest|establishment,"318 Campus Drive, Stanford",Menlo Park
+ChIJSXqoANOkj4ARhxIaLTXHhgk,Lutticken's Deli,37.43214830000001,-122.1772972,4.2,1.0,76.0,3.9,store|restaurant|food|point_of_interest|establishment,"269 Campus Drive, Stanford",Menlo Park
+ChIJaUR5aWSlj4ARw6CG3DFkPQY,Kali Stanford,37.43017760000001,-122.1764784,5.0,,1.0,3.51,restaurant|food|point_of_interest|establishment,"290 Jane Stanford Way, Palo Alto",Menlo Park
+ChIJtRbwQNOkj4ARflHkYQ2Lt-4,Alway Cafe,37.4317617,-122.1758062,,,,,cafe|store|restaurant|food|point_of_interest|establishment,"300 Pasteur Drive, Stanford",Menlo Park
+ChIJgzataM2kj4ARQmigzDUgYcw,ZoomCaffe,37.4357298,-122.1763631,3.2,,10.0,2.34,cafe|store|restaurant|food|point_of_interest|establishment,"Stanford Hospital, 875 Blake Wilbur Drive, Palo Alto",Menlo Park
+ChIJt9IuUEalj4ARww8oRp7uOB4,Outdoor House,37.4244885,-122.1801313,4.1,,9.0,2.98,restaurant|food|point_of_interest|establishment,"589 Governor's Avenue, Stanford",Menlo Park
+ChIJFzb5MDO7j4ARWg30HzjPZmI,Bazille,37.43910090000001,-122.1735263,4.3,2.0,156.0,4.51,restaurant|food|point_of_interest|establishment,"550 Stanford Shopping Center, Palo Alto",Menlo Park
+ChIJAQB0y8ukj4ARIh3K6QumFHc,Cafe Wisteria,37.4415123,-122.1791504,4.5,2.0,114.0,4.73,restaurant|food|point_of_interest|establishment,"75 Arbor Road, Menlo Park",Menlo Park
+ChIJZ1UNLrKkj4ARKcgVQRourdA,Cook's Seafood,37.451466,-122.17955,4.5,2.0,1151.0,4.73,restaurant|food|point_of_interest|establishment,"751 El Camino Real, Menlo Park",Menlo Park
+ChIJKQDyuVGlj4ARv_rHjJdjDAw,Guapa's Mexican Grill,37.4496803,-122.1784631,4.3,1.0,73.0,3.95,restaurant|food|point_of_interest|establishment,"515 El Camino Real suite 110, Menlo Park",Menlo Park
+ChIJeZwEO3Klj4AR_gcdPbBFgu4,ZENSHI Handcrafted Sushi,37.4505164,-122.1790396,,,,,restaurant|meal_takeaway|food|point_of_interest|establishment,"525 El Camino Real, Menlo Park",Menlo Park
+ChIJze7hSbKkj4ARozcgS2khx2Q,MP Mongolian BBQ,37.4518168,-122.1790433,4.3,2.0,450.0,4.51,restaurant|food|point_of_interest|establishment,"700 El Camino Real, Menlo Park",Menlo Park
+ChIJ6T-LuB-lj4ARpKsYLq_ZApg,Ren Omakase,37.4497487,-122.1764992,5.0,,9.0,3.63,restaurant|food|point_of_interest|establishment,"403 El Camino Real, Menlo Park",Menlo Park
+ChIJIe6BnIOlj4ARXPthTKjwgag,Peninsula meals an wheels,37.4523847,-122.1797053,,,,,restaurant|food|point_of_interest|establishment,"800 El Camino Real Suite #100, Menlo Park",Menlo Park
+ChIJDTJ6wNalj4ARy6J-AIBdFD0,The Villa Menlo Park,37.4510321,-122.1773984,5.0,,2.0,3.53,shopping_mall|jewelry_store|restaurant|food|point_of_interest|store|establishment,"500 El Camino Real, Menlo Park",Menlo Park
+ChIJ03qnoLSkj4ARY8QLKH73qlM,Eylan,37.45114499999999,-122.177326,4.5,,120.0,4.5,restaurant|food|point_of_interest|establishment,"500 El Camino Real, Menlo Park",Menlo Park
+ChIJexdrvjK7j4AR--GDhkDzYds,Tootsie's At The Stanford Barn,37.437217,-122.173251,4.4,2.0,445.0,4.62,cafe|restaurant|food|point_of_interest|establishment,"700 Welch Road, Palo Alto",Menlo Park
+ChIJ_6L2Ayq7j4ARPBzS52mKM-4,Olives at Building 160,37.42826410000001,-122.1688453,4.0,,20.0,3.04,cafe|restaurant|food|point_of_interest|store|establishment,"450 Serra Mall, Stanford",Menlo Park
+ChIJOfekbSy7j4ARXPcukN__pTk,Cool Cafe,37.4329809,-122.1704943,4.1,1.0,87.0,3.94,cafe|restaurant|food|point_of_interest|establishment,"328 Lomita Drive, Stanford",Menlo Park
+ChIJISfg6jK7j4AR1QjILutJPms,Vina Enoteca,37.4372072,-122.1732643,4.5,3.0,825.0,4.73,bar|restaurant|food|point_of_interest|establishment,"700 Welch Road #110, Palo Alto",Menlo Park
+ChIJgU7GmCqlj4ARyMCfuMy_-Wc,Late Night at Lakeside,37.42478439999999,-122.1762722,3.4,,5.0,2.43,restaurant|food|point_of_interest|establishment,"326 Serra Mall, Stanford",Menlo Park
+ChIJHbZpJ9Wkj4ARLAKdb9BaPAA,Coupa Cafe - Huang Engineering Center,37.4281953,-122.174204,4.1,2.0,34.0,3.45,cafe|restaurant|food|point_of_interest|store|establishment,"475 Via Ortega, Stanford",Menlo Park
+ChIJg6x2lCqlj4AR2poY1pR6jDY,Lakeside Dining,37.4246646,-122.1763587,4.1,,172.0,4.1,restaurant|food|point_of_interest|establishment,"326 Santa Teresa Street, Stanford",Menlo Park
+ChIJvU-pzFW7j4ARv5_R7i1DqWY,Tootsie's at the Cantor Arts Center,37.4326871,-122.1713037,4.0,2.0,38.0,3.42,restaurant|food|point_of_interest|establishment,"328 Lomita Drive, Stanford",Menlo Park
+ChIJq7CK9n27j4ARk-wBfkPd78s,Pizzone,37.4372072,-122.1732643,4.3,,11.0,3.15,meal_delivery|meal_takeaway|restaurant|food|point_of_interest|establishment,"700 Welch Road #110, Palo Alto",Menlo Park
+ChIJr7ZAS9S6j4ARIWkGk0FU9xg,The Axe & Palm (TAP),37.4250266,-122.1704929,4.0,1.0,231.0,4.0,restaurant|food|point_of_interest|establishment,"520 Lasuen Mall, Stanford",Menlo Park
+ChIJM3CutDW7j4ARoinoUTTB1Ng,Chipotle Mexican Grill,37.4442663,-122.1708902,3.1,1.0,889.0,3.1,restaurant|food|point_of_interest|establishment,"180 El Camino Real Ste 15A, Palo Alto",Menlo Park
+ChIJ2VtDOzS7j4ARaKOgGvJXoJ4,Fleming’s Prime Steakhouse & Wine Bar,37.44457,-122.1703298,4.4,4.0,1174.0,4.49,bar|restaurant|food|point_of_interest|establishment,"180 El Camino Real G-2, Palo Alto",Menlo Park
+ChIJo5nmsTW7j4ART3mdPx6VTDU,Pressed Juicery,37.44228020000001,-122.1709101,4.3,2.0,231.0,4.51,restaurant|food|point_of_interest|health|store|establishment,"660 Stanford Shopping Center Ste 230, Palo Alto",Menlo Park
+ChIJWd3-EjS7j4ARBpErHQgwXDU,NM Cafe,37.4413282,-122.1726101,4.3,2.0,39.0,3.69,restaurant|cafe|bar|food|point_of_interest|establishment,"400 Stanford Shopping Center, Palo Alto",Menlo Park
+ChIJD9VYOzS7j4ARus4pfa0zkJU,The Melt,37.4430947,-122.1725973,4.4,2.0,1968.0,4.62,restaurant|food|point_of_interest|establishment,"180 El Camino Real, Palo Alto",Menlo Park
+ChIJmdKIrTW7j4AROXkl-g4j78k,Tender Greens,37.4433554,-122.1703904,4.2,2.0,840.0,4.41,restaurant|food|point_of_interest|establishment,"180 El Camino Real Suite 1050, Palo Alto",Menlo Park
+ChIJt9KIrTW7j4ARjb1bTp5MW-E,True Food Kitchen,37.443921,-122.170323,4.2,2.0,2320.0,4.41,meal_takeaway|restaurant|food|point_of_interest|establishment,"180 El Camino Real Ste 1140, Palo Alto",Menlo Park
+ChIJhXcepTW7j4ARkdzoQMZEBoU,McDonald's,37.4426808,-122.1705781,3.7,1.0,701.0,3.7,cafe|restaurant|food|point_of_interest|store|establishment,"208 Stanford Shopping Center, Palo Alto",Menlo Park
+ChIJJzcXtnO7j4ARGsdmlyvEgYI,Pacific Catch,37.4427423,-122.1729721,4.2,2.0,667.0,4.41,restaurant|food|point_of_interest|establishment,"711 Stanford Shopping Center, Palo Alto",Menlo Park
+ChIJw9v7bFC7j4ARqHLv-7H0mZQ,Hummus Mediterranean Kitchen,37.4427416,-122.1728852,4.6,2.0,347.0,4.83,restaurant|food|point_of_interest|establishment,"715 Stanford Shopping Center, Palo Alto",Menlo Park
+ChIJGcqedvy7j4AR3qCgK_C-3qU,Taro San Japanese Noodle Bar,37.4428155,-122.1725344,3.9,2.0,639.0,4.09,restaurant|food|point_of_interest|establishment,"717 Stanford Shopping Center, Palo Alto",Menlo Park
+ChIJ-cKKzxa7j4ARMboigp4Thvk,Sushi Roku Palo Alto,37.4431814,-122.1724721,4.2,,160.0,4.2,restaurant|food|point_of_interest|establishment,"180 El Camino Real Suite 700a, Palo Alto",Menlo Park
+ChIJT4HbOAC7j4ARTCe1vbVPVT8,Delarosa,37.4432828,-122.1721584,,,,,restaurant|food|point_of_interest|establishment,"136 Stanford Shopping Center, Palo Alto",Menlo Park
+ChIJFcnfCkK7j4ARKg5J99QKKpU,Wetzel's Pretzels,37.442544,-122.1710704,3.4,1.0,22.0,2.6,bakery|restaurant|food|point_of_interest|store|establishment,"660 Stanford Shopping Center #228A, Palo Alto",Menlo Park
+ChIJk0N57Sm7j4ARq4jfPi88hKY,World Wrapps,37.4425494,-122.1705679,4.6,2.0,154.0,4.83,restaurant|food|point_of_interest|establishment,"180 Stanford Shopping Center Unit 240-C, Palo Alto",Menlo Park
+ChIJLwPku6e7j4ARG-kJtwaHoHk,JOE & THE JUICE,37.4428345,-122.1706597,3.2,2.0,146.0,3.36,cafe|meal_takeaway|restaurant|food|point_of_interest|store|establishment,"Urban Area, 669 Stanford Shopping Center, Palo Alto",Menlo Park
+ChIJ90rubDS7j4AR7pLFdYlNGU4,Go Fish Poke Bar- Stanford Shopping Center,37.4427274,-122.1705035,4.3,2.0,509.0,4.51,restaurant|food|point_of_interest|establishment,"660 Stanford Shopping Center #244B, Palo Alto",Menlo Park
+ChIJpbeYtaS7j4ARHndrtIWzx2k,Cedar And Sage Bistro,37.4444078,-122.1722516,,,,,bar|restaurant|food|point_of_interest|establishment,"1301 Stanford Shopping Center, Palo Alto",Menlo Park
+ChIJxQENlQ67j4AReETtyacmZA4,RH Rooftop Restaurant at RH Palo Alto,37.4447784,-122.1722412,3.9,,255.0,3.9,restaurant|food|point_of_interest|establishment,"180 El Camino Real Building B, Palo Alto",Menlo Park
+ChIJDdfCXjG7j4ARfPRwX96UcCs,ZoomCaffe,37.44151489999999,-122.1686795,4.1,,12.0,3.02,cafe|restaurant|food|point_of_interest|store|establishment,"211 Quarry Road Stanford Hospital Hoover Pavilion, Palo Alto",Menlo Park
+ChIJBRqe0TW7j4ARopovC5rU388,Dumpling Time Stanford,37.4449754,-122.1715713,3.9,,21.0,2.98,restaurant|food|point_of_interest|establishment,"180 El Camino Real #1410, Palo Alto",Menlo Park
+ChIJE8NQfTS7j4ARYBkxaVL4T_4,P.F. Chang's,37.4436715,-122.1682399,3.8,2.0,1136.0,3.99,meal_takeaway|meal_delivery|restaurant|food|point_of_interest|establishment,"900 Stanford Shopping Center Bldg. W Bldg. W, Palo Alto",Menlo Park
+ChIJ64ktUF67j4ARKikpyeVJKPA,Menlo Tavern,37.4477243,-122.1721992,4.3,,317.0,4.3,restaurant|food|point_of_interest|establishment,"100 El Camino Real, Menlo Park",Menlo Park
+ChIJYa_Hwm27j4ARnruqUA4l5Vc,Shake Shack Stanford Shopping Center,37.4436468,-122.1685085,3.9,2.0,1949.0,4.09,meal_takeaway|restaurant|food|point_of_interest|establishment,"180 El Camino Real Suite #950, Palo Alto",Menlo Park
+ChIJeQOhCS6jj4ARlzf6ci7X5V0,Counter Point,37.4803843,-122.176871,4.6,2.0,18.0,3.64,restaurant|food|point_of_interest|establishment,"4200 Bohannon Drive Suite 120, Menlo Park",Menlo Park
+ChIJ0ylFQdS6j4ARYIlSq40T71o,Subway,37.424222,-122.170939,3.9,1.0,33.0,3.12,meal_takeaway|restaurant|food|point_of_interest|establishment,"Tresidder Memorial Union, 459 Lagunita Drive, Stanford",Menlo Park
+ChIJw4w5aNS6j4AR9LgOtniCDno,The Treehouse,37.4240253,-122.1712546,4.2,1.0,581.0,4.2,restaurant|food|point_of_interest|establishment,"459 Lagunita Drive, Stanford",Menlo Park
+ChIJzz6JWNa6j4ARuFl1EXnBCf0,Coupa Cafe - Green Library,37.426204,-122.166995,4.3,2.0,730.0,4.51,cafe|store|restaurant|food|point_of_interest|establishment,"571 Escondido Mall, Stanford",Menlo Park
+ChIJ0ylFQdS6j4AR0t55yGvsDVo,Panda Express,37.4243048,-122.1708422,3.6,1.0,207.0,3.6,meal_delivery|meal_takeaway|restaurant|food|point_of_interest|establishment,"459 Lagunita Drive, Stanford",Menlo Park
+ChIJT06iJdi6j4ARK6ihRKzlQFI,Arbuckle Dining Pavilion,37.4284643,-122.1627905,4.2,2.0,73.0,4.05,cafe|restaurant|food|point_of_interest|establishment,"655 Knight Way, Stanford",Menlo Park
+ChIJWcHrNti6j4AR2u-_aV8SPfU,Coupa Cafe - GSB,37.428033,-122.162083,4.3,2.0,220.0,4.51,cafe|bakery|bar|store|restaurant|food|point_of_interest|establishment,"655 Knight Way, Stanford",Menlo Park
+ChIJyw-jRdS6j4ARgub3WeaYpQI,Starbucks,37.42413000000001,-122.17086,4.0,2.0,353.0,4.2,cafe|store|restaurant|food|point_of_interest|establishment,"459 Lagunita Drive, Stanford",Menlo Park
+ChIJjw_T0dC6j4ARyY6kKu8Gut8,Stern Dining,37.4245317,-122.1656462,4.3,,43.0,3.56,restaurant|food|point_of_interest|establishment,"618 Escondido Road, Stanford",Menlo Park
+ChIJ0ylFQdS6j4ARbijI31sh4tU,Jamba,37.424374,-122.17078,3.7,1.0,75.0,3.42,restaurant|food|point_of_interest|establishment,"459 Lagunita Drive #11, Stanford",Menlo Park
+ChIJ2R7EOfC7j4ARvyFeD7a74C8,Coho Cafe at the Alumni Center,37.4307491,-122.1648608,,,,,restaurant|food|point_of_interest|establishment,"326 Galvez Street, Stanford",Menlo Park
+ChIJjTRErbIzjoAR81croG-h0Hs,Zaida's Kitchen,37.4245469,-122.1707009,3.4,,49.0,2.88,restaurant|food|point_of_interest|establishment,"Tresidder Memorial Union, Lagunita Drive, Stanford",Menlo Park
+ChIJ2xOcQQG7j4ARPUxUWdX7Osk,Wetzel's Pretzels,37.4243048,-122.1708422,5.0,1.0,1.0,3.51,bakery|restaurant|food|point_of_interest|store|establishment,"459 Lagunita Drive #108, Stanford",Menlo Park
+ChIJTa15STq7j4ARjzcZsQytWoc,Round Table Pizza,37.4243048,-122.1708422,3.0,,2.0,2.12,meal_takeaway|meal_delivery|restaurant|food|point_of_interest|establishment,"459 Lagunita Drive, Stanford",Menlo Park
+ChIJpfijVxG7j4AReFztDW-fzMs,Branner Dining,37.4258375,-122.1627065,3.0,,3.0,2.13,restaurant|food|point_of_interest|establishment,"Branner Hall Complex, 655 Escondido Road, Stanford",Menlo Park
+ChIJQSEisjC7j4AR3juLmOBOEys,MacArthur Park Restaurant and Bar,37.4430264,-122.1655246,4.1,3.0,554.0,4.3,bar|restaurant|food|point_of_interest|establishment,"27 University Avenue, Palo Alto",Menlo Park
+ChIJIe9vfzC7j4ARKMPewN6Czv4,Café Soleil,37.44065519999999,-122.1627702,4.3,2.0,18.0,3.4,restaurant|food|point_of_interest|establishment,"675 El Camino Real, Palo Alto",Menlo Park
+ChIJXzozIq2jj4ARpEwPAaO9InY,Arya Steakhouse,37.4439087,-122.1633625,4.4,2.0,1190.0,4.62,restaurant|food|point_of_interest|establishment,"140 University Avenue, Palo Alto",Menlo Park
+ChIJiXr_Zze7j4ARgRtbgk7Len4,The Patio @ Rudy's,37.4451556,-122.1639389,4.1,2.0,2063.0,4.3,bar|night_club|restaurant|food|point_of_interest|establishment,"412 Emerson Street, Palo Alto",Menlo Park
+ChIJByU8Zze7j4ARtKef7nHMEks,Evvia Estiatorio,37.4451287,-122.1637993,4.6,3.0,2145.0,4.83,restaurant|food|point_of_interest|establishment,"420 Emerson Street, Palo Alto",Menlo Park
+ChIJe4kIFje7j4ARqb6yVqdp0tU,Darbar Indian Cuisine,37.4447819,-122.1651027,4.1,2.0,853.0,4.3,restaurant|food|point_of_interest|establishment,"129 Lytton Avenue, Palo Alto",Menlo Park
+ChIJg5JmqDm7j4ARxxy2NX7uuIQ,Starbucks,37.4443619,-122.1633794,4.1,2.0,678.0,4.3,cafe|restaurant|food|point_of_interest|store|establishment,"151 University Avenue, Palo Alto",Menlo Park
+ChIJHz4XFiW7j4AR4OCRJ5FPWnQ,Howie's Artisan Pizza,37.438029,-122.160035,4.4,2.0,452.0,4.62,restaurant|food|point_of_interest|establishment,"855 El Camino Real #60, Palo Alto",Menlo Park
+ChIJaeHk_jm7j4ARZfXh674aljg,Sprout Cafe,37.4442694,-122.1628667,4.3,2.0,499.0,4.51,bakery|cafe|restaurant|food|point_of_interest|store|establishment,"168 University Avenue, Palo Alto",Menlo Park
+ChIJCx18PDe7j4ARWiGmoE-TsMg,Coupa Cafe - Lytton,37.444618,-122.1653906,4.3,2.0,356.0,4.51,cafe|restaurant|food|point_of_interest|store|establishment,"111 Lytton Avenue, Palo Alto",Menlo Park
+ChIJHz4XFiW7j4AR2-XMc9X0J6I,LuLu's Town & Country Village,37.43827859999999,-122.1602677,3.7,2.0,265.0,3.89,meal_takeaway|restaurant|food|point_of_interest|establishment,"855 El Camino Real #49, Palo Alto",Menlo Park
+ChIJRS2QAeu7j4ARCkZrCODGN2I,Poolside Grill,37.4412378,-122.1631588,5.0,,1.0,3.51,restaurant|food|point_of_interest|establishment,"625 El Camino Real, Palo Alto",Menlo Park
+ChIJiZtnUze7j4ARuAzIjrVxmsM,New York New York Sandwiches,37.4439807,-122.1637183,4.4,2.0,212.0,4.62,bakery|meal_takeaway|cafe|meal_delivery|restaurant|food|point_of_interest|store|establishment,"125 University Avenue, Palo Alto",Menlo Park
+ChIJxRoy-X27j4AR_bK2I_FqBVg,San Agus Cocina Urbana & Cocktails,37.4430253,-122.1626141,4.4,2.0,475.0,4.62,bar|restaurant|food|point_of_interest|establishment,"115 Hamilton Avenue, Palo Alto",Menlo Park
+ChIJHUVxbf67j4ARDeXKRT7FmeA,Poke House - Palo Alto,37.4384958,-122.1606403,4.2,2.0,260.0,4.41,meal_takeaway|restaurant|food|point_of_interest|establishment,"855 El Camino Real #9, Palo Alto",Menlo Park
+ChIJgSKtATq7j4AR1LVZ7VN8W3I,Sweet Maple,37.443997,-122.162979,4.4,2.0,787.0,4.62,cafe|restaurant|food|point_of_interest|establishment,"150 University Avenue, Palo Alto",Menlo Park
+ChIJz1CaiuS7j4ARJ0FvNTILUoo,Onigilly Japanese Kitchen - Palo Alto,37.4442218,-122.163046,4.2,1.0,375.0,4.2,restaurant|food|point_of_interest|establishment,"164 University Avenue, Palo Alto",Menlo Park
+ChIJH_zZcy-7j4ARwPbn3XT47A4,Mendocino Farms,37.4436978,-122.162097,4.4,2.0,452.0,4.62,restaurant|food|point_of_interest|establishment,"167 Hamilton Avenue, Palo Alto",Menlo Park
+ChIJdwmtjjm7j4ARuuLA95wq7wQ,Nola,37.4449386,-122.1614268,4.4,2.0,3378.0,4.62,night_club|bar|restaurant|food|point_of_interest|establishment,"535 Ramona Street, Palo Alto",Menlo Park
+ChIJY5UIijm7j4ARPkLgY0DXJuI,Coupa Cafe - Ramona,37.4446092,-122.1615284,4.3,2.0,1701.0,4.51,cafe|store|restaurant|food|point_of_interest|establishment,"538 Ramona Street, Palo Alto",Menlo Park
+ChIJY0yKLzq7j4ARNNLYPbJMgN8,Reposado,37.4441583,-122.1609667,4.3,3.0,2037.0,4.51,bar|restaurant|food|point_of_interest|establishment,"236 Hamilton Avenue, Palo Alto",Menlo Park
+ChIJN1Yf8Dm7j4ARg7totskx17E,Pizza My Heart,37.44484169999999,-122.1623194,4.3,1.0,1297.0,4.3,meal_delivery|meal_takeaway|restaurant|food|point_of_interest|establishment,"220 University Avenue, Palo Alto",Menlo Park
+ChIJEQbMSzq7j4ARCIzIQRU45og,Buca di Beppo Italian Restaurant,37.4435214,-122.1605738,4.1,2.0,1502.0,4.3,restaurant|food|point_of_interest|establishment,"643 Emerson Street, Palo Alto",Menlo Park
+ChIJmWwu4jm7j4ARtbXJ6I2CZrg,Rangoon Ruby Burmese Cuisine,37.4450763,-122.1631074,4.1,2.0,2479.0,4.3,restaurant|food|point_of_interest|establishment,"445 Emerson Street, Palo Alto",Menlo Park
+ChIJ361H6jm7j4ARk1vmz_dEqwE,Oren's Hummus,37.4456966,-122.1622282,4.4,2.0,2513.0,4.62,restaurant|food|point_of_interest|establishment,"261 University Avenue, Palo Alto",Menlo Park
+ChIJyaiRIjq7j4ARpFp0WP-WoNA,Palo Alto Creamery,37.44387849999999,-122.161789,4.4,2.0,2323.0,4.62,bakery|store|restaurant|food|point_of_interest|establishment,"566 Emerson Street, Palo Alto",Menlo Park
+ChIJMVRrSDq7j4ARCZG7uDyf4z4,Tacolicious,37.443326,-122.161004,4.1,2.0,1257.0,4.3,restaurant|food|point_of_interest|establishment,"632 Emerson Street, Palo Alto",Menlo Park
+ChIJGaMq8zm7j4ARYe6wItroPNY,The Wine Room,37.44482709999999,-122.1619347,4.2,2.0,570.0,4.41,bar|restaurant|food|point_of_interest|establishment,"520 Ramona Street, Palo Alto",Menlo Park
+ChIJaQ6tGDq7j4ARZ8PYbWmeW44,Thaiphoon restaurant,37.4442391,-122.1618761,3.9,2.0,378.0,4.09,bar|restaurant|food|point_of_interest|establishment,"543 Emerson Street, Palo Alto",Menlo Park
+ChIJxWOWGDq7j4ARpaRJE2WTdnA,Scotty's Bar,37.4440111,-122.1619583,4.2,,195.0,4.2,bar|night_club|restaurant|food|point_of_interest|establishment,"548 Emerson Street, Palo Alto",Menlo Park
+ChIJPwEoJjq7j4AR4Ymjl9MBLUw,Osteria Toscana,37.444444,-122.1611671,4.2,3.0,815.0,4.41,restaurant|food|point_of_interest|establishment,"247 Hamilton Avenue, Palo Alto",Menlo Park
+ChIJMcUKNDi7j4AREnV3Wx48tZg,Kanpai,37.4470525,-122.1623735,4.3,2.0,545.0,4.51,restaurant|food|point_of_interest|establishment,"330 Lytton Avenue, Palo Alto",Menlo Park
+ChIJQ7QsMzq7j4ARidQmfZss-Wc,Coconuts Caribbean Restaurant & Bar,37.443916,-122.160191,4.3,2.0,1322.0,4.51,bar|restaurant|food|point_of_interest|establishment,"642 Ramona Street, Palo Alto",Menlo Park
+ChIJaSemeTm7j4AR_Zs5k4tu6fU,Curry Up Now,37.44546,-122.16021,4.1,1.0,1252.0,4.1,restaurant|food|point_of_interest|establishment,"321 Hamilton Avenue, Palo Alto",Menlo Park
+ChIJYUh8Jzq7j4ARXcdvPyLUR68,Bistro Maxine,37.4445889,-122.1612389,4.0,2.0,240.0,4.2,cafe|restaurant|food|point_of_interest|establishment,"548 Ramona Street, Palo Alto",Menlo Park
+ChIJgbClrTm7j4ARJhcj3TrrG9g,Crepevine Restaurants,37.4469366,-122.1609496,4.4,2.0,1946.0,4.62,restaurant|food|point_of_interest|establishment,"367 University Avenue, Palo Alto",Menlo Park
+ChIJ0y2QeTm7j4ARoys6DSP_0k4,New York Pizza Palo Alto,37.4455148,-122.1601419,4.5,1.0,581.0,4.5,meal_takeaway|meal_delivery|restaurant|food|point_of_interest|establishment,"325 Hamilton Avenue, Palo Alto",Menlo Park
+ChIJD9D1HDq7j4AR7xk3DsszRys,Bare Bowls,37.4441636,-122.1623919,4.2,2.0,247.0,4.41,restaurant|food|point_of_interest|establishment,"530 Emerson Street, Palo Alto",Menlo Park
+ChIJScdLwDm7j4ARCbo6bng01sU,Local Union 271,37.44583859999999,-122.1621916,4.1,2.0,1870.0,4.3,restaurant|food|point_of_interest|establishment,"271 University Avenue, Palo Alto",Menlo Park
+ChIJIxzPPjq7j4ARKDndKncRuwU,Nobu Restaurant Palo Alto,37.44371930000001,-122.1614703,4.2,4.0,793.0,4.28,restaurant|food|point_of_interest|establishment,"180 Hamilton Avenue, Palo Alto",Menlo Park
+ChIJKWjVKTq7j4ARuUYobtoUXfQ,sweetgreen,37.4447329,-122.1610914,4.1,2.0,596.0,4.3,meal_takeaway|restaurant|food|point_of_interest|establishment,"581 Ramona Street, Palo Alto",Menlo Park
+ChIJN1Yf8Dm7j4ARG7rVVIG0vks,Cafe 220,37.4449549,-122.1623749,4.1,2.0,516.0,4.3,restaurant|food|point_of_interest|establishment,"220 University Avenue B, Palo Alto",Menlo Park
+ChIJ-a6t5Tm7j4ARsEz4451NPDk,Steam,37.4450435,-122.1628635,4.1,2.0,668.0,4.3,restaurant|food|point_of_interest|establishment,"209 University Avenue, Palo Alto",Menlo Park
+ChIJOzI3gjm7j4ARtGwnfAcuKaU,Zola + BarZola,37.4453069,-122.1604218,4.4,3.0,696.0,4.62,bar|restaurant|food|point_of_interest|establishment,"585 Bryant Street, Palo Alto",Menlo Park
+ChIJhbe6ZDi7j4ARhSkIguAM5oU,Sancho's Taqueria,37.4489978,-122.1608828,4.3,1.0,835.0,4.3,restaurant|food|point_of_interest|establishment,"491 Lytton Avenue, Palo Alto",Menlo Park
+ChIJo6mcRDi7j4ARKmAXDyLTnUE,7-Eleven,37.4480147,-122.1611892,3.0,1.0,62.0,2.66,convenience_store|liquor_store|cafe|store|restaurant|food|point_of_interest|establishment,"401 Waverley Street, Palo Alto",Menlo Park
+ChIJfxhEv1q7j4ARrv2FGJySiZU,Ike's Love & Sandwiches,37.4480946,-122.1617549,3.9,2.0,231.0,4.09,meal_delivery|meal_takeaway|restaurant|food|point_of_interest|establishment,"401 Lytton Avenue, Palo Alto",Menlo Park
+ChIJn2r_1U67j4ARwWXr-xINLtQ,Poke One Palo Alto,37.4481402,-122.1616429,4.7,2.0,59.0,4.33,meal_takeaway|restaurant|food|point_of_interest|establishment,"407 Lytton Avenue, Palo Alto",Menlo Park
+ChIJq2vyQB67j4ARBkHWA8vFNqU,Macarena Restaurant in Palo Alto,37.4457937,-122.1633847,4.4,,99.0,4.39,restaurant|food|point_of_interest|establishment,"420 Ramona Street, Palo Alto",Menlo Park
+ChIJK7u-fDi7j4ARObxmEVWASuE,Mademoiselle Colette,37.4491409,-122.1607321,4.3,2.0,497.0,4.51,bakery|cafe|store|restaurant|food|point_of_interest|establishment,"499 Lytton Avenue, Palo Alto",Menlo Park
+ChIJx_z8YNa7j4ARz1dXw2JYbAY,Mardini's Deli Cafe,37.4603158,-122.1607415,4.5,1.0,661.0,4.5,restaurant|food|point_of_interest|establishment,"408 Willow Road, Menlo Park",Menlo Park
+ChIJP_XllSS7j4ARhy2W_qw79aQ,Gott's Palo Alto,37.4379402,-122.159827,4.3,2.0,2021.0,4.51,restaurant|food|point_of_interest|establishment,"Town & Country Village, 855 El Camino Real #65, Palo Alto",Menlo Park
+ChIJHz4XFiW7j4ARn0Db50n4L2k,Douce France,37.4389992,-122.1588592,4.4,1.0,637.0,4.4,bakery|cafe|restaurant|food|point_of_interest|store|establishment,"855 El Camino Real #104, Palo Alto",Menlo Park
+ChIJKRs5pdu6j4ARcH4kMEnUJ1I,Gerhard Casper Dining Commons,37.42555900000001,-122.1619355,4.4,2.0,37.0,3.75,restaurant|food|point_of_interest|establishment,"661 Escondido Road, Stanford",Menlo Park
+ChIJaWJ7Edq6j4ARAPCZZC6DOj4,Wilbur Dining,37.42401040000001,-122.163151,4.2,,146.0,4.2,restaurant|food|point_of_interest|establishment,"658 Escondido Road, Stanford",Menlo Park
+ChIJmUWp5SS7j4ARwkXUtEmqFdc,Asian Box,37.4387251,-122.1598525,4.1,1.0,434.0,4.1,restaurant|food|point_of_interest|establishment,"855 El Camino Real, Palo Alto",Menlo Park
+ChIJy8rJ-wu7j4ARkZQLzgfSPto,EVGR Pub & Beer Garden,37.4267032,-122.1575336,3.9,,64.0,3.48,restaurant|bar|food|point_of_interest|establishment,"716 Serra Street, Stanford",Menlo Park
+ChIJ82AEPzi7j4ARaPsjO4AFqR8,Wildseed,37.4382288,-122.1587727,4.5,3.0,595.0,4.73,restaurant|food|point_of_interest|establishment,"South, 855 El Camino Real Building 4, Palo Alto",Menlo Park
+ChIJU-h6-Q27j4AReNRuzo2WlTM,Telefèric Barcelona Palo Alto,37.4383765,-122.1583028,4.4,3.0,1620.0,4.62,restaurant|food|point_of_interest|establishment,"855 El Camino Real #130, Palo Alto",Menlo Park
+ChIJkTR5DEy7j4ARg9mfRMQbDQc,Horsefeather Palo Alto,37.4390997,-122.158426,5.0,,3.0,3.54,restaurant|bar|food|point_of_interest|establishment,"855 El Camino Real Ste 151, Palo Alto",Menlo Park
+ChIJmcAiGDu7j4ARvF2-fF-NMxE,Saint Michael's Alley,37.4414977,-122.1597862,4.4,3.0,501.0,4.62,bar|restaurant|food|point_of_interest|establishment,"140 Homer Avenue, Palo Alto",Menlo Park
+ChIJHz4XFiW7j4AR5t10topddew,Sushi House,37.4392636,-122.1582398,4.4,2.0,289.0,4.62,restaurant|food|point_of_interest|establishment,"855 El Camino Real Ste 158, Palo Alto",Menlo Park
+ChIJUYJ9Ejm7j4AR10nzVhZIoYo,Tai Pan,37.4464722,-122.1596583,4.2,2.0,663.0,4.41,restaurant|food|point_of_interest|establishment,"560 Waverley Street, Palo Alto",Menlo Park
+ChIJl0gDDDu7j4AROSlXdFpN3oM,Market Cocina,37.4424053,-122.1596147,4.3,3.0,6.0,3.24,restaurant|food|point_of_interest|establishment,"774 Emerson Street, Palo Alto",Menlo Park
+ChIJcb2lTTu7j4ARtV09mp6ALGY,Peninsula Creamery - Dairy Store & Grill,37.4407817,-122.1583599,4.4,1.0,245.0,4.4,restaurant|food|point_of_interest|store|establishment,"900 High Street, Palo Alto",Menlo Park
+ChIJwWcdxzi7j4ARSPpV37nhr58,Tamarine Restaurant & Gallery,37.4488748,-122.1584172,4.4,3.0,1580.0,4.62,bar|restaurant|food|point_of_interest|establishment,"546 University Avenue, Palo Alto",Menlo Park
+ChIJpf2l3zi7j4ARq9jTYIKdfb0,Il Fornaio,37.4479051,-122.1588629,4.2,2.0,1068.0,4.41,restaurant|food|point_of_interest|establishment,"520 Cowper Street, Palo Alto",Menlo Park
+ChIJ2S5OXzi7j4ARGnV-XOyU-4g,Vino Locale,37.448325,-122.1604148,4.6,2.0,461.0,4.83,restaurant|bar|food|point_of_interest|establishment,"431 Kipling Street, Palo Alto",Menlo Park
+ChIJQ1s1_Ti7j4ARwdpxYOuYKAY,Sushirrito,37.4475872,-122.1596389,4.3,2.0,796.0,4.51,restaurant|food|point_of_interest|establishment,"448 University Avenue, Palo Alto",Menlo Park
+ChIJD_pTEsy7j4ARmC6OuQ2GZ0k,Rooh,37.4481323,-122.1598143,4.0,2.0,1355.0,4.2,restaurant|food|point_of_interest|establishment,"473 University Avenue, Palo Alto",Menlo Park
+ChIJK4ZoOQC7j4AR1z5wRPOnj20,Proper Food,37.4487704,-122.1590899,5.0,,2.0,3.53,restaurant|food|point_of_interest|establishment,"Proper Food, 525 University Avenue, Palo Alto",Menlo Park
+ChIJN1Zo_zi7j4ARIT2NbTuxNZQ,Taste,37.44753470000001,-122.1603022,4.6,2.0,945.0,4.83,restaurant|food|point_of_interest|establishment,"423 University Avenue, Palo Alto",Menlo Park
+ChIJpWqjjHC7j4ARettvwSaXU6E,PHO BANH MI,37.44737599999999,-122.160529,,,,,restaurant|food|point_of_interest|establishment,"405 University Avenue, Palo Alto",Menlo Park
+ChIJNewidym7j4ARYVJY70w89hI,Pho Banh Mi P1,37.44737599999999,-122.160529,3.9,2.0,258.0,4.09,restaurant|food|point_of_interest|establishment,"405 University Avenue, Palo Alto",Menlo Park
+ChIJpTk-VTi7j4ARpZhH_XR68_I,YAYOI Palo Alto,37.44738269999999,-122.1604918,4.2,2.0,1143.0,4.41,restaurant|food|point_of_interest|establishment,"403 University Avenue, Palo Alto",Menlo Park
+ChIJhdRF_Zq7j4ARNcQ9kDH1444,Marugame Udon,37.44720179999999,-122.1608166,4.7,,98.0,4.67,restaurant|food|point_of_interest|establishment,"383 University Avenue, Palo Alto",Menlo Park
+ChIJY_cc3Ti7j4AR_46J7zYVlWM,JOE & THE JUICE,37.4483752,-122.1589036,3.8,2.0,366.0,3.99,cafe|meal_takeaway|restaurant|food|point_of_interest|store|establishment,"508 University Avenue, Palo Alto",Menlo Park
+ChIJG7rdAmS7j4ARayztR1t8nNg,Lou & Herbert's,37.4480031,-122.1592753,3.8,,19.0,2.88,restaurant|cafe|bar|food|point_of_interest|establishment,"488 University Avenue, Palo Alto",Menlo Park
+ChIJHxV3P3a7j4AR4tmrxPF8-4o,President's Terrace,37.44798850000001,-122.1592782,3.9,,78.0,3.64,restaurant|bar|food|point_of_interest|establishment,"488 University Avenue, Palo Alto",Menlo Park
+ChIJBf6MJQC7j4AR7DgiApFohFc,Mochiko Mochi Pizza,37.4476237,-122.1597074,1.0,2.0,1.0,0.74,restaurant|food|point_of_interest|establishment,"448 University Avenue, Palo Alto",Menlo Park
+ChIJs-mASty7j4ARGnTRbfH7NBc,Simmer & Steamer,37.4475699,-122.1597595,5.0,,5.0,3.57,restaurant|food|point_of_interest|establishment,"444 University Avenue, Palo Alto",Menlo Park
+ChIJweDvIRm7j4AR8IWnMD_jNrI,O2 Valley,37.4476055,-122.1595835,4.4,2.0,117.0,4.62,restaurant|food|point_of_interest|establishment,"452 University Avenue, Palo Alto",Menlo Park
+ChIJt-5IyBa7j4ARD5iJZz4Ay0Y,The Redwood by Chef Julien,37.4462476,-122.1624397,4.8,2.0,67.0,4.54,restaurant|food|point_of_interest|establishment,"450 Bryant Street, Palo Alto",Menlo Park
+ChIJL-UtBlu7j4ARfTp_8xKGdbo,Menlo BBQ,37.46176029999999,-122.1598987,4.3,1.0,213.0,4.3,restaurant|food|point_of_interest|establishment,"555 Willow Road, Menlo Park",Menlo Park
+ChIJfeumwra7j4AR-ZAiZ3FkDqo,El Rancho Taqueria,37.4653476,-122.1570339,4.5,,108.0,4.5,restaurant|food|point_of_interest|establishment,"812 Willow Road, Menlo Park",Menlo Park
+ChIJzSFZqF67j4AR27ULwarhshA,El Rancho Market,37.465353,-122.156922,4.0,,221.0,4.0,atm|grocery_or_supermarket|finance|liquor_store|restaurant|food|point_of_interest|store|establishment,"812 Willow Road, Menlo Park",Menlo Park
+ChIJ46iIrl67j4ARS9sincACO3Q,Tony’s Pizza,37.46552099999999,-122.156856,3.9,1.0,199.0,3.9,meal_delivery|restaurant|food|point_of_interest|establishment,"820 Willow Road, Menlo Park",Menlo Park
+ChIJPauoul67j4AR7MO501brv6I,Subway,37.4657399,-122.1568156,3.3,1.0,151.0,3.3,meal_takeaway|restaurant|food|point_of_interest|establishment,"850 Willow Road, Menlo Park",Menlo Park
+ChIJrVtZudG7j4ARKCfNlz0hVS8,Dosa Point,37.4656905,-122.1567872,4.3,2.0,410.0,4.51,restaurant|food|point_of_interest|establishment,"840 Willow Road, Menlo Park",Menlo Park
+ChIJP01j_qC8j4ARyxyiGFKN_rs,Back A Yard Caribbean Grill,37.4727298,-122.1550698,4.6,1.0,1788.0,4.6,restaurant|food|point_of_interest|establishment,"1189 Willow Road, Menlo Park",Menlo Park
+ChIJ4w-QrKG8j4ARLcoX57fX_DM,Taqueria Guadalajara,37.47336189999999,-122.1545944,3.5,1.0,113.0,3.5,restaurant|food|point_of_interest|establishment,"1211 Willow Road, Menlo Park",Menlo Park
+ChIJaWnuL-e6j4ARR6YIY348nZk,Sundance The Steakhouse,37.428562,-122.149672,4.6,3.0,2161.0,4.83,night_club|bar|restaurant|food|point_of_interest|establishment,"1921 El Camino Real, Palo Alto",Menlo Park
+ChIJsUowmuW6j4ARncdA5qucqUk,Starbucks,37.42738,-122.149216,3.7,2.0,548.0,3.89,cafe|restaurant|food|point_of_interest|store|establishment,"2000 El Camino Real, Palo Alto",Menlo Park
+ChIJYZChWOa6j4ARo-N9ldn_yos,Odori Japanese Cuisine,37.427065,-122.1480506,4.0,2.0,493.0,4.2,restaurant|food|point_of_interest|establishment,"2111 El Camino Real, Palo Alto",Menlo Park
+ChIJ0fmz9U27j4AR3ZGpcVx_IMM,Viking Stadium Snack Shack,37.4360135,-122.154479,1.0,,2.0,0.71,restaurant|food|point_of_interest|establishment,"1350 Alma Street, Palo Alto",Menlo Park
+ChIJS_1fcNu6j4ARgHEk1zImtTU,Ray's Grill,37.4234732,-122.1584172,3.9,1.0,275.0,3.9,restaurant|bar|food|point_of_interest|establishment,"750 Escondido Road, Stanford",Menlo Park
+ChIJe858WAS7j4AR3SYscE3OsZU,Orens Hummus Express,37.4391487,-122.1580737,4.2,2.0,143.0,4.41,restaurant|food|point_of_interest|establishment,"855 El Camino Real #162, Palo Alto",Menlo Park
+ChIJrTBLD1K7j4ARMNQr2bMszJ0,Roost & Roast,37.43917649999999,-122.1581733,4.1,2.0,89.0,4.16,meal_takeaway|restaurant|food|point_of_interest|establishment,"855 El Camino Real #161, Palo Alto",Menlo Park
+ChIJEdAOxBK7j4ARotE-8nDACPk,Palmetto Superfoods - Town & Country Village,37.4392224,-122.1582038,4.1,1.0,99.0,4.09,restaurant|food|point_of_interest|store|establishment,"855 El Camino Real #160, Palo Alto",Menlo Park
+ChIJyz0J0ie7j4ARPwj8U8LqlvE,The Good Salad (To go only),37.4275656,-122.1485367,4.8,,82.0,4.54,restaurant|food|point_of_interest|establishment,"2051 El Camino Real Suite 101, Palo Alto",Menlo Park
+ChIJn0ch7_m7j4ARwlrfsDNIirA,Real Produce International Market,37.4265928,-122.1484627,4.6,,583.0,4.6,grocery_or_supermarket|restaurant|food|point_of_interest|store|establishment,"501 Oxford Avenue, Palo Alto",Menlo Park
+ChIJlSPd8w67j4ARZy6_cUeyGng,Real Mediterranean Kitchen,37.4265576,-122.1484342,4.5,1.0,39.0,3.68,restaurant|food|point_of_interest|establishment,"501 Oxford Avenue, Palo Alto",Menlo Park
+ChIJVVUFazu7j4ARLXVs7f4wu-M,TAVERNA,37.44220419999999,-122.1590523,4.4,3.0,925.0,4.62,restaurant|food|point_of_interest|establishment,"800 Emerson Street, Palo Alto",Menlo Park
+ChIJCS_HTDq7j4ARskXdL5usfsU,Pizzeria Delfina - Palo Alto,37.4434222,-122.1604222,4.4,2.0,1431.0,4.62,bar|restaurant|food|point_of_interest|establishment,"651 Emerson Street, Palo Alto",Menlo Park
+ChIJgfDze5W7j4ARwXfuLNFJ6jM,Meyhouse,37.44329169999999,-122.1610223,4.6,,347.0,4.6,restaurant|food|point_of_interest|establishment,"640 Emerson Street, Palo Alto",Menlo Park
+ChIJGX3CsdC7j4AR2VS39Dpbr4o,Creators' Kitchen as Seen on TikTok,37.4435341,-122.160524,,2.0,,,restaurant|food|point_of_interest|establishment,"643 Emerson Street, Palo Alto",Menlo Park
+ChIJ6QBUzju7j4ARLrzLJUbvDpY,City Hall Cafe,37.4442768,-122.1600343,5.0,,11.0,3.67,restaurant|food|point_of_interest|establishment,"250 Hamilton Avenue, Palo Alto",Menlo Park
+ChIJRTRAoc67j4ARM-MLNMDboBo,Ethel's Fancy,37.44648120000001,-122.1599474,4.6,,210.0,4.6,restaurant|food|point_of_interest|establishment,"550 Waverley Street, Palo Alto",Menlo Park
+ChIJtyHMMzm7j4ARFiLz63fh3G0,Thyme,37.447375,-122.1579333,4.4,,102.0,4.4,restaurant|food|point_of_interest|establishment,"496 Hamilton Avenue, Palo Alto",Menlo Park
+ChIJR1988Qm7j4ARi_KmggVETuc,Ramen Nagi,37.4454813,-122.1607245,4.6,2.0,3108.0,4.83,restaurant|food|point_of_interest|establishment,"541 Bryant Street, Palo Alto",Menlo Park
+ChIJgVkH4BO7j4AR9Qj0HVCbuy8,Tong Sui Desserts & Drinks (Palo Alto),37.4452471,-122.1609897,4.7,2.0,373.0,4.94,restaurant|food|point_of_interest|establishment,"540 Bryant Street, Palo Alto",Menlo Park
+ChIJT6nni-27j4AR5-Je6DYJCMo,JOE & THE JUICE,37.4443322,-122.1608485,3.7,2.0,139.0,3.89,cafe|meal_takeaway|store|restaurant|food|point_of_interest|establishment,"240 Hamilton Avenue, Palo Alto",Menlo Park
+ChIJwVXiPQ-7j4ARm5uHGNqN66U,Dumpling Hours-Palo Alto,37.4454109,-122.161097,4.3,2.0,141.0,4.51,meal_takeaway|restaurant|food|point_of_interest|establishment,"530 Bryant Street, Palo Alto",Menlo Park
+ChIJtYpHfUK7j4ARTWWW4_FP7DI,Cafe Zoe & Neighborhood Pizza Guy,37.4592632,-122.1527961,4.6,1.0,524.0,4.6,cafe|bar|meal_takeaway|restaurant|food|point_of_interest|store|establishment,"1929 Menalto Avenue, Menlo Park",Menlo Park
+ChIJbxXHNb-7j4ARBRYRzHaw37A,Khazana by Chef Sanjeev Kapoor,37.4465508,-122.1613223,4.0,,221.0,4.0,restaurant|food|point_of_interest|establishment,"339 University Avenue, Palo Alto",Menlo Park
+ChIJi9iYmjm7j4AR904-JYOQQN4,Bevri - Palo Alto,37.4464879,-122.1613445,4.4,2.0,1366.0,4.62,bar|restaurant|food|point_of_interest|establishment,"335 University Avenue, Palo Alto",Menlo Park
+ChIJixCfZwC7j4ARmkjOs43oscY,La Corneta Taqueria (Coming Soon),37.4461588,-122.1609786,5.0,,2.0,3.53,restaurant|food|point_of_interest|establishment,"324 University Avenue, Palo Alto",Menlo Park
+ChIJofIvZUq7j4ARjUq2CGrWy74,Nick The Greek,37.4461163,-122.1610385,4.7,,9.0,3.42,meal_takeaway|store|restaurant|food|point_of_interest|establishment,"322 University Avenue, Palo Alto",Menlo Park
+ChIJc7BcOwC7j4AR7eBxebe1WW0,Taquizas jalisco (catering),37.4708646,-122.1507349,5.0,,35.0,4.02,restaurant|food|point_of_interest|establishment,"1133 Mello Street, East Palo Alto",Menlo Park
+ChIJw-hpGKK8j4ARnvb_dCToJmE,Soleska Market,37.47643519999999,-122.1531005,4.3,,288.0,4.3,grocery_or_supermarket|supermarket|restaurant|food|point_of_interest|store|establishment,"1305 Willow Road, Menlo Park",Menlo Park
+ChIJo0NIcZi8j4ARjJ9Kj6BWEnc,Dashi Japanese Restaurant,37.4798664,-122.1520301,4.4,2.0,327.0,4.62,restaurant|food|point_of_interest|establishment,"873 Hamilton Avenue, Menlo Park",Menlo Park
+ChIJUW8_cZi8j4ARlXrMi3FLNhE,Mi Taqueria,37.47991940000001,-122.1520412,4.3,1.0,422.0,4.3,restaurant|food|point_of_interest|establishment,"875 Hamilton Avenue, Menlo Park",Menlo Park
+ChIJH7atRAC9j4ARxaFffmQSfD8,Mexican restauranr,37.4798664,-122.1520301,5.0,,1.0,3.51,restaurant|food|point_of_interest|establishment,"873 Hamilton Avenue, Menlo Park",Menlo Park
+ChIJSwaMPEq7j4ARrdiph55BO04,Curry Pizza House Palo Alto,37.4461155,-122.1610698,4.3,2.0,448.0,4.51,bar|restaurant|food|point_of_interest|establishment,"320 University Avenue, Palo Alto",Menlo Park
+ChIJ4a0RmI67j4ARqr2S5nEYX2U,Ettan,37.4453864,-122.16136,4.2,3.0,1753.0,4.41,restaurant|food|point_of_interest|establishment,"518 Bryant Street, Palo Alto",Menlo Park
+ChIJHwrwc267j4ARHOEESTlTwF4,Quattro Restaurant and Bar,37.4599964,-122.1422563,4.2,3.0,343.0,4.41,restaurant|food|point_of_interest|establishment,"2050 University Avenue, East Palo Alto",Menlo Park
+ChIJd_N8a2-7j4ARpvJvLS3h9ag,Emmanuel's Pizza & Bakery,37.463765,-122.1455761,4.2,1.0,259.0,4.2,bakery|store|restaurant|food|point_of_interest|establishment,"1435 East Bayshore Road, East Palo Alto",Menlo Park
+ChIJDzk2BW67j4AR_XinVoRubhI,[ESC],37.4603816,-122.1423245,3.8,2.0,22.0,3.06,cafe|bakery|meal_takeaway|store|restaurant|food|point_of_interest|establishment,"2050 University Avenue, East Palo Alto",Menlo Park
+ChIJ7TH0TQC7j4ARBjPcX-E24TU,El Chilango Catering,37.4602304,-122.1434094,4.9,,8.0,3.55,restaurant|food|point_of_interest|establishment,"1997 Manhattan Avenue, East Palo Alto",Menlo Park
+ChIJ6-3dkre7j4ARfL9leXP3Il8,Seniore’s Pizza,37.4631146,-122.144365,4.8,2.0,81.0,4.75,restaurant|food|point_of_interest|establishment,"1491 East Bayshore Road, East Palo Alto",Menlo Park
+ChIJ3TuFfAC7j4ARKtxjkDxyt8s,Marcella La Pupuseria,37.4629234,-122.1440096,5.0,,10.0,3.65,restaurant|food|point_of_interest|establishment,"1497 1/2 East Bayshore Road, Palo Alto",Menlo Park
+ChIJ__8_ZW67j4ARZE6TRkp887E,1001 Nights,37.4599954,-122.1421934,3.3,,15.0,2.46,restaurant|food|point_of_interest|establishment,"2050 University Ave, East Palo Alto, Palo Alto",Menlo Park
+ChIJ46I3Koq7j4AR1QI53DFguPQ,Tacos y Hamburguesas Toluco,37.4641293,-122.1415294,4.2,2.0,152.0,4.41,restaurant|food|point_of_interest|establishment,"2150 University Avenue, East Palo Alto",Menlo Park
+ChIJswBP6W-7j4AR1Rv68Huoqjc,Tacos 1 Dollar,37.4641262,-122.141519,,,,,restaurant|food|point_of_interest|establishment,"University Avenue, East Palo Alto",Menlo Park
+ChIJoUAfTOW7j4ARfDH5SdCrDSk,Zareen's Test Kitchen,37.4664576,-122.1412067,,,,,restaurant|food|point_of_interest|establishment,"2220 University Avenue B, East Palo Alto",Menlo Park
+ChIJhfj6KO67j4ARsvDx3WgmcAk,La Michoacanita grill,37.4653619,-122.1409876,4.7,2.0,32.0,3.93,restaurant|food|point_of_interest|establishment,"612 Bell Street, East Palo Alto",Menlo Park

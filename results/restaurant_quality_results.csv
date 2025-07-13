@@ -1,0 +1,19 @@
+City,restaurant_count,avg_rating,avg_quality_score,high_rated_count,low_rated_count,expensive_count,budget_count,well_reviewed_count,center_lat,center_lng,quality_map_file,quality_data_file,status
+Atherton,246,4.168103448275862,3.9759051724137935,169,5,8,177,175,37.453773,-122.2058272,./maps/atherton_quality_map.html,./results/restaurant_quality_atherton.csv,success
+Menlo Park,310,4.215593220338983,4.0908474576271185,241,4,23,208,235,37.4519671,-122.177992,./maps/menlo_park_quality_map.html,./results/restaurant_quality_menlo_park.csv,success
+Palo Alto,344,4.217682926829268,4.121432926829268,268,4,23,238,268,37.4443293,-122.1598465,./maps/palo_alto_quality_map.html,./results/restaurant_quality_palo_alto.csv,success
+Portola Valley,392,4.243085106382979,4.139042553191489,312,4,29,269,304,37.3736298,-122.219047,./maps/portola_valley_quality_map.html,./results/restaurant_quality_portola_valley.csv,success
+Hillsborough,922,4.162614678899083,4.001938073394496,662,34,30,656,672,37.557252,-122.362529,./maps/hillsborough_quality_map.html,./results/restaurant_quality_hillsborough.csv,success
+Los Altos,1122,4.220679886685552,4.106166194523135,863,21,49,821,857,37.3790629,-122.116578,./maps/los_altos_quality_map.html,./results/restaurant_quality_los_altos.csv,success
+Mountain View,1364,4.201082753286929,4.092266047950502,1026,26,51,1019,1055,37.3893889,-122.0832101,./maps/mountain_view_quality_map.html,./results/restaurant_quality_mountain_view.csv,success
+Redwood City,1095,4.228735632183908,4.052193486590038,840,20,43,792,797,37.4863239,-122.232523,./maps/redwood_city_quality_map.html,./results/restaurant_quality_redwood_city.csv,success
+San Carlos,1035,4.2363914373088685,4.054434250764525,793,21,33,757,745,37.504936,-122.261823,./maps/san_carlos_quality_map.html,./results/restaurant_quality_san_carlos.csv,success
+Belmont,1022,4.248197734294542,4.07664263645726,794,21,35,756,744,37.5164926,-122.2941914,./maps/belmont_quality_map.html,./results/restaurant_quality_belmont.csv,success
+Foster City,949,4.24689578713969,4.07320399113082,739,21,31,705,691,37.5600336,-122.2688522,./maps/foster_city_quality_map.html,./results/restaurant_quality_foster_city.csv,success
+San Mateo,802,4.266360052562418,4.119303547963206,646,17,28,595,596,37.496904,-122.3330573,./maps/san_mateo_quality_map.html,./results/restaurant_quality_san_mateo.csv,success
+Burlingame,1074,4.175294117647059,3.996235294117647,781,37,30,767,775,37.5780965,-122.3473099,./maps/burlingame_quality_map.html,./results/restaurant_quality_burlingame.csv,success
+Millbrae,1047,4.159657947686117,3.9970321931589536,749,37,25,751,772,37.598958,-122.400941,./maps/millbrae_quality_map.html,./results/restaurant_quality_millbrae.csv,success
+San Bruno,1168,4.1303683737646,3.978346810422282,814,43,23,852,874,37.6248536,-122.4145986,./maps/san_bruno_quality_map.html,./results/restaurant_quality_san_bruno.csv,success
+South San Francisco,1482,4.170655270655271,3.9811324786324787,1060,49,21,1071,1066,37.6535403,-122.4168664,./maps/south_san_francisco_quality_map.html,./results/restaurant_quality_south_san_francisco.csv,success
+San Francisco,2511,4.302416666666667,4.223820833333333,2076,40,145,1896,2020,37.7792588,-122.4193286,./maps/san_francisco_quality_map.html,./results/restaurant_quality_san_francisco.csv,success
+Daly City,2132,4.25985294117647,4.133200980392156,1681,42,39,1649,1659,37.6904826,-122.47267,./maps/daly_city_quality_map.html,./results/restaurant_quality_daly_city.csv,success

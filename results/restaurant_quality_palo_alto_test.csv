@@ -1,0 +1,41 @@
+place_id,name,lat,lng,rating,price_level,user_ratings_total,quality_score,types,vicinity,city
+ChIJwWcdxzi7j4ARSPpV37nhr58,Tamarine Restaurant & Gallery,37.4488748,-122.1584172,4.4,3.0,1580,4.62,bar|restaurant|food|point_of_interest|establishment,"546 University Avenue, Palo Alto",Palo Alto
+ChIJpf2l3zi7j4ARq9jTYIKdfb0,Il Fornaio,37.4479051,-122.1588629,4.2,2.0,1068,4.41,restaurant|food|point_of_interest|establishment,"520 Cowper Street, Palo Alto",Palo Alto
+ChIJEQbMSzq7j4ARCIzIQRU45og,Buca di Beppo Italian Restaurant,37.4435214,-122.1605738,4.1,2.0,1502,4.3,restaurant|food|point_of_interest|establishment,"643 Emerson Street, Palo Alto",Palo Alto
+ChIJY0yKLzq7j4ARNNLYPbJMgN8,Reposado,37.4441583,-122.1609667,4.3,3.0,2037,4.51,bar|restaurant|food|point_of_interest|establishment,"236 Hamilton Avenue, Palo Alto",Palo Alto
+ChIJdwmtjjm7j4ARuuLA95wq7wQ,Nola,37.4449386,-122.1614268,4.4,2.0,3378,4.62,bar|night_club|restaurant|food|point_of_interest|establishment,"535 Ramona Street, Palo Alto",Palo Alto
+ChIJY5UIijm7j4ARPkLgY0DXJuI,Coupa Cafe - Ramona,37.4446092,-122.1615284,4.3,2.0,1701,4.51,cafe|restaurant|food|point_of_interest|store|establishment,"538 Ramona Street, Palo Alto",Palo Alto
+ChIJaWnuL-e6j4ARR6YIY348nZk,Sundance The Steakhouse,37.428562,-122.149672,4.6,3.0,2161,4.83,bar|night_club|restaurant|food|point_of_interest|establishment,"1921 El Camino Real, Palo Alto",Palo Alto
+ChIJRbsp9uW6j4ARyUJHxK7xFX8,La Bodeguita del Medio,37.4254329,-122.1452003,4.5,2.0,1426,4.73,restaurant|bar|night_club|food|point_of_interest|establishment,"463 California Avenue, Palo Alto",Palo Alto
+ChIJmcAiGDu7j4ARvF2-fF-NMxE,Saint Michael's Alley,37.4414977,-122.1597862,4.4,3.0,501,4.62,bar|restaurant|food|point_of_interest|establishment,"140 Homer Avenue, Palo Alto",Palo Alto
+ChIJByU8Zze7j4ARtKef7nHMEks,Evvia Estiatorio,37.4451287,-122.1637993,4.6,3.0,2145,4.83,restaurant|food|point_of_interest|establishment,"420 Emerson Street, Palo Alto",Palo Alto
+ChIJIe9vfzC7j4ARKMPewN6Czv4,Café Soleil,37.44065519999999,-122.1627702,4.3,2.0,18,3.4,restaurant|food|point_of_interest|establishment,"675 El Camino Real, Palo Alto",Palo Alto
+ChIJiXr_Zze7j4ARgRtbgk7Len4,The Patio @ Rudy's,37.4451556,-122.1639389,4.1,2.0,2063,4.3,bar|night_club|restaurant|food|point_of_interest|establishment,"412 Emerson Street, Palo Alto",Palo Alto
+ChIJ8QesCuW6j4ARfJfR8qxpWzE,Cafe Pro Bono,37.427287,-122.1433908,4.5,2.0,599,4.73,bar|restaurant|food|point_of_interest|establishment,"2437 Birch Street, Palo Alto",Palo Alto
+ChIJm8EK_e-6j4ARgml6h3Srj60,Caffe Riace,37.4267836,-122.1405856,4.2,3.0,220,4.41,restaurant|food|point_of_interest|establishment,"200 Sheridan Avenue, Palo Alto",Palo Alto
+ChIJXzozIq2jj4ARpEwPAaO9InY,Arya Steakhouse,37.4439087,-122.1633625,4.4,2.0,1190,4.62,restaurant|food|point_of_interest|establishment,"140 University Avenue, Palo Alto",Palo Alto
+ChIJMVRrSDq7j4ARCZG7uDyf4z4,Tacolicious,37.443326,-122.161004,4.1,2.0,1257,4.3,restaurant|food|point_of_interest|establishment,"632 Emerson Street, Palo Alto",Palo Alto
+ChIJN1Yf8Dm7j4ARg7totskx17E,Pizza My Heart,37.44484169999999,-122.1623194,4.3,1.0,1297,4.3,meal_delivery|meal_takeaway|restaurant|food|point_of_interest|establishment,"220 University Avenue, Palo Alto",Palo Alto
+ChIJ361H6jm7j4ARk1vmz_dEqwE,Oren's Hummus,37.4456966,-122.1622282,4.4,2.0,2513,4.62,restaurant|food|point_of_interest|establishment,"261 University Avenue, Palo Alto",Palo Alto
+ChIJyaiRIjq7j4ARpFp0WP-WoNA,Palo Alto Creamery,37.44387849999999,-122.161789,4.4,2.0,2323,4.62,bakery|restaurant|food|point_of_interest|store|establishment,"566 Emerson Street, Palo Alto",Palo Alto
+ChIJmWwu4jm7j4ARtbXJ6I2CZrg,Rangoon Ruby Burmese Cuisine,37.4450763,-122.1631074,4.1,2.0,2479,4.3,restaurant|food|point_of_interest|establishment,"445 Emerson Street, Palo Alto",Palo Alto
+ChIJ7zUGKFa6j4AReJjkOzGQVHg,Subway,37.433521,-122.12907,3.8,1.0,78,3.55,meal_takeaway|restaurant|food|point_of_interest|establishment,"2717 Middlefield Road, Palo Alto",Palo Alto
+ChIJQ7QsMzq7j4ARidQmfZss-Wc,Coconuts Caribbean Restaurant & Bar,37.443916,-122.160191,4.3,2.0,1322,4.51,bar|restaurant|food|point_of_interest|establishment,"642 Ramona Street, Palo Alto",Palo Alto
+ChIJK3g59OW6j4AR5Q5CCNShy3o,Joanie's Cafe,37.42638889999999,-122.1445583,4.4,2.0,1599,4.62,restaurant|food|point_of_interest|establishment,"405 California Avenue, Palo Alto",Palo Alto
+ChIJtXQ38-W6j4AR44dFBS3v120,Terun Pizza,37.42592049999999,-122.1454743,4.4,2.0,2654,4.62,restaurant|food|point_of_interest|establishment,"448 California Avenue, Palo Alto",Palo Alto
+ChIJaQ6tGDq7j4ARZ8PYbWmeW44,Thaiphoon restaurant,37.4442391,-122.1618761,3.9,2.0,378,4.09,bar|restaurant|food|point_of_interest|establishment,"543 Emerson Street, Palo Alto",Palo Alto
+ChIJGaMq8zm7j4ARYe6wItroPNY,The Wine Room,37.44482709999999,-122.1619347,4.2,2.0,570,4.41,bar|restaurant|food|point_of_interest|establishment,"520 Ramona Street, Palo Alto",Palo Alto
+ChIJaSemeTm7j4AR_Zs5k4tu6fU,Curry Up Now,37.44546,-122.16021,4.1,1.0,1252,4.1,restaurant|food|point_of_interest|establishment,"321 Hamilton Avenue, Palo Alto",Palo Alto
+ChIJUYJ9Ejm7j4AR10nzVhZIoYo,Tai Pan,37.4464722,-122.1596583,4.2,2.0,663,4.41,restaurant|food|point_of_interest|establishment,"560 Waverley Street, Palo Alto",Palo Alto
+ChIJsUowmuW6j4ARncdA5qucqUk,Starbucks,37.42738,-122.149216,3.7,2.0,548,3.89,cafe|restaurant|food|point_of_interest|store|establishment,"2000 El Camino Real, Palo Alto",Palo Alto
+ChIJQSEisjC7j4AR3juLmOBOEys,MacArthur Park Restaurant and Bar,37.4430264,-122.1655246,4.1,3.0,554,4.3,bar|restaurant|food|point_of_interest|establishment,"27 University Avenue, Palo Alto",Palo Alto
+ChIJ3dmr7OW6j4ARdga458ttjlg,Palo Alto Sol,37.42661689999999,-122.1449195,4.4,2.0,594,4.62,restaurant|food|point_of_interest|establishment,"408 California Avenue, Palo Alto",Palo Alto
+ChIJHz4XFiW7j4ARn0Db50n4L2k,Douce France,37.4389992,-122.1588592,4.4,1.0,637,4.4,bakery|cafe|restaurant|food|point_of_interest|store|establishment,"855 El Camino Real #104, Palo Alto",Palo Alto
+ChIJP_XllSS7j4ARhy2W_qw79aQ,Gott's Palo Alto,37.4379402,-122.159827,4.3,2.0,2021,4.51,restaurant|food|point_of_interest|establishment,"Town & Country Village, 855 El Camino Real #65, Palo Alto",Palo Alto
+ChIJ2S5OXzi7j4ARGnV-XOyU-4g,Vino Locale,37.448325,-122.1604148,4.6,2.0,461,4.83,restaurant|bar|food|point_of_interest|establishment,"431 Kipling Street, Palo Alto",Palo Alto
+ChIJ06EYWO-6j4AR5x1zss9iick,Izzy's Brooklyn Bagels,37.42540839999999,-122.1453292,4.5,1.0,1020,4.5,bakery|restaurant|food|point_of_interest|store|establishment,"477 California Avenue, Palo Alto",Palo Alto
+ChIJPwEoJjq7j4AR4Ymjl9MBLUw,Osteria Toscana,37.444444,-122.1611671,4.2,3.0,815,4.41,restaurant|food|point_of_interest|establishment,"247 Hamilton Avenue, Palo Alto",Palo Alto
+ChIJHz4XFiW7j4AR5t10topddew,Sushi House,37.4392636,-122.1582398,4.4,2.0,289,4.62,restaurant|food|point_of_interest|establishment,"855 El Camino Real Ste 158, Palo Alto",Palo Alto
+ChIJg5JmqDm7j4ARxxy2NX7uuIQ,Starbucks,37.4443619,-122.1633794,4.1,2.0,678,4.3,cafe|restaurant|food|point_of_interest|store|establishment,"151 University Avenue, Palo Alto",Palo Alto
+ChIJxWOWGDq7j4ARpaRJE2WTdnA,Scotty's Bar,37.4440111,-122.1619583,4.2,,195,4.2,bar|night_club|restaurant|food|point_of_interest|establishment,"548 Emerson Street, Palo Alto",Palo Alto
+ChIJYUh8Jzq7j4ARXcdvPyLUR68,Bistro Maxine,37.4445889,-122.1612389,4.0,2.0,240,4.2,cafe|restaurant|food|point_of_interest|establishment,"548 Ramona Street, Palo Alto",Palo Alto

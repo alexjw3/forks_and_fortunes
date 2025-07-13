@@ -1,0 +1,393 @@
+place_id,name,lat,lng,rating,price_level,user_ratings_total,quality_score,types,vicinity,city
+ChIJuYs0k9ilj4ARK7tI5yNkZ3g,Alice's Restaurant,37.38668740000001,-122.265392,4.6,2.0,4436.0,4.83,restaurant|food|point_of_interest|establishment,"17288 Skyline Boulevard, Woodside",Portola Valley
+ChIJp5p9DVihj4ARtJaM_HPxJ0Q,The Grove at Cañada College,37.4474445,-122.2660947,4.1,,39.0,3.35,restaurant|food|point_of_interest|establishment,"The Loop Road, Woodside",Portola Valley
+ChIJG1kW_BCkj4AR8ZZ326YvxPU,The Village Pub,37.4289581,-122.2515746,4.6,4.0,1210.0,4.69,bar|meal_takeaway|restaurant|food|point_of_interest|establishment,"2967 Woodside Road, Woodside",Portola Valley
+ChIJs3uv7H-vj4AR3FtuDCNG_8g,Buck’s Restaurant,37.4297052,-122.2551199,4.4,2.0,1837.0,4.62,restaurant|food|point_of_interest|establishment,"3062 Woodside Road, Woodside",Portola Valley
+ChIJ-QNOuhqkj4AR4g3RK6FZpog,The Village Bakery & Cafe,37.4297175,-122.2550168,4.3,2.0,809.0,4.51,bakery|cafe|restaurant|food|point_of_interest|store|establishment,"3052 Woodside Road, Woodside",Portola Valley
+ChIJ39n9YxCkj4AR-mWML7oK7HI,The Firehouse Bistro,37.4289132,-122.2525831,4.6,2.0,72.0,4.42,bar|restaurant|food|point_of_interest|establishment,"2991 Woodside Road, Woodside",Portola Valley
+ChIJW41-opClj4ARSa48l7yxpcM,Parkside Grille,37.3835094,-122.2322042,4.6,3.0,236.0,4.83,restaurant|food|point_of_interest|establishment,"884 Portola Road, Portola Valley",Portola Valley
+ChIJHUMzhESjj4ARqXozfblTyB0,Chicos Grill,37.4497509,-122.2315125,4.5,,55.0,3.89,restaurant|food|point_of_interest|establishment,"2000 Woodside Road, Redwood City",Portola Valley
+ChIJa2ZiR4Wjj4ARbp69GKePl_s,Lucky,37.45654,-122.229614,4.1,,469.0,4.1,grocery_or_supermarket|supermarket|meal_delivery|restaurant|food|point_of_interest|store|establishment,"200 Woodside Plaza, Redwood City",Portola Valley
+ChIJvV9tF6ejj4ARAAzKnzlEz8c,Round Table Pizza,37.457708,-122.229896,3.9,2.0,191.0,4.09,meal_takeaway|meal_delivery|restaurant|food|point_of_interest|establishment,"128 Woodside Plaza, Redwood City",Portola Valley
+ChIJr4g8FoWjj4AR2iKV6OoPTAU,Breakers Cafe,37.4562697,-122.2297243,4.2,1.0,231.0,4.2,cafe|restaurant|food|point_of_interest|store|establishment,"270 Woodside Road, Redwood City",Portola Valley
+ChIJt8zRS4Sjj4ARj1xl_iU_ggM,Villa Lucia's,37.45468839999999,-122.2284331,4.4,2.0,244.0,4.62,restaurant|food|point_of_interest|establishment,"1725 Woodside Road, Redwood City",Portola Valley
+ChIJRTcCpKejj4ARdycjexLMpFY,Yat Sing Restaurant,37.4578061,-122.2289883,3.8,2.0,113.0,3.99,restaurant|food|point_of_interest|establishment,"38 Woodside Road, Redwood City",Portola Valley
+ChIJQ4mZBIWjj4AR6_hlIpJxwbI,Redwood Grill,37.455781,-122.228909,4.3,2.0,501.0,4.51,restaurant|food|point_of_interest|establishment,"356 Woodside Plaza, Redwood City",Portola Valley
+ChIJwa36zj6jj4ARTWZhPSH_rgk,Anabelita's Food,37.4533284,-122.228907,5.0,,17.0,3.75,restaurant|food|point_of_interest|establishment,"119 Santa Clara Avenue, Redwood City",Portola Valley
+ChIJl3HnNzSjj4ARM-xAmVXimxk,Akami Sushi,37.45461199999999,-122.2283177,4.5,2.0,144.0,4.73,restaurant|food|point_of_interest|establishment,"1725 Woodside Road C, Redwood City",Portola Valley
+ChIJVW1_1Jqjj4ARjU8OI-7R4vU,Sushi+Plus,37.45789049999999,-122.2287972,4.3,2.0,603.0,4.51,restaurant|food|point_of_interest|establishment,"30 Woodside Plaza, Redwood City",Portola Valley
+ChIJszp3iSmjj4ARFnfiBGSykW4,Alva's Food Truck,37.4550628,-122.2281621,4.7,1.0,11.0,3.45,restaurant|food|point_of_interest|establishment,"122 Sequoia Avenue, Redwood City",Portola Valley
+ChIJlc29db-jj4ARHEh1XjV_OYY,Little Caesars Pizza,37.4658591,-122.2415471,3.7,1.0,385.0,3.7,meal_delivery|meal_takeaway|restaurant|food|point_of_interest|establishment,"2193 Roosevelt Avenue, Redwood City",Portola Valley
+ChIJgRRzCr-jj4AR0KQidei7oK4,Oh Baby Sushi,37.4659847,-122.2410228,4.5,2.0,980.0,4.73,restaurant|food|point_of_interest|establishment,"2139 Roosevelt Avenue, Redwood City",Portola Valley
+ChIJbxwY3QCjj4AR5Ht18lctD_Q,Big Brother's Burgers,37.466118,-122.241011,4.8,2.0,146.0,5.04,restaurant|food|point_of_interest|establishment,"2137 Roosevelt Avenue, Redwood City",Portola Valley
+ChIJZRttpYajj4ARcez-603tqM0,Woodside Roadhouse,37.4562564,-122.2277426,4.5,2.0,117.0,4.73,restaurant|food|point_of_interest|establishment,"1515 Woodside Road, Redwood City",Portola Valley
+ChIJYwn3Ncujj4ARjGggaaJ8eUU,CORNER TABLE,37.4578546,-122.2286899,4.6,2.0,123.0,4.83,restaurant|food|point_of_interest|establishment,"20 Woodside Plaza, Redwood City",Portola Valley
+ChIJhX3iO5-jj4ARa5RaH_x4ibE,Subway,37.4670733,-122.2245408,3.5,1.0,101.0,3.5,meal_takeaway|restaurant|food|point_of_interest|establishment,"758 Woodside Road, Redwood City",Portola Valley
+ChIJebamIZ-jj4AR_RglNOSI4no,Starbucks,37.4663462,-122.2244848,4.0,2.0,409.0,4.2,cafe|restaurant|food|point_of_interest|store|establishment,"820 Woodside Road, Redwood City",Portola Valley
+ChIJsf2BFZ-jj4ARq4huVYkd2tU,Popeyes Louisiana Kitchen,37.4673053,-122.2245119,4.0,1.0,1214.0,4.0,restaurant|food|point_of_interest|establishment,"740 Woodside Road, Redwood City",Portola Valley
+ChIJiXByA5yjj4AR8NNjrgDYPmc,Bravo Taqueria (Redwood City),37.4632769,-122.2251404,4.6,1.0,288.0,4.6,restaurant|food|point_of_interest|establishment,"980 Woodside Road, Redwood City",Portola Valley
+ChIJ8TSlBZyjj4ARa3Htq5mOW_A,Jack in the Box,37.46309100000001,-122.2252822,3.7,1.0,649.0,3.7,meal_delivery|restaurant|food|point_of_interest|establishment,"986 Woodside Road, Redwood City",Portola Valley
+ChIJhX3iO5-jj4ARblE0t8baRNc,El Grullense Grill,37.4668608,-122.2244497,3.8,1.0,738.0,3.8,restaurant|food|point_of_interest|establishment,"768 Woodside Road, Redwood City",Portola Valley
+ChIJb-ZQ17qjj4ARLtmu5zRuz4E,Daniel's kitchen,37.4656795,-122.225391,4.5,1.0,36.0,3.64,restaurant|food|point_of_interest|establishment,"850 Woodside Road, Redwood City",Portola Valley
+ChIJEab6hT-jj4ARLpgWd7VJp3Y,Ta’ Con Madre Taqueria Estilo Mazatlan,37.4645971,-122.224278,4.9,,43.0,4.06,restaurant|food|point_of_interest|establishment,"895 Woodside Road, Redwood City",Portola Valley
+ChIJodR-356jj4AR_u06kIfV8uc,Tripplett Management Corporation,37.4662183,-122.2245435,,,,,restaurant|food|point_of_interest|establishment,"830 Woodside Road, Redwood City",Portola Valley
+ChIJ-YiVF5-jj4ARyp62qe1aHig,VIVI's Cafe,37.4669449,-122.2244961,4.1,1.0,245.0,4.1,cafe|restaurant|food|point_of_interest|establishment,"764 Woodside Road, Redwood City",Portola Valley
+ChIJJfVAn9yjj4ARTo6qF6MBFSw,Pamilya,37.467115,-122.2245057,4.8,,45.0,4.01,restaurant|food|point_of_interest|establishment,"756 Woodside Road, Redwood City",Portola Valley
+ChIJmTSAaFikj4ARF3bb5ZgogHE,Restaurant 3000,37.4234743,-122.2210784,4.2,2.0,48.0,3.72,restaurant|food|point_of_interest|establishment,"3000 Sand Hill Road, Menlo Park",Portola Valley
+ChIJCxO08v6lj4ARLk79MGJCQ5s,Sand Hill Sundeck,37.4234674,-122.2211263,4.6,,9.0,3.34,restaurant|food|point_of_interest|establishment,"3000 Sand Hill Road, Menlo Park",Portola Valley
+ChIJJ32H3KGjj4ARPVWKZ0efLPU,ampm,37.469216,-122.223938,3.7,1.0,3.0,2.62,convenience_store|gas_station|atm|supermarket|grocery_or_supermarket|cafe|finance|restaurant|food|point_of_interest|store|establishment,"610 Woodside Road, Redwood City",Portola Valley
+ChIJKy780KGjj4ARxOLR433gz2E,Diner Japonica,37.4694083,-122.2231833,4.7,1.0,190.0,4.7,meal_takeaway|restaurant|food|point_of_interest|establishment,"593 Woodside Road, Redwood City",Portola Valley
+ChIJ_7x_cJ-jj4ARpz_OyffKOh8,KFC,37.468339,-122.2234804,3.6,1.0,332.0,3.6,restaurant|food|point_of_interest|establishment,"659 Woodside Road, Redwood City",Portola Valley
+ChIJkTLcv6ijj4ARs9u8JLqMNog,McDonald's,37.4676047,-122.2236512,3.5,1.0,536.0,3.5,cafe|restaurant|food|point_of_interest|store|establishment,"709 Woodside Road, Redwood City",Portola Valley
+ChIJkReq0aGjj4ARvXwGkEvh6ec,Karakade Thai Cuisine,37.4693401,-122.2229822,4.1,2.0,196.0,4.3,restaurant|food|point_of_interest|establishment,"593 Woodside Road Suite G, Redwood City",Portola Valley
+ChIJSUH53JOjj4ARESYgHjETLeY,Redwood City Barbeque,37.46872299999999,-122.224008,4.3,2.0,345.0,4.51,restaurant|food|point_of_interest|establishment,"640 Woodside Road, Redwood City",Portola Valley
+ChIJ02fmW_6jj4ARgrE8KgCBQ20,Guanato's Snacks,37.4689222,-122.2238494,3.6,2.0,14.0,2.8,meal_takeaway|restaurant|food|point_of_interest|establishment,"628 Woodside Road, Redwood City",Portola Valley
+ChIJlzR1ewajj4ARigOM07VdWzU,Dunkin',37.4693808,-122.2230872,4.3,1.0,131.0,4.3,bakery|cafe|meal_takeaway|restaurant|food|point_of_interest|store|establishment,"593 Woodside Road Suite A, Redwood City",Portola Valley
+ChIJqbnLc4Cvj4AR1xMh1tBeXXE,Jalisco's Grill,37.37169879999999,-122.2087687,4.6,,76.0,4.27,restaurant|food|point_of_interest|establishment,"3 Portola Road, Portola Valley",Portola Valley
+ChIJiUNAfPukj4ARkQSP3H1etD4,Rosewood Sand Hill,37.4195178,-122.2122862,4.7,,2251.0,4.7,spa|lodging|restaurant|food|point_of_interest|establishment,"2825 Sand Hill Road, Menlo Park",Portola Valley
+ChIJiUNAfPukj4AR5sxvOP_JPUA,Madera,37.41930060000001,-122.2121501,4.4,4.0,907.0,4.49,restaurant|food|point_of_interest|establishment,"2825 Sand Hill Road, Menlo Park",Portola Valley
+ChIJrc7ei_ukj4ARduwmL1C5WS8,Pool Garden Terrace at Rosewood Sand Hill,37.4197068,-122.2125743,4.5,,13.0,3.33,bar|restaurant|food|point_of_interest|establishment,"2825 Sand Hill Road, Menlo Park",Portola Valley
+ChIJ334KkXOjj4ARrzZ7_kMWQ7c,Palo Alto Auxiliary,37.4687534,-122.2134204,,,,,restaurant|food|point_of_interest|establishment,"61 Renato Court # 16, Redwood City",Portola Valley
+ChIJLftXnOGkj4ARPDWJYh24ZD4,SLACafé,37.4198829,-122.2037367,3.9,2.0,62.0,3.63,cafe|restaurant|food|point_of_interest|establishment,"2575 Sand Hill Road, Menlo Park",Portola Valley
+ChIJH61MUJylj4AR1ThEHto19io,The Sand Hill Kitchen,37.4233323,-122.2032935,4.7,,57.0,4.09,restaurant|food|point_of_interest|establishment,"2400 Sand Hill Road, Menlo Park",Portola Valley
+ChIJgfjkWemkj4ARcjnuZBHmt9w,Avanti Pizza Fresh Pasta,37.431895,-122.20236,4.1,1.0,207.0,4.1,restaurant|food|point_of_interest|establishment,"3536 Alameda de las Pulgas #4, Menlo Park",Portola Valley
+ChIJt8dAXemkj4ARXDrSoUeLfh0,Dutch Goose,37.4320471,-122.2015788,4.3,1.0,1454.0,4.3,bar|restaurant|food|point_of_interest|establishment,"3567 Alameda de las Pulgas, Menlo Park",Portola Valley
+ChIJn8Cf4uukj4ARJ3Z-8BqZ5EI,Lulu's on the Alameda,37.4322851,-122.202136,4.1,1.0,407.0,4.1,restaurant|food|point_of_interest|establishment,"3539 Alameda de las Pulgas, Menlo Park",Portola Valley
+ChIJlexF--ukj4ARHrF17Uxv5jI,Lutticken's,37.43244139999999,-122.2024388,4.3,1.0,196.0,4.3,bar|restaurant|food|point_of_interest|establishment,"3535 Alameda de las Pulgas, Menlo Park",Portola Valley
+ChIJX78UQ-mkj4ARRUtM_dZIp0w,Starbucks,37.4316641,-122.2019432,3.9,2.0,213.0,4.09,cafe|restaurant|food|point_of_interest|store|establishment,"3590 Alameda de las Pulgas, Menlo Park",Portola Valley
+ChIJx-Kb5nGjj4ARcvsUYmWS2TA,Jack in the Box,37.4676054,-122.2090642,3.5,1.0,685.0,3.5,meal_delivery|restaurant|food|point_of_interest|establishment,"3199 El Camino Real, Redwood City",Portola Valley
+ChIJ2f6HIW6jj4ARypWhxp6NZ78,Chavez Supermarket,37.4675751,-122.2079394,4.1,,760.0,4.1,atm|grocery_or_supermarket|store|finance|restaurant|food|point_of_interest|establishment,"46 Fifth Avenue, Redwood City",Portola Valley
+ChIJre18DG6jj4ARgCEz_CQIXdc,Domino's Pizza,37.4685964,-122.2073825,3.3,1.0,328.0,3.3,meal_delivery|meal_takeaway|restaurant|food|point_of_interest|establishment,"100 Fifth Avenue, Redwood City",Portola Valley
+ChIJN6lxI3Kjj4ARtyvHC8OJ__k,Selby's,37.4685773,-122.210373,4.4,4.0,419.0,4.49,restaurant|food|point_of_interest|establishment,"3001 El Camino Real, Redwood City",Portola Valley
+ChIJfeOQA26jj4ARPgitgF7IA3g,La Roca Restaurant,37.4683069,-122.2085021,4.2,,75.0,3.88,restaurant|food|point_of_interest|establishment,"55 Fifth Avenue unit b, Redwood City",Portola Valley
+ChIJVbEYve-jj4AR77rV9jAOcec,Los Carnalitos Food Truck,37.4693397,-122.2112908,4.6,2.0,486.0,4.83,restaurant|food|point_of_interest|establishment,"2907 El Camino Real, Redwood City",Portola Valley
+ChIJS_vu2_Sjj4ARBPbjEHLkE1Q,La Quinta Pizza,37.4694384,-122.2073944,4.7,1.0,178.0,4.7,restaurant|food|point_of_interest|establishment,"151 Fifth Avenue STE B, Redwood City",Portola Valley
+ChIJy2WW3W2jj4ARZUjZtDtwkNk,La Quinta Plaza,37.4694757,-122.2071596,5.0,,5.0,3.57,restaurant|food|point_of_interest|establishment,"171 Fifth Avenue # 106, Redwood City",Portola Valley
+ChIJPd8zEN6kj4ARNd9OfWmHyaU,Starbucks,37.423559,-122.197718,4.1,2.0,335.0,4.3,cafe|restaurant|food|point_of_interest|store|establishment,"325 Sharon Park Drive, Menlo Park",Portola Valley
+ChIJPd8zEN6kj4ARpm5JaBuWH3M,El Cerrito,37.42380879999999,-122.1965054,4.5,2.0,431.0,4.73,restaurant|food|point_of_interest|establishment,"325 Sharon Park Drive B4, Menlo Park",Portola Valley
+ChIJRUujGd6kj4ARMaazxxHifUE,Eric's Gourmet,37.4239117,-122.1966525,3.5,1.0,43.0,2.9,meal_takeaway|restaurant|food|point_of_interest|store|establishment,"325 Sharon Park Drive, Menlo Park",Portola Valley
+ChIJy6oKPhSlj4ARNSJmSFve4Vk,MJ Menlo Park INC,37.42401540000001,-122.1965772,4.8,2.0,46.0,4.22,restaurant|food|point_of_interest|establishment,"325 Sharon Park Drive Ste A2, Menlo Park",Portola Valley
+ChIJCZfXbumkj4AR1p2me3o8urg,Flea Street,37.4318449,-122.2011183,4.5,4.0,431.0,4.59,restaurant|food|point_of_interest|establishment,"3607 Alameda de las Pulgas, Menlo Park",Portola Valley
+ChIJGfS9j8Ojj4ARM4NPR0cGzMI,Mademoiselle Colette,37.4631854,-122.1969313,4.7,,24.0,3.63,bakery|cafe|restaurant|food|point_of_interest|store|establishment,"2 Dinkelspiel Station Lane Patio, Atherton",Portola Valley
+ChIJBZrpYl-lj4AR4K5ngtG0KOE,Rossotti’s Alpine Inn,37.382221,-122.193769,4.6,1.0,2937.0,4.6,bar|restaurant|food|point_of_interest|establishment,"3915 Alpine Road, Portola Valley",Portola Valley
+ChIJx9QRnkClj4ARLeWFiRJGxUw,Amigos Grill Cocina Mexicana y Cantina,37.4017486,-122.1933594,4.5,2.0,551.0,4.73,restaurant|food|point_of_interest|establishment,"3130 Alpine Road #290, Portola Valley",Portola Valley
+ChIJKca9GwClj4AR8kH7ovjMO_s,Portola Bistro,37.40139959999999,-122.1933404,4.3,2.0,32.0,3.59,restaurant|food|point_of_interest|establishment,"3130 Alpine Road # 350, Portola Valley",Portola Valley
+ChIJPex-dAClj4ARG2TovHsDGyM,TAVERNA,37.4015821,-122.1933555,4.3,2.0,27.0,3.53,restaurant|food|point_of_interest|establishment,"3130 Alpine Road #300, Portola Valley",Portola Valley
+ChIJ9ddDlXWlj4ARh9MgODrh-hg,Koma Sushi,37.402046,-122.1932626,4.3,,43.0,3.56,restaurant|food|point_of_interest|establishment,"3130 Alpine Road, Portola Valley",Portola Valley
+ChIJq6CCdl-jj4ARjkoQDdcOsDE,Celia's,37.4595368,-122.1943375,4.2,2.0,859.0,4.41,restaurant|food|point_of_interest|establishment,"1850 El Camino Real, Menlo Park",Portola Valley
+ChIJp1uWC0mlj4ARsNiuJAYb5Zk,Drunken Monk,37.4565375,-122.1883738,4.1,2.0,139.0,4.3,restaurant|food|point_of_interest|establishment,"1438 El Camino Real, Menlo Park",Portola Valley
+ChIJ6yaQHnylj4ARjsAEb_JIc70,Birdie's at Stanford Golf,37.4211859,-122.1842104,4.1,2.0,10.0,3.14,restaurant|food|point_of_interest|establishment,"198 Junipero Serra Boulevard, Stanford",Portola Valley
+ChIJo4971K-kj4AReyDUlK6mSI0,Left Bank,37.452656,-122.1833172,4.2,3.0,1137.0,4.41,bar|restaurant|food|point_of_interest|establishment,"635 Santa Cruz Avenue, Menlo Park",Portola Valley
+ChIJN9urM66kj4ARTUoR3reRw2g,Subway,37.4506619,-122.1851727,3.7,1.0,94.0,3.63,meal_takeaway|restaurant|food|point_of_interest|establishment,"809 Santa Cruz Avenue, Menlo Park",Portola Valley
+ChIJ6ciMyq-kj4ARRLEgxqtHAjQ,STACKS Menlo Park,37.45345599999999,-122.183247,4.3,2.0,1284.0,4.51,restaurant|food|point_of_interest|establishment,"600 Santa Cruz Avenue, Menlo Park",Portola Valley
+ChIJmcQI2K-kj4ARygry3P5HdhU,Starbucks,37.452214,-122.183867,3.9,2.0,253.0,4.09,cafe|store|restaurant|food|point_of_interest|establishment,"643-693 Santa Cruz Avenue, Menlo Park",Portola Valley
+ChIJgyJtva-kj4ARRAkjcifHwv0,Lotus Restaurant,37.4537353,-122.1844533,4.3,1.0,287.0,4.3,restaurant|food|point_of_interest|establishment,"625 Oak Grove Avenue Unit B, Menlo Park",Portola Valley
+ChIJPTPS1q-kj4ARMuL955Oc-tI,Bistro Vida,37.4524799,-122.1834076,4.4,2.0,460.0,4.62,restaurant|food|point_of_interest|establishment,"641 Santa Cruz Avenue, Menlo Park",Portola Valley
+ChIJJ0dW5KWkj4AREKzj85yKGhw,FEY Restaurant,37.4556584,-122.1868502,4.0,2.0,502.0,4.2,meal_delivery|restaurant|food|point_of_interest|establishment,"1368 El Camino Real, Menlo Park",Portola Valley
+ChIJiQTY0LGkj4ARaKrhEgWBgHk,Chef Kwan's,37.452247,-122.182585,3.9,2.0,273.0,4.09,restaurant|food|point_of_interest|establishment,"630 Menlo Avenue, Menlo Park",Portola Valley
+ChIJyX5Cna-kj4ARFVEhKvEn--w,Round Table Pizza,37.4543529,-122.185026,4.2,2.0,367.0,4.41,meal_delivery|meal_takeaway|restaurant|food|point_of_interest|establishment,"1225 El Camino Real, Menlo Park",Portola Valley
+ChIJiRDbtq-kj4ARtq3vEYcFmvw,Sultana Mediterranean,37.4537158,-122.1836108,4.5,2.0,659.0,4.73,restaurant|food|point_of_interest|establishment,"1149 El Camino Real, Menlo Park",Portola Valley
+ChIJXTqVn7qkj4ARa3-Bikh4S9c,Amici's East Coast Pizzeria,37.4503135,-122.1859112,4.2,2.0,525.0,4.41,restaurant|food|point_of_interest|establishment,"880 Santa Cruz Avenue, Menlo Park",Portola Valley
+ChIJ2wlgDrCkj4ARMheNOnjl6wc,Mademoiselle Colette,37.4508806,-122.1853833,4.5,3.0,693.0,4.73,bakery|cafe|store|restaurant|food|point_of_interest|establishment,"816 Santa Cruz Avenue, Menlo Park",Portola Valley
+ChIJ2aR2-6-kj4ARCRsRgFybxcc,Coffeebar,37.452,-122.1855,4.4,2.0,940.0,4.62,bakery|cafe|meal_takeaway|store|restaurant|food|point_of_interest|establishment,"1149 Chestnut Street, Menlo Park",Portola Valley
+ChIJKRo4cbCkj4ARTAlpAXF8f7s,The Posh Bagel (Menlo Park),37.4501611,-122.1856063,4.0,1.0,202.0,4.0,bakery|store|restaurant|food|point_of_interest|establishment,"869 Santa Cruz Avenue, Menlo Park",Portola Valley
+ChIJ3RNyM66kj4ARFCWUS_Jt3jg,Kyosho,37.4532773,-122.1829578,4.5,4.0,371.0,4.59,restaurant|food|point_of_interest|establishment,"605 Santa Cruz Avenue, Menlo Park",Portola Valley
+ChIJJa7UG7Ckj4ARWTVwwBUhWU0,Bagel Street Cafe,37.4513695,-122.1849418,4.4,1.0,178.0,4.4,bakery|cafe|store|restaurant|food|point_of_interest|establishment,"746 Santa Cruz Avenue, Menlo Park",Portola Valley
+ChIJ1x4tlq-kj4ARmtMkYWUFaV8,La Stanza Cucina Italiana,37.4535769,-122.1845604,4.5,2.0,310.0,4.73,restaurant|food|point_of_interest|establishment,"651 Oak Grove Avenue Suite H, Menlo Park",Portola Valley
+ChIJYfJCcSqlj4ARm2v5HkfMSv0,Camper,37.4499958,-122.1861014,4.4,2.0,434.0,4.62,restaurant|food|point_of_interest|establishment,"898 Santa Cruz Avenue, Menlo Park",Portola Valley
+ChIJ43doM-ulj4ARDDU_2YFai1c,ZENSHI Handcrafted Sushi,37.4491818,-122.185159,,,,,restaurant|meal_takeaway|food|point_of_interest|establishment,"1010 University Drive, Menlo Park",Portola Valley
+ChIJB0d75rK9j4AR-sgYVBDrIgs,LeVant dessert,37.4507691,-122.1856357,4.4,2.0,166.0,4.62,bakery|cafe|store|restaurant|food|point_of_interest|establishment,"842 Santa Cruz Avenue, Menlo Park",Portola Valley
+ChIJVVXqDrCkj4ARLM2HcoPKxmY,Roma,37.4508844,-122.1855027,4.1,2.0,270.0,4.3,restaurant|food|point_of_interest|establishment,"820 Santa Cruz Avenue, Menlo Park",Portola Valley
+ChIJeRPhbgClj4AR9sW9Tqbu0Qs,"yeobo, darling",37.4504806,-122.1851368,4.9,,16.0,3.67,restaurant|food|point_of_interest|establishment,"827 Santa Cruz Avenue, Menlo Park",Portola Valley
+ChIJ__-UGrCkj4ARFiZnv8KczUg,Clark's Oyster Bar- Menlo Park,37.4512731,-122.1851479,3.8,,27.0,2.97,restaurant|food|point_of_interest|establishment,"780 Santa Cruz Avenue, Menlo Park",Portola Valley
+ChIJx03r9yilj4ARHXLc1aMnESk,Mrs Khan Uyghur Cuisine,37.4520916,-122.1845493,4.3,2.0,222.0,4.51,restaurant|food|point_of_interest|establishment,"712 Santa Cruz Avenue, Menlo Park",Portola Valley
+ChIJ9c2m3eelj4ARXFWyLXrjbDo,Tilak Indian and Nepalese Cuisine,37.4521978,-122.1837068,4.5,2.0,235.0,4.73,restaurant|food|point_of_interest|establishment,"683 Santa Cruz Avenue, Menlo Park",Portola Valley
+ChIJJ-I5z6-kj4ARIr0WLwxDekM,Menlo Cafe,37.4531213,-122.1837179,4.2,1.0,94.0,4.12,cafe|restaurant|food|point_of_interest|store|establishment,"620 Santa Cruz Avenue, Menlo Park",Portola Valley
+ChIJ_Wq7za-kj4AR2NguTYVeu84,Cold Stone Creamery,37.4530032,-122.1830461,4.0,2.0,118.0,4.2,bakery|restaurant|food|point_of_interest|store|establishment,"611 Santa Cruz Avenue, Menlo Park",Portola Valley
+ChIJA424LSylj4ARlVqdsr_STh4,Mac'n Cheese Shop Menlo Park,37.45266729999999,-122.1833631,3.0,,3.0,2.13,meal_takeaway|restaurant|food|point_of_interest|establishment,"635 Santa Cruz Avenue, Menlo Park",Portola Valley
+ChIJdRIQVbKlj4ARR7BFLYsQ1rc,Mr. Green Bubble | Menlo Park,37.453325,-122.1835405,4.2,1.0,132.0,4.2,meal_takeaway|restaurant|food|point_of_interest|store|establishment,"604 Santa Cruz Avenue, Menlo Park",Portola Valley
+ChIJe1sdKlKlj4ARrLC-zqz7wHo,Burma Love,37.4554175,-122.1862363,4.2,2.0,162.0,4.41,restaurant|food|point_of_interest|establishment,"1302 El Camino Real, Menlo Park",Portola Valley
+ChIJiTFlmqalj4AR8JK5BSsP7uk,Proper Food,37.4550313,-122.185385,4.3,,15.0,3.2,restaurant|food|point_of_interest|establishment,"1300 El Camino Real, Menlo Park",Portola Valley
+ChIJpw1PZ4Olj4AR8fsc3070UDA,Robin Menlo Park,37.45503499999999,-122.1853835,4.7,,102.0,4.7,restaurant|food|point_of_interest|establishment,"1300 El Camino Real Suite C, Menlo Park",Portola Valley
+ChIJpxhC6celj4AR03xbVWGitgU,Hirotaka Sushi,37.4555862,-122.1864197,4.5,2.0,50.0,4.02,restaurant|food|point_of_interest|establishment,"1328 El Camino Real, Menlo Park",Portola Valley
+ChIJC4JvtdKlj4ARf747hSEVuyo,Che Fico Parco Menlo,37.4553276,-122.1857749,4.0,2.0,132.0,4.2,restaurant|food|point_of_interest|establishment,"1302 El Camino Real, Menlo Park",Portola Valley
+ChIJXfHxRFKlj4AR7ku_2dpX27c,Jason Cafe,37.4548782,-122.1849956,4.5,2.0,126.0,4.73,restaurant|food|point_of_interest|establishment,"1246 El Camino Real, Menlo Park",Portola Valley
+ChIJ_-T3GD-lj4ARuK5KmNgcQBQ,Oak + Violet,37.4561654,-122.1875838,4.3,,305.0,4.3,restaurant|food|point_of_interest|establishment,"1400 El Camino Real, Menlo Park",Portola Valley
+ChIJK5fHMa6kj4AR8DZJff2k-MQ,Trellis Restaurant,37.45324610000001,-122.182664,4.3,2.0,260.0,4.51,restaurant|food|point_of_interest|establishment,"1077 El Camino Real, Menlo Park",Portola Valley
+ChIJE1BxNq6kj4ARm-YgnncZtO4,British Bankers Club,37.45372909999999,-122.1826871,4.3,2.0,394.0,4.51,restaurant|bar|food|point_of_interest|establishment,"555 Santa Cruz Avenue, Menlo Park",Portola Valley
+ChIJ4_hc4a6kj4ARrAZhq2MG_bo,7-Eleven,37.4557638,-122.182934,2.8,1.0,35.0,2.25,convenience_store|liquor_store|cafe|restaurant|food|point_of_interest|store|establishment,"525 Oak Grove Avenue, Menlo Park",Portola Valley
+ChIJrbqcMa6kj4ARYORVCGFGaI0,Mama Coco Cocina Mexicana,37.4532544,-122.1827867,4.3,2.0,367.0,4.51,restaurant|food|point_of_interest|establishment,"1081 El Camino Real, Menlo Park",Portola Valley
+ChIJARB2O66kj4ARF-HVDDNeV7c,Cafe Borrone,37.4537501,-122.1823053,4.4,2.0,2151.0,4.62,cafe|restaurant|food|point_of_interest|establishment,"1010 El Camino Real, Menlo Park",Portola Valley
+ChIJ2ZJ7s6-kj4ARGO385nDTuaY,McDonald's,37.4539272,-122.183154,3.7,1.0,911.0,3.7,cafe|restaurant|food|point_of_interest|store|establishment,"1100 El Camino Real, Menlo Park",Portola Valley
+ChIJPRbE4q6kj4ARvgfhVpQQ-Wc,J & J Hawaiian BBQ,37.45566499999999,-122.1827078,4.2,1.0,655.0,4.2,restaurant|food|point_of_interest|establishment,"1170 Alma Street, Menlo Park",Portola Valley
+ChIJ-_yAHQClj4AR4G8J6Gda_NE,Bubbelah,37.4557547,-122.1854195,4.5,,2.0,3.18,restaurant|food|point_of_interest|establishment,"1300 El Camino Real Suite A, Menlo Park",Portola Valley
+ChIJt0ZDhbelj4ARogAJ04UK6Y4,Springline - The Offices (South),37.4553544,-122.1853121,4.7,,3.0,3.33,restaurant|food|point_of_interest|establishment,"1300 El Camino Real, Menlo Park",Portola Valley
+ChIJLylwScmlj4ARj_Cu5p52tuc,Son & Garden,37.4550286,-122.1835962,4.3,2.0,549.0,4.51,restaurant|food|point_of_interest|establishment,"1195 Merrill Street, Menlo Park",Portola Valley
+ChIJnemarm-lj4AR0SbnSCF4Czk,Farmhouse Kitchen Thai Cuisine,37.4549056,-122.1834202,4.4,1.0,1253.0,4.4,restaurant|food|point_of_interest|establishment,"1165 Merrill Street, Menlo Park",Portola Valley
+ChIJq6r6AK-kj4AR2S_J3xr_5ew,iMenuToGo,37.45486489999999,-122.1833409,,,,,restaurant|food|point_of_interest|establishment,"1165 Merrill Street, Menlo Park",Portola Valley
+ChIJG9rCFfKlj4ARIBaOF4i5_M8,The Mandarin,37.453024,-122.1822457,4.3,2.0,165.0,4.51,restaurant|food|point_of_interest|establishment,"1029 El Camino Real, Menlo Park",Portola Valley
+ChIJyyp24eClj4ARq9LeAXdUlFE,Mountain Mike's Pizza,37.4528284,-122.1820794,4.2,2.0,160.0,4.41,meal_takeaway|meal_delivery|restaurant|food|point_of_interest|establishment,"1001 El Camino Real, Menlo Park",Portola Valley
+ChIJzeMWMVKlj4ARlDbb3WjiFZ0,Mami Cheli's,37.4525801,-122.1815592,4.3,1.0,256.0,4.3,restaurant|food|point_of_interest|establishment,"989 El Camino Real Ste B, Menlo Park",Portola Valley
+ChIJgU7GmCqlj4ARyMCfuMy_-Wc,Late Night at Lakeside,37.42478439999999,-122.1762722,3.4,,5.0,2.43,restaurant|food|point_of_interest|establishment,"326 Serra Mall, Stanford",Portola Valley
+ChIJg6x2lCqlj4AR2poY1pR6jDY,Lakeside Dining,37.4246646,-122.1763587,4.1,,172.0,4.1,restaurant|food|point_of_interest|establishment,"326 Santa Teresa Street, Stanford",Portola Valley
+ChIJt9IuUEalj4ARww8oRp7uOB4,Outdoor House,37.4244885,-122.1801313,4.1,,9.0,2.98,restaurant|food|point_of_interest|establishment,"589 Governor's Avenue, Stanford",Portola Valley
+ChIJHbZpJ9Wkj4ARV6nV6sSjBcA,Coupa Cafe - Y2E2,37.42833329999999,-122.1755556,4.1,2.0,306.0,4.3,cafe|store|restaurant|food|point_of_interest|establishment,"473 Via Ortega, Stanford",Portola Valley
+ChIJc-KUEdOkj4ARdvJTa-mR1JM,Beckman Bistro,37.4318753,-122.1763953,4.3,1.0,112.0,4.3,cafe|restaurant|food|point_of_interest|establishment,"279 Campus Drive W, Stanford",Portola Valley
+ChIJHbZpJ9Wkj4ARLAKdb9BaPAA,Coupa Cafe - Huang Engineering Center,37.4281953,-122.174204,4.1,2.0,34.0,3.45,cafe|store|restaurant|food|point_of_interest|establishment,"475 Via Ortega, Stanford",Portola Valley
+ChIJaUR5aWSlj4ARw6CG3DFkPQY,Kali Stanford,37.43017760000001,-122.1764784,5.0,,1.0,3.51,restaurant|food|point_of_interest|establishment,"290 Jane Stanford Way, Palo Alto",Portola Valley
+ChIJSXqoANOkj4ARhxIaLTXHhgk,Lutticken's Deli,37.43214830000001,-122.1772972,4.2,1.0,76.0,3.9,store|restaurant|food|point_of_interest|establishment,"269 Campus Drive, Stanford",Portola Valley
+ChIJtRbwQNOkj4ARflHkYQ2Lt-4,Alway Cafe,37.4317617,-122.1758062,,,,,cafe|store|restaurant|food|point_of_interest|establishment,"300 Pasteur Drive, Stanford",Portola Valley
+ChIJgzataM2kj4ARQmigzDUgYcw,ZoomCaffe,37.4357298,-122.1763631,3.2,,10.0,2.34,cafe|restaurant|food|point_of_interest|store|establishment,"Stanford Hospital, 875 Blake Wilbur Drive, Palo Alto",Portola Valley
+ChIJAQB0y8ukj4ARIh3K6QumFHc,Cafe Wisteria,37.4415123,-122.1791504,4.5,2.0,114.0,4.73,restaurant|food|point_of_interest|establishment,"75 Arbor Road, Menlo Park",Portola Valley
+ChIJQaUX9rGkj4AR0094cczM7es,Jeffrey's Hamburgers,37.4525122,-122.1802369,4.5,2.0,1448.0,4.73,restaurant|food|point_of_interest|establishment,"888 El Camino Real, Menlo Park",Portola Valley
+ChIJPbMu7rGkj4ARhNZdO83g59k,Octopus Japanese Restaurant,37.452292,-122.1810132,4.4,2.0,181.0,4.62,restaurant|food|point_of_interest|establishment,"925 El Camino Real, Menlo Park",Portola Valley
+ChIJZ1UNLrKkj4ARKcgVQRourdA,Cook's Seafood,37.451466,-122.17955,4.5,2.0,1151.0,4.73,restaurant|food|point_of_interest|establishment,"751 El Camino Real, Menlo Park",Portola Valley
+ChIJze7hSbKkj4ARozcgS2khx2Q,MP Mongolian BBQ,37.4518168,-122.1790433,4.3,2.0,450.0,4.51,restaurant|food|point_of_interest|establishment,"700 El Camino Real, Menlo Park",Portola Valley
+ChIJeZwEO3Klj4AR_gcdPbBFgu4,ZENSHI Handcrafted Sushi,37.4505164,-122.1790396,,,,,restaurant|meal_takeaway|food|point_of_interest|establishment,"525 El Camino Real, Menlo Park",Portola Valley
+ChIJKQDyuVGlj4ARv_rHjJdjDAw,Guapa's Mexican Grill,37.4496803,-122.1784631,4.3,1.0,73.0,3.95,restaurant|food|point_of_interest|establishment,"515 El Camino Real suite 110, Menlo Park",Portola Valley
+ChIJIe6BnIOlj4ARXPthTKjwgag,Peninsula meals an wheels,37.4523847,-122.1797053,,,,,restaurant|food|point_of_interest|establishment,"800 El Camino Real Suite #100, Menlo Park",Portola Valley
+ChIJDTJ6wNalj4ARy6J-AIBdFD0,The Villa Menlo Park,37.4510321,-122.1773984,5.0,,2.0,3.53,shopping_mall|jewelry_store|restaurant|food|point_of_interest|store|establishment,"500 El Camino Real, Menlo Park",Portola Valley
+ChIJ03qnoLSkj4ARY8QLKH73qlM,Eylan,37.45114499999999,-122.177326,4.5,,120.0,4.5,restaurant|food|point_of_interest|establishment,"500 El Camino Real, Menlo Park",Portola Valley
+ChIJ6T-LuB-lj4ARpKsYLq_ZApg,Ren Omakase,37.4497487,-122.1764992,5.0,,9.0,3.63,restaurant|food|point_of_interest|establishment,"403 El Camino Real, Menlo Park",Portola Valley
+ChIJ0ylFQdS6j4ARYIlSq40T71o,Subway,37.424222,-122.170939,3.9,1.0,33.0,3.12,meal_takeaway|restaurant|food|point_of_interest|establishment,"Tresidder Memorial Union, 459 Lagunita Drive, Stanford",Portola Valley
+ChIJw4w5aNS6j4AR9LgOtniCDno,The Treehouse,37.4240253,-122.1712546,4.2,1.0,581.0,4.2,restaurant|food|point_of_interest|establishment,"459 Lagunita Drive, Stanford",Portola Valley
+ChIJ0ylFQdS6j4AR0t55yGvsDVo,Panda Express,37.4243048,-122.1708422,3.6,1.0,207.0,3.6,meal_delivery|meal_takeaway|restaurant|food|point_of_interest|establishment,"459 Lagunita Drive, Stanford",Portola Valley
+ChIJyw-jRdS6j4ARgub3WeaYpQI,Starbucks,37.42413000000001,-122.17086,4.0,2.0,353.0,4.2,cafe|restaurant|food|point_of_interest|store|establishment,"459 Lagunita Drive, Stanford",Portola Valley
+ChIJr7ZAS9S6j4ARIWkGk0FU9xg,The Axe & Palm (TAP),37.4250266,-122.1704929,4.0,1.0,231.0,4.0,restaurant|food|point_of_interest|establishment,"520 Lasuen Mall, Stanford",Portola Valley
+ChIJ0ylFQdS6j4ARbijI31sh4tU,Jamba,37.424374,-122.17078,3.7,1.0,75.0,3.42,restaurant|food|point_of_interest|establishment,"459 Lagunita Drive #11, Stanford",Portola Valley
+ChIJ2xOcQQG7j4ARPUxUWdX7Osk,Wetzel's Pretzels,37.4243048,-122.1708422,5.0,1.0,1.0,3.51,bakery|restaurant|food|point_of_interest|store|establishment,"459 Lagunita Drive #108, Stanford",Portola Valley
+ChIJTa15STq7j4ARjzcZsQytWoc,Round Table Pizza,37.4243048,-122.1708422,3.0,,2.0,2.12,meal_delivery|meal_takeaway|restaurant|food|point_of_interest|establishment,"459 Lagunita Drive, Stanford",Portola Valley
+ChIJjTRErbIzjoAR81croG-h0Hs,Zaida's Kitchen,37.4245469,-122.1707009,3.4,,49.0,2.88,restaurant|food|point_of_interest|establishment,"Tresidder Memorial Union, Lagunita Drive, Stanford",Portola Valley
+ChIJ_6L2Ayq7j4ARPBzS52mKM-4,Olives at Building 160,37.42826410000001,-122.1688453,4.0,,20.0,3.04,cafe|store|restaurant|food|point_of_interest|establishment,"450 Serra Mall, Stanford",Portola Valley
+ChIJOfekbSy7j4ARXPcukN__pTk,Cool Cafe,37.4329809,-122.1704943,4.1,1.0,87.0,3.94,cafe|restaurant|food|point_of_interest|establishment,"328 Lomita Drive, Stanford",Portola Valley
+ChIJW6n8VCu7j4ARUfRs20MkcpA,Greenfish Cafe,37.43099290000001,-122.174685,4.1,1.0,239.0,4.1,restaurant|food|point_of_interest|establishment,"318 Campus Drive, Stanford",Portola Valley
+ChIJvU-pzFW7j4ARv5_R7i1DqWY,Tootsie's at the Cantor Arts Center,37.4326871,-122.1713037,4.0,2.0,38.0,3.42,restaurant|food|point_of_interest|establishment,"328 Lomita Drive, Stanford",Portola Valley
+ChIJexdrvjK7j4AR--GDhkDzYds,Tootsie's At The Stanford Barn,37.437217,-122.173251,4.4,2.0,445.0,4.62,cafe|restaurant|food|point_of_interest|establishment,"700 Welch Road, Palo Alto",Portola Valley
+ChIJISfg6jK7j4AR1QjILutJPms,Vina Enoteca,37.4372072,-122.1732643,4.5,3.0,825.0,4.73,bar|restaurant|food|point_of_interest|establishment,"700 Welch Road #110, Palo Alto",Portola Valley
+ChIJFzb5MDO7j4ARWg30HzjPZmI,Bazille,37.43910090000001,-122.1735263,4.3,2.0,156.0,4.51,restaurant|food|point_of_interest|establishment,"550 Stanford Shopping Center, Palo Alto",Portola Valley
+ChIJWd3-EjS7j4ARBpErHQgwXDU,NM Cafe,37.4413282,-122.1726101,4.3,2.0,39.0,3.69,restaurant|cafe|bar|food|point_of_interest|establishment,"400 Stanford Shopping Center, Palo Alto",Portola Valley
+ChIJq7CK9n27j4ARk-wBfkPd78s,Pizzone,37.4372072,-122.1732643,4.3,,11.0,3.15,meal_delivery|meal_takeaway|restaurant|food|point_of_interest|establishment,"700 Welch Road #110, Palo Alto",Portola Valley
+ChIJM3CutDW7j4ARoinoUTTB1Ng,Chipotle Mexican Grill,37.4442663,-122.1708902,3.1,1.0,889.0,3.1,restaurant|food|point_of_interest|establishment,"180 El Camino Real Ste 15A, Palo Alto",Portola Valley
+ChIJ2VtDOzS7j4ARaKOgGvJXoJ4,Fleming’s Prime Steakhouse & Wine Bar,37.44457,-122.1703298,4.4,4.0,1174.0,4.49,bar|restaurant|food|point_of_interest|establishment,"180 El Camino Real G-2, Palo Alto",Portola Valley
+ChIJE8NQfTS7j4ARYBkxaVL4T_4,P.F. Chang's,37.4436715,-122.1682399,3.8,2.0,1136.0,3.99,meal_delivery|meal_takeaway|restaurant|food|point_of_interest|establishment,"900 Stanford Shopping Center Bldg. W Bldg. W, Palo Alto",Portola Valley
+ChIJo5nmsTW7j4ART3mdPx6VTDU,Pressed Juicery,37.44228020000001,-122.1709101,4.3,2.0,231.0,4.51,restaurant|food|point_of_interest|health|store|establishment,"660 Stanford Shopping Center Ste 230, Palo Alto",Portola Valley
+ChIJD9VYOzS7j4ARus4pfa0zkJU,The Melt,37.4430947,-122.1725973,4.4,2.0,1968.0,4.62,restaurant|food|point_of_interest|establishment,"180 El Camino Real, Palo Alto",Portola Valley
+ChIJmdKIrTW7j4AROXkl-g4j78k,Tender Greens,37.4433554,-122.1703904,4.2,2.0,840.0,4.41,restaurant|food|point_of_interest|establishment,"180 El Camino Real Suite 1050, Palo Alto",Portola Valley
+ChIJt9KIrTW7j4ARjb1bTp5MW-E,True Food Kitchen,37.443921,-122.170323,4.2,2.0,2320.0,4.41,meal_takeaway|restaurant|food|point_of_interest|establishment,"180 El Camino Real Ste 1140, Palo Alto",Portola Valley
+ChIJhXcepTW7j4ARkdzoQMZEBoU,McDonald's,37.4426808,-122.1705781,3.7,1.0,701.0,3.7,cafe|restaurant|food|point_of_interest|store|establishment,"208 Stanford Shopping Center, Palo Alto",Portola Valley
+ChIJJzcXtnO7j4ARGsdmlyvEgYI,Pacific Catch,37.4427423,-122.1729721,4.2,2.0,667.0,4.41,restaurant|food|point_of_interest|establishment,"711 Stanford Shopping Center, Palo Alto",Portola Valley
+ChIJw9v7bFC7j4ARqHLv-7H0mZQ,Hummus Mediterranean Kitchen,37.4427416,-122.1728852,4.6,2.0,347.0,4.83,restaurant|food|point_of_interest|establishment,"715 Stanford Shopping Center, Palo Alto",Portola Valley
+ChIJGcqedvy7j4AR3qCgK_C-3qU,Taro San Japanese Noodle Bar,37.4428155,-122.1725344,3.9,2.0,639.0,4.09,restaurant|food|point_of_interest|establishment,"717 Stanford Shopping Center, Palo Alto",Portola Valley
+ChIJ-cKKzxa7j4ARMboigp4Thvk,Sushi Roku Palo Alto,37.4431814,-122.1724721,4.2,,160.0,4.2,restaurant|food|point_of_interest|establishment,"180 El Camino Real Suite 700a, Palo Alto",Portola Valley
+ChIJT4HbOAC7j4ARTCe1vbVPVT8,Delarosa,37.4432828,-122.1721584,,,,,restaurant|food|point_of_interest|establishment,"136 Stanford Shopping Center, Palo Alto",Portola Valley
+ChIJpbeYtaS7j4ARHndrtIWzx2k,Cedar And Sage Bistro,37.4444078,-122.1722516,,,,,bar|restaurant|food|point_of_interest|establishment,"1301 Stanford Shopping Center, Palo Alto",Portola Valley
+ChIJFcnfCkK7j4ARKg5J99QKKpU,Wetzel's Pretzels,37.442544,-122.1710704,3.4,1.0,22.0,2.6,bakery|restaurant|food|point_of_interest|store|establishment,"660 Stanford Shopping Center #228A, Palo Alto",Portola Valley
+ChIJxQENlQ67j4AReETtyacmZA4,RH Rooftop Restaurant at RH Palo Alto,37.4447784,-122.1722412,3.9,,255.0,3.9,restaurant|food|point_of_interest|establishment,"180 El Camino Real Building B, Palo Alto",Portola Valley
+ChIJLwPku6e7j4ARG-kJtwaHoHk,JOE & THE JUICE,37.4428345,-122.1706597,3.2,2.0,146.0,3.36,meal_takeaway|cafe|restaurant|food|point_of_interest|store|establishment,"Urban Area, 669 Stanford Shopping Center, Palo Alto",Portola Valley
+ChIJk0N57Sm7j4ARq4jfPi88hKY,World Wrapps,37.4425494,-122.1705679,4.6,2.0,154.0,4.83,restaurant|food|point_of_interest|establishment,"180 Stanford Shopping Center Unit 240-C, Palo Alto",Portola Valley
+ChIJ90rubDS7j4AR7pLFdYlNGU4,Go Fish Poke Bar- Stanford Shopping Center,37.4427274,-122.1705035,4.3,2.0,509.0,4.51,restaurant|food|point_of_interest|establishment,"660 Stanford Shopping Center #244B, Palo Alto",Portola Valley
+ChIJBRqe0TW7j4ARopovC5rU388,Dumpling Time Stanford,37.4449754,-122.1715713,3.9,,21.0,2.98,restaurant|food|point_of_interest|establishment,"180 El Camino Real #1410, Palo Alto",Portola Valley
+ChIJDdfCXjG7j4ARfPRwX96UcCs,ZoomCaffe,37.44151489999999,-122.1686795,4.1,,12.0,3.02,cafe|restaurant|food|point_of_interest|store|establishment,"211 Quarry Road Stanford Hospital Hoover Pavilion, Palo Alto",Portola Valley
+ChIJ64ktUF67j4ARKikpyeVJKPA,Menlo Tavern,37.4477243,-122.1721992,4.3,,317.0,4.3,restaurant|food|point_of_interest|establishment,"100 El Camino Real, Menlo Park",Portola Valley
+ChIJYa_Hwm27j4ARnruqUA4l5Vc,Shake Shack Stanford Shopping Center,37.4436468,-122.1685085,3.9,2.0,1949.0,4.09,meal_takeaway|restaurant|food|point_of_interest|establishment,"180 El Camino Real Suite #950, Palo Alto",Portola Valley
+ChIJzz6JWNa6j4ARuFl1EXnBCf0,Coupa Cafe - Green Library,37.426204,-122.166995,4.3,2.0,730.0,4.51,cafe|store|restaurant|food|point_of_interest|establishment,"571 Escondido Mall, Stanford",Portola Valley
+ChIJT06iJdi6j4ARK6ihRKzlQFI,Arbuckle Dining Pavilion,37.4284643,-122.1627905,4.2,2.0,73.0,4.05,cafe|restaurant|food|point_of_interest|establishment,"655 Knight Way, Stanford",Portola Valley
+ChIJWcHrNti6j4AR2u-_aV8SPfU,Coupa Cafe - GSB,37.428033,-122.162083,4.3,2.0,220.0,4.51,cafe|bakery|bar|store|restaurant|food|point_of_interest|establishment,"655 Knight Way, Stanford",Portola Valley
+ChIJjw_T0dC6j4ARyY6kKu8Gut8,Stern Dining,37.4245317,-122.1656462,4.3,,43.0,3.56,restaurant|food|point_of_interest|establishment,"618 Escondido Road, Stanford",Portola Valley
+ChIJaWJ7Edq6j4ARAPCZZC6DOj4,Wilbur Dining,37.42401040000001,-122.163151,4.2,,146.0,4.2,restaurant|food|point_of_interest|establishment,"658 Escondido Road, Stanford",Portola Valley
+ChIJKRs5pdu6j4ARcH4kMEnUJ1I,Gerhard Casper Dining Commons,37.42555900000001,-122.1619355,4.4,2.0,37.0,3.75,restaurant|food|point_of_interest|establishment,"661 Escondido Road, Stanford",Portola Valley
+ChIJ2R7EOfC7j4ARvyFeD7a74C8,Coho Cafe at the Alumni Center,37.4307491,-122.1648608,,,,,restaurant|food|point_of_interest|establishment,"326 Galvez Street, Stanford",Portola Valley
+ChIJpfijVxG7j4AReFztDW-fzMs,Branner Dining,37.4258375,-122.1627065,3.0,,3.0,2.13,restaurant|food|point_of_interest|establishment,"Branner Hall Complex, 655 Escondido Road, Stanford",Portola Valley
+ChIJByU8Zze7j4ARtKef7nHMEks,Evvia Estiatorio,37.4451287,-122.1637993,4.6,3.0,2145.0,4.83,restaurant|food|point_of_interest|establishment,"420 Emerson Street, Palo Alto",Portola Valley
+ChIJiXr_Zze7j4ARgRtbgk7Len4,The Patio @ Rudy's,37.4451556,-122.1639389,4.1,2.0,2063.0,4.3,night_club|bar|restaurant|food|point_of_interest|establishment,"412 Emerson Street, Palo Alto",Portola Valley
+ChIJXzozIq2jj4ARpEwPAaO9InY,Arya Steakhouse,37.4439087,-122.1633625,4.4,2.0,1190.0,4.62,restaurant|food|point_of_interest|establishment,"140 University Avenue, Palo Alto",Portola Valley
+ChIJQSEisjC7j4AR3juLmOBOEys,MacArthur Park Restaurant and Bar,37.4430264,-122.1655246,4.1,3.0,554.0,4.3,bar|restaurant|food|point_of_interest|establishment,"27 University Avenue, Palo Alto",Portola Valley
+ChIJIe9vfzC7j4ARKMPewN6Czv4,Café Soleil,37.44065519999999,-122.1627702,4.3,2.0,18.0,3.4,restaurant|food|point_of_interest|establishment,"675 El Camino Real, Palo Alto",Portola Valley
+ChIJY5UIijm7j4ARPkLgY0DXJuI,Coupa Cafe - Ramona,37.4446092,-122.1615284,4.3,2.0,1701.0,4.51,cafe|store|restaurant|food|point_of_interest|establishment,"538 Ramona Street, Palo Alto",Portola Valley
+ChIJmWwu4jm7j4ARtbXJ6I2CZrg,Rangoon Ruby Burmese Cuisine,37.4450763,-122.1631074,4.1,2.0,2479.0,4.3,restaurant|food|point_of_interest|establishment,"445 Emerson Street, Palo Alto",Portola Valley
+ChIJN1Yf8Dm7j4ARg7totskx17E,Pizza My Heart,37.44484169999999,-122.1623194,4.3,1.0,1297.0,4.3,meal_delivery|meal_takeaway|restaurant|food|point_of_interest|establishment,"220 University Avenue, Palo Alto",Portola Valley
+ChIJyaiRIjq7j4ARpFp0WP-WoNA,Palo Alto Creamery,37.44387849999999,-122.161789,4.4,2.0,2323.0,4.62,bakery|store|restaurant|food|point_of_interest|establishment,"566 Emerson Street, Palo Alto",Portola Valley
+ChIJe4kIFje7j4ARqb6yVqdp0tU,Darbar Indian Cuisine,37.4447819,-122.1651027,4.1,2.0,853.0,4.3,restaurant|food|point_of_interest|establishment,"129 Lytton Avenue, Palo Alto",Portola Valley
+ChIJ361H6jm7j4ARk1vmz_dEqwE,Oren's Hummus,37.4456966,-122.1622282,4.4,2.0,2513.0,4.62,restaurant|food|point_of_interest|establishment,"261 University Avenue, Palo Alto",Portola Valley
+ChIJMVRrSDq7j4ARCZG7uDyf4z4,Tacolicious,37.443326,-122.161004,4.1,2.0,1257.0,4.3,restaurant|food|point_of_interest|establishment,"632 Emerson Street, Palo Alto",Portola Valley
+ChIJg5JmqDm7j4ARxxy2NX7uuIQ,Starbucks,37.4443619,-122.1633794,4.1,2.0,678.0,4.3,cafe|store|restaurant|food|point_of_interest|establishment,"151 University Avenue, Palo Alto",Portola Valley
+ChIJaQ6tGDq7j4ARZ8PYbWmeW44,Thaiphoon restaurant,37.4442391,-122.1618761,3.9,2.0,378.0,4.09,bar|restaurant|food|point_of_interest|establishment,"543 Emerson Street, Palo Alto",Portola Valley
+ChIJGaMq8zm7j4ARYe6wItroPNY,The Wine Room,37.44482709999999,-122.1619347,4.2,2.0,570.0,4.41,bar|restaurant|food|point_of_interest|establishment,"520 Ramona Street, Palo Alto",Portola Valley
+ChIJxWOWGDq7j4ARpaRJE2WTdnA,Scotty's Bar,37.4440111,-122.1619583,4.2,,195.0,4.2,bar|night_club|restaurant|food|point_of_interest|establishment,"548 Emerson Street, Palo Alto",Portola Valley
+ChIJaeHk_jm7j4ARZfXh674aljg,Sprout Cafe,37.4442694,-122.1628667,4.3,2.0,499.0,4.51,bakery|cafe|restaurant|food|point_of_interest|store|establishment,"168 University Avenue, Palo Alto",Portola Valley
+ChIJCx18PDe7j4ARWiGmoE-TsMg,Coupa Cafe - Lytton,37.444618,-122.1653906,4.3,2.0,356.0,4.51,cafe|restaurant|food|point_of_interest|store|establishment,"111 Lytton Avenue, Palo Alto",Portola Valley
+ChIJD9D1HDq7j4AR7xk3DsszRys,Bare Bowls,37.4441636,-122.1623919,4.2,2.0,247.0,4.41,restaurant|food|point_of_interest|establishment,"530 Emerson Street, Palo Alto",Portola Valley
+ChIJIxzPPjq7j4ARKDndKncRuwU,Nobu Restaurant Palo Alto,37.44371930000001,-122.1614703,4.2,4.0,793.0,4.28,restaurant|food|point_of_interest|establishment,"180 Hamilton Avenue, Palo Alto",Portola Valley
+ChIJScdLwDm7j4ARCbo6bng01sU,Local Union 271,37.44583859999999,-122.1621916,4.1,2.0,1870.0,4.3,restaurant|food|point_of_interest|establishment,"271 University Avenue, Palo Alto",Portola Valley
+ChIJN1Yf8Dm7j4ARG7rVVIG0vks,Cafe 220,37.4449549,-122.1623749,4.1,2.0,516.0,4.3,restaurant|food|point_of_interest|establishment,"220 University Avenue B, Palo Alto",Portola Valley
+ChIJ-a6t5Tm7j4ARsEz4451NPDk,Steam,37.4450435,-122.1628635,4.1,2.0,668.0,4.3,restaurant|food|point_of_interest|establishment,"209 University Avenue, Palo Alto",Portola Valley
+ChIJiZtnUze7j4ARuAzIjrVxmsM,New York New York Sandwiches,37.4439807,-122.1637183,4.4,2.0,212.0,4.62,meal_takeaway|bakery|cafe|meal_delivery|restaurant|food|point_of_interest|store|establishment,"125 University Avenue, Palo Alto",Portola Valley
+ChIJRS2QAeu7j4ARCkZrCODGN2I,Poolside Grill,37.4412378,-122.1631588,5.0,,1.0,3.51,restaurant|food|point_of_interest|establishment,"625 El Camino Real, Palo Alto",Portola Valley
+ChIJxRoy-X27j4AR_bK2I_FqBVg,San Agus Cocina Urbana & Cocktails,37.4430253,-122.1626141,4.4,2.0,475.0,4.62,bar|restaurant|food|point_of_interest|establishment,"115 Hamilton Avenue, Palo Alto",Portola Valley
+ChIJgSKtATq7j4AR1LVZ7VN8W3I,Sweet Maple,37.443997,-122.162979,4.4,2.0,787.0,4.62,cafe|restaurant|food|point_of_interest|establishment,"150 University Avenue, Palo Alto",Portola Valley
+ChIJz1CaiuS7j4ARJ0FvNTILUoo,Onigilly Japanese Kitchen - Palo Alto,37.4442218,-122.163046,4.2,1.0,375.0,4.2,restaurant|food|point_of_interest|establishment,"164 University Avenue, Palo Alto",Portola Valley
+ChIJT_HstGa7j4ARLGiY5dPGJDg,Phở Hà Nội,37.4447089,-122.1630402,3.9,2.0,392.0,4.09,restaurant|food|point_of_interest|establishment,"185 University Avenue, Palo Alto",Portola Valley
+ChIJdwmtjjm7j4ARuuLA95wq7wQ,Nola,37.4449386,-122.1614268,4.4,2.0,3378.0,4.62,night_club|bar|restaurant|food|point_of_interest|establishment,"535 Ramona Street, Palo Alto",Portola Valley
+ChIJMcUKNDi7j4AREnV3Wx48tZg,Kanpai,37.4470525,-122.1623735,4.3,2.0,545.0,4.51,restaurant|food|point_of_interest|establishment,"330 Lytton Avenue, Palo Alto",Portola Valley
+ChIJgbClrTm7j4ARJhcj3TrrG9g,Crepevine Restaurants,37.4469366,-122.1609496,4.4,2.0,1946.0,4.62,restaurant|food|point_of_interest|establishment,"367 University Avenue, Palo Alto",Portola Valley
+ChIJhbe6ZDi7j4ARhSkIguAM5oU,Sancho's Taqueria,37.4489978,-122.1608828,4.3,1.0,835.0,4.3,restaurant|food|point_of_interest|establishment,"491 Lytton Avenue, Palo Alto",Portola Valley
+ChIJo6mcRDi7j4ARKmAXDyLTnUE,7-Eleven,37.4480147,-122.1611892,3.0,1.0,62.0,2.66,convenience_store|liquor_store|cafe|restaurant|food|point_of_interest|store|establishment,"401 Waverley Street, Palo Alto",Portola Valley
+ChIJS_1fcNu6j4ARgHEk1zImtTU,Ray's Grill,37.4234732,-122.1584172,3.9,1.0,275.0,3.9,restaurant|bar|food|point_of_interest|establishment,"750 Escondido Road, Stanford",Portola Valley
+ChIJy8rJ-wu7j4ARkZQLzgfSPto,EVGR Pub & Beer Garden,37.4267032,-122.1575336,3.9,,64.0,3.48,restaurant|bar|food|point_of_interest|establishment,"716 Serra Street, Stanford",Portola Valley
+ChIJmcAiGDu7j4ARvF2-fF-NMxE,Saint Michael's Alley,37.4414977,-122.1597862,4.4,3.0,501.0,4.62,bar|restaurant|food|point_of_interest|establishment,"140 Homer Avenue, Palo Alto",Portola Valley
+ChIJHz4XFiW7j4ARn0Db50n4L2k,Douce France,37.4389992,-122.1588592,4.4,1.0,637.0,4.4,bakery|cafe|restaurant|food|point_of_interest|store|establishment,"855 El Camino Real #104, Palo Alto",Portola Valley
+ChIJP_XllSS7j4ARhy2W_qw79aQ,Gott's Palo Alto,37.4379402,-122.159827,4.3,2.0,2021.0,4.51,restaurant|food|point_of_interest|establishment,"Town & Country Village, 855 El Camino Real #65, Palo Alto",Portola Valley
+ChIJHz4XFiW7j4AR4OCRJ5FPWnQ,Howie's Artisan Pizza,37.438029,-122.160035,4.4,2.0,452.0,4.62,restaurant|food|point_of_interest|establishment,"855 El Camino Real #60, Palo Alto",Portola Valley
+ChIJHz4XFiW7j4AR5t10topddew,Sushi House,37.4392636,-122.1582398,4.4,2.0,289.0,4.62,restaurant|food|point_of_interest|establishment,"855 El Camino Real Ste 158, Palo Alto",Portola Valley
+ChIJmUWp5SS7j4ARwkXUtEmqFdc,Asian Box,37.4387251,-122.1598525,4.1,1.0,434.0,4.1,restaurant|food|point_of_interest|establishment,"855 El Camino Real, Palo Alto",Portola Valley
+ChIJHz4XFiW7j4AR2-XMc9X0J6I,LuLu's Town & Country Village,37.43827859999999,-122.1602677,3.7,2.0,265.0,3.89,meal_takeaway|restaurant|food|point_of_interest|establishment,"855 El Camino Real #49, Palo Alto",Portola Valley
+ChIJcb2lTTu7j4ARtV09mp6ALGY,Peninsula Creamery - Dairy Store & Grill,37.4407817,-122.1583599,4.4,1.0,245.0,4.4,restaurant|food|point_of_interest|store|establishment,"900 High Street, Palo Alto",Portola Valley
+ChIJHUVxbf67j4ARDeXKRT7FmeA,Poke House - Palo Alto,37.4384958,-122.1606403,4.2,2.0,260.0,4.41,meal_takeaway|restaurant|food|point_of_interest|establishment,"855 El Camino Real #9, Palo Alto",Portola Valley
+ChIJ82AEPzi7j4ARaPsjO4AFqR8,Wildseed,37.4382288,-122.1587727,4.5,3.0,595.0,4.73,restaurant|food|point_of_interest|establishment,"South, 855 El Camino Real Building 4, Palo Alto",Portola Valley
+ChIJU-h6-Q27j4AReNRuzo2WlTM,Telefèric Barcelona Palo Alto,37.4383765,-122.1583028,4.4,3.0,1620.0,4.62,restaurant|food|point_of_interest|establishment,"855 El Camino Real #130, Palo Alto",Portola Valley
+ChIJkTR5DEy7j4ARg9mfRMQbDQc,Horsefeather Palo Alto,37.4390997,-122.158426,5.0,,3.0,3.54,restaurant|bar|food|point_of_interest|establishment,"855 El Camino Real Ste 151, Palo Alto",Portola Valley
+ChIJrTBLD1K7j4ARMNQr2bMszJ0,Roost & Roast,37.43917649999999,-122.1581733,4.1,2.0,89.0,4.16,meal_takeaway|restaurant|food|point_of_interest|establishment,"855 El Camino Real #161, Palo Alto",Portola Valley
+ChIJEdAOxBK7j4ARotE-8nDACPk,Palmetto Superfoods - Town & Country Village,37.4392224,-122.1582038,4.1,1.0,99.0,4.09,restaurant|food|point_of_interest|store|establishment,"855 El Camino Real #160, Palo Alto",Portola Valley
+ChIJe858WAS7j4AR3SYscE3OsZU,Orens Hummus Express,37.4391487,-122.1580737,4.2,2.0,143.0,4.41,restaurant|food|point_of_interest|establishment,"855 El Camino Real #162, Palo Alto",Portola Valley
+ChIJ0fmz9U27j4AR3ZGpcVx_IMM,Viking Stadium Snack Shack,37.4360135,-122.154479,1.0,,2.0,0.71,restaurant|food|point_of_interest|establishment,"1350 Alma Street, Palo Alto",Portola Valley
+ChIJY0yKLzq7j4ARNNLYPbJMgN8,Reposado,37.4441583,-122.1609667,4.3,3.0,2037.0,4.51,bar|restaurant|food|point_of_interest|establishment,"236 Hamilton Avenue, Palo Alto",Portola Valley
+ChIJEQbMSzq7j4ARCIzIQRU45og,Buca di Beppo Italian Restaurant,37.4435214,-122.1605738,4.1,2.0,1502.0,4.3,restaurant|food|point_of_interest|establishment,"643 Emerson Street, Palo Alto",Portola Valley
+ChIJpf2l3zi7j4ARq9jTYIKdfb0,Il Fornaio,37.4479051,-122.1588629,4.2,2.0,1068.0,4.41,restaurant|food|point_of_interest|establishment,"520 Cowper Street, Palo Alto",Portola Valley
+ChIJQ7QsMzq7j4ARidQmfZss-Wc,Coconuts Caribbean Restaurant & Bar,37.443916,-122.160191,4.3,2.0,1322.0,4.51,bar|restaurant|food|point_of_interest|establishment,"642 Ramona Street, Palo Alto",Portola Valley
+ChIJaSemeTm7j4AR_Zs5k4tu6fU,Curry Up Now,37.44546,-122.16021,4.1,1.0,1252.0,4.1,restaurant|food|point_of_interest|establishment,"321 Hamilton Avenue, Palo Alto",Portola Valley
+ChIJUYJ9Ejm7j4AR10nzVhZIoYo,Tai Pan,37.4464722,-122.1596583,4.2,2.0,663.0,4.41,restaurant|food|point_of_interest|establishment,"560 Waverley Street, Palo Alto",Portola Valley
+ChIJPwEoJjq7j4AR4Ymjl9MBLUw,Osteria Toscana,37.444444,-122.1611671,4.2,3.0,815.0,4.41,restaurant|food|point_of_interest|establishment,"247 Hamilton Avenue, Palo Alto",Portola Valley
+ChIJYUh8Jzq7j4ARXcdvPyLUR68,Bistro Maxine,37.4445889,-122.1612389,4.0,2.0,240.0,4.2,cafe|restaurant|food|point_of_interest|establishment,"548 Ramona Street, Palo Alto",Portola Valley
+ChIJ2S5OXzi7j4ARGnV-XOyU-4g,Vino Locale,37.448325,-122.1604148,4.6,2.0,461.0,4.83,restaurant|bar|food|point_of_interest|establishment,"431 Kipling Street, Palo Alto",Portola Valley
+ChIJ0y2QeTm7j4ARoys6DSP_0k4,New York Pizza Palo Alto,37.4455148,-122.1601419,4.5,1.0,581.0,4.5,meal_delivery|meal_takeaway|restaurant|food|point_of_interest|establishment,"325 Hamilton Avenue, Palo Alto",Portola Valley
+ChIJl0gDDDu7j4AROSlXdFpN3oM,Market Cocina,37.4424053,-122.1596147,4.3,3.0,6.0,3.24,restaurant|food|point_of_interest|establishment,"774 Emerson Street, Palo Alto",Portola Valley
+ChIJKWjVKTq7j4ARuUYobtoUXfQ,sweetgreen,37.4447329,-122.1610914,4.1,2.0,596.0,4.3,meal_takeaway|restaurant|food|point_of_interest|establishment,"581 Ramona Street, Palo Alto",Portola Valley
+ChIJOzI3gjm7j4ARtGwnfAcuKaU,Zola + BarZola,37.4453069,-122.1604218,4.4,3.0,696.0,4.62,bar|restaurant|food|point_of_interest|establishment,"585 Bryant Street, Palo Alto",Portola Valley
+ChIJQ1s1_Ti7j4ARwdpxYOuYKAY,Sushirrito,37.4475872,-122.1596389,4.3,2.0,796.0,4.51,restaurant|food|point_of_interest|establishment,"448 University Avenue, Palo Alto",Portola Valley
+ChIJwWcdxzi7j4ARSPpV37nhr58,Tamarine Restaurant & Gallery,37.4488748,-122.1584172,4.4,3.0,1580.0,4.62,bar|restaurant|food|point_of_interest|establishment,"546 University Avenue, Palo Alto",Portola Valley
+ChIJq2vyQB67j4ARBkHWA8vFNqU,Macarena Restaurant in Palo Alto,37.4457937,-122.1633847,4.4,,99.0,4.39,restaurant|food|point_of_interest|establishment,"420 Ramona Street, Palo Alto",Portola Valley
+ChIJfxhEv1q7j4ARrv2FGJySiZU,Ike's Love & Sandwiches,37.4480946,-122.1617549,3.9,2.0,231.0,4.09,meal_takeaway|meal_delivery|restaurant|food|point_of_interest|establishment,"401 Lytton Avenue, Palo Alto",Portola Valley
+ChIJt-5IyBa7j4ARD5iJZz4Ay0Y,The Redwood by Chef Julien,37.4462476,-122.1624397,4.8,2.0,67.0,4.54,restaurant|food|point_of_interest|establishment,"450 Bryant Street, Palo Alto",Portola Valley
+ChIJn2r_1U67j4ARwWXr-xINLtQ,Poke One Palo Alto,37.4481402,-122.1616429,4.7,2.0,59.0,4.33,meal_takeaway|restaurant|food|point_of_interest|establishment,"407 Lytton Avenue, Palo Alto",Portola Valley
+ChIJBxeyFAC7j4ARQqr2OhsHIfA,Iki Omakase,37.4455552,-122.1628746,4.5,,43.0,3.73,restaurant|food|point_of_interest|establishment,"460 Ramona Street, Palo Alto",Portola Valley
+ChIJg2K45--7j4ARb3QmTT7tfM4,Tasty Pot,37.44515219999999,-122.1630299,4.7,2.0,10.0,3.6,restaurant|food|point_of_interest|establishment,"443 Emerson Street, Palo Alto",Portola Valley
+ChIJBRGTFwC7j4ARhrNVTAzTx7E,SRP Med Cafe,37.4088096,-122.1512011,5.0,,2.0,3.53,restaurant|food|point_of_interest|establishment,"3145 Porter Drive, Palo Alto",Portola Valley
+ChIJ4eWKByG7j4ARNXFXgDT_g0g,Little Sky Kitchen at Arc Institute,37.4082805,-122.1486617,3.7,,3.0,2.62,restaurant|food|point_of_interest|establishment,"3181 Porter Drive, Palo Alto",Portola Valley
+ChIJl4_VYA-7j4ARsw5dATsflas,Coupa Cafe - Stanford Research Park,37.4090575,-122.1475472,4.4,2.0,167.0,4.62,cafe|restaurant|food|point_of_interest|store|establishment,"3215 Porter Drive, Palo Alto",Portola Valley
+ChIJaWnuL-e6j4ARR6YIY348nZk,Sundance The Steakhouse,37.428562,-122.149672,4.6,3.0,2161.0,4.83,night_club|bar|restaurant|food|point_of_interest|establishment,"1921 El Camino Real, Palo Alto",Portola Valley
+ChIJsUowmuW6j4ARncdA5qucqUk,Starbucks,37.42738,-122.149216,3.7,2.0,548.0,3.89,cafe|restaurant|food|point_of_interest|store|establishment,"2000 El Camino Real, Palo Alto",Portola Valley
+ChIJYZChWOa6j4ARo-N9ldn_yos,Odori Japanese Cuisine,37.427065,-122.1480506,4.0,2.0,493.0,4.2,restaurant|food|point_of_interest|establishment,"2111 El Camino Real, Palo Alto",Portola Valley
+ChIJyz0J0ie7j4ARPwj8U8LqlvE,The Good Salad (To go only),37.4275656,-122.1485367,4.8,,82.0,4.54,restaurant|food|point_of_interest|establishment,"2051 El Camino Real Suite 101, Palo Alto",Portola Valley
+ChIJn0ch7_m7j4ARwlrfsDNIirA,Real Produce International Market,37.4265928,-122.1484627,4.6,,583.0,4.6,grocery_or_supermarket|restaurant|food|point_of_interest|store|establishment,"501 Oxford Avenue, Palo Alto",Portola Valley
+ChIJlSPd8w67j4ARZy6_cUeyGng,Real Mediterranean Kitchen,37.4265576,-122.1484342,4.5,1.0,39.0,3.68,restaurant|food|point_of_interest|establishment,"501 Oxford Avenue, Palo Alto",Portola Valley
+ChIJVVUFazu7j4ARLXVs7f4wu-M,TAVERNA,37.44220419999999,-122.1590523,4.4,3.0,925.0,4.62,restaurant|food|point_of_interest|establishment,"800 Emerson Street, Palo Alto",Portola Valley
+ChIJCS_HTDq7j4ARskXdL5usfsU,Pizzeria Delfina - Palo Alto,37.4434222,-122.1604222,4.4,2.0,1431.0,4.62,bar|restaurant|food|point_of_interest|establishment,"651 Emerson Street, Palo Alto",Portola Valley
+ChIJtyHMMzm7j4ARFiLz63fh3G0,Thyme,37.447375,-122.1579333,4.4,,102.0,4.4,restaurant|food|point_of_interest|establishment,"496 Hamilton Avenue, Palo Alto",Portola Valley
+ChIJY_cc3Ti7j4AR_46J7zYVlWM,JOE & THE JUICE,37.4483752,-122.1589036,3.8,2.0,366.0,3.99,meal_takeaway|cafe|restaurant|food|point_of_interest|store|establishment,"508 University Avenue, Palo Alto",Portola Valley
+ChIJG7rdAmS7j4ARayztR1t8nNg,Lou & Herbert's,37.4480031,-122.1592753,3.8,,19.0,2.88,restaurant|bar|cafe|food|point_of_interest|establishment,"488 University Avenue, Palo Alto",Portola Valley
+ChIJHxV3P3a7j4AR4tmrxPF8-4o,President's Terrace,37.44798850000001,-122.1592782,3.9,,78.0,3.64,restaurant|bar|food|point_of_interest|establishment,"488 University Avenue, Palo Alto",Portola Valley
+ChIJK4ZoOQC7j4AR1z5wRPOnj20,Proper Food,37.4487704,-122.1590899,5.0,,2.0,3.53,restaurant|food|point_of_interest|establishment,"Proper Food, 525 University Avenue, Palo Alto",Portola Valley
+ChIJweDvIRm7j4AR8IWnMD_jNrI,O2 Valley,37.4476055,-122.1595835,4.4,2.0,117.0,4.62,restaurant|food|point_of_interest|establishment,"452 University Avenue, Palo Alto",Portola Valley
+ChIJBf6MJQC7j4AR7DgiApFohFc,Mochiko Mochi Pizza,37.4476237,-122.1597074,1.0,2.0,1.0,0.74,restaurant|food|point_of_interest|establishment,"448 University Avenue, Palo Alto",Portola Valley
+ChIJs-mASty7j4ARGnTRbfH7NBc,Simmer & Steamer,37.4475699,-122.1597595,5.0,,5.0,3.57,restaurant|food|point_of_interest|establishment,"444 University Avenue, Palo Alto",Portola Valley
+ChIJD_pTEsy7j4ARmC6OuQ2GZ0k,Rooh,37.4481323,-122.1598143,4.0,2.0,1355.0,4.2,restaurant|food|point_of_interest|establishment,"473 University Avenue, Palo Alto",Portola Valley
+ChIJN1Zo_zi7j4ARIT2NbTuxNZQ,Taste,37.44753470000001,-122.1603022,4.6,2.0,945.0,4.83,restaurant|food|point_of_interest|establishment,"423 University Avenue, Palo Alto",Portola Valley
+ChIJpTk-VTi7j4ARpZhH_XR68_I,YAYOI Palo Alto,37.44738269999999,-122.1604918,4.2,2.0,1143.0,4.41,restaurant|food|point_of_interest|establishment,"403 University Avenue, Palo Alto",Portola Valley
+ChIJpWqjjHC7j4ARettvwSaXU6E,PHO BANH MI,37.44737599999999,-122.160529,,,,,restaurant|food|point_of_interest|establishment,"405 University Avenue, Palo Alto",Portola Valley
+ChIJBwAX_mmwj4ARBOdl9KE7TB8,Fremont Hills Country Club - Los Altos Hills,37.3767114,-122.1453173,4.8,,40.0,3.94,restaurant|food|point_of_interest|establishment,"12889 Viscaino Place, Los Altos Hills",Portola Valley
+ChIJ9Wpma526j4ARCRn-LSQJBzg,Café Bun Appétit,37.3986507,-122.1417351,4.3,,113.0,4.3,restaurant|food|point_of_interest|establishment,"3425 Hillview Avenue, Palo Alto",Portola Valley
+ChIJRbsp9uW6j4ARyUJHxK7xFX8,La Bodeguita del Medio,37.4254329,-122.1452003,4.5,2.0,1426.0,4.73,restaurant|night_club|bar|food|point_of_interest|establishment,"463 California Avenue, Palo Alto",Portola Valley
+ChIJc14uqu-6j4ARDCuTmjmOtX0,Chipotle Mexican Grill,37.4238742,-122.14306,3.8,1.0,1066.0,3.8,restaurant|food|point_of_interest|establishment,"2675 El Camino Real, Palo Alto",Portola Valley
+ChIJtXQ38-W6j4AR44dFBS3v120,Terun Pizza,37.42592049999999,-122.1454743,4.4,2.0,2654.0,4.62,restaurant|food|point_of_interest|establishment,"448 California Avenue, Palo Alto",Portola Valley
+ChIJK3g59OW6j4AR5Q5CCNShy3o,Joanie's Cafe,37.42638889999999,-122.1445583,4.4,2.0,1599.0,4.62,restaurant|food|point_of_interest|establishment,"405 California Avenue, Palo Alto",Portola Valley
+ChIJ06EYWO-6j4AR5x1zss9iick,Izzy's Brooklyn Bagels,37.42540839999999,-122.1453292,4.5,1.0,1020.0,4.5,bakery|restaurant|food|point_of_interest|store|establishment,"477 California Avenue, Palo Alto",Portola Valley
+ChIJ3dmr7OW6j4ARdga458ttjlg,Palo Alto Sol,37.42661689999999,-122.1449195,4.4,2.0,594.0,4.62,restaurant|food|point_of_interest|establishment,"408 California Avenue, Palo Alto",Portola Valley
+ChIJA3GyEOa6j4ARo9WrFc23Cpk,Jack in the Box,37.4255135,-122.1471651,3.6,1.0,1081.0,3.6,meal_delivery|restaurant|food|point_of_interest|establishment,"2280 El Camino Real, Palo Alto",Portola Valley
+ChIJEWzP8uW6j4ARkmIR7vba8es,Mediterranean Wraps,37.42604559999999,-122.1448464,4.5,1.0,1284.0,4.5,meal_takeaway|restaurant|food|point_of_interest|store|establishment,"433 California Avenue, Palo Alto",Portola Valley
+ChIJU1wcA-a6j4ARcS9DK7_SdtA,Panda Express,37.42524399999999,-122.14686,3.8,1.0,903.0,3.8,meal_takeaway|meal_delivery|restaurant|food|point_of_interest|establishment,"2310 El Camino Real, Palo Alto",Portola Valley
+ChIJIdvn8OW6j4ARLuSJEAHBDoY,Jin Sho,37.425862,-122.145453,4.3,2.0,547.0,4.51,restaurant|food|point_of_interest|establishment,"454 California Avenue, Palo Alto",Portola Valley
+ChIJ-RTutuW6j4AR4VYL3DZDAvg,Anatolian Kitchen,37.4270754,-122.1444095,4.3,2.0,885.0,4.51,restaurant|food|point_of_interest|establishment,"340 California Avenue, Palo Alto",Portola Valley
+ChIJJS3eBO-6j4AR55CwERBNE34,Fambrini’s Cafe,37.4242609,-122.1449674,4.5,2.0,811.0,4.73,cafe|restaurant|food|point_of_interest|establishment,"2500 El Camino Real Suite 105, Palo Alto",Portola Valley
+ChIJqQzX9eW6j4ARRQTr9028s7k,Kali Greek Kitchen,37.4257174,-122.1451083,4.6,2.0,802.0,4.83,restaurant|food|point_of_interest|establishment,"451 California Avenue, Palo Alto",Portola Valley
+ChIJaSdudea6j4ARkAvOE50vIao,Pop Tea Bar,37.4265169,-122.1462117,4.5,1.0,280.0,4.5,restaurant|food|point_of_interest|establishment,"456 Cambridge Avenue, Palo Alto",Portola Valley
+ChIJEWzP8uW6j4ARv-d5dhqlvk8,Lotus Thai Bistro,37.4260752,-122.1447444,4.0,2.0,250.0,4.2,restaurant|food|point_of_interest|establishment,"425 California Avenue, Palo Alto",Portola Valley
+ChIJ1QZb_YW7j4ARtxp0qRa2n-o,MJ Sushi Palo Alto,37.4257573,-122.1464411,4.4,2.0,320.0,4.62,restaurant|food|point_of_interest|establishment,"2305 El Camino Real suite a, Palo Alto",Portola Valley
+ChIJM2tOCHi7j4ARgWkOHX1nPp4,Starbird Chicken,37.4246793,-122.1443119,4.1,2.0,74.0,3.97,restaurant|food|point_of_interest|establishment,"2515 El Camino Real #102, Palo Alto",Portola Valley
+ChIJE4gDeLG7j4AR_kI1Gek5x9E,Namaste Indian Cuisine,37.4257636,-122.1449994,4.7,2.0,287.0,4.94,restaurant|food|point_of_interest|establishment,"447 California Avenue, Palo Alto",Portola Valley
+ChIJq6Jj6y-7j4ARmkaTCtvuosg,Ramen Kowa,37.4257831,-122.1449662,4.4,2.0,275.0,4.62,restaurant|food|point_of_interest|establishment,"445 California Avenue, Palo Alto",Portola Valley
+ChIJMzIVsOW6j4ARuVSOvM3YcfY,Bistro Elan,37.4277401,-122.1443033,4.4,2.0,147.0,4.62,restaurant|food|point_of_interest|establishment,"2363 Birch Street, Palo Alto",Portola Valley
+ChIJ6UCkPHm7j4ARH_GIurdWWEY,Ume Tea,37.4261194,-122.1447222,4.1,1.0,253.0,4.1,meal_takeaway|restaurant|food|point_of_interest|establishment,"421 California Avenue, Palo Alto",Portola Valley
+ChIJ01vXyRe7j4AR-OHHd-tVxXg,Sekoya Lounge & Kitchen,37.426165,-122.1446335,4.5,,119.0,4.5,restaurant|food|point_of_interest|establishment,"417 California Avenue, Palo Alto",Portola Valley
+ChIJp_VW7eW6j4ARpcOR4xWV7bo,La Boheme,37.42621939999999,-122.1446667,4.4,2.0,582.0,4.62,restaurant|food|point_of_interest|establishment,"415 California Avenue, Palo Alto",Portola Valley
+ChIJ8RX-6uW6j4ARyxo26LXPQ0k,SUN of WOLF,37.42663900000001,-122.1449551,4.6,,396.0,4.6,restaurant|food|point_of_interest|establishment,"406 California Avenue, Palo Alto",Portola Valley
+ChIJU6Ckice7j4ARZKSms3jZOHA,CRUST Sourdough Deli (Palo Alto Square),37.4209453,-122.1414729,4.8,2.0,46.0,4.22,restaurant|food|point_of_interest|establishment,"3000 El Camino Real Building 5 Suite 100, Palo Alto",Portola Valley
+ChIJYaUeoRe7j4AR5PA4iBUMxeI,Local Kitchens,37.4267488,-122.1442862,4.6,1.0,436.0,4.6,restaurant|food|point_of_interest|establishment,"369 California Avenue, Palo Alto",Portola Valley
+ChIJ_UjdV--7j4ARt2YRSWk7iZU,Square Pie Guys at Local Kitchens,37.42669689999999,-122.1441737,4.4,,9.0,3.2,restaurant|food|point_of_interest|establishment,"369 California Avenue, Palo Alto",Portola Valley
+ChIJJXdCT9u7j4ARFNGDBw5ET_4,Fiorella,37.4266938,-122.1441566,4.0,,1.0,2.81,restaurant|food|point_of_interest|establishment,"369 California Avenue, Palo Alto",Portola Valley
+ChIJcx9Pl-W6j4ARcUXBVpDCqUE,Zareen's Palo Alto,37.42674570000001,-122.1440822,4.5,2.0,4838.0,4.73,restaurant|food|point_of_interest|establishment,"365 California Avenue, Palo Alto",Portola Valley
+ChIJC3GmmeW6j4ARj7GQjerUWUY,iTalico,37.426968,-122.144055,4.4,2.0,915.0,4.62,restaurant|food|point_of_interest|establishment,"341 California Avenue, Palo Alto",Portola Valley
+ChIJq6oGtOW6j4AROUSVKcfXF0k,Naschmarkt - Palo Alto,37.4279112,-122.1444671,4.6,2.0,232.0,4.83,restaurant|food|point_of_interest|establishment,"2323 Birch Street, Palo Alto",Portola Valley
+ChIJ8QesCuW6j4ARfJfR8qxpWzE,Cafe Pro Bono,37.427287,-122.1433908,4.5,2.0,599.0,4.73,bar|restaurant|food|point_of_interest|establishment,"2437 Birch Street, Palo Alto",Portola Valley
+ChIJm8EK_e-6j4ARgml6h3Srj60,Caffe Riace,37.4267836,-122.1405856,4.2,3.0,220.0,4.41,restaurant|food|point_of_interest|establishment,"200 Sheridan Avenue, Palo Alto",Portola Valley
+ChIJp1VHW-S6j4ARaYLteG5hAXg,Domino's Pizza,37.4291461,-122.1441481,3.4,1.0,264.0,3.4,meal_delivery|meal_takeaway|restaurant|food|point_of_interest|establishment,"240-B Cambridge Avenue, Palo Alto",Portola Valley
+ChIJKzvVBuW6j4ARPBA7zDespqo,Vitality Bowls,37.42811999999999,-122.14306,4.0,2.0,207.0,4.2,restaurant|food|point_of_interest|establishment,"209 California Avenue, Palo Alto",Portola Valley
+ChIJ7ZNa4dG7j4ARszvuKU9_usY,Daigo,37.4278581,-122.144228,4.6,,385.0,4.6,restaurant|food|point_of_interest|establishment,"2363 Birch Street #B, Palo Alto",Portola Valley
+ChIJ14CVruW6j4ARoh-i6iIAe5g,Protégé,37.427836,-122.1438243,4.7,4.0,680.0,4.79,restaurant|food|point_of_interest|establishment,"250 California Avenue, Palo Alto",Portola Valley
+ChIJeYSESRq7j4AREj5yWWRdjrc,Rara,37.428218,-122.14307,4.8,2.0,1012.0,5.04,restaurant|food|point_of_interest|establishment,"201 California Avenue, Palo Alto",Portola Valley
+ChIJZ4REzSG7j4AR5HHoa-ldXlo,ZENSHI Handcrafted Sushi,37.4290013,-122.1431585,,,,,restaurant|meal_takeaway|food|point_of_interest|establishment,"164 California Avenue, Palo Alto",Portola Valley
+ChIJ-zxk19G7j4ARJqNjr1SADak,The Farm,37.42802289999999,-122.1427704,4.9,,37.0,3.97,restaurant|cafe|food|point_of_interest|store|establishment,"2450 Park Boulevard, Palo Alto",Portola Valley
+ChIJq0UsRXS7j4ARiC9b0hTPMjg,Imperial treasure,37.428383,-122.1422935,4.1,3.0,200.0,4.3,restaurant|food|point_of_interest|establishment,"151 California Avenue unit e, Palo Alto",Portola Valley
+ChIJ6QBUzju7j4ARLrzLJUbvDpY,City Hall Cafe,37.4442768,-122.1600343,5.0,,11.0,3.67,restaurant|food|point_of_interest|establishment,"250 Hamilton Avenue, Palo Alto",Portola Valley
+ChIJGX3CsdC7j4AR2VS39Dpbr4o,Creators' Kitchen as Seen on TikTok,37.4435341,-122.160524,,2.0,,,restaurant|food|point_of_interest|establishment,"643 Emerson Street, Palo Alto",Portola Valley
+ChIJgfDze5W7j4ARwXfuLNFJ6jM,Meyhouse,37.44329169999999,-122.1610223,4.6,,347.0,4.6,restaurant|food|point_of_interest|establishment,"640 Emerson Street, Palo Alto",Portola Valley
+ChIJT6nni-27j4AR5-Je6DYJCMo,JOE & THE JUICE,37.4443322,-122.1608485,3.7,2.0,139.0,3.89,meal_takeaway|cafe|restaurant|food|point_of_interest|store|establishment,"240 Hamilton Avenue, Palo Alto",Portola Valley
+ChIJR1988Qm7j4ARi_KmggVETuc,Ramen Nagi,37.4454813,-122.1607245,4.6,2.0,3108.0,4.83,restaurant|food|point_of_interest|establishment,"541 Bryant Street, Palo Alto",Portola Valley
+ChIJRTRAoc67j4ARM-MLNMDboBo,Ethel's Fancy,37.44648120000001,-122.1599474,4.6,,210.0,4.6,restaurant|food|point_of_interest|establishment,"550 Waverley Street, Palo Alto",Portola Valley
+ChIJgVkH4BO7j4AR9Qj0HVCbuy8,Tong Sui Desserts & Drinks (Palo Alto),37.4452471,-122.1609897,4.7,2.0,373.0,4.94,restaurant|food|point_of_interest|establishment,"540 Bryant Street, Palo Alto",Portola Valley
+ChIJdas5PTq7j4ARyZEoz7vVmg0,Peninsula Fountain Grill,37.44387849999999,-122.161789,4.4,,95.0,4.33,restaurant|food|point_of_interest|establishment,"566 Emerson Street, Palo Alto",Portola Valley
+ChIJwVXiPQ-7j4ARm5uHGNqN66U,Dumpling Hours-Palo Alto,37.4454109,-122.161097,4.3,2.0,141.0,4.51,meal_takeaway|restaurant|food|point_of_interest|establishment,"530 Bryant Street, Palo Alto",Portola Valley
+ChIJH_zZcy-7j4ARwPbn3XT47A4,Mendocino Farms,37.4436978,-122.162097,4.4,2.0,452.0,4.62,restaurant|food|point_of_interest|establishment,"167 Hamilton Avenue, Palo Alto",Portola Valley
+ChIJ3SjgEpG7j4ARB_b5DUT3MCk,Wood Oven Pizza,37.4448206,-122.1616235,4.7,1.0,69.0,4.26,restaurant|food|point_of_interest|establishment,"532 Ramona Street, Palo Alto",Portola Valley
+ChIJB6tydHK7j4ARMYHQSAGD5ig,HE&C Tea + Pot,37.4439995,-122.1620763,4.6,,457.0,4.6,meal_takeaway|meal_delivery|restaurant|food|point_of_interest|establishment,"544 Emerson Street, Palo Alto",Portola Valley
+ChIJ4a0RmI67j4ARqr2S5nEYX2U,Ettan,37.4453864,-122.16136,4.2,3.0,1753.0,4.41,restaurant|food|point_of_interest|establishment,"518 Bryant Street, Palo Alto",Portola Valley
+ChIJfw8wcGW7j4ARdfxjDFor9QI,Pane e Pomodoro | VA Palo Alto Farmers Market,37.4033487,-122.1372176,,,,,meal_takeaway|restaurant|food|point_of_interest|establishment,"3801 Miranda Avenue, Palo Alto",Portola Valley
+ChIJB3hVsb67j4ARXMaL06rl50c,Show de Carnes Brazilian Steakhouse,37.4194321,-122.1356069,4.7,,210.0,4.7,restaurant|food|point_of_interest|establishment,"3398 El Camino Real, Palo Alto",Portola Valley
+ChIJC89ba1Vk3IAR76YZVUjy_gw,INDO Restaurant & Lounge,37.4209587,-122.1369645,4.3,2.0,1265.0,4.51,restaurant|food|point_of_interest|establishment,"3295 El Camino Real, Palo Alto",Portola Valley
+ChIJEwdRVPO6j4ARcukXyQ4qM6o,Driftwood Deli & Market,37.4191227,-122.1349592,4.7,1.0,621.0,4.7,liquor_store|restaurant|food|point_of_interest|store|establishment,"3450 El Camino Real, Palo Alto",Portola Valley
+ChIJu8mMv027j4ARcPELP4u13Y0,Earthbar,37.4220024,-122.1381236,3.7,2.0,14.0,2.88,restaurant|food|health|point_of_interest|store|establishment,"Inside Equinox, 440 Portage Avenue, Palo Alto",Portola Valley
+ChIJox1byXa7j4ARdytz1AMqozE,Red Hot Wok,37.4202584,-122.1360183,4.4,2.0,93.0,4.52,restaurant|food|point_of_interest|establishment,"3345 El Camino Real, Palo Alto",Portola Valley
+ChIJ0daGNgC7j4ARXKFaLT2Gm5Q,Yutori,37.4201157,-122.1358167,5.0,,1.0,3.51,restaurant|food|point_of_interest|establishment,"3375 El Camino Real, Palo Alto",Portola Valley
+ChIJ7c_w_4q6j4ARF8QWNPNwbck,Celia’s Mexican Restaurant,37.4175915,-122.1319681,4.3,2.0,683.0,4.51,restaurant|food|point_of_interest|establishment,"3740 El Camino Real, Palo Alto",Portola Valley
+ChIJY4beF2O6j4ARW2fH2_0wp0g,Starbucks,37.4174169,-122.1305839,4.0,2.0,662.0,4.2,cafe|restaurant|food|point_of_interest|store|establishment,"3885 El Camino Real, Palo Alto",Portola Valley
+ChIJtUAJ_4q6j4ARjgupREDbjSo,Da Sichuan Bistro,37.4179259,-122.1316127,4.0,2.0,522.0,4.2,restaurant|food|point_of_interest|establishment,"3781 El Camino Real, Palo Alto",Portola Valley
+ChIJ7f7sE4u6j4ARzIuv160J9jU,Taqueria El Grullense M&G,37.4182304,-122.1331851,4.2,1.0,1491.0,4.2,restaurant|food|point_of_interest|establishment,"3636 El Camino Real, Palo Alto",Portola Valley
+ChIJ25XrHIq6j4AR28aIM4-yeS8,Papa Johns Pizza,37.4164884,-122.1302837,3.4,1.0,156.0,3.4,restaurant|food|point_of_interest|establishment,"3898 El Camino Real, Palo Alto",Portola Valley
+ChIJtRLy85ywj4AR38KYK7uJ0Yc,Hong Kong Restaurant,37.4184801,-122.1328666,4.2,1.0,705.0,4.2,restaurant|food|point_of_interest|establishment,"3691 El Camino Real, Palo Alto",Portola Valley
+ChIJn8N8FIq6j4ARMqjX0jpCEcY,SH HAWAIIAN BBQ&DONUT,37.41660309999999,-122.1305237,4.0,1.0,727.0,4.0,restaurant|food|point_of_interest|establishment,"3890 El Camino Real, Palo Alto",Portola Valley
+ChIJTQpnCGK6j4ARiyKvFa6-BPc,Baja Fresh,37.41550230000001,-122.128974,3.9,1.0,242.0,3.9,restaurant|food|point_of_interest|establishment,"3990 El Camino Real, Palo Alto",Portola Valley
+ChIJg5-D9Aq7j4ARGDDPZcQFjmg,State of Mind Slice House,37.41718769999999,-122.1313804,4.7,1.0,536.0,4.7,restaurant|food|point_of_interest|establishment,"3850 El Camino Real, Palo Alto",Portola Valley
+ChIJCS4OBAC7j4AR3jawAgUTF3I,Pizza Guys,37.4170614,-122.1312835,5.0,,6.0,3.59,meal_delivery|restaurant|food|point_of_interest|establishment,"3864 El Camino Real, Palo Alto",Portola Valley
+ChIJ47ACIRu7j4ARlsvSvurnNwM,Happy Donuts,37.4164425,-122.1300051,4.5,1.0,474.0,4.5,bakery|restaurant|food|point_of_interest|store|establishment,"3916 El Camino Real, Palo Alto",Portola Valley
+ChIJF-8UBYq6j4AR5FBD89Ka32Y,Siam Fine Thai Cuisine,37.41637,-122.1297911,4.3,2.0,550.0,4.51,restaurant|food|point_of_interest|establishment,"3924 El Camino Real, Palo Alto",Portola Valley
+ChIJmVLGgvi6j4ARTTuCWlOncSk,Indochine,37.4331778,-122.1294232,4.0,2.0,238.0,4.2,restaurant|food|point_of_interest|establishment,"2710 Middlefield Road, Palo Alto",Portola Valley
+ChIJc5w7vvy6j4ARAFnKDu5CVRI,Kirk's SteakBurgers - Palo Alto,37.4334804,-122.130116,4.3,2.0,492.0,4.51,restaurant|food|point_of_interest|establishment,"2680 Middlefield Road, Palo Alto",Portola Valley
+ChIJ7zUGKFa6j4AReJjkOzGQVHg,Subway,37.433521,-122.12907,3.8,1.0,78.0,3.55,meal_takeaway|restaurant|food|point_of_interest|establishment,"2717 Middlefield Road, Palo Alto",Portola Valley
+ChIJc1ATKFa6j4ARZQoyTzpy0-8,Sancho's Taqueria,37.4335341,-122.1289761,4.3,1.0,586.0,4.3,restaurant|food|point_of_interest|establishment,"2723 Middlefield Road, Palo Alto",Portola Valley
+ChIJhZ-kNFa6j4ARi9308VXnJxY,Round Table Pizza,37.4330188,-122.1281257,3.9,2.0,165.0,4.09,meal_delivery|liquor_store|bar|meal_takeaway|restaurant|food|point_of_interest|store|establishment,"702 Colorado Avenue, Palo Alto",Portola Valley
+ChIJd0Absfi6j4ARJUQZcc5Tzu0,Como Esta Taqueria,37.43439519999999,-122.1301177,4.2,1.0,278.0,4.2,restaurant|food|point_of_interest|establishment,"2605 Middlefield Road, Palo Alto",Portola Valley
+ChIJg519tVe6j4AREbL7IrNnckE,7-Eleven,37.4331183,-122.1277868,2.6,1.0,46.0,2.18,convenience_store|liquor_store|cafe|restaurant|food|point_of_interest|store|establishment,"708 Colorado Avenue, Palo Alto",Portola Valley
+ChIJjUI37hG7j4AReqOVRxr-c88,ZENSHI Handcrafted Sushi,37.43286609999999,-122.1273209,,,,,restaurant|meal_takeaway|food|point_of_interest|establishment,"2811 Middlefield Road, Palo Alto",Portola Valley
+ChIJeXjolIOwj4ARneS2f8EgaZY,Sweet Shop,37.3999667,-122.1219665,4.7,1.0,240.0,4.7,bakery|cafe|restaurant|food|point_of_interest|store|establishment,"994 Los Altos Avenue, Los Altos",Portola Valley
+ChIJxUf2lnm6j4ARf-dI1c4L9sA,Dinah's Garden Hotel,37.4074751,-122.1203119,4.5,,1093.0,4.5,lodging|restaurant|food|point_of_interest|establishment,"4261 El Camino Real, Palo Alto",Portola Valley
+ChIJ5Q2_GWO6j4AREsesK8JkKW4,Fuki Sushi,37.4138889,-122.1258333,4.4,3.0,1510.0,4.62,bar|restaurant|food|point_of_interest|establishment,"4119 El Camino Real, Palo Alto",Portola Valley
+ChIJzUCJ5Hu6j4ARglde9co9EK8,Hobee's,37.40896499999999,-122.1224411,4.3,2.0,1099.0,4.51,restaurant|food|point_of_interest|establishment,"4224 El Camino Real, Palo Alto",Portola Valley
+ChIJtWFrFmO6j4ARbA4cFdc8mG0,So Gong Dong Tofu House,37.41378,-122.125402,4.3,2.0,1857.0,4.51,restaurant|food|point_of_interest|establishment,"4127 El Camino Real, Palo Alto",Portola Valley
+ChIJOT4Wp3m6j4ARL_3gCaC-HJ0,The Sea by Alexander's Steakhouse,37.4075646,-122.1205417,4.5,4.0,1324.0,4.59,bar|restaurant|food|point_of_interest|establishment,"4269 West El Camino Real, Palo Alto",Portola Valley
+ChIJ98MKeWS7j4ARgjm0lVRTtYU,Kitchen At Palo Alto,37.4093002,-122.1231067,4.0,1.0,9.0,2.91,restaurant|food|point_of_interest|establishment,"Hilton Garden Inn, 4216 El Camino Real, Palo Alto",Portola Valley
+ChIJa-2PsFy7j4ARQ6dO3DA-T7I,Asian Pacific Fusion,37.4089566,-122.1224357,,,,,restaurant|food|point_of_interest|establishment,"4224 El Camino Real, Palo Alto",Portola Valley
+ChIJe5AqVr3Lj4AROFFL6ZwfRH0,The Ma'lawah Bar,37.4133003,-122.1251502,4.9,,148.0,4.9,restaurant|food|point_of_interest|establishment,"4131 El Camino Real #100, Palo Alto",Portola Valley
+ChIJG9dLUXi6j4AR8GcRkUajeJE,Cabana Cove Restaurant & Bar,37.40584440000001,-122.121575,4.2,,56.0,3.65,bar|restaurant|food|point_of_interest|establishment,"4290 El Camino Real, Palo Alto",Portola Valley
+ChIJ0dOudwC7j4AREfbInswM9lA,Kanji Sushi & Ramen,37.4138803,-122.124792,4.6,2.0,214.0,4.83,restaurant|food|point_of_interest|establishment,"4131 El Camino Way, Palo Alto",Portola Valley
+ChIJxUf2lnm6j4AROxY8N4vkocM,Dinah's Poolside Restaurant,37.4078109,-122.1199878,4.5,2.0,770.0,4.73,bar|restaurant|food|point_of_interest|establishment,"4261 El Camino Real, Palo Alto",Portola Valley
+ChIJcymZ93y7j4ARGg6qXQT9Adc,Holy Sushi,37.4191895,-122.1249134,4.6,2.0,105.0,4.83,restaurant|food|point_of_interest|establishment,"3441 Alma Street Suite 100, Palo Alto",Portola Valley
+ChIJu748zlu6j4ARTBuoCVIDCcQ,Bill’s Cafe,37.429641,-122.1229644,4.4,2.0,815.0,4.62,cafe|restaurant|food|point_of_interest|establishment,"3163 Middlefield Road, Palo Alto",Portola Valley
