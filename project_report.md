@@ -4,26 +4,42 @@
 
 This report tackles a question that has plagued philosophers, economists, and anyone who's ever been hungry in a new neighborhood: does more money mean better food? Specifically, we set out to explore the relationship between the affluence of various Bay Area cities and the state of their restaurant scenes. Our guiding principle was to see if a clear line could be drawn between the price of a mortgage and the quality of a meal. What we found was a story more complex and far more interesting than we'd anticipated.
 
-## Our Not-So-Secret Sauce: The Methodology
+## Our Not-So-Secret Sauce: A Deep Dive into the Methodology
 
-To get to the bottom of this, we cooked up a methodology that blends data from a few key sources:
+To get to the bottom of this, we developed a multi-stage analysis pipeline that combines data from several authoritative sources. Here's a step-by-step look at how we did it:
 
-*   **Restaurant Reconnaissance**: We sent the Google Places API on a mission to gather intel on every restaurant it could find. This gave us the goods on everything from star ratings and price levels to how many people had bothered to leave a review.
-*   **The Price of a Postcode**: We grabbed property value data from Zillow's Home Value Index (ZHVI). This gave us a solid, if slightly terrifying, look at what it costs to live in these places, which we used as our primary measure of wealth.
-*   **The Human Element**: We also pulled in demographic data from the U.S. Census Bureau to get a sense of the population and income levels in each city.
+### Stage 1: Data Collection - The Foundation of Our Analysis
 
-## A Look Under the Hood: The Technical Nitty-Gritty
+We started by gathering data from three key sources:
 
-This wasn't just a matter of downloading a few spreadsheets. To get the clean, comprehensive data we needed, we had to build a robust system with a few clever tricks up its sleeve:
+*   **U.S. Census Bureau**: We used the Census API to pull the latest American Community Survey (ACS) 5-Year data for a comprehensive list of Bay Area ZIP codes. We focused on the following key variables:
+    *   `B25077_001E`: Median Home Value
+    *   `B25001_001E`: Total Housing Units
+    *   `B19013_001E`: Median Household Income
+    *   `B01003_001E`: Total Population
+*   **Zillow**: We supplemented the Census data with Zillow's Home Value Index (ZHVI) data. This provided us with a more up-to-date and market-driven measure of property values. Our system is designed to intelligently parse the Zillow data to find the most recent month's figures.
+*   **Google Places API**: This was the cornerstone of our restaurant data collection. We used the API to gather detailed information on restaurants, including their location, star rating, price level, and the total number of user ratings.
 
-*   **Grid-Based Search**: To ensure we didn't miss any hidden gems, we implemented a grid-based search algorithm. Instead of just searching for "restaurants in Palo Alto," we blanketed each city with a grid of overlapping search circles. This guaranteed comprehensive coverage, from the bustling downtown cores to the sleepiest suburban strip malls.
+### Stage 2: Data Processing and Enrichment - Where the Magic Happens
+
+Once we had the raw data, we had to process and enrich it to make it useful for analysis:
+
+*   **Grid-Based Search**: To ensure we didn't miss any hidden gems, we implemented a grid-based search algorithm. For each city, we first determined its geographical center. Then, we blanketed the area with a grid of overlapping search circles, making thousands of calls to the Google Places API to ensure comprehensive coverage.
 *   **The Quality Quotient**: A simple star rating can be misleading. So, we developed our own composite "quality score." This algorithm takes the base rating and adjusts it based on the number of reviews (a 5-star rating from 1,000 people is more credible than one from the owner's mom) and the price level, giving us a more nuanced measure of a restaurant's true quality. The formula, in essence, is:
 
     `Quality Score = (Base Rating * Credibility Factor) * Price Adjustment`
 
     Where the "Credibility Factor" increases with the number of reviews, and the "Price Adjustment" gives a slight boost to mid-range restaurants.
-*   **API Wrangling**: When you're making thousands of requests to an API, you have to play nice. Our system has built-in rate limit handling, with intelligent delays and retry logic to avoid getting blacklisted. It's also designed to be resumable; if the process is interrupted, it can pick up right where it left off, saving us from having to re-analyze cities we've already covered.
-*   **Data Enrichment and Deduplication**: We enriched the raw data with our custom quality score and then carefully deduplicated the restaurant data based on their unique Google Places ID to ensure that each establishment was only counted once, even if it was picked up in multiple grid searches.
+*   **Data Deduplication**: To ensure accuracy, we carefully deduplicated the restaurant data based on their unique Google Places ID. This ensured that each establishment was only counted once, even if it was picked up in multiple grid searches.
+*   **Merging Datasets**: We then merged the cleaned and enriched restaurant data with the Census and Zillow data, using ZIP codes as the common key. This gave us a single, comprehensive dataset that allowed us to perform our analysis.
+
+### Stage 3: Analysis and Visualization - Telling the Story
+
+With our master dataset in hand, we performed a series of analyses and created visualizations to explore the relationships between the different variables:
+
+*   **Ranking and Comparison**: We ranked the cities based on a variety of metrics, including property value, restaurant count, quality score, and restaurant density.
+*   **Correlation Analysis**: We calculated the correlation between property values and restaurant counts to statistically measure the strength of their relationship.
+*   **Visualization**: We generated a series of charts and maps to visually represent our findings, including bar charts for rankings, a scatter plot to show the relationship between wealth and restaurant density, and interactive maps for each city.
 
 ## Visualizing the Data: A Picture is Worth a Thousand Numbers
 
